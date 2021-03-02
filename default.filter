@@ -1,0 +1,1742 @@
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+// TheIrateSeagoer's Loot Filter
+//
+// Has Arreat Summit Value Ranges on items.
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////// Quest ////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////// LOD //////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////// Act 1 ///////////////////////////////////
+ItemDisplay[bks]:%NAME%//
+ItemDisplay[bkd]:%NAME%//
+ItemDisplay[hdm]:%NAME%//
+///////////////////////////////////// Act 2 ///////////////////////////////////
+ItemDisplay[tr1]:%NAME%//
+ItemDisplay[ass]:%NAME%//
+ItemDisplay[box]:%NAME%//
+ItemDisplay[msf]:%NAME%//
+ItemDisplay[vip]:%NAME%//
+ItemDisplay[hst]:%NAME%//
+///////////////////////////////////// Act 3 ///////////////////////////////////
+ItemDisplay[j34]:%NAME%//
+ItemDisplay[g34]:%NAME%//
+ItemDisplay[xyz]:%NAME%//
+ItemDisplay[g33]:%NAME%//
+ItemDisplay[bbb]:%NAME%//
+ItemDisplay[qbr]:%NAME%//
+ItemDisplay[qey]:%NAME%//
+ItemDisplay[qhr]:%NAME%//
+ItemDisplay[qf1]:%NAME%//
+ItemDisplay[qf2]:%NAME%//
+///////////////////////////////////// Act 4 ///////////////////////////////////
+ItemDisplay[mss]:%NAME%//
+ItemDisplay[hfh]:%NAME%//
+///////////////////////////////////// Act 5 ///////////////////////////////////
+ItemDisplay[ice]:%NAME%//
+ItemDisplay[tr2]:%NAME%//
+///////////////////////////////////// Cows ////////////////////////////////////
+ItemDisplay[leg]:%GOLD%%NAME%//
+///////////////////////////////////// Pandemonium /////////////////////////////
+ItemDisplay[pk1]:%NAME%//
+ItemDisplay[pk2]:%NAME%//
+ItemDisplay[pk3]:%NAME%//
+ItemDisplay[dhn]:%NAME%//
+ItemDisplay[bey]:%NAME%//
+ItemDisplay[mbr]:%NAME%//
+ItemDisplay[std]:%NAME%//
+///////////////////////////////////// Respec 1.13 /////////////////////////////
+ItemDisplay[tes]:%NAME%//
+ItemDisplay[ceh]:%NAME%//
+ItemDisplay[bet]:%NAME%//
+ItemDisplay[fed]:%NAME%//
+ItemDisplay[toa]:%NAME%//
+
+
+////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////// PD2 //////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////// Corruptions //////////////////////////////
+ItemDisplay[lbox]:%NAME%//
+ItemDisplay[wss]:%NAME%//
+///////////////////////////////////// Maps /////////////////////////////////////
+ItemDisplay[imra]:%NAME%//
+ItemDisplay[imma]:%NAME%//
+ItemDisplay[upma]:%NAME%//
+ItemDisplay[rera]:%NAME%//
+ItemDisplay[scou]:%NAME%//
+ItemDisplay[t16]:%NAME%//
+ItemDisplay[t17]:%NAME%//
+ItemDisplay[t18]:%NAME%//
+///////////////////////////////////// Diablo Clone /////////////////////////////
+ItemDisplay[dcho]:%NAME%//
+ItemDisplay[dcso]:%NAME%//
+ItemDisplay[dcbl]:%NAME%//
+ItemDisplay[dcma]:%NAME%//
+
+
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////// Common ///////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////// LOD //////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////// Gold /////////////////////////////////////
+ItemDisplay[GOLD<4000 CLVL>79]://
+ItemDisplay[GOLD<2000 CLVL>39]://
+ItemDisplay[GOLD<1000 CLVL>19]://
+ItemDisplay[GOLD<500 CLVL>9]://
+ItemDisplay[GOLD<100]://
+ItemDisplay[GOLD]:%NAME%//
+///////////////////////////////////// Ammo /////////////////////////////////////
+ItemDisplay[aqv CLVL>4]://
+ItemDisplay[cqv CLVL>4]://
+ItemDisplay[aqv]:%NAME%//
+ItemDisplay[cqv]:%NAME%//
+///////////////////////////////////// Junk /////////////////////////////////////
+ItemDisplay[INF]://
+ItemDisplay[ear]://
+///////////////////////////////////// Potions //////////////////////////////////
+ItemDisplay[hp1 CLVL>29]://
+ItemDisplay[hp2 CLVL>29]://
+ItemDisplay[mp1 CLVL>29]://
+ItemDisplay[mp2 CLVL>29]://
+ItemDisplay[vps CLVL>19]://
+ItemDisplay[opl CLVL>19]://
+ItemDisplay[opm CLVL>19]://
+ItemDisplay[ops CLVL>19]://
+ItemDisplay[gpl CLVL>19]://
+ItemDisplay[gpm CLVL>19]://
+ItemDisplay[gps CLVL>19]://
+ItemDisplay[aqv CLVL>19]://
+ItemDisplay[cqv CLVL>19]://
+ItemDisplay[hp1]:%RED%@%WHITE%Minor//
+ItemDisplay[hp2]:%RED%@%WHITE%Light//
+ItemDisplay[hp3]:%RED%@%WHITE%Healing//
+ItemDisplay[hp4]:%RED%@%WHITE%Greater//
+ItemDisplay[hp5]:%RED%@%WHITE%Super//
+ItemDisplay[mp1]:%BLUE%@%WHITE%Minor//
+ItemDisplay[mp2]:%BLUE%@%WHITE%Light//
+ItemDisplay[mp3]:%BLUE%@%WHITE%Mana//
+ItemDisplay[mp4]:%BLUE%@%WHITE%Greater//
+ItemDisplay[mp5]:%BLUE%@%WHITE%Super//
+ItemDisplay[rvs]:%PURPLE%@%WHITE%Rejuv//
+ItemDisplay[rvl]:%PURPLE%@%WHITE%Full//
+ItemDisplay[vps]:Stamina//
+ItemDisplay[yps]:Antidote//
+ItemDisplay[wms]:Thawing//
+ItemDisplay[opl]:Fulminating//
+ItemDisplay[opm]:Exploding//
+ItemDisplay[ops]:Oil//
+ItemDisplay[gpl]:Strangling//
+ItemDisplay[gpm]:Choking//
+ItemDisplay[gps]:Rancid//
+ItemDisplay[aqv]:Arrows//
+ItemDisplay[cqv]:Bolts//
+///////////////////////////////////// Scrolls+Tome+Key /////////////////////////
+ItemDisplay[tbk]:%NAME%//
+ItemDisplay[ibk]:%NAME%//
+ItemDisplay[tsc]:Town//
+ItemDisplay[isc]:Ident//
+ItemDisplay[key]:Key//
+///////////////////////////////////// Chipped Gems /////////////////////////////
+ItemDisplay[gcv DIFF>0]://
+ItemDisplay[gcy DIFF>0]://
+ItemDisplay[gcb DIFF>0]://
+ItemDisplay[gcg DIFF>0]://
+ItemDisplay[gcr DIFF>0]://
+ItemDisplay[gcw DIFF>0]://
+ItemDisplay[skc DIFF>0]://
+ItemDisplay[gcv]:%DARK_GREEN%Chipped Amethyst%WHITE%//
+ItemDisplay[gcy]:%DARK_GREEN%Chipped Topaz%WHITE%//
+ItemDisplay[gcb]:%DARK_GREEN%Chipped Sapphire%WHITE%//
+ItemDisplay[gcg]:%DARK_GREEN%Chipped Emerald%WHITE%//
+ItemDisplay[gcr]:%DARK_GREEN%Chipped Ruby%WHITE%//
+ItemDisplay[gcw]:%DARK_GREEN%Chipped Diamond%WHITE%//
+ItemDisplay[skc]:%DARK_GREEN%Chipped Skull%WHITE%//
+///////////////////////////////////// Flawed Gems //////////////////////////////
+ItemDisplay[gfv DIFF>0]://
+ItemDisplay[gfy DIFF>0]://
+ItemDisplay[gfb DIFF>0]://
+ItemDisplay[gfg DIFF>0]://
+ItemDisplay[gfr DIFF>0]://
+ItemDisplay[gfw DIFF>0]://
+ItemDisplay[skf DIFF>0]://
+ItemDisplay[gfv]:%DARK_GREEN%Flawed Amethyst%WHITE%//
+ItemDisplay[gfy]:%DARK_GREEN%Flawed Topaz%WHITE%//
+ItemDisplay[gfb]:%DARK_GREEN%Flawed Sapphire%WHITE%//
+ItemDisplay[gfg]:%DARK_GREEN%Flawed Emerald%WHITE%//
+ItemDisplay[gfr]:%DARK_GREEN%Flawed Ruby%WHITE%//
+ItemDisplay[gfw]:%DARK_GREEN%Flawed Diamond%WHITE%//
+ItemDisplay[skf]:%DARK_GREEN%Flawed Skull%WHITE%//
+///////////////////////////////////// Gems /////////////////////////////////////
+ItemDisplay[gsv]:%DARK_GREEN%Amethyst%WHITE%//
+ItemDisplay[gsy]:%DARK_GREEN%Topaz%WHITE%//
+ItemDisplay[gsb]:%DARK_GREEN%Sapphire%WHITE%//
+ItemDisplay[gsg]:%DARK_GREEN%Emerald%WHITE%//
+ItemDisplay[gsr]:%DARK_GREEN%Ruby%WHITE%//
+ItemDisplay[gsw]:%DARK_GREEN%Diamond%WHITE%//
+ItemDisplay[sku]:%DARK_GREEN%Skull%WHITE%//
+///////////////////////////////////// Flawless Gems ////////////////////////////
+ItemDisplay[gzv]:%ORANGE%Flawless Amethyst%PX-0A%//
+ItemDisplay[gly]:%ORANGE%Flawless Topaz%PX-0A%//
+ItemDisplay[glb]:%ORANGE%Flawless Sapphire%PX-0A%//
+ItemDisplay[glg]:%ORANGE%Flawless Emerald%PX-0A%//
+ItemDisplay[glr]:%ORANGE%Flawless Ruby%PX-0A%//
+ItemDisplay[glw]:%ORANGE%Flawless Diamond%PX-0A%//
+ItemDisplay[skl]:%ORANGE%Flawless Skull%PX-0A%//
+///////////////////////////////////// Perfect Gems /////////////////////////////
+ItemDisplay[gpv]:%ORANGE%Perfect Amethyst%PX-0A%//
+ItemDisplay[gpy]:%ORANGE%Perfect Topaz%PX-0A%//
+ItemDisplay[gpb]:%ORANGE%Perfect Sapphire%PX-0A%//
+ItemDisplay[gpg]:%ORANGE%Perfect Emerald%PX-0A%//
+ItemDisplay[gpr]:%ORANGE%Perfect Ruby%PX-0A%//
+ItemDisplay[gpw]:%ORANGE%Perfect Diamond%PX-0A%//
+ItemDisplay[skz]:%ORANGE%Perfect Skull%PX-0A%//
+///////////////////////////////////// Normal Runes /////////////////////////////
+ItemDisplay[r01]:%ORANGE%El Rune{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r02]:%ORANGE%Eld Rune{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r03]:%ORANGE%Tir Rune{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r04]:%ORANGE%Nef Rune{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r05]:%ORANGE%Eth Rune{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r06]:%ORANGE%Ith Rune{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r07]:%ORANGE%Tal Rune{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r08]:%ORANGE%Ral Rune{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r09]:%ORANGE%Ort Rune{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r10]:%ORANGE%Thul Rune{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r11]:%ORANGE%Amn Rune{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r12]:%ORANGE%Sol Rune{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r13]:%ORANGE%Shael Rune{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r14]:%ORANGE%Dol Rune{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+///////////////////////////////////// Nightmare Runes //////////////////////////
+ItemDisplay[r15]:%RED%Hel Rune{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r16]:%RED%Io Rune{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r17]:%RED%Lum Rune{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r18]:%RED%Ko Rune{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r19]:%RED%%Fal Rune{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r20]:%RED%Lem Rune{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r21]:%RED%Pul Rune{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r22]:%RED%Um Rune{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r23]:%RED%Mal Rune{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r24]:%RED%Ist Rune{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+///////////////////////////////////// Hell Runes ///////////////////////////////
+ItemDisplay[r25]:%PURPLE%Gul Rune{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r26]:%PURPLE%Vex Rune{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r27]:%PURPLE%Ohm Rune{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r28]:%PURPLE%Lo Rune{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r29]:%PURPLE%Sur Rune{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r30]:%PURPLE%Ber Rune{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r31]:%PURPLE%Jah Rune{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r32]:%PURPLE%Cham Rune{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r33]:%PURPLE%Zod Rune{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+
+
+////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////// PD2 //////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////// Flawless Gems ////////////////////////////
+ItemDisplay[gzvs]:%ORANGE%Flawless Amethyst Stack%PX-0A%//
+ItemDisplay[glys]:%ORANGE%Flawless Topaz Stack%PX-0A%//
+ItemDisplay[glbs]:%ORANGE%Flawless Sapphire Stack%PX-0A%//
+ItemDisplay[glgs]:%ORANGE%Flawless Emerald Stack%PX-0A%//
+ItemDisplay[glrs]:%ORANGE%Flawless Ruby Stack%PX-0A%//
+ItemDisplay[glws]:%ORANGE%Flawless Diamond Stack%PX-0A%//
+ItemDisplay[skls]:%ORANGE%Flawless Skull Stack%PX-0A%//
+///////////////////////////////////// Perfect Gems /////////////////////////////
+ItemDisplay[gpvs]:%ORANGE%Perfect Amethyst Stack%PX-0A%//
+ItemDisplay[gpys]:%ORANGE%Perfect Topaz Stack%PX-0A%//
+ItemDisplay[gpbs]:%ORANGE%Perfect Sapphire Stack%PX-0A%//
+ItemDisplay[gpgs]:%ORANGE%Perfect Emerald Stack%PX-0A%//
+ItemDisplay[gprs]:%ORANGE%Perfect Ruby Stack%PX-0A%//
+ItemDisplay[gpws]:%ORANGE%Perfect Diamond Stack%PX-0A%//
+ItemDisplay[skzs]:%ORANGE%Perfect Skull Stack%PX-0A%//
+///////////////////////////////////// Normal Runes /////////////////////////////
+ItemDisplay[r01s]:%ORANGE%El Rune Stack{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r02s]:%ORANGE%Eld Rune Stack{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r03s]:%ORANGE%Tir Rune Stack{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r04s]:%ORANGE%Nef Rune Stack{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r05s]:%ORANGE%Eth Rune Stack{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r06s]:%ORANGE%Ith Rune Stack{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r07s]:%ORANGE%Tal Rune Stack{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r08s]:%ORANGE%Ral Rune Stack{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r09s]:%ORANGE%Ort Rune Stack{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r10s]:%ORANGE%Thul Rune Stack{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r11s]:%ORANGE%Amn Rune Stack{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r12s]:%ORANGE%Sol Rune Stack{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r13s]:%ORANGE%Shael Rune Stack{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+ItemDisplay[r14s]:%ORANGE%Dol Rune Stack{%TAN%Rune Number: %RUNENUM%}%DOT-0A%//
+///////////////////////////////////// Nightmare Runes //////////////////////////
+ItemDisplay[r15s]:%RED%Hel Rune Stack{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r16s]:%RED%Io Rune Stack{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r17s]:%RED%Lum Rune Stack{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r18s]:%RED%Ko Rune Stack{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r19s]:%RED%%Fal Rune Stack{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r20s]:%RED%Lem Rune Stack{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r21s]:%RED%Pul Rune Stack{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r22s]:%RED%Um Rune Stack{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r23s]:%RED%Mal Rune Stack{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+ItemDisplay[r24s]:%RED%Ist Rune Stack{%TAN%Rune Number: %RUNENUM%}%MAP-0A%//
+///////////////////////////////////// Hell Runes ///////////////////////////////
+ItemDisplay[r25s]:%PURPLE%Gul Rune Stack{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r26s]:%PURPLE%Vex Rune Stack{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r27s]:%PURPLE%Ohm Rune Stack{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r28s]:%PURPLE%Lo Rune Stack{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r29s]:%PURPLE%Sur Rune Stack{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r30s]:%PURPLE%Ber Rune Stack{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r31s]:%PURPLE%Jah Rune Stack{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r32s]:%PURPLE%Cham Rune Stack{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+ItemDisplay[r33s]:%PURPLE%Zod Rune Stack{%TAN%Rune Number: %RUNENUM%}%BORDER-0A%//
+
+
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////// Equipmment ///////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////// Prefix ////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////// Ethereal+Socket //////////////////
+ItemDisplay[ETH SOCK>0 NMAG !RW]:%GRAY%[Eth,%SOCKETS%os] %NAME%%CONTINUE%//
+ItemDisplay[ETH SOCK>0 MAG]:%GRAY%[Eth,%SOCKETS%os] %BLUE%%NAME%%CONTINUE%//
+ItemDisplay[ETH SOCK>0 RARE]:%GRAY%[Eth,%SOCKETS%os] %YELLOW%%NAME%%CONTINUE%//
+ItemDisplay[ETH SOCK>0 UNI]:%GRAY%[Eth,%SOCKETS%os] %GOLD%%NAME%%CONTINUE%//
+ItemDisplay[ETH SOCK>0 SET]:%GRAY%[Eth,%SOCKETS%os] %GREEN%%NAME%%CONTINUE%//
+ItemDisplay[ETH SOCK>0 CRAFT]:%GRAY%[Eth,%SOCKETS%os] %ORANGE%%NAME%%CONTINUE%//
+////////////////// Ethereal //////////////////
+ItemDisplay[ETH SOCK=0 NMAG]:%GRAY%[Eth] %NAME%%CONTINUE%//
+ItemDisplay[ETH SOCK=0 MAG]:%GRAY%[Eth] %BLUE%%NAME%%CONTINUE%//
+ItemDisplay[ETH SOCK=0 RARE]:%GRAY%[Eth] %YELLOW%%NAME%%CONTINUE%//
+ItemDisplay[ETH SOCK=0 UNI]:%GRAY%[Eth] %GOLD%%NAME%%CONTINUE%//
+ItemDisplay[ETH SOCK=0 SET]:%GRAY%[Eth] %GREEN%%NAME%%CONTINUE%//
+ItemDisplay[ETH SOCK=0 CRAFT]:%GRAY%[Eth] %ORANGE%%NAME%%CONTINUE%//
+////////////////// Socket //////////////////
+ItemDisplay[!ETH SOCK>0 NMAG !RW]:%GRAY%[%SOCKETS%os] %NAME%%CONTINUE%//
+ItemDisplay[!ETH SOCK>0 MAG]:%GRAY%[%SOCKETS%os] %BLUE%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SOCK>0 RARE]:%GRAY%[%SOCKETS%os] %YELLOW%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SOCK>0 UNI]:%GRAY%[%SOCKETS%os] %GOLD%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SOCK>0 SET]:%GRAY%[%SOCKETS%os] %GREEN%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SOCK>0 CRAFT]:%GRAY%[%SOCKETS%os] %ORANGE%%NAME%%CONTINUE%//
+////////////////// Superior Enhanced Defense/Damage //////////////////
+ItemDisplay[SUP ED<5 ]:%NAME% %GRAY%[0%GRAY%/%CONTINUE%//
+ItemDisplay[SUP ED=5 ]:%NAME% %GRAY%[5%GRAY%/%CONTINUE%//
+ItemDisplay[SUP ED=6 ]:%NAME% %GRAY%[6%GRAY%/%CONTINUE%//
+ItemDisplay[SUP ED=7 ]:%NAME% %GRAY%[7%GRAY%/%CONTINUE%//
+ItemDisplay[SUP ED=8 ]:%NAME% %GRAY%[8%GRAY%/%CONTINUE%//
+ItemDisplay[SUP ED=9 ]:%NAME% %GRAY%[9%GRAY%/%CONTINUE%//
+ItemDisplay[SUP ED=10]:%NAME% %GRAY%[%ORANGE%10%GRAY%%GRAY%/%CONTINUE%//
+ItemDisplay[SUP ED=11]:%NAME% %GRAY%[%ORANGE%11%GRAY%%GRAY%/%CONTINUE%//
+ItemDisplay[SUP ED=12]:%NAME% %GRAY%[%ORANGE%12%GRAY%%GRAY%/%CONTINUE%//
+ItemDisplay[SUP ED=13]:%NAME% %GRAY%[%RED%13%GRAY%/%CONTINUE%//
+ItemDisplay[SUP ED=14]:%NAME% %GRAY%[%RED%14%GRAY%/%CONTINUE%//
+ItemDisplay[SUP ED=15]:%NAME% %GRAY%[%PURPLE%15%GRAY%/%CONTINUE%//
+////////////////// Superior Enhanced Durability //////////////////
+ItemDisplay[SUP MAXDUR<5 ]:%NAME%%GRAY%0%CONTINUE%//
+ItemDisplay[SUP MAXDUR=5 ]:%NAME%%GRAY%5%CONTINUE%//
+ItemDisplay[SUP MAXDUR=6 ]:%NAME%%GRAY%6%CONTINUE%//
+ItemDisplay[SUP MAXDUR=7 ]:%NAME%%GRAY%7%CONTINUE%//
+ItemDisplay[SUP MAXDUR=8 ]:%NAME%%GRAY%8%CONTINUE%//
+ItemDisplay[SUP MAXDUR=9 ]:%NAME%%GRAY%9%CONTINUE%//
+ItemDisplay[SUP MAXDUR=10]:%NAME%%ORANGE%10%CONTINUE%//
+ItemDisplay[SUP MAXDUR=11]:%NAME%%ORANGE%11%CONTINUE%//
+ItemDisplay[SUP MAXDUR=12]:%NAME%%ORANGE%12%CONTINUE%//
+ItemDisplay[SUP MAXDUR=13]:%NAME%%RED%13%CONTINUE%//
+ItemDisplay[SUP MAXDUR=14]:%NAME%%RED%14%CONTINUE%//
+ItemDisplay[SUP MAXDUR=15]:%NAME%%PURPLE%15%CONTINUE%//
+////////////////// Superior Attack Rating //////////////////
+ItemDisplay[SUP WEAPON AR=0]:%NAME%%GRAY%/%GRAY%0%GRAY%]%CONTINUE%//
+ItemDisplay[SUP WEAPON AR=1]:%NAME%%GRAY%/%RED%1%GRAY%]%CONTINUE%//
+ItemDisplay[SUP WEAPON AR=2]:%NAME%%GRAY%/%RED%2%GRAY%]%CONTINUE%//
+ItemDisplay[SUP WEAPON AR=3]:%NAME%%GRAY%/%PURPLE%3%GRAY%]%CONTINUE%//
+ItemDisplay[SUP ARMOR]:%NAME%%GRAY%]%CONTINUE%//
+
+
+////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////// Suffix ////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+////////////////// Helms //////////////////
+ItemDisplay[cap ED=0 DEF=5  ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[skp ED=0 DEF=11 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[hlm ED=0 DEF=18 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[fhl ED=0 DEF=26 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ghm ED=0 DEF=35 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[msk ED=0 DEF=27 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[crn ED=0 DEF=45 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[bhm ED=0 DEF=36 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xap ED=0 DEF=53 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xkp ED=0 DEF=62 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xlm ED=0 DEF=72 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xhl ED=0 DEF=84 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xhm ED=0 DEF=98 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xsk ED=0 DEF=86 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xrn ED=0 DEF=113]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xh9 ED=0 DEF=125]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uap ED=0 DEF=141]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ukp ED=0 DEF=145]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ulm ED=0 DEF=149]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uhl ED=0 DEF=154]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uhm ED=0 DEF=159]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[usk ED=0 DEF=154]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[urn ED=0 DEF=165]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uh9 ED=0 DEF=157]:%NAME% %PURPLE%max%CONTINUE%//
+////////////////// Armors //////////////////
+ItemDisplay[qui ED=0 DEF=11 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[lea ED=0 DEF=17 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[hla ED=0 DEF=24 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[stu ED=0 DEF=25 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[rng ED=0 DEF=48 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[scl ED=0 DEF=60 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[brs ED=0 DEF=68 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[chn ED=0 DEF=75 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[spl ED=0 DEF=95 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ltp ED=0 DEF=107]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[fld ED=0 DEF=105]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[plt ED=0 DEF=116]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[gth ED=0 DEF=135]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ful ED=0 DEF=161]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[aar ED=0 DEF=233]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xui ED=0 DEF=117]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xea ED=0 DEF=126]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xla ED=0 DEF=136]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xtu ED=0 DEF=153]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xng ED=0 DEF=172]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xcl ED=0 DEF=190]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xrs ED=0 DEF=202]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xhn ED=0 DEF=213]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xpl ED=0 DEF=243]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xtp ED=0 DEF=261]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xld ED=0 DEF=258]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xlt ED=0 DEF=274]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xth ED=0 DEF=303]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xul ED=0 DEF=342]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xar ED=0 DEF=450]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xuc ED=0 DEF=49 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xml ED=0 DEF=55 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xrg ED=0 DEF=61 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xpk ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xit ED=0 DEF=67 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xsh ED=0 DEF=150]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xow ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xts ED=0 DEF=93 ]:%NAME% %PURPLE%max%CONTINUE%//
+////////////////// Shields //////////////////
+ItemDisplay[buc ED=0 DEF=6  ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[sml ED=0 DEF=10 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[lrg ED=0 DEF=14 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[kit ED=0 DEF=18 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[spk ED=0 DEF=25 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[tow ED=0 DEF=25 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[bsh ED=0 DEF=30 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[gts ED=0 DEF=35 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xuc ED=0 DEF=49 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xml ED=0 DEF=55 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xrg ED=0 DEF=61 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xpk ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xit ED=0 DEF=67 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xsh ED=0 DEF=150]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xow ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xts ED=0 DEF=93 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xuc ED=0 DEF=49 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xml ED=0 DEF=55 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xrg ED=0 DEF=61 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xpk ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xit ED=0 DEF=67 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xsh ED=0 DEF=150]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xow ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xts ED=0 DEF=93 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uuc ED=0 DEF=110]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uml ED=0 DEF=123]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[urg ED=0 DEF=135]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uit ED=0 DEF=148]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[upk ED=0 DEF=163]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uow ED=0 DEF=161]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ush ED=0 DEF=173]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uts ED=0 DEF=170]:%NAME% %PURPLE%max%CONTINUE%//
+////////////////// Gloves //////////////////
+ItemDisplay[lgl ED=0 DEF=3 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[vgl ED=0 DEF=6 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[mgl ED=0 DEF=9 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[tgl ED=0 DEF=11]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[hgl ED=0 DEF=15]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xlg ED=0 DEF=35]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xvg ED=0 DEF=39]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xmg ED=0 DEF=44]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xtg ED=0 DEF=47]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xhg ED=0 DEF=53]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ulg ED=0 DEF=62]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uvg ED=0 DEF=65]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[umg ED=0 DEF=67]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[utg ED=0 DEF=68]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uhg ED=0 DEF=71]:%NAME% %PURPLE%max%CONTINUE%//
+////////////////// Boots //////////////////
+ItemDisplay[lbt ED=0 DEF=3 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[vbt ED=0 DEF=6 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[mbt ED=0 DEF=9 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[tbt ED=0 DEF=11]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[hbt ED=0 DEF=15]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xlb ED=0 DEF=35]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xvb ED=0 DEF=39]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xmb ED=0 DEF=44]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xtb ED=0 DEF=47]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xhb ED=0 DEF=53]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ulb ED=0 DEF=62]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uvb ED=0 DEF=65]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[umb ED=0 DEF=67]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[utb ED=0 DEF=67]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uhb ED=0 DEF=71]:%NAME% %PURPLE%max%CONTINUE%//
+////////////////// Belts //////////////////
+ItemDisplay[lbl ED=0 DEF=2 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[vbl ED=0 DEF=3 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[mbl ED=0 DEF=5 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[tbl ED=0 DEF=6 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[hbl ED=0 DEF=11]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[zlb ED=0 DEF=34]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[zvb ED=0 DEF=36]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[zmb ED=0 DEF=40]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ztb ED=0 DEF=42]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[zhb ED=0 DEF=52]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ulc ED=0 DEF=62]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uvc ED=0 DEF=63]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[umc ED=0 DEF=65]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[utc ED=0 DEF=66]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uhc ED=0 DEF=71]:%NAME% %PURPLE%max%CONTINUE%//
+
+
+
+
+
+
+////////////////// Amulets //////////////////
+
+////////////////// Rings //////////////////
+
+
+
+
+
+
+
+
+//////////////////////////////////// Price /////////////////////////////////////
+ItemDisplay[!RW PRICE>4999]:%NAME% %DARK_GREEN%$%CONTINUE%//
+ItemDisplay[!RW PRICE>9999]:%NAME%%DARK_GREEN%$%CONTINUE%//
+ItemDisplay[!RW PRICE>14999]:%NAME%%DARK_GREEN%$%CONTINUE%//
+ItemDisplay[!RW PRICE>19999]:%NAME%%DARK_GREEN%$%CONTINUE%//
+ItemDisplay[!RW PRICE>24999]:%NAME%%DARK_GREEN%$%CONTINUE%//
+ItemDisplay[!RW PRICE>29999]:%NAME%%DARK_GREEN%$%CONTINUE%//
+ItemDisplay[!RW PRICE>34999]:%NAME%%DARK_GREEN%$%CONTINUE%//
+////////////////// Sleepy Gamer Reminder //////////////////
+ItemDisplay[SOCK>0 MAG]:%NAME%%NL%%RED%NOT A RUNEWORD CANDIDATE%BLUE%%CONTINUE%//
+ItemDisplay[SOCK>0 RARE]:%NAME%%NL%%RED%NOT A RUNEWORD CANDIDATE%YELLOW%%CONTINUE%//
+////////////////// Shop Color Fix //////////////////
+ItemDisplay[RW]:%NAME%%GOLD%%CONTINUE%//
+ItemDisplay[NMAG SOCK=0]:%NAME%%WHITE%%CONTINUE%//
+ItemDisplay[NMAG SOCK>0 !RW]:%NAME%%GRAY%%CONTINUE%//
+ItemDisplay[NMAG ETH]:%NAME%%GRAY%%CONTINUE%//
+ItemDisplay[MAG]:%NAME%%BLUE%%CONTINUE%//
+ItemDisplay[RARE]:%NAME%%YELLOW%%CONTINUE%//
+ItemDisplay[UNI]:%NAME%%GOLD%%CONTINUE%//
+ItemDisplay[SET]:%NAME%%GREEN%%CONTINUE%//
+ItemDisplay[CRAFT]:%NAME%%ORANGE%%CONTINUE%//
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////// Arreat Summit /////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////////////// Circlet ///////////////////////////////////
+////////////////// Normal //////////////////
+ItemDisplay[ci0]:%NAME%{%TAN% Defense: 20-30 Durability: 35 Sockets: 2}%CONTINUE%//
+ItemDisplay[ci1]:%NAME%{%TAN% Defense: 30-40 Durability: 30 Sockets: 2}%CONTINUE%//
+////////////////// Exeptional //////////////////
+ItemDisplay[ci2]:%NAME%{%TAN% Defense: 40-50 Durability: 25 Sockets: 3}%CONTINUE%//
+////////////////// Elite //////////////////
+ItemDisplay[ci3]:%NAME%{%TAN% Defense: 50-60 Durability: 20 Sockets: 3}%CONTINUE%//
+
+//////////////////////////////////// Normal ////////////////////////////////////
+////////////////// Helms //////////////////
+ItemDisplay[cap]:%NAME%{%TAN% Defense: 3-5 Durability: 12 Sockets: 2}%CONTINUE%//
+ItemDisplay[skp]:%NAME%{%TAN% Defense: 8-11 Durability: 18 Sockets: 2}%CONTINUE%//
+ItemDisplay[hlm]:%NAME%{%TAN% Defense: 15-18 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[fhl]:%NAME%{%TAN% Defense: 23-26 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[ghm]:%NAME%{%TAN% Defense: 30-35 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[msk]:%NAME%{%TAN% Defense: 9-27 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[crn]:%NAME%{%TAN% Defense: 25-45 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[bhm]:%NAME%{%TAN% Defense: 33-36 Durability: 40 Sockets: 2}%CONTINUE%//
+////////////////// Armors //////////////////
+ItemDisplay[qui]:%NAME%{%TAN% Defense: 8-11 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[lea]:%NAME%{%TAN% Defense: 14-17 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[hla]:%NAME%{%TAN% Defense: 21-24 Durability: 28 Sockets: 2}%CONTINUE%//
+ItemDisplay[stu]:%NAME%{%TAN% Defense: 32-25 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[rng]:%NAME%{%TAN% Defense: 45-48 Durability: 36 Sockets: 3}%CONTINUE%//
+ItemDisplay[scl]:%NAME%{%TAN% Defense: 57-60 Durability: 44 Sockets: 2}%CONTINUE%//
+ItemDisplay[brs]:%NAME%{%TAN% Defense: 65-68 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[chn]:%NAME%{%TAN% Defense: 72-75 Durability: 45 Sockets: 2}%CONTINUE%//
+ItemDisplay[spl]:%NAME%{%TAN% Defense: 90-95 Durability: 30 Sockets: 2}%CONTINUE%//
+ItemDisplay[ltp]:%NAME%{%TAN% Defense: 90-107 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[fld]:%NAME%{%TAN% Defense: 101-105 Durability: 48 Sockets: 2}%CONTINUE%//
+ItemDisplay[plt]:%NAME%{%TAN% Defense: 108-116 Durability: 60 Sockets: 2}%CONTINUE%//
+ItemDisplay[gth]:%NAME%{%TAN% Defense: 128-135 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[ful]:%NAME%{%TAN% Defense: 150-161 Durability: 70 Sockets: 4}%CONTINUE%//
+ItemDisplay[aar]:%NAME%{%TAN% Defense: 218-233 Durability: 60 Sockets: 4}%CONTINUE%//
+////////////////// Shields //////////////////
+ItemDisplay[buc]:%NAME%{%TAN% Defense: 4-6 Durability: 12 Sockets: 1}%CONTINUE%//
+ItemDisplay[sml]:%NAME%{%TAN% Defense: 8-10 Durability: 16 Sockets: 2}%CONTINUE%//
+ItemDisplay[lrg]:%NAME%{%TAN% Defense: 12-14 Durability: 24 Sockets: 3}%CONTINUE%//
+ItemDisplay[kit]:%NAME%{%TAN% Defense: 16-18 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[spk]:%NAME%{%TAN% Defense: 15-25 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[tow]:%NAME%{%TAN% Defense: 22-25 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[bsh]:%NAME%{%TAN% Defense: 10-30 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[gts]:%NAME%{%TAN% Defense: 30-35 Durability: 40 Sockets: 3}%CONTINUE%//
+////////////////// Gloves //////////////////
+ItemDisplay[lgl]:%NAME%{%TAN% Defense: 2-3 Durability: 12}%CONTINUE%//
+ItemDisplay[vgl]:%NAME%{%TAN% Defense: 5-6 Durability: 14}%CONTINUE%//
+ItemDisplay[mgl]:%NAME%{%TAN% Defense: 8-9 Durability: 16}%CONTINUE%//
+ItemDisplay[tgl]:%NAME%{%TAN% Defense: 9-11 Durability: 18}%CONTINUE%//
+ItemDisplay[hgl]:%NAME%{%TAN% Defense: 12-15 Durability: 24}%CONTINUE%//
+////////////////// Boots //////////////////
+ItemDisplay[lbt]:%NAME%{%TAN% Defense: 2-3 Durability: 12}%CONTINUE%//
+ItemDisplay[vbt]:%NAME%{%TAN% Defense: 5-6 Durability: 14}%CONTINUE%//
+ItemDisplay[mbt]:%NAME%{%TAN% Defense: 8-9 Durability: 16}%CONTINUE%//
+ItemDisplay[tbt]:%NAME%{%TAN% Defense: 9-11 Durability: 18}%CONTINUE%//
+ItemDisplay[hbt]:%NAME%{%TAN% Defense: 12-15 Durability: 24}%CONTINUE%//
+////////////////// Belts //////////////////
+ItemDisplay[lbl]:%NAME%{%TAN% Defense: 2 Durability: 12 Rows: 2}%CONTINUE%//
+ItemDisplay[vbl]:%NAME%{%TAN% Defense: 3 Durability: 14 Rows: 2}%CONTINUE%//
+ItemDisplay[mbl]:%NAME%{%TAN% Defense: 5 Durability: 16 Rows: 3}%CONTINUE%//
+ItemDisplay[tbl]:%NAME%{%TAN% Defense: 6 Durability: 18 Rows: 3}%CONTINUE%//
+ItemDisplay[hbl]:%NAME%{%TAN% Defense: 8-11 Durability: 24 Rows: 4}%CONTINUE%//
+////////////////// Barbarian Helms //////////////////
+ItemDisplay[ba1]:%NAME%{%TAN% Defense: 10-15 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[ba2]:%NAME%{%TAN% Defense: 15-20 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[ba3]:%NAME%{%TAN% Defense: 25-30 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[ba4]:%NAME%{%TAN% Defense: 30-35 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[ba5]:%NAME%{%TAN% Defense: 35-50 Durability: 65 Sockets: 3}%CONTINUE%//
+////////////////// Druid Pelts //////////////////
+ItemDisplay[dr1]:%NAME%{%TAN% Defense: 8-11 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr2]:%NAME%{%TAN% Defense: 4-15 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr3]:%NAME%{%TAN% Defense: 18-24 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr4]:%NAME%{%TAN% Defense: 12-28 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr5]:%NAME%{%TAN% Defense: 22-35 Durability: 20 Sockets: 3}%CONTINUE%//
+////////////////// Paladin Shields //////////////////
+ItemDisplay[pa1]:%NAME%{%TAN% Defense: 8-12 Durability: 20 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa2]:%NAME%{%TAN% Defense: 10-18 Durability: 30 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa3]:%NAME%{%TAN% Defense: 16-26 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa4]:%NAME%{%TAN% Defense: 26-36 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa5]:%NAME%{%TAN% Defense: 30-40 Durability: 65 Sockets: 4}%CONTINUE%//
+////////////////// Necromancer Shrunken Heads //////////////////
+ItemDisplay[ne1]:%NAME%{%TAN% Defense: 2-5 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne2]:%NAME%{%TAN% Defense: 4-8 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne3]:%NAME%{%TAN% Defense: 6-10 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne4]:%NAME%{%TAN% Defense: 10-16 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne5]:%NAME%{%TAN% Defense: 15-20 Durability: 20 Sockets: 2}%CONTINUE%//
+////////////////// Axes //////////////////
+ItemDisplay[hax]:%NAME%{%TAN% Damage: 3-6 Durability: 28 Sockets: 2}%CONTINUE%//
+ItemDisplay[axe]:%NAME%{%TAN% Damage: 4-11 Durability: 24 Sockets: 4}%CONTINUE%//
+ItemDisplay[2ax]:%NAME%{%TAN% Damage: 5-13 Durability: 24 Sockets: 5}%CONTINUE%//
+ItemDisplay[mpi]:%NAME%{%TAN% Damage: 7-11 Durability: 26 Sockets: 6}%CONTINUE%//
+ItemDisplay[wax]:%NAME%{%TAN% Damage: 10-18 Durability: 26 Sockets: 6}%CONTINUE%//
+ItemDisplay[lax]:%NAME%{%TAN% Damage: 6-13 Durability: 30 Sockets: 4}%CONTINUE%//
+ItemDisplay[bax]:%NAME%{%TAN% Damage: 10-18 Durability: 35 Sockets: 5}%CONTINUE%//
+ItemDisplay[btx]:%NAME%{%TAN% Damage: 12-32 Durability: 40 Sockets: 5}%CONTINUE%//
+ItemDisplay[gax]:%NAME%{%TAN% Damage: 9-30 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[gix]:%NAME%{%TAN% Damage: 22-45 Durability: 50 Sockets: 6}%CONTINUE%//
+////////////////// Bows //////////////////
+ItemDisplay[sbw]:%NAME%{%TAN% Damage: 1-4 Sockets: 3}%CONTINUE%//
+ItemDisplay[hbw]:%NAME%{%TAN% Damage: 2-6 Sockets: 4}%CONTINUE%//
+ItemDisplay[lbw]:%NAME%{%TAN% Damage: 3-10 Sockets: 5}%CONTINUE%//
+ItemDisplay[cbw]:%NAME%{%TAN% Damage: 4-8 Sockets: 4}%CONTINUE%//
+ItemDisplay[sbb]:%NAME%{%TAN% Damage: 5-11 Sockets: 5}%CONTINUE%//
+ItemDisplay[lbb]:%NAME%{%TAN% Damage: 3-18 Sockets: 6}%CONTINUE%//
+ItemDisplay[swb]:%NAME%{%TAN% Damage: 6-14 Sockets: 5}%CONTINUE%//
+ItemDisplay[lwb]:%NAME%{%TAN% Damage: 3-23 Sockets: 6}%CONTINUE%//
+////////////////// Crossbows //////////////////
+ItemDisplay[lxb]:%NAME%{%TAN% Damage: 6-9 Sockets: 3}%CONTINUE%//
+ItemDisplay[mxb]:%NAME%{%TAN% Damage: 9-16 Sockets: 4}%CONTINUE%//
+ItemDisplay[hxb]:%NAME%{%TAN% Damage: 14-26 Sockets: 6}%CONTINUE%//
+ItemDisplay[rxb]:%NAME%{%TAN% Damage: 6-12 Sockets: 5}%CONTINUE%//
+////////////////// Daggers //////////////////
+ItemDisplay[dgr]:%NAME%{%TAN% Damage: 1-4 Durability: 26 Sockets: 1}%CONTINUE%//
+ItemDisplay[dir]:%NAME%{%TAN% Damage: 3-9 Durability: 55 Sockets: 1}%CONTINUE%//
+ItemDisplay[kri]:%NAME%{%TAN% Damage: 2-11 Durability: 36 Sockets: 3}%CONTINUE%//
+ItemDisplay[bld]:%NAME%{%TAN% Damage: 4-15 Durability: 47 Sockets: 2}%CONTINUE%//
+////////////////// Javelins //////////////////
+ItemDisplay[jav]:%NAME%{%TAN% Throw: 6-14 One-Hand: 1-5 Stack: 60}%CONTINUE%//
+ItemDisplay[pil]:%NAME%{%TAN% Throw: 7-20 One-Hand: 4-9 Stack: 50}%CONTINUE%//
+ItemDisplay[ssp]:%NAME%{%TAN% Throw: 10-22 One-Hand: 2-13 Stack: 40}%CONTINUE%//
+ItemDisplay[glv]:%NAME%{%TAN% Throw: 16-22 One-Hand: 5-17 Stack: 40}%CONTINUE%//
+ItemDisplay[tsp]:%NAME%{%TAN% Throw: 12-30 One-Hand: 5-15 Stack: 80}%CONTINUE%//
+////////////////// Maces //////////////////
+ItemDisplay[clb]:%NAME%{%TAN% Damage: 1-6 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[spc]:%NAME%{%TAN% Damage: 5-8 Durability: 36 Sockets: 2}%CONTINUE%//
+ItemDisplay[mac]:%NAME%{%TAN% Damage: 3-10 Durability: 60 Sockets: 2}%CONTINUE%//
+ItemDisplay[mst]:%NAME%{%TAN% Damage: 7-16 Durability: 72 Sockets: 3}%CONTINUE%//
+ItemDisplay[fla]:%NAME%{%TAN% Damage: 1-24 Durability: 30 Sockets: 5}%CONTINUE%//
+ItemDisplay[whm]:%NAME%{%TAN% Damage: 19-29 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[mau]:%NAME%{%TAN% Damage: 30-43 Durability: 60 Sockets: 6}%CONTINUE%//
+ItemDisplay[gma]:%NAME%{%TAN% Damage: 38-58 Durability: 60 Sockets: 6}%CONTINUE%//
+////////////////// Polearms //////////////////
+ItemDisplay[bar]:%NAME%{%TAN% Damage: 1-27 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[vou]:%NAME%{%TAN% Damage: 6-21 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[scy]:%NAME%{%TAN% Damage: 8-20 Durability: 65 Sockets: 5}%CONTINUE%//
+ItemDisplay[pax]:%NAME%{%TAN% Damage: 18-39 Durability: 65 Sockets: 5}%CONTINUE%//
+ItemDisplay[hal]:%NAME%{%TAN% Damage: 12-45 Durability: 55 Sockets: 6}%CONTINUE%//
+ItemDisplay[wsc]:%NAME%{%TAN% Damage: 15-36 Durability: 55 Sockets: 6}%CONTINUE%//
+////////////////// Scepters //////////////////
+ItemDisplay[scp]:%NAME%{%TAN% Damage: 6-11 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[gsc]:%NAME%{%TAN% Damage: 8-18 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[wsp]:%NAME%{%TAN% Damage: 10-17 Durability: 70 Sockets: 5}%CONTINUE%//
+////////////////// Spears //////////////////
+ItemDisplay[spr]:%NAME%{%TAN% Damage: 3-15 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[tri]:%NAME%{%TAN% Damage: 9-15 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[brn]:%NAME%{%TAN% Damage: 7-17 Durability: 28 Sockets: 5}%CONTINUE%//
+ItemDisplay[spt]:%NAME%{%TAN% Damage: 15-23 Durability: 28 Sockets: 6}%CONTINUE%//
+ItemDisplay[pik]:%NAME%{%TAN% Damage: 14-63 Durability: 25 Sockets: 6}%CONTINUE%//
+////////////////// Staves //////////////////
+ItemDisplay[sst]:%NAME%{%TAN% Damage: 1-5 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[lst]:%NAME%{%TAN% Damage: 2-8 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[cst]:%NAME%{%TAN% Damage: 4-12 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[bst]:%NAME%{%TAN% Damage: 6-13 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[wst]:%NAME%{%TAN% Damage: 12-28 Durability: 50 Sockets: 6}%CONTINUE%//
+////////////////// Swords //////////////////
+ItemDisplay[ssd]:%NAME%{%TAN% Damage: 2-7 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[scm]:%NAME%{%TAN% Damage: 2-6 Durability: 22 Sockets: 2}%CONTINUE%//
+ItemDisplay[sbr]:%NAME%{%TAN% Damage: 3-8 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[flc]:%NAME%{%TAN% Damage: 9-17 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[crs]:%NAME%{%TAN% Damage: 5-15 Durability: 20 Sockets: 6}%CONTINUE%//
+ItemDisplay[bsd]:%NAME%{%TAN% Damage: 7-14 Durability: 32 Sockets: 4}%CONTINUE%//
+ItemDisplay[lsd]:%NAME%{%TAN% Damage: 3-19 Durability: 44 Sockets: 4}%CONTINUE%//
+ItemDisplay[wsd]:%NAME%{%TAN% Damage: 8-20 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[2hs]:%NAME%{%TAN% One-Handed: 2-9 Two-Handed: 8-17 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[clm]:%NAME%{%TAN% One-Handed: 5-12 Two-Handed: 13-30 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[gis]:%NAME%{%TAN% One-Handed: 3-16 Two-Handed: 9-28 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[bsw]:%NAME%{%TAN% One-Handed: 7-19 Two-Handed: 20-28 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[flb]:%NAME%{%TAN% One-Handed: 9-15 Two-Handed: 13-26 Durability: 50 Sockets: 5}%CONTINUE%//
+ItemDisplay[gsd]:%NAME%{%TAN% One-Handed: 12-20 Two-Handed: 25-42 Durability: 50 Sockets: 6}%CONTINUE%//
+////////////////// Throwing  Weapons //////////////////
+ItemDisplay[tkf]:%NAME%{%TAN% Throw: 4-9 One-Hand: 2-3 Stack: 160}%CONTINUE%//
+ItemDisplay[tax]:%NAME%{%TAN% Throw: 6-11 One-Hand: 1-8 Stack: 160}%CONTINUE%//
+ItemDisplay[bkf]:%NAME%{%TAN% Throw: 8-12 One-Hand: 4-7 Stack: 130}%CONTINUE%//
+ItemDisplay[bal]:%NAME%{%TAN% Throw: 12-15 One-Hand: 5-10 Stack: 130}%CONTINUE%//
+////////////////// Wands //////////////////
+ItemDisplay[wnd]:%NAME%{%TAN% Damage: 2-4 Durability: 15 Sockets: 1}%CONTINUE%//
+ItemDisplay[ywn]:%NAME%{%TAN% Damage: 2-8 Durability: 15 Sockets: 1}%CONTINUE%//
+ItemDisplay[bwn]:%NAME%{%TAN% Damage: 3-7 Durability: 15 Sockets: 1}%CONTINUE%//
+ItemDisplay[gwn]:%NAME%{%TAN% Damage: 5-11 Durability: 15 Sockets: 1}%CONTINUE%//
+////////////////// Amazon Weapons //////////////////
+ItemDisplay[am1]:%NAME%{%TAN% Damage: 7-12 Sockets: 5}%CONTINUE%//
+ItemDisplay[am2]:%NAME%{%TAN% Damage: 9-19 Sockets: 5}%CONTINUE%//
+ItemDisplay[am3]:%NAME%{%TAN% Damage: 18-24 Durability: 28 Sockets: 6}%CONTINUE%//
+ItemDisplay[am4]:%NAME%{%TAN% Damage: 23-55 Durability: 25 Sockets: 6}%CONTINUE%//
+ItemDisplay[am5]:%NAME%{%TAN% Throw: 6-22 One-Hand: 8-14 Stack: 80}%CONTINUE%//
+////////////////// Assassin Katars //////////////////
+ItemDisplay[ktr]:%NAME%{%TAN% Damage: 4-7 Durability: 48 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[wrb]:%NAME%{%TAN% Damage: 5-9 Durability: 52 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[axf]:%NAME%{%TAN% Damage: 2-15 Durability: 56 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[ces]:%NAME%{%TAN% Damage: 7-15 Durability: 72 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[clw]:%NAME%{%TAN% Damage: 8-15 Durability: 64 Sockets: 3 Skills: No}%CONTINUE%//
+ItemDisplay[btl]:%NAME%{%TAN% Damage: 10-14 Durability: 69 Sockets: 3 Skills: No}%CONTINUE%//
+ItemDisplay[skr]:%NAME%{%TAN% Damage: 9-17 Durability: 68 Sockets: 3 Skills: No}%CONTINUE%//
+////////////////// Sorceress Orbs //////////////////
+ItemDisplay[ob1]:%NAME%{%TAN% Damage: 2-5 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob2]:%NAME%{%TAN% Damage: 3-8 Durability: 30 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob3]:%NAME%{%TAN% Damage: 4-10 Durability: 35 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob4]:%NAME%{%TAN% Damage: 5-12 Durability: 40 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob5]:%NAME%{%TAN% Damage: 8-18 Durability: 50 Sockets: 3}%CONTINUE%//
+
+////////////////////////////////// Exeptional //////////////////////////////////
+////////////////// Helms //////////////////
+ItemDisplay[xap]:%NAME%{%TAN% Defense: 45-53 Durability: 12 Sockets: 2}%CONTINUE%//
+ItemDisplay[xkp]:%NAME%{%TAN% Defense: 52-62 Durability: 18 Sockets: 2}%CONTINUE%//
+ItemDisplay[xlm]:%NAME%{%TAN% Defense: 63-72 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[xhl]:%NAME%{%TAN% Defense: 75-84 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[xhm]:%NAME%{%TAN% Defense: 85-98 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[xsk]:%NAME%{%TAN% Defense: 54-86 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[xrn]:%NAME%{%TAN% Defense: 78-113 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[xh9]:%NAME%{%TAN% Defense: 60-125 Durability: 40 Sockets: 2}%CONTINUE%//
+////////////////// Armors //////////////////
+ItemDisplay[xui]:%NAME%{%TAN% Defense: 102-117 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[xea]:%NAME%{%TAN% Defense: 111-126 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[xla]:%NAME%{%TAN% Defense: 122-136 Durability: 28 Sockets: 2}%CONTINUE%//
+ItemDisplay[xtu]:%NAME%{%TAN% Defense: 138-153 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[xng]:%NAME%{%TAN% Defense: 158-172 Durability: 36 Sockets: 3}%CONTINUE%//
+ItemDisplay[xcl]:%NAME%{%TAN% Defense: 176-190	Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[xrs]:%NAME%{%TAN% Defense: 188-202 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[xhn]:%NAME%{%TAN% Defense: 198-213 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[xpl]:%NAME%{%TAN% Defense: 225-243 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[xtp]:%NAME%{%TAN% Defense: 225-261 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[xld]:%NAME%{%TAN% Defense: 242-258 Durability: 48 Sockets: 3}%CONTINUE%//
+ItemDisplay[xlt]:%NAME%{%TAN% Defense: 252-274 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[xth]:%NAME%{%TAN% Defense: 282-303 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[xul]:%NAME%{%TAN% Defense: 315-342 Durability: 70 Sockets: 4}%CONTINUE%//
+ItemDisplay[xar]:%NAME%{%TAN% Defense: 417-450 Durability: 60 Sockets: 4}%CONTINUE%//
+////////////////// Shields //////////////////
+ItemDisplay[xuc]:%NAME%{%TAN% Defense: 41-49 Durability: 68 Sockets: 1}%CONTINUE%//
+ItemDisplay[xml]:%NAME%{%TAN% Defense: 47-55 Durability: 64 Sockets: 2}%CONTINUE%//
+ItemDisplay[xrg]:%NAME%{%TAN% Defense: 53-61 Durability: 24 Sockets: 3}%CONTINUE%//
+ItemDisplay[xpk]:%NAME%{%TAN% Defense: 58-78 Durability: 55 Sockets: 2}%CONTINUE%//
+ItemDisplay[xit]:%NAME%{%TAN% Defense: 59-67 Durability: 76 Sockets: 3}%CONTINUE%//
+ItemDisplay[xsh]:%NAME%{%TAN% Defense: 50-150 Durability: 70 Sockets: 2}%CONTINUE%//
+ItemDisplay[xow]:%NAME%{%TAN% Defense: 68-78 Durability: 72 Sockets: 3}%CONTINUE%//
+ItemDisplay[xts]:%NAME%{%TAN% Defense: 80-93 Durability: 80 Sockets: 3}%CONTINUE%//
+////////////////// Gloves //////////////////
+ItemDisplay[xlg]:%NAME%{%TAN% Defense: 28-35 Durability: 12}%CONTINUE%//
+ItemDisplay[xvg]:%NAME%{%TAN% Defense: 33-39 Durability: 14}%CONTINUE%//
+ItemDisplay[xmg]:%NAME%{%TAN% Defense: 37-44 Durability: 16}%CONTINUE%//
+ItemDisplay[xtg]:%NAME%{%TAN% Defense: 39-47 Durability: 18}%CONTINUE%//
+ItemDisplay[xhg]:%NAME%{%TAN% Defense: 43-53 Durability: 24}%CONTINUE%//
+////////////////// Boots //////////////////
+ItemDisplay[xlb]:%NAME%{%TAN% Defense: 28-35 Durability: 12}%CONTINUE%//
+ItemDisplay[xvb]:%NAME%{%TAN% Defense: 33-39 Durability: 14}%CONTINUE%//
+ItemDisplay[xmb]:%NAME%{%TAN% Defense: 37-44 Durability: 16}%CONTINUE%//
+ItemDisplay[xtb]:%NAME%{%TAN% Defense: 39-47 Durability: 18}%CONTINUE%//
+ItemDisplay[xhb]:%NAME%{%TAN% Defense: 43-53 Durability: 24}%CONTINUE%//
+////////////////// Belts //////////////////
+ItemDisplay[zlb]:%NAME%{%TAN% Defense: 29-34 Durability: 12 Rows: 4}%CONTINUE%//
+ItemDisplay[zvb]:%NAME%{%TAN% Defense: 31-36 Durability: 14 Rows: 4}%CONTINUE%//
+ItemDisplay[zmb]:%NAME%{%TAN% Defense: 35-40 Durability: 16 Rows: 4}%CONTINUE%//
+ItemDisplay[ztb]:%NAME%{%TAN% Defense: 37-42 Durability: 18 Rows: 4}%CONTINUE%//
+ItemDisplay[zhb]:%NAME%{%TAN% Defense: 41-52 Durability: 24 Rows: 4}%CONTINUE%//
+////////////////// Barbarian Helms //////////////////
+ItemDisplay[dr6]:%NAME%{%TAN% Defense: 52-62 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr7]:%NAME%{%TAN% Defense: 46-68 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr8]:%NAME%{%TAN% Defense: 67-81 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr9]:%NAME%{%TAN% Defense: 58-87 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[dra]:%NAME%{%TAN% Defense: 73-98 Durability: 55 Sockets: 3}%CONTINUE%//
+////////////////// Druid Pelts //////////////////
+ItemDisplay[pa6]:%NAME%{%TAN% Defense: 101-125 Durability: 25 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa7]:%NAME%{%TAN% Defense: 113-137 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa8]:%NAME%{%TAN% Defense: 129-153 Durability: 45 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa9]:%NAME%{%TAN% Defense: 144-168 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[paa]:%NAME%{%TAN% Defense: 156-181 Durability: 55 Sockets: 4}%CONTINUE%//
+////////////////// Paladin Shields //////////////////
+ItemDisplay[dr6]:%NAME%{%TAN% Defense: 52-62 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr7]:%NAME%{%TAN% Defense: 46-68 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr8]:%NAME%{%TAN% Defense: 67-81 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr9]:%NAME%{%TAN% Defense: 58-87 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[dra]:%NAME%{%TAN% Defense: 73-98 Durability: 55 Sockets: 3}%CONTINUE%//
+////////////////// Necromancer Shrunken Heads //////////////////
+ItemDisplay[ne6]:%NAME%{%TAN% Defense: 38-48 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne7]:%NAME%{%TAN% Defense: 41-52 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne8]:%NAME%{%TAN% Defense: 44-55 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne9]:%NAME%{%TAN% Defense: 50-64 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[nea]:%NAME%{%TAN% Defense: 58-70 Durability: 20 Sockets: 2}%CONTINUE%//
+////////////////// Axes //////////////////
+ItemDisplay[9ha]:%NAME%{%TAN% Damage: 10-21 Durability: 28 Sockets: 2}%CONTINUE%//
+ItemDisplay[9ax]:%NAME%{%TAN% Damage: 10-33 Durability: 24 Sockets: 4}%CONTINUE%//
+ItemDisplay[92a]:%NAME%{%TAN% Damage: 13-38 Durability: 24 Sockets: 5}%CONTINUE%//
+ItemDisplay[9mp]:%NAME%{%TAN% Damage: 14-34 Durability: 26 Sockets: 6}%CONTINUE%//
+ItemDisplay[9wa]:%NAME%{%TAN% Damage: 16-45 Durability: 26 Sockets: 6}%CONTINUE%//
+ItemDisplay[9la]:%NAME%{%TAN% Damage: 14-34 Durability: 30 Sockets: 4}%CONTINUE%//
+ItemDisplay[9ba]:%NAME%{%TAN% Damage: 21-49 Durability: 35 Sockets: 5}%CONTINUE%//
+ItemDisplay[9bt]:%NAME%{%TAN% Damage: 24-77 Durability: 40 Sockets: 5}%CONTINUE%//
+ItemDisplay[9ga]:%NAME%{%TAN% Damage: 18-70 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[9gi]:%NAME%{%TAN% Damage: 43-85 Durability: 50 Sockets: 6}%CONTINUE%//
+////////////////// Bows //////////////////
+ItemDisplay[8sb]:%NAME%{%TAN% Damage: 6-19 Sockets: 3}%CONTINUE%//
+ItemDisplay[8hb]:%NAME%{%TAN% Damage: 8-22 Sockets: 4}%CONTINUE%//
+ItemDisplay[8lb]:%NAME%{%TAN% Damage: 10-29 Sockets: 5}%CONTINUE%//
+ItemDisplay[8cb]:%NAME%{%TAN% Damage: 11-26 Sockets: 4}%CONTINUE%//
+ItemDisplay[8s8]:%NAME%{%TAN% Damage: 13-30 Sockets: 5}%CONTINUE%//
+ItemDisplay[8l8]:%NAME%{%TAN% Damage: 10-42 Sockets: 6}%CONTINUE%//
+ItemDisplay[8sw]:%NAME%{%TAN% Damage: 14-35 Sockets: 5}%CONTINUE%//
+ItemDisplay[8lw]:%NAME%{%TAN% Damage: 10-50 Sockets: 6}%CONTINUE%//
+////////////////// Crossbows //////////////////
+ItemDisplay[8lx]:%NAME%{%TAN% Damage: 14-27 Sockets: 3}%CONTINUE%//
+ItemDisplay[8mx]:%NAME%{%TAN% Damage: 20-42 Sockets: 4}%CONTINUE%//
+ItemDisplay[8hx]:%NAME%{%TAN% Damage: 33-55 Sockets: 6}%CONTINUE%//
+ItemDisplay[8rx]:%NAME%{%TAN% Damage: 14-32 Sockets: 5}%CONTINUE%//
+////////////////// Daggers //////////////////
+ItemDisplay[9dg]:%NAME%{%TAN% Damage: 6-8 Durability: 16 Sockets: 1}%CONTINUE%//
+ItemDisplay[9di]:%NAME%{%TAN% Damage: 10-26 Durability: 20 Sockets: 1}%CONTINUE%//
+ItemDisplay[9kr]:%NAME%{%TAN% Damage: 15-31 Durability: 24 Sockets: 3}%CONTINUE%//
+ItemDisplay[9bl]:%NAME%{%TAN% Damage: 19-36 Durability: 24 Sockets: 2}%CONTINUE%//
+////////////////// Javelins //////////////////
+ItemDisplay[9ja]:%NAME%{%TAN% Throw: 14-32 One-Hand: 6-19 Stack: 60}%CONTINUE%//
+ItemDisplay[9pi]:%NAME%{%TAN% Throw: 16-42 One-Hand: 11-26 Stack: 50}%CONTINUE%//
+ItemDisplay[9s9]:%NAME%{%TAN% Throw: 27-50 One-Hand: 8-32 Stack: 40}%CONTINUE%//
+ItemDisplay[9gl]:%NAME%{%TAN% Throw: 32-60 One-Hand: 13-38 Stack: 40}%CONTINUE%//
+ItemDisplay[9ts]:%NAME%{%TAN% Throw: 18-54 One-Hand: 13-35 Stack: 80}%CONTINUE%//
+////////////////// Maces //////////////////
+ItemDisplay[9cl]:%NAME%{%TAN% Damage: 6-21 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[9sp]:%NAME%{%TAN% Damage: 13-25 Durability: 36 Sockets: 3}%CONTINUE%//
+ItemDisplay[9ma]:%NAME%{%TAN% Damage: 15-23 Durability: 60 Sockets: 2}%CONTINUE%//
+ItemDisplay[9mt]:%NAME%{%TAN% Damage: 20-31 Durability: 72 Sockets: 3}%CONTINUE%//
+ItemDisplay[9fl]:%NAME%{%TAN% Damage: 13-35 Durability: 30 Sockets: 5}%CONTINUE%//
+ItemDisplay[9wh]:%NAME%{%TAN% Damage: 35-58 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[9m9]:%NAME%{%TAN% Damage: 53-78 Durability: 60 Sockets: 6}%CONTINUE%//
+ItemDisplay[9gm]:%NAME%{%TAN% Damage: 61-99 Durability: 60 Sockets: 6}%CONTINUE%//
+////////////////// Polearms //////////////////
+ItemDisplay[9b7]:%NAME%{%TAN% Damage: 6-58 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[9vo]:%NAME%{%TAN% Damage: 14-53 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[9s8]:%NAME%{%TAN% Damage: 18-45 Durability: 65 Sockets: 5}%CONTINUE%//
+ItemDisplay[9pa]:%NAME%{%TAN% Damage: 34-75 Durability: 65 Sockets: 5}%CONTINUE%//
+ItemDisplay[9h9]:%NAME%{%TAN% Damage: 13-85 Durability: 55 Sockets: 6}%CONTINUE%//
+ItemDisplay[9wc]:%NAME%{%TAN% Damage: 30-70 Durability: 55 Sockets: 6}%CONTINUE%//
+////////////////// Scepters //////////////////
+ItemDisplay[9sc]:%NAME%{%TAN% Damage: 13-24 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[9qs]:%NAME%{%TAN% Damage: 14-36 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[9ws]:%NAME%{%TAN% Damage: 16-38 Durability: 70 Sockets: 5}%CONTINUE%//
+////////////////// Spears //////////////////
+ItemDisplay[9sr]:%NAME%{%TAN% Damage: 10-37 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[9tr]:%NAME%{%TAN% Damage: 19-37 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[9br]:%NAME%{%TAN% Damage: 16-40 Durability: 28 Sockets: 5}%CONTINUE%//
+ItemDisplay[9st]:%NAME%{%TAN% Damage: 29-59 Durability: 28 Sockets: 6}%CONTINUE%//
+ItemDisplay[9p9]:%NAME%{%TAN% Damage: 27-114 Durability: 25 Sockets: 6}%CONTINUE%//
+////////////////// Staves //////////////////
+ItemDisplay[8ss]:%NAME%{%TAN% Damage: 6-21 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[8ls]:%NAME%{%TAN% Damage: 8-26 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[8cs]:%NAME%{%TAN% Damage: 11-32 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[8bs]:%NAME%{%TAN% Damage: 14-34 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[8ws]:%NAME%{%TAN% Damage: 24-58 Durability: 50 Sockets: 6}%CONTINUE%//
+////////////////// Swords //////////////////
+ItemDisplay[9ss]:%NAME%{%TAN% Damage: 8-22 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[9sm]:%NAME%{%TAN% Damage: 8-21 Durability: 22 Sockets: 2}%CONTINUE%//
+ItemDisplay[9sb]:%NAME%{%TAN% Damage: 10-24 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[9fc]:%NAME%{%TAN% Damage: 16-35 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[9cr]:%NAME%{%TAN% Damage: 13-35 Durability: 20 Sockets: 6}%CONTINUE%//
+ItemDisplay[9bs]:%NAME%{%TAN% Damage: 16-34 Durability: 32 Sockets: 4}%CONTINUE%//
+ItemDisplay[9ls]:%NAME%{%TAN% Damage: 10-42 Durability: 44 Sockets: 4}%CONTINUE%//
+ItemDisplay[9wd]:%NAME%{%TAN% Damage: 18-43 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[92h]:%NAME%{%TAN% One-Handed: 8-26 Two-Handed: 18-40 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[9cm]:%NAME%{%TAN% One-Handed: 13-30 Two-Handed: 26-61 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[9gs]:%NAME%{%TAN% One-Handed: 10-37 Two-Handed: 19-58 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[9b9]:%NAME%{%TAN% One-Handed: 14-40 Two-Handed: 39-60 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[9fb]:%NAME%{%TAN% One-Handed: 19-35 Two-Handed: 29-54 Durability: 50 Sockets: 5}%CONTINUE%//
+ItemDisplay[9gd]:%NAME%{%TAN% One-Handed: 24-40 Two-Handed: 47-80 Durability: 50 Sockets: 6}%CONTINUE%//
+////////////////// Throwing Weapons //////////////////
+ItemDisplay[9tk]:%NAME%{%TAN% Throw: 11-24 One-Hand: 8-16 Stack: 160}%CONTINUE%//
+ItemDisplay[9ta]:%NAME%{%TAN% Throw: 14-27 One-Hand: 6-24 Stack: 160}%CONTINUE%//
+ItemDisplay[9bk]:%NAME%{%TAN% Throw: 18-33 One-Hand: 11-22 Stack: 130}%CONTINUE%//
+ItemDisplay[9b8]:%NAME%{%TAN% Throw: 24-34 One-Hand: 13-27 Stack: 130}%CONTINUE%//
+////////////////// Wands //////////////////
+ItemDisplay[9wn]:%NAME%{%TAN% Damage: 8-18 Durability: 15 Sockets: 1}%CONTINUE%//
+ItemDisplay[9yw]:%NAME%{%TAN% Damage: 8-24 Durability: 15 Sockets: 1}%CONTINUE%//
+ItemDisplay[9bw]:%NAME%{%TAN% Damage: 10-22 Durability: 15 Sockets: 1}%CONTINUE%//
+ItemDisplay[9gw]:%NAME%{%TAN% Damage: 13-29 Durability: 15 Sockets: 1}%CONTINUE%//
+////////////////// Amazon Weapons //////////////////
+ItemDisplay[am6]:%NAME%{%TAN% Damage: 16-29 Sockets: 5}%CONTINUE%//
+ItemDisplay[am7]:%NAME%{%TAN% Damage: 19-41 Sockets: 5}%CONTINUE%//
+ItemDisplay[am8]:%NAME%{%TAN% Damage: 34-51 Durability: 28 Sockets: 6}%CONTINUE%//
+ItemDisplay[am9]:%NAME%{%TAN% Damage: 42-101 Durability: 25 Sockets: 6}%CONTINUE%//
+ItemDisplay[ama]:%NAME%{%TAN% Throw: 18-54 One-Hand: 18-35 Stack: 80}%CONTINUE%//
+////////////////// Assassin Katars //////////////////
+ItemDisplay[9ar]:%NAME%{%TAN% Damage: 11-24 Durability: 48 Sockets: 3 Skills: No}%CONTINUE%//
+ItemDisplay[9wb]:%NAME%{%TAN% Damage: 13-27 Durability: 56 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[9xf]:%NAME%{%TAN% Damage: 8-37 Durability: 64 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[9cs]:%NAME%{%TAN% Damage: 16-37 Durability: 72 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[9lw]:%NAME%{%TAN% Damage: 18-37 Durability: 52 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[9tw]:%NAME%{%TAN% Damage: 21-35 Durability: 69 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[9qr]:%NAME%{%TAN% Damage: 19-40 Durability: 68 Sockets: 3 Skills: Yes}%CONTINUE%//
+////////////////// Sorceress Orbs //////////////////
+ItemDisplay[ob6]:%NAME%{%TAN% Damage: 8-21 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob7]:%NAME%{%TAN% Damage: 10-26 Durability: 30 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob8]:%NAME%{%TAN% Damage: 11-29 Durability: 35 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob9]:%NAME%{%TAN% Damage: 13-32 Durability: 40 Sockets: 2}%CONTINUE%//
+ItemDisplay[oba]:%NAME%{%TAN% Damage: 18-42 Durability: 50 Sockets: 3}%CONTINUE%//
+
+//////////////////////////////////// Elite /////////////////////////////////////
+////////////////// Helms //////////////////
+ItemDisplay[uap]:%NAME%{%TAN% Defense: 98-141 Durability: 12 Sockets: 2}%CONTINUE%//
+ItemDisplay[ukp]:%NAME%{%TAN% Defense: 101-145 Durability: 18 Sockets: 2}%CONTINUE%//
+ItemDisplay[ulm]:%NAME%{%TAN% Defense: 105-149 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[uhl]:%NAME%{%TAN% Defense: 110-154 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[uhm]:%NAME%{%TAN% Defense: 114-159 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[usk]:%NAME%{%TAN% Defense: 101-154 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[urn]:%NAME%{%TAN% Defense: 111-165 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[uh9]:%NAME%{%TAN% Defense: 100-157 Durability: 40 Sockets: 3}%CONTINUE%//
+////////////////// Armors //////////////////
+ItemDisplay[uui]:%NAME%{%TAN% Defense: 361-467 Durability: 20 Sockets: 4}%CONTINUE%//
+ItemDisplay[uea]:%NAME%{%TAN% Defense: 364-470 Durability: 24 Sockets: 4}%CONTINUE%//
+ItemDisplay[ula]:%NAME%{%TAN% Defense: 369-474 Durability: 28 Sockets: 4}%CONTINUE%//
+ItemDisplay[utu]:%NAME%{%TAN% Defense: 375-481 Durability: 32 Sockets: 4}%CONTINUE%//
+ItemDisplay[ung]:%NAME%{%TAN% Defense: 383-489 Durability: 36 Sockets: 4}%CONTINUE%//
+ItemDisplay[ucl]:%NAME%{%TAN% Defense: 390-496	Durability: 44 Sockets: 4}%CONTINUE%//
+ItemDisplay[urs]:%NAME%{%TAN% Defense: 395-501 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[uhn]:%NAME%{%TAN% Defense: 399-505 Durability: 45 Sockets: 4}%CONTINUE%//
+ItemDisplay[upl]:%NAME%{%TAN% Defense: 410-517 Durability: 30 Sockets: 4}%CONTINUE%//
+ItemDisplay[utp]:%NAME%{%TAN% Defense: 410-524 Durability: 60 Sockets: 4}%CONTINUE%//
+ItemDisplay[uld]:%NAME%{%TAN% Defense: 417-523 Durability: 48 Sockets: 4}%CONTINUE%//
+ItemDisplay[ult]:%NAME%{%TAN% Defense: 421-530 Durability: 60 Sockets: 4}%CONTINUE%//
+ItemDisplay[uth]:%NAME%{%TAN% Defense: 433-541 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[uul]:%NAME%{%TAN% Defense: 446-557 Durability: 70 Sockets: 4}%CONTINUE%//
+ItemDisplay[uar]:%NAME%{%TAN% Defense: 487-600 Durability: 60 Sockets: 4}%CONTINUE%//
+////////////////// Shields //////////////////
+ItemDisplay[uuc]:%NAME%{%TAN% Defense: 95-110 Durability: 88 Sockets: 2}%CONTINUE%//
+ItemDisplay[uml]:%NAME%{%TAN% Defense: 108-123 Durability: 84 Sockets: 2}%CONTINUE%//
+ItemDisplay[urg]:%NAME%{%TAN% Defense: 119-135 Durability: 82 Sockets: 3}%CONTINUE%//
+ItemDisplay[uit]:%NAME%{%TAN% Defense: 133-148 Durability: 86 Sockets: 4}%CONTINUE%//
+ItemDisplay[upk]:%NAME%{%TAN% Defense: 147-163 Durability: 83 Sockets: 3}%CONTINUE%//
+ItemDisplay[uow]:%NAME%{%TAN% Defense: 145-161 Durability: 92 Sockets: 4}%CONTINUE%//
+ItemDisplay[ush]:%NAME%{%TAN% Defense: 158-173 Durability: 74 Sockets: 3}%CONTINUE%//
+ItemDisplay[uts]:%NAME%{%TAN% Defense: 153-170 Durability: 100 Sockets: 4}%CONTINUE%//
+////////////////// Gloves //////////////////
+ItemDisplay[ulg]:%NAME%{%TAN% Defense: 54-62 Durability: 12}%CONTINUE%//
+ItemDisplay[uvg]:%NAME%{%TAN% Defense: 56-65 Durability: 14}%CONTINUE%//
+ItemDisplay[umg]:%NAME%{%TAN% Defense: 59-67 Durability: 16}%CONTINUE%//
+ItemDisplay[utg]:%NAME%{%TAN% Defense: 59-68 Durability: 18}%CONTINUE%//
+ItemDisplay[uhg]:%NAME%{%TAN% Defense: 62-71 Durability: 24}%CONTINUE%//
+////////////////// Boots //////////////////
+ItemDisplay[ulb]:%NAME%{%TAN% Defense: 54-62 Durability: 12}%CONTINUE%//
+ItemDisplay[uvb]:%NAME%{%TAN% Defense: 56-65 Durability: 14}%CONTINUE%//
+ItemDisplay[umb]:%NAME%{%TAN% Defense: 59-67 Durability: 16}%CONTINUE%//
+ItemDisplay[utb]:%NAME%{%TAN% Defense: 59-67 Durability: 18}%CONTINUE%//
+ItemDisplay[uhb]:%NAME%{%TAN% Defense: 62-71 Durability: 24}%CONTINUE%//
+////////////////// Belts //////////////////
+ItemDisplay[ulc]:%NAME%{%TAN% Defense: 55-62 Durability: 12 Rows: 4}%CONTINUE%//
+ItemDisplay[uvc]:%NAME%{%TAN% Defense: 56-63 Durability: 14 Rows: 4}%CONTINUE%//
+ItemDisplay[umc]:%NAME%{%TAN% Defense: 58-65 Durability: 16 Rows: 4}%CONTINUE%//
+ItemDisplay[utc]:%NAME%{%TAN% Defense: 59-66 Durability: 18 Rows: 4}%CONTINUE%//
+ItemDisplay[uhc]:%NAME%{%TAN% Defense: 61-71 Durability: 24 Rows: 4}%CONTINUE%//
+////////////////// Barbarian Helms //////////////////
+ItemDisplay[bab]:%NAME%{%TAN% Defense: 102-147 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[bac]:%NAME%{%TAN% Defense: 105-150 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[bad]:%NAME%{%TAN% Defense: 111-156 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[bae]:%NAME%{%TAN% Defense: 114-159 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[baf]:%NAME%{%TAN% Defense: 117-168 Durability: 55 Sockets: 3}%CONTINUE%//
+////////////////// Druid Pelts //////////////////
+ItemDisplay[drb]:%NAME%{%TAN% Defense: 101-145 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[drc]:%NAME%{%TAN% Defense: 98-147 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[drd]:%NAME%{%TAN% Defense: 107-152 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[dre]:%NAME%{%TAN% Defense: 103-155 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[drf]:%NAME%{%TAN% Defense: 109-159 Durability: 55 Sockets: 3}%CONTINUE%//
+////////////////// Paladin Shields //////////////////
+ItemDisplay[pab]:%NAME%{%TAN% Defense: 126-158 Durability: 25 Sockets: 4}%CONTINUE%//
+ItemDisplay[pac]:%NAME%{%TAN% Defense: 138-164 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[pad]:%NAME%{%TAN% Defense: 154-172 Durability: 45 Sockets: 4}%CONTINUE%//
+ItemDisplay[pae]:%NAME%{%TAN% Defense: 169-193 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[paf]:%NAME%{%TAN% Defense: 182-225 Durability: 55 Sockets: 4}%CONTINUE%//
+////////////////// Necromancer Shrunken Heads //////////////////
+ItemDisplay[neb]:%NAME%{%TAN% Defense: 95-139 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[nec]:%NAME%{%TAN% Defense: 96-141 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ned]:%NAME%{%TAN% Defense: 98-142 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[nee]:%NAME%{%TAN% Defense: 100-146 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[nef]:%NAME%{%TAN% Defense: 103-148 Durability: 20 Sockets: 2}%CONTINUE%//
+////////////////// Axes //////////////////
+ItemDisplay[7ha]:%NAME%{%TAN% Damage: 33-58 Durability: 28 Sockets: 2}%CONTINUE%//
+ItemDisplay[7ax]:%NAME%{%TAN% Damage: 38-60 Durability: 24 Sockets: 4}%CONTINUE%//
+ItemDisplay[72a]:%NAME%{%TAN% Damage: 33-66 Durability: 24 Sockets: 5}%CONTINUE%//
+ItemDisplay[7mp]:%NAME%{%TAN% Damage: 30-48 Durability: 26 Sockets: 6}%CONTINUE%//
+ItemDisplay[7wa]:%NAME%{%TAN% Damage: 24-71 Durability: 26 Sockets: 6}%CONTINUE%//
+ItemDisplay[7la]:%NAME%{%TAN% Damage: 25-123 Durability: 30 Sockets: 4}%CONTINUE%//
+ItemDisplay[7ba]:%NAME%{%TAN% Damage: 62-110 Durability: 35 Sockets: 5}%CONTINUE%//
+ItemDisplay[7bt]:%NAME%{%TAN% Damage: 49-137 Durability: 40 Sockets: 5}%CONTINUE%//
+ItemDisplay[7ga]:%NAME%{%TAN% Damage: 59-94 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[7gi]:%NAME%{%TAN% Damage: 60-124 Durability: 50 Sockets: 6}%CONTINUE%//
+////////////////// Bows //////////////////
+ItemDisplay[6sb]:%NAME%{%TAN% Damage: 23-50 Sockets: 3}%CONTINUE%//
+ItemDisplay[6hb]:%NAME%{%TAN% Damage: 21-41 Sockets: 4}%CONTINUE%//
+ItemDisplay[6lb]:%NAME%{%TAN% Damage: 15-59 Sockets: 5}%CONTINUE%//
+ItemDisplay[6cb]:%NAME%{%TAN% Damage: 12-52 Sockets: 4}%CONTINUE%//
+ItemDisplay[6s7]:%NAME%{%TAN% Damage: 33-40 Sockets: 5}%CONTINUE%//
+ItemDisplay[6l7]:%NAME%{%TAN% Damage: 15-63 Sockets: 6}%CONTINUE%//
+ItemDisplay[6sw]:%NAME%{%TAN% Damage: 20-53 Sockets: 5}%CONTINUE%//
+ItemDisplay[6lw]:%NAME%{%TAN% Damage: 10-68 Sockets: 6}%CONTINUE%//
+////////////////// Crossbows //////////////////
+ItemDisplay[6lx]:%NAME%{%TAN% Damage: 28-73 Sockets: 3}%CONTINUE%//
+ItemDisplay[6mx]:%NAME%{%TAN% Damage: 25-87 Sockets: 4}%CONTINUE%//
+ItemDisplay[6hx]:%NAME%{%TAN% Damage: 32-91 Sockets: 6}%CONTINUE%//
+ItemDisplay[6rx]:%NAME%{%TAN% Damage: 26-40 Sockets: 5}%CONTINUE%//
+////////////////// Daggers //////////////////
+ItemDisplay[7dg]:%NAME%{%TAN% Damage: 23-49 Durability: 26 Sockets: 1}%CONTINUE%//
+ItemDisplay[7di]:%NAME%{%TAN% Damage: 37-53 Durability: 55 Sockets: 1}%CONTINUE%//
+ItemDisplay[7kr]:%NAME%{%TAN% Damage: 15-57 Durability: 36 Sockets: 3}%CONTINUE%//
+ItemDisplay[7bl]:%NAME%{%TAN% Damage: 31-47 Durability: 47 Sockets: 2}%CONTINUE%//
+////////////////// Javelins //////////////////
+ItemDisplay[7ja]:%NAME%{%TAN% Throw: 28-55 One-Hand: 21-57 Stack: 60}%CONTINUE%//
+ItemDisplay[7pi]:%NAME%{%TAN% Throw: 21-75 One-Hand: 14-64 Stack: 50}%CONTINUE%//
+ItemDisplay[7s7]:%NAME%{%TAN% Throw: 40-62 One-Hand: 33-63 Stack: 40}%CONTINUE%//
+ItemDisplay[7gl]:%NAME%{%TAN% Throw: 30-85 One-Hand: 19-60 Stack: 40}%CONTINUE%//
+ItemDisplay[7ts]:%NAME%{%TAN% Throw: 11-77 One-Hand: 27-35 Stack: 80}%CONTINUE%//
+////////////////// Maces //////////////////
+ItemDisplay[7cl]:%NAME%{%TAN% Damage: 35-43 Durability: 55 Sockets: 2}%CONTINUE%//
+ItemDisplay[7sp]:%NAME%{%TAN% Damage: 32-58 Durability: 65 Sockets: 3}%CONTINUE%//
+ItemDisplay[7ma]:%NAME%{%TAN% Damage: 41-49 Durability: 60 Sockets: 2}%CONTINUE%//
+ItemDisplay[7mt]:%NAME%{%TAN% Damage: 43-53 Durability: 72 Sockets: 3}%CONTINUE%//
+ItemDisplay[7fl]:%NAME%{%TAN% Damage: 3-80 Durability: 65 Sockets: 5}%CONTINUE%//
+ItemDisplay[7wh]:%NAME%{%TAN% Damage: 50-61 Durability: 65 Sockets: 4}%CONTINUE%//
+ItemDisplay[7m7]:%NAME%{%TAN% Damage: 77-106 Durability: 60 Sockets: 6}%CONTINUE%//
+ItemDisplay[7gm]:%NAME%{%TAN% Damage: 33-180 Durability: 60 Sockets: 6}%CONTINUE%//
+////////////////// Polearms //////////////////
+ItemDisplay[7o7]:%NAME%{%TAN% Damage: 28-145 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[7vo]:%NAME%{%TAN% Damage: 17-165 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[7s8]:%NAME%{%TAN% Damage: 12-141 Durability: 65 Sockets: 5}%CONTINUE%//
+ItemDisplay[7pa]:%NAME%{%TAN% Damage: 33-150 Durability: 65 Sockets: 5}%CONTINUE%//
+ItemDisplay[7h7]:%NAME%{%TAN% Damage: 46-127 Durability: 55 Sockets: 6}%CONTINUE%//
+ItemDisplay[7wc]:%NAME%{%TAN% Damage: 40-114 Durability: 55 Sockets: 6}%CONTINUE%//
+////////////////// Scepters //////////////////
+ItemDisplay[7sc]:%NAME%{%TAN% Damage: 40-52 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[7qs]:%NAME%{%TAN% Damage: 45-54 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[7ws]:%NAME%{%TAN% Damage: 37-43 Durability: 70 Sockets: 5}%CONTINUE%//
+////////////////// Spears //////////////////
+ItemDisplay[7sr]:%NAME%{%TAN% Damage: 35-119 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[7tr]:%NAME%{%TAN% Damage: 29-144 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[7br]:%NAME%{%TAN% Damage: 42-92 Durability: 28 Sockets: 5}%CONTINUE%//
+ItemDisplay[7st]:%NAME%{%TAN% Damage: 18-155 Durability: 28 Sockets: 6}%CONTINUE%//
+ItemDisplay[7p7]:%NAME%{%TAN% Damage: 33-178 Durability: 25 Sockets: 6}%CONTINUE%//
+////////////////// Staves //////////////////
+ItemDisplay[6ss]:%NAME%{%TAN% Damage: 69-85 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[6ls]:%NAME%{%TAN% Damage: 75-107 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[6cs]:%NAME%{%TAN% Damage: 80-93 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[6bs]:%NAME%{%TAN% Damage: 65-108 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[6ws]:%NAME%{%TAN% Damage: 83-99 Durability: 26 Sockets: 6}%CONTINUE%//
+////////////////// Swords //////////////////
+ItemDisplay[7ss]:%NAME%{%TAN% Damage: 31-59 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[7sm]:%NAME%{%TAN% Damage: 26-46 Durability: 22 Sockets: 2}%CONTINUE%//
+ItemDisplay[7sb]:%NAME%{%TAN% Damage: 33-45 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[7fc]:%NAME%{%TAN% Damage: 28-68 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[7cr]:%NAME%{%TAN% Damage: 31-35 Durability: - Sockets: 6}%CONTINUE%//
+ItemDisplay[7bs]:%NAME%{%TAN% Damage: 37-53 Durability: 32 Sockets: 4}%CONTINUE%//
+ItemDisplay[7ls]:%NAME%{%TAN% Damage: 5-77 Durability: 44 Sockets: 4}%CONTINUE%//
+ItemDisplay[7wd]:%NAME%{%TAN% Damage: 40-50 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[72h]:%NAME%{%TAN% One-Handed: 22-56 Two-Handed: 50-94 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[7cm]:%NAME%{%TAN% One-Handed: 22-62 Two-Handed: 67-96 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[7gs]:%NAME%{%TAN% One-Handed: 15-75 Two-Handed: 55-118 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[7b7]:%NAME%{%TAN% One-Handed: 24-54 Two-Handed: 71-83 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[7fb]:%NAME%{%TAN% One-Handed: 26-70 Two-Handed: 61-121 Durability: 50 Sockets: 5}%CONTINUE%//
+ItemDisplay[7gd]:%NAME%{%TAN% One-Handed: 25-65 Two-Handed: 58-1115 Durability: 50 Sockets: 6}%CONTINUE%//
+////////////////// Throwing Weapons //////////////////
+ItemDisplay[7tk]:%NAME%{%TAN% Throw: 23-54 One-Hand: 23-54 Stack: 200}%CONTINUE%//
+ItemDisplay[7ta]:%NAME%{%TAN% Throw: 23-39 One-Hand: 27-35 Stack: 200}%CONTINUE%//
+ItemDisplay[7bk]:%NAME%{%TAN% Throw: 15-66 One-Hand: 17-65 Stack: 200}%CONTINUE%//
+ItemDisplay[7b8]:%NAME%{%TAN% Throw: 7-60 One-Hand: 11-56 Stack: 200}%CONTINUE%//
+////////////////// Wands //////////////////
+ItemDisplay[7wn]:%NAME%{%TAN% Damage: 18-33 Durability: 22 Sockets: 2}%CONTINUE%//
+ItemDisplay[7yw]:%NAME%{%TAN% Damage: 20-40 Durability: 22 Sockets: 2}%CONTINUE%//
+ItemDisplay[7bw]:%NAME%{%TAN% Damage: 10-31 Durability: 22 Sockets: 2}%CONTINUE%//
+ItemDisplay[7gw]:%NAME%{%TAN% Damage: 22-28 Durability: 22 Sockets: 2}%CONTINUE%//
+////////////////// Amazon Weapons //////////////////
+ItemDisplay[amb]:%NAME%{%TAN% Damage: 20-47 Sockets: 5}%CONTINUE%//
+ItemDisplay[amc]:%NAME%{%TAN% Damage: 14-72 Sockets: 5}%CONTINUE%//
+ItemDisplay[amd]:%NAME%{%TAN% Damage: 65-95 Durability: 28 Sockets: 6}%CONTINUE%//
+ItemDisplay[ame]:%NAME%{%TAN% Damage: 37-153 Durability: 25 Sockets: 6}%CONTINUE%//
+ItemDisplay[amf]:%NAME%{%TAN% Throw: 33-66 One-Hand: 30-54 Stack: 80}%CONTINUE%//
+////////////////// Assassin Katars //////////////////
+ItemDisplay[7ar]:%NAME%{%TAN% Damage: 39-52 Durability: 48 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[7wb]:%NAME%{%TAN% Damage: 34-45 Durability: 56 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[7xf]:%NAME%{%TAN% Damage: 44-53 Durability: 64 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[7cs]:%NAME%{%TAN% Damage: 36-42 Durability: 72 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[7lw]:%NAME%{%TAN% Damage: 22-53 Durability: 52 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[7tw]:%NAME%{%TAN% Damage: 24-44 Durability: 69 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[7qr]:%NAME%{%TAN% Damage: 40-51 Durability: 68 Sockets: 3 Skills: Yes}%CONTINUE%//
+////////////////// Sorceress Orbs //////////////////
+ItemDisplay[obb]:%NAME%{%TAN% Damage: 21-46 Durability: 15 Sockets: 2}%CONTINUE%//
+ItemDisplay[obc]:%NAME%{%TAN% Damage: 18-50 Durability: 15 Sockets: 2}%CONTINUE%//
+ItemDisplay[obd]:%NAME%{%TAN% Damage: 23-55 Durability: 15 Sockets: 2}%CONTINUE%//
+ItemDisplay[obe]:%NAME%{%TAN% Damage: 12-66 Durability: 15 Sockets: 2}%CONTINUE%//
+ItemDisplay[obf]:%NAME%{%TAN% Damage: 30-53 Durability: 15 Sockets: 3}%CONTINUE%//
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////// Alert+Filter /////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////// Set //////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////////////// Shared ////////////////////////////////////
+ItemDisplay[SET !ID amu]:%NAME% %TAN%(Arcanna/Cathan/Civerb/Angelic/Iratha/Tancred/Vidala/The Disciple/Tal Rasha)%DOT-0A%//
+ItemDisplay[SET !ID rng]:%NAME% %TAN%(Cathan/Angelic/PD2 Bul-kathos)%DOT-0A%//
+ItemDisplay[SET !ID tgl]:%NAME% %TAN%(Arctic/Iratha)%DOT-0A%//
+ItemDisplay[SET !ID mbl]:%NAME% %TAN%(Hsaru/Hwanin)%DOT-0A%//
+ItemDisplay[SET !ID tbl]:%NAME% %TAN%(Infernal/Iratha)%DOT-0A%//
+ItemDisplay[SET !ID cap]:%NAME% %TAN%(Infernal/Sander)%DOT-0A%//
+ItemDisplay[SET !ID crn]:%NAME% %TAN%(Iratha/Milabrega)%DOT-0A%//
+ItemDisplay[SET !ID vbt]:%NAME% %TAN%(Cow King/Sander)%DOT-0A%//
+
+//////////////////////////////////// Normal ////////////////////////////////////
+ItemDisplay[SET !ID wst]:%NAME% %TAN%(Arcanna's Deathwand)%DOT-0A%//
+ItemDisplay[SET !ID ltp]:%NAME% %TAN%(Arcanna's Flesh)%DOT-0A%//
+ItemDisplay[SET !ID skp]:%NAME% %TAN%(Arcanna's Head)%DOT-0A%//
+ItemDisplay[SET !ID vbl]:%NAME% %TAN%(Arctic Binding)%DOT-0A%//
+ItemDisplay[SET !ID qui]:%NAME% %TAN%(Arctic Furs)%DOT-0A%//
+ItemDisplay[SET !ID swb]:%NAME% %TAN%(Arctic Horn)%DOT-0A%//
+ItemDisplay[SET !ID 2ax]:%NAME% %TAN%(Berserker's Hatchet)%DOT-0A%//
+ItemDisplay[SET !ID spl]:%NAME% %TAN%(Berserker's Hauberk)%DOT-0A%//
+ItemDisplay[SET !ID hlm]:%NAME% %TAN%(Berserker's Headgear)%DOT-0A%//
+ItemDisplay[SET !ID msk]:%NAME% %TAN%(Cathan's Visage)%DOT-0A%//
+ItemDisplay[SET !ID chn]:%NAME% %TAN%(Cathan's Mesh)%DOT-0A%//
+ItemDisplay[SET !ID bst]:%NAME% %TAN%(Cathan's Rule)%DOT-0A%//
+ItemDisplay[SET !ID gsc]:%NAME% %TAN%(Civerb's Cudgel)%DOT-0A%//
+ItemDisplay[SET !ID lrg]:%NAME% %TAN%(Civerb's Ward)%DOT-0A%//
+ItemDisplay[SET !ID sml]:%NAME% %TAN%(Cleglaw's Claw)%DOT-0A%//
+ItemDisplay[SET !ID mgl]:%NAME% %TAN%(Cleglaw's Pincers)%DOT-0A%//
+ItemDisplay[SET !ID lsd]:%NAME% %TAN%(Cleglaw's Tooth)%DOT-0A%//
+ItemDisplay[SET !ID rng]:%NAME% %TAN%(Angelic Mantle)%DOT-0A%//
+ItemDisplay[SET !ID sbr]:%NAME% %TAN%(Angelic Sickle)%DOT-0A%//
+ItemDisplay[SET !ID buc]:%NAME% %TAN%(Hsaru's Iron Fist)%DOT-0A%//
+ItemDisplay[SET !ID mbt]:%NAME% %TAN%(Hsaru's Iron Heel)%DOT-0A%//
+ItemDisplay[SET !ID dgr]:%NAME% %TAN%(Infernal Spine)%DOT-0A%//
+ItemDisplay[SET !ID gwn]:%NAME% %TAN%(Infernal Torch)%DOT-0A%//
+ItemDisplay[SET !ID fhl]:%NAME% %TAN%(Isenhart's Horns)%DOT-0A%//
+ItemDisplay[SET !ID brs]:%NAME% %TAN%(Isenhart's Case)%DOT-0A%//
+ItemDisplay[SET !ID bsd]:%NAME% %TAN%(Isenhart's Lightbrand)%DOT-0A%//
+ItemDisplay[SET !ID gts]:%NAME% %TAN%(Isenhart's Parry)%DOT-0A%//
+ItemDisplay[SET !ID kit]:%NAME% %TAN%(Milabrega's Orb)%DOT-0A%//
+ItemDisplay[SET !ID aar]:%NAME% %TAN%(Milabrega's Robe)%DOT-0A%//
+ItemDisplay[SET !ID wsp]:%NAME% %TAN%(Milabrega's Rod)%DOT-0A%//
+ItemDisplay[SET !ID hgl]:%NAME% %TAN%(Sigon's Gage)%DOT-0A%//
+ItemDisplay[SET !ID tow]:%NAME% %TAN%(Sigon's Guard)%DOT-0A%//
+ItemDisplay[SET !ID hbt]:%NAME% %TAN%(Sigon's Sabot)%DOT-0A%//
+ItemDisplay[SET !ID gth]:%NAME% %TAN%(Sigon's Shelter)%DOT-0A%//
+ItemDisplay[SET !ID ghm]:%NAME% %TAN%(Sigon's Visor)%DOT-0A%//
+ItemDisplay[SET !ID hbl]:%NAME% %TAN%(Sigon's Wrap)%DOT-0A%//
+ItemDisplay[SET !ID mpi]:%NAME% %TAN%(Tancred's Crowbill)%DOT-0A%//
+ItemDisplay[SET !ID lbt]:%NAME% %TAN%(Tancred's Hobnails)%DOT-0A%//
+ItemDisplay[SET !ID bhm]:%NAME% %TAN%(Tancred's Skull)%DOT-0A%//
+ItemDisplay[SET !ID ful]:%NAME% %TAN%(Tancred's Spine)%DOT-0A%//
+ItemDisplay[SET !ID lbl]:%NAME% %TAN%(Death's Guard)%DOT-0A%//
+ItemDisplay[SET !ID lgl]:%NAME% %TAN%(Death's Hand)%DOT-0A%//
+ItemDisplay[SET !ID wsd]:%NAME% %TAN%(Death's Touch)%DOT-0A%//
+ItemDisplay[SET !ID lea]:%NAME% %TAN%(Vidala's Ambush)%DOT-0A%//
+ItemDisplay[SET !ID lbb]:%NAME% %TAN%(Vidala's Barb)%DOT-0A%//
+ItemDisplay[SET !ID tbt]:%NAME% %TAN%(Vidala's Fetlock)%DOT-0A%//
+
+////////////////////////////////// Exeptional //////////////////////////////////
+ItemDisplay[SET !ID 7ma]:%NAME% %TAN%(Dangoon's Teaching)%MAP-0A%//
+ItemDisplay[SET !ID xrs]:%NAME% %TAN%(Haemosu's Adament)%MAP-0A%//
+ItemDisplay[SET !ID uhm]:%NAME% %TAN%(Ondal's Almighty)%MAP-0A%//
+ItemDisplay[SET !ID uts]:%NAME% %TAN%(Taebaek'sGlory)%MAP-0A%//
+ItemDisplay[SET !ID umc]:%NAME% %TAN%(Credendum)%MAP-0A%//
+ItemDisplay[SET !ID uui]:%NAME% %TAN%(Dark Adherent)%MAP-0A%//
+ItemDisplay[SET !ID ulg]:%NAME% %TAN%(Laying of Hands)%MAP-0A%//
+ItemDisplay[SET !ID xlb]:%NAME% %TAN%(Rite of Passage)%MAP-0A%//
+ItemDisplay[SET !ID 9vo]:%NAME% %TAN%(Hwanin's Justice)%MAP-0A%//
+ItemDisplay[SET !ID xcl]:%NAME% %TAN%(Hwanin's Refuge)%MAP-0A%//
+ItemDisplay[SET !ID xrn]:%NAME% %TAN%(Hwanin's Splendor)%MAP-0A%//
+ItemDisplay[SET !ID stu]:%NAME% %TAN%(Cow King's Hide)%MAP-0A%//
+ItemDisplay[SET !ID xap]:%NAME% %TAN%(Cow King's Horns)%MAP-0A%//
+ItemDisplay[SET !ID ci0]:%NAME% %TAN%(Naj's Circlet)%MAP-0A%//
+ItemDisplay[SET !ID ult]:%NAME% %TAN%(Naj's Light Plate)%MAP-0A%//
+ItemDisplay[SET !ID 6cs]:%NAME% %TAN%(Naj's Puzzler)%MAP-0A%//
+ItemDisplay[SET !ID bwn]:%NAME% %TAN%(Sander's Superstition)%MAP-0A%//
+ItemDisplay[SET !ID vgl]:%NAME% %TAN%(Sander's Taboo)%MAP-0A%//
+ItemDisplay[SET !ID 7ls]:%NAME% %TAN%(Sazabi's Cobalt Redeemer)%MAP-0A%//
+ItemDisplay[SET !ID upl]:%NAME% %TAN%(Sazabi's Ghost Liberator)%MAP-0A%//
+ItemDisplay[SET !ID xhl]:%NAME% %TAN%(Sazabi's Sazabi's Mental Sheath)%MAP-0A%//
+ItemDisplay[SET !ID xhm]:%NAME% %TAN%(Guillaume's Face)%MAP-0A%//
+ItemDisplay[SET !ID xvg]:%NAME% %TAN%(Magnus's Skin)%MAP-0A%//
+ItemDisplay[SET !ID xml]:%NAME% %TAN%(Whitstan's Guard)%MAP-0A%//
+ItemDisplay[SET !ID ztb]:%NAME% %TAN%(Wilhelm's Pride)%MAP-0A%//
+
+//////////////////////////////////// Elite /////////////////////////////////////
+ItemDisplay[SET !ID xtb]:%NAME% %TAN%(Aldur's Advance)%MAP-0A%//
+ItemDisplay[SET !ID uul]:%NAME% %TAN%(Aldur's Deception)%MAP-0A%//
+ItemDisplay[SET !ID 9mt]:%NAME% %TAN%(Aldur's Rhythm)%MAP-0A%//
+ItemDisplay[SET !ID dr8]:%NAME% %TAN%(Aldur's Stony Gaze)%MAP-0A%//
+ItemDisplay[SET !ID 7gd]:%NAME% %TAN%(Bul-kathos' Sacred Charge)%MAP-0A%//
+ItemDisplay[SET !ID 7wd]:%NAME% %TAN%(Bul-kathos' Tribal Guardian)%MAP-0A%//
+ItemDisplay[SET !ID xar]:%NAME% %TAN%(Griswold's Heart)%MAP-0A%//
+ItemDisplay[SET !ID paf]:%NAME% %TAN%(Griswold's Honor)%MAP-0A%//
+ItemDisplay[SET !ID 7ws]:%NAME% %TAN%(Griswold's Redemption)%MAP-0A%//
+ItemDisplay[SET !ID urn]:%NAME% %TAN%(Griswold's Valor)%MAP-0A%//
+ItemDisplay[SET !ID amc]:%NAME% %TAN%(M'avina's Caster)%MAP-0A%//
+ItemDisplay[SET !ID uld]:%NAME% %TAN%(M'avina's Embrace)%MAP-0A%//
+ItemDisplay[SET !ID xtg]:%NAME% %TAN%(M'avina's Icy Clutch)%MAP-0A%//
+ItemDisplay[SET !ID zvb]:%NAME% %TAN%(M'avina's Tenet)%MAP-0A%//
+ItemDisplay[SET !ID ci3]:%NAME% %TAN%(M'avina's True Sight)%MAP-0A%//
+ItemDisplay[SET !ID 7qr]:%NAME% %TAN%(Natalya's Mark)%MAP-0A%//
+ItemDisplay[SET !ID ucl]:%NAME% %TAN%(Natalya's Shadow)%MAP-0A%//
+ItemDisplay[SET !ID xmb]:%NAME% %TAN%(Natalya's Soul)%MAP-0A%//
+ItemDisplay[SET !ID xh9]:%NAME% %TAN%(Natalya's Totem)%MAP-0A%//
+ItemDisplay[SET !ID zmb]:%NAME% %TAN%(Tal Rasha's Fine-Spun Cloth)%MAP-0A%//
+ItemDisplay[SET !ID uth]:%NAME% %TAN%(Tal Rasha's Guardianship)%MAP-0A%//
+ItemDisplay[SET !ID xsk]:%NAME% %TAN%(Tal Rasha's Horadric Crest)%MAP-0A%//
+ItemDisplay[SET !ID oba]:%NAME% %TAN%(Tal Rasha's Lidless Eye)%MAP-0A%//
+ItemDisplay[SET !ID xmg]:%NAME% %TAN%(Trang-Oul's Claws)%MAP-0A%//
+ItemDisplay[SET !ID utc]:%NAME% %TAN%(Trang-Oul's Girth)%MAP-0A%//
+ItemDisplay[SET !ID uh9]:%NAME% %TAN%(Trang-Oul's Guise)%MAP-0A%//
+ItemDisplay[SET !ID xul]:%NAME% %TAN%(Trang-Oul's Scales)%MAP-0A%//
+ItemDisplay[SET !ID ne9]:%NAME% %TAN%(Trang-Oul's Wing)%MAP-0A%//
+ItemDisplay[SET !ID zhb]:%NAME% %TAN%(Immortal King's Detail)%MAP-0A%//
+ItemDisplay[SET !ID xhg]:%NAME% %TAN%(Immortal King's Forge)%MAP-0A%//
+ItemDisplay[SET !ID xhb]:%NAME% %TAN%(Immortal King's Pillar)%MAP-0A%//
+ItemDisplay[SET !ID uar]:%NAME% %TAN%(Immortal King's Soul Cage)%MAP-0A%//
+ItemDisplay[SET !ID 7m7]:%NAME% %TAN%(Immortal King's Stone Crusher)%MAP-0A%//
+ItemDisplay[SET !ID ba5]:%NAME% %TAN%(Immortal King's Will)%MAP-0A%//
+
+
+////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////// Unique ////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////////////// Shared ////////////////////////////////////
+ItemDisplay[UNI !ID amu]:%NAME%//
+ItemDisplay[UNI !ID rin]:%NAME%//
+ItemDisplay[UNI !ID cm1]:%NAME% %TAN%(Annihilus)%MAP-0A%//
+ItemDisplay[UNI !ID cm2]:%NAME% %TAN%(Hellfire Torch)%MAP-0A%//
+ItemDisplay[UNI !ID cm3]:%NAME% %TAN%(Gheed's Fortune)%MAP-0A%//
+ItemDisplay[UNI !ID jew]:%NAME% %TAN%(Rainbow Facet)%MAP-0A%//
+ItemDisplay[UNI !ID ci2]:%NAME% %TAN%(Kira's Guardian)%MAP-0A%//
+ItemDisplay[UNI !ID ci3]:%NAME% %TAN%(Griffon's Eye)%MAP-0A%//
+////////////////// Amazon //////////////////
+ItemDisplay[UNI !ID amd]:%NAME% %TAN%(Stoneraven)%MAP-0A%//
+ItemDisplay[UNI !ID am9]:%NAME% %TAN%(Lycander's Flank)%MAP-0A%//
+ItemDisplay[UNI !ID am7]:%NAME% %TAN%(Lycander's Aim)%MAP-0A%//
+ItemDisplay[UNI !ID ama]:%NAME% %TAN%(Titan's Revenge)%MAP-0A%//
+ItemDisplay[UNI !ID amf]:%NAME% %TAN%(Thunderstroke)%MAP-0A%//
+ItemDisplay[UNI !ID amb]:%NAME% %TAN%(Blood Raven's Charge)%MAP-0A%//
+////////////////// Assassin //////////////////
+ItemDisplay[UNI !ID 7cs]:%NAME% %TAN%(Shadow Killer)%MAP-0A%//
+ItemDisplay[UNI !ID 9tw]:%NAME% %TAN%(Bartuc's Cut-Throat)%MAP-0A%//
+ItemDisplay[UNI !ID 7wb]:%NAME% %TAN%(Jade Talon)%MAP-0A%//
+ItemDisplay[UNI !ID 7lw]:%NAME% %TAN%(Firelizard's Talons)%MAP-0A%//
+//////////////////Necromancer //////////////////
+ItemDisplay[UNI !ID nea]:%NAME% %TAN%(Homunculus)%MAP-0A%//
+ItemDisplay[UNI !ID nef]:%NAME% %TAN%(Darkforce Spawn)%MAP-0A%//
+ItemDisplay[UNI !ID nee]:%NAME% %TAN%(Boneflame)%MAP-0A%//
+////////////////// Barbarian //////////////////
+ItemDisplay[UNI !ID baa]:%NAME% %TAN%(Arreat's Face)%MAP-0A%//
+ItemDisplay[UNI !ID bac]:%NAME% %TAN%(Wolfhowl)%MAP-0A%//
+ItemDisplay[UNI !ID bad]:%NAME% %TAN%(Demonhorn's Edge)%MAP-0A%//
+ItemDisplay[UNI !ID bae]:%NAME% %TAN%(Halaberd's Reign)%MAP-0A%//
+////////////////// Sorceress //////////////////
+ItemDisplay[UNI !ID oba]:%NAME% %TAN%(The Oculus)%MAP-0A%//
+ItemDisplay[UNI !ID obc]:%NAME% %TAN%(Eschuta's Temper)%MAP-0A%//
+ItemDisplay[UNI !ID obf]:%NAME% %TAN%(Death's Fathom)%MAP-0A%//
+////////////////// Druid //////////////////
+ItemDisplay[UNI !ID dra]:%NAME% %TAN%(Jalal's Mane)%MAP-0A%//
+ItemDisplay[UNI !ID drb]:%NAME% %TAN%(Cerebus' Bite)%MAP-0A%//
+ItemDisplay[UNI !ID dre]:%NAME% %TAN%(Ravenlore)%MAP-0A%//
+ItemDisplay[UNI !ID drd]:%NAME% %TAN%(Spirit Keeper)%MAP-0A%//
+////////////////// Paladin //////////////////
+ItemDisplay[UNI !ID pac]:%NAME% %TAN%(Alma Negra)%MAP-0A%//
+ItemDisplay[UNI !ID pa9]:%NAME% %TAN%(Herald of Zakarum)%MAP-0A%//
+ItemDisplay[UNI !ID pae]:%NAME% %TAN%(Dragonscale)%MAP-0A%//
+
+//////////////////////////////////// Normal ////////////////////////////////////
+//////////////////Helms //////////////////
+ItemDisplay[UNI !ID cap]:%NAME% %TAN%(Biggin's Bonnet)%DOT-0A%//
+ItemDisplay[UNI !ID skp]:%NAME% %TAN%(Tarnhelm)%DOT-0A%//
+ItemDisplay[UNI !ID hlm]:%NAME% %TAN%(Coif of Glory)%DOT-0A%//
+ItemDisplay[UNI !ID fhl]:%NAME% %TAN%(Duskdeep)%DOT-0A%//
+ItemDisplay[UNI !ID ghm]:%NAME% %TAN%(Howltusk)%DOT-0A%//
+ItemDisplay[UNI !ID msk]:%NAME% %TAN%(The Face of Horror)%DOT-0A%//
+ItemDisplay[UNI !ID crn]:%NAME% %TAN%(Undead Crown)%DOT-0A%//
+ItemDisplay[UNI !ID bhm]:%NAME% %TAN%(Wormskull)%DOT-0A%//
+////////////////// Armors //////////////////
+ItemDisplay[UNI !ID qui]:%NAME% %TAN%(Greyform)%DOT-0A%//
+ItemDisplay[UNI !ID lea]:%NAME% %TAN%(Blinkbat's Form)%DOT-0A%//
+ItemDisplay[UNI !ID hla]:%NAME% %TAN%(The Centurion)%DOT-0A%//
+ItemDisplay[UNI !ID stu]:%NAME% %TAN%(Twitchthroe)%DOT-0A%//
+ItemDisplay[UNI !ID rng]:%NAME% %TAN%(Darkglow)%DOT-0A%//
+ItemDisplay[UNI !ID scl]:%NAME% %TAN%(Hawkmail)%DOT-0A%//
+ItemDisplay[UNI !ID brs]:%NAME% %TAN%(Venom Ward)%DOT-0A%//
+ItemDisplay[UNI !ID chn]:%NAME% %TAN%(Sparking Mail)%DOT-0A%//
+ItemDisplay[UNI !ID spl]:%NAME% %TAN%(Iceblink)%DOT-0A%//
+ItemDisplay[UNI !ID ltp]:%NAME% %TAN%(Heavenly Garb)%DOT-0A%//
+ItemDisplay[UNI !ID fld]:%NAME% %TAN%(Rockfleece)%DOT-0A%//
+ItemDisplay[UNI !ID plt]:%NAME% %TAN%(Boneflesh)%DOT-0A%//
+ItemDisplay[UNI !ID gth]:%NAME% %TAN%(Rattlecage)%DOT-0A%//
+ItemDisplay[UNI !ID ful]:%NAME% %TAN%(Goldskin)%DOT-0A%//
+ItemDisplay[UNI !ID aar]:%NAME% %TAN%(Silks of the Victor)%DOT-0A%//
+////////////////// Shields //////////////////
+ItemDisplay[UNI !ID buc]:%NAME% %TAN%(Pelta Lunata)%DOT-0A%//
+ItemDisplay[UNI !ID sml]:%NAME% %TAN%(Umbral Disk)%DOT-0A%//
+ItemDisplay[UNI !ID lrg]:%NAME% %TAN%(Stormguild)%DOT-0A%//
+ItemDisplay[UNI !ID kit]:%NAME% %TAN%(Steelclash)%DOT-0A%//
+ItemDisplay[UNI !ID spk]:%NAME% %TAN%(Swordback Hold)%DOT-0A%//
+ItemDisplay[UNI !ID tow]:%NAME% %TAN%(Bverrit Keep)%DOT-0A%//
+ItemDisplay[UNI !ID bsh]:%NAME% %TAN%(Wall of the Eyeless)%DOT-0A%//
+ItemDisplay[UNI !ID gts]:%NAME% %TAN%(The Ward)%DOT-0A%//
+////////////////// Gloves //////////////////
+ItemDisplay[UNI !ID lgl]:%NAME% %TAN%(The Hand of Broc)%DOT-0A%//
+ItemDisplay[UNI !ID vgl]:%NAME% %TAN%(Bloodfist)%DOT-0A%//
+ItemDisplay[UNI !ID mgl]:%NAME% %TAN%(Chance Guards)%DOT-0A%//
+ItemDisplay[UNI !ID tgl]:%NAME% %TAN%(Magefist)%DOT-0A%//
+ItemDisplay[UNI !ID hgl]:%NAME% %TAN%(Frostburn)%DOT-0A%//
+////////////////// Boots //////////////////
+ItemDisplay[UNI !ID lbt]:%NAME% %TAN%(Hotspur)%DOT-0A%//
+ItemDisplay[UNI !ID vbt]:%NAME% %TAN%(Gorefoot)%DOT-0A%//
+ItemDisplay[UNI !ID mbt]:%NAME% %TAN%(Treads of Cthon)%DOT-0A%//
+ItemDisplay[UNI !ID tbt]:%NAME% %TAN%(Goblin Toe)%DOT-0A%//
+ItemDisplay[UNI !ID hbt]:%NAME% %TAN%(Tearhaunch)%DOT-0A%//
+////////////////// Belts //////////////////
+ItemDisplay[UNI !ID lbl]:%NAME% %TAN%(Lenymo)%DOT-0A%//
+ItemDisplay[UNI !ID vbl]:%NAME% %TAN%(Snakecord)%DOT-0A%//
+ItemDisplay[UNI !ID mbl]:%NAME% %TAN%(Nightsmoke)%DOT-0A%//
+ItemDisplay[UNI !ID tbl]:%NAME% %TAN%(Goldwrap)%DOT-0A%//
+ItemDisplay[UNI !ID hbl]:%NAME% %TAN%(Bladebuckle)%DOT-0A%//
+////////////////// Axes //////////////////
+ItemDisplay[UNI !ID hax]:%NAME% %TAN%(The Gnasher)%DOT-0A%//
+ItemDisplay[UNI !ID axe]:%NAME% %TAN%(Deathspade)%DOT-0A%//
+ItemDisplay[UNI !ID 2ax]:%NAME% %TAN%(Bladebone)%DOT-0A%//
+ItemDisplay[UNI !ID mpi]:%NAME% %TAN%(Skull Splitter)%DOT-0A%//
+ItemDisplay[UNI !ID wax]:%NAME% %TAN%(Rakescar)%DOT-0A%//
+ItemDisplay[UNI !ID lax]:%NAME% %TAN%(Axe of Fechmar)%DOT-0A%//
+ItemDisplay[UNI !ID bax]:%NAME% %TAN%(Goreshovel)%DOT-0A%//
+ItemDisplay[UNI !ID btx]:%NAME% %TAN%(The Chieftain)%DOT-0A%//
+ItemDisplay[UNI !ID gax]:%NAME% %TAN%(Brainhew)%DOT-0A%//
+ItemDisplay[UNI !ID gix]:%NAME% %TAN%(Humongous)%DOT-0A%//
+////////////////// Bows //////////////////
+ItemDisplay[UNI !ID sbw]:%NAME% %TAN%(Pluckeye)%DOT-0A%//
+ItemDisplay[UNI !ID hbw]:%NAME% %TAN%(Witherstring)%DOT-0A%//
+ItemDisplay[UNI !ID lbw]:%NAME% %TAN%(Raven Claw)%DOT-0A%//
+ItemDisplay[UNI !ID cbw]:%NAME% %TAN%(Rogue's Bow)%DOT-0A%//
+ItemDisplay[UNI !ID sbb]:%NAME% %TAN%(Stormstrike)%DOT-0A%//
+ItemDisplay[UNI !ID lbb]:%NAME% %TAN%(Wizendraw)%DOT-0A%//
+ItemDisplay[UNI !ID swb]:%NAME% %TAN%(Hellclap)%DOT-0A%//
+ItemDisplay[UNI !ID lwb]:%NAME% %TAN%(Blastbark)%DOT-0A%//
+////////////////// Crossbows //////////////////
+ItemDisplay[UNI !ID lxb]:%NAME% %TAN%(Leadcrow)%DOT-0A%//
+ItemDisplay[UNI !ID mxb]:%NAME% %TAN%(Ichorsting)%DOT-0A%//
+ItemDisplay[UNI !ID hxb]:%NAME% %TAN%(Hellcast)%DOT-0A%//
+ItemDisplay[UNI !ID rxb]:%NAME% %TAN%(Doomslinger)%DOT-0A%//
+////////////////// Daggers //////////////////
+ItemDisplay[UNI !ID dgr]:%NAME% %TAN%(Gull)%DOT-0A%//
+ItemDisplay[UNI !ID dir]:%NAME% %TAN%(The Diggler)%DOT-0A%//
+ItemDisplay[UNI !ID kri]:%NAME% %TAN%(The Jade Tan Do)%DOT-0A%//
+ItemDisplay[UNI !ID bld]:%NAME% %TAN%(Spectral Shard)%DOT-0A%//
+////////////////// Maces //////////////////
+ItemDisplay[UNI !ID clb]:%NAME% %TAN%(Felloak)%DOT-0A%//
+ItemDisplay[UNI !ID spc]:%NAME% %TAN%(Stoutnail)%DOT-0A%//
+ItemDisplay[UNI !ID mac]:%NAME% %TAN%(Crushflange)%DOT-0A%//
+ItemDisplay[UNI !ID mst]:%NAME% %TAN%(Bloodrise)%DOT-0A%//
+ItemDisplay[UNI !ID fla]:%NAME% %TAN%(The General's Tan Do Li Ga)%DOT-0A%//
+ItemDisplay[UNI !ID whm]:%NAME% %TAN%(Ironstone)%DOT-0A%//
+ItemDisplay[UNI !ID mau]:%NAME% %TAN%(Bonesnap)%DOT-0A%//
+ItemDisplay[UNI !ID gma]:%NAME% %TAN%(Steeldriver)%DOT-0A%//
+////////////////// Polearms //////////////////
+ItemDisplay[UNI !ID bar]:%NAME% %TAN%(Dimoak's Hew)%DOT-0A%//
+ItemDisplay[UNI !ID vou]:%NAME% %TAN%(Steelgoad)%DOT-0A%//
+ItemDisplay[UNI !ID scy]:%NAME% %TAN%(Soul Harvest)%DOT-0A%//
+ItemDisplay[UNI !ID pax]:%NAME% %TAN%(The Battlebranch)%DOT-0A%//
+ItemDisplay[UNI !ID hal]:%NAME% %TAN%(Woestave)%DOT-0A%//
+ItemDisplay[UNI !ID wsc]:%NAME% %TAN%(The Grim Reaper)%DOT-0A%//
+////////////////// Scepters //////////////////
+ItemDisplay[UNI !ID scp]:%NAME% %TAN%(Knell Striker)%DOT-0A%//
+ItemDisplay[UNI !ID gsc]:%NAME% %TAN%(Rusthandle)%DOT-0A%//
+ItemDisplay[UNI !ID wsp]:%NAME% %TAN%(Stormeye)%DOT-0A%//
+////////////////// Spears //////////////////
+ItemDisplay[UNI !ID spr]:%NAME% %TAN%(The Dragon Chang)%DOT-0A%//
+ItemDisplay[UNI !ID tri]:%NAME% %TAN%(Razortine)%DOT-0A%//
+ItemDisplay[UNI !ID brn]:%NAME% %TAN%(Bloodthief)%DOT-0A%//
+ItemDisplay[UNI !ID spt]:%NAME% %TAN%(Lance of Yaggai)%DOT-0A%//
+ItemDisplay[UNI !ID pik]:%NAME% %TAN%(The Tannr Gorerod)%DOT-0A%//
+////////////////// Staves //////////////////
+ItemDisplay[UNI !ID sst]:%NAME% %TAN%(Bane Ash)%DOT-0A%//
+ItemDisplay[UNI !ID lst]:%NAME% %TAN%(Serpent Lord)%DOT-0A%//
+ItemDisplay[UNI !ID cst]:%NAME% %TAN%(Spire of Lazarus)%DOT-0A%//
+ItemDisplay[UNI !ID bst]:%NAME% %TAN%(The Salamander)%DOT-0A%//
+ItemDisplay[UNI !ID wst]:%NAME% %TAN%(The Iron Jang Bong)%DOT-0A%//
+////////////////// Swords //////////////////
+ItemDisplay[UNI !ID ssd]:%NAME% %TAN%(Rixot's Keen)%DOT-0A%//
+ItemDisplay[UNI !ID scm]:%NAME% %TAN%(Blood Crescent)%DOT-0A%//
+ItemDisplay[UNI !ID sbr]:%NAME% %TAN%(Skewer of Krintiz)%DOT-0A%//
+ItemDisplay[UNI !ID flc]:%NAME% %TAN%(Gleamscythe)%DOT-0A%//
+ItemDisplay[UNI !ID crs]:%NAME% %TAN%(Azurewrath)%DOT-0A%//
+ItemDisplay[UNI !ID bsd]:%NAME% %TAN%(Griswold's Edge)%DOT-0A%//
+ItemDisplay[UNI !ID lsd]:%NAME% %TAN%(Hellplague)%DOT-0A%//
+ItemDisplay[UNI !ID wsd]:%NAME% %TAN%(Culwen's Point)%DOT-0A%//
+ItemDisplay[UNI !ID 2hs]:%NAME% %TAN%(Shadowfang)%DOT-0A%//
+ItemDisplay[UNI !ID clm]:%NAME% %TAN%(Soulflay)%DOT-0A%//
+ItemDisplay[UNI !ID gis]:%NAME% %TAN%(Kinemil's Awl)%DOT-0A%//
+ItemDisplay[UNI !ID bsw]:%NAME% %TAN%(Blacktongue)%DOT-0A%//
+ItemDisplay[UNI !ID flb]:%NAME% %TAN%(Ripsaw)%DOT-0A%//
+ItemDisplay[UNI !ID gsd]:%NAME% %TAN%(The Patriarch)%DOT-0A%//
+////////////////// Wands //////////////////
+ItemDisplay[UNI !ID wnd]:%NAME% %TAN%(Torch of Iro)%DOT-0A%//
+ItemDisplay[UNI !ID ywn]:%NAME% %TAN%(Maelstrom)%DOT-0A%//
+ItemDisplay[UNI !ID bwn]:%NAME% %TAN%(Gravenspine)%DOT-0A%//
+ItemDisplay[UNI !ID gwn]:%NAME% %TAN%(Ume's Lament)%DOT-0A%//
+
+////////////////////////////////// Exeptional //////////////////////////////////
+////////////////// Helms //////////////////
+ItemDisplay[UNI !ID xap]:%NAME% %TAN%(Peasant Crown)%MAP-0A%//
+ItemDisplay[UNI !ID xkp]:%NAME% %TAN%(Rockstopper)%MAP-0A%//
+ItemDisplay[UNI !ID xlm]:%NAME% %TAN%(Stealskull)%MAP-0A%//
+ItemDisplay[UNI !ID xhl]:%NAME% %TAN%(Darksight Helm)%MAP-0A%//
+ItemDisplay[UNI !ID xhm]:%NAME% %TAN%(Valkyrie Wing)%MAP-0A%//
+ItemDisplay[UNI !ID xsk]:%NAME% %TAN%(Blackhorn's Face)%MAP-0A%//
+ItemDisplay[UNI !ID xrn]:%NAME% %TAN%(Crown of Thieves)%MAP-0A%//
+ItemDisplay[UNI !ID xh9]:%NAME% %TAN%(Vampire Gaze)%MAP-0A%//
+////////////////// Armors //////////////////
+ItemDisplay[UNI !ID xui]:%NAME% %TAN%(The Spirit Shroud)%MAP-0A%//
+ItemDisplay[UNI !ID xea]:%NAME% %TAN%(Skin of the Vipermagi)%MAP-0A%//
+ItemDisplay[UNI !ID xla]:%NAME% %TAN%(Skin of the Flayed One)%MAP-0A%//
+ItemDisplay[UNI !ID xtu]:%NAME% %TAN%(Iron Pelt)%MAP-0A%//
+ItemDisplay[UNI !ID xcl]:%NAME% %TAN%(Crow Caw)%MAP-0A%//
+ItemDisplay[UNI !ID xng]:%NAME% %TAN%(Spirit Forge)%MAP-0A%//
+ItemDisplay[UNI !ID xrs]:%NAME% %TAN%(Duriel's Shell)%MAP-0A%//
+ItemDisplay[UNI !ID xhn]:%NAME% %TAN%(Shaftstop)%MAP-0A%//
+ItemDisplay[UNI !ID xpl]:%NAME% %TAN%(Skullder's Ire)%MAP-0A%//
+ItemDisplay[UNI !ID xtp]:%NAME% %TAN%(Que-Hegan's Wisdom)%MAP-0A%//
+ItemDisplay[UNI !ID xld]:%NAME% %TAN%(Toothrow)%MAP-0A%//
+ItemDisplay[UNI !ID xlt]:%NAME% %TAN%(Guardian Angel)%MAP-0A%//
+ItemDisplay[UNI !ID xth]:%NAME% %TAN%(Atma's Wail)%MAP-0A%//
+ItemDisplay[UNI !ID xul]:%NAME% %TAN%(Black Hades)%MAP-0A%//
+ItemDisplay[UNI !ID xar]:%NAME% %TAN%(Corpsemourn)%MAP-0A%//
+////////////////// Shields //////////////////
+ItemDisplay[UNI !ID xuc]:%NAME% %TAN%(Visceratuant)%MAP-0A%//
+ItemDisplay[UNI !ID xml]:%NAME% %TAN%(Moser's Blessed Circle)%MAP-0A%//
+ItemDisplay[UNI !ID xrg]:%NAME% %TAN%(Stormchaser)%MAP-0A%//
+ItemDisplay[UNI !ID xit]:%NAME% %TAN%(Tiamat's Rebuke)%MAP-0A%//
+ItemDisplay[UNI !ID xpk]:%NAME% %TAN%(Lance Guard)%MAP-0A%//
+ItemDisplay[UNI !ID xow]:%NAME% %TAN%(Gerke's Sanctuary)%MAP-0A%//
+ItemDisplay[UNI !ID xsh]:%NAME% %TAN%(Lidless Wall)%MAP-0A%//
+ItemDisplay[UNI !ID xts]:%NAME% %TAN%(Radament's Sphere)%MAP-0A%//
+////////////////// Gloves //////////////////
+ItemDisplay[UNI !ID xlg]:%NAME% %TAN%(Venom Grip)%MAP-0A%//
+ItemDisplay[UNI !ID xvg]:%NAME% %TAN%(Gravepalm)%MAP-0A%//
+ItemDisplay[UNI !ID xmg]:%NAME% %TAN%(Ghoulhide)%MAP-0A%//
+ItemDisplay[UNI !ID xtg]:%NAME% %TAN%(Lava Gout)%MAP-0A%//
+ItemDisplay[UNI !ID xhg]:%NAME% %TAN%(Hellmouth)%MAP-0A%//
+////////////////// Boots //////////////////
+ItemDisplay[UNI !ID xlb]:%NAME% %TAN%(Infernostride)%MAP-0A%//
+ItemDisplay[UNI !ID xvb]:%NAME% %TAN%(Waterwalk)%MAP-0A%//
+ItemDisplay[UNI !ID xmb]:%NAME% %TAN%(Silkweave)%MAP-0A%//
+ItemDisplay[UNI !ID xtb]:%NAME% %TAN%(War Traveler)%MAP-0A%//
+ItemDisplay[UNI !ID xhb]:%NAME% %TAN%(Gore Rider)%MAP-0A%//
+////////////////// Belts //////////////////
+ItemDisplay[UNI !ID zlb]:%NAME% %TAN%(String of Ears)%MAP-0A%//
+ItemDisplay[UNI !ID zvb]:%NAME% %TAN%(Razortail)%MAP-0A%//
+ItemDisplay[UNI !ID zmb]:%NAME% %TAN%(Gloom's Trap)%MAP-0A%//
+ItemDisplay[UNI !ID ztb]:%NAME% %TAN%(Snowclash)%MAP-0A%//
+ItemDisplay[UNI !ID zhb]:%NAME% %TAN%(Thundergod's Vigor)%MAP-0A%//
+////////////////// Axes //////////////////
+ItemDisplay[UNI !ID 9ha]:%NAME% %TAN%(Coldkill)%MAP-0A%//
+ItemDisplay[UNI !ID 9ax]:%NAME% %TAN%(Butcher's Pupil)%MAP-0A%//
+ItemDisplay[UNI !ID 92a]:%NAME% %TAN%(Islestrike)%MAP-0A%//
+ItemDisplay[UNI !ID 9mp]:%NAME% %TAN%(Pompeii's Wrath)%MAP-0A%//
+ItemDisplay[UNI !ID 9wa]:%NAME% %TAN%(Guardian Naga)%MAP-0A%//
+ItemDisplay[UNI !ID 9la]:%NAME% %TAN%(Warlord's Trust)%MAP-0A%//
+ItemDisplay[UNI !ID 9ba]:%NAME% %TAN%(Spellsteel)%MAP-0A%//
+ItemDisplay[UNI !ID 9bt]:%NAME% %TAN%(Stormrider)%MAP-0A%//
+ItemDisplay[UNI !ID 9ga]:%NAME% %TAN%(Boneslayer Blade)%MAP-0A%//
+ItemDisplay[UNI !ID 9gi]:%NAME% %TAN%(The Minotaur)%MAP-0A%//
+////////////////// Bows //////////////////
+ItemDisplay[UNI !ID 8sb]:%NAME% %TAN%(Skystrike)%MAP-0A%//
+ItemDisplay[UNI !ID 8hb]:%NAME% %TAN%(Riphook)%MAP-0A%//
+ItemDisplay[UNI !ID 8lb]:%NAME% %TAN%(Kuko Shakaku)%MAP-0A%//
+ItemDisplay[UNI !ID 8cb]:%NAME% %TAN%(Endlesshail)%MAP-0A%//
+ItemDisplay[UNI !ID 8s8]:%NAME% %TAN%(Witchwild String)%MAP-0A%//
+ItemDisplay[UNI !ID 8l8]:%NAME% %TAN%(Cliffkiller)%MAP-0A%//
+ItemDisplay[UNI !ID 8sw]:%NAME% %TAN%(Magewrath)%MAP-0A%//
+ItemDisplay[UNI !ID 8lw]:%NAME% %TAN%(Goldstrike Arch)%MAP-0A%//
+////////////////// Crossbows //////////////////
+ItemDisplay[UNI !ID 8lx]:%NAME% %TAN%(Langer Briser)%MAP-0A%//
+ItemDisplay[UNI !ID 8mx]:%NAME% %TAN%(Pus Spitter)%MAP-0A%//
+ItemDisplay[UNI !ID 8hx]:%NAME% %TAN%(Buriza-Do Kyanon)%MAP-0A%//
+ItemDisplay[UNI !ID 8rx]:%NAME% %TAN%(Demon Machine)%MAP-0A%//
+////////////////// Daggers //////////////////
+ItemDisplay[UNI !ID 9dg]:%NAME% %TAN%(Spineripper)%MAP-0A%//
+ItemDisplay[UNI !ID 9di]:%NAME% %TAN%(Heart Carver)%MAP-0A%//
+ItemDisplay[UNI !ID 9kr]:%NAME% %TAN%(Blackbog's Sharp)%MAP-0A%//
+ItemDisplay[UNI !ID 9bl]:%NAME% %TAN%(Stormspike)%MAP-0A%//
+////////////////// Maces //////////////////
+ItemDisplay[UNI !ID 9cl]:%NAME% %TAN%(Dark Clan Crusher)%MAP-0A%//
+ItemDisplay[UNI !ID 9sp]:%NAME% %TAN%(Fleshrender)%MAP-0A%//
+ItemDisplay[UNI !ID 9ma]:%NAME% %TAN%(Sureshrill Frost)%MAP-0A%//
+ItemDisplay[UNI !ID 9mt]:%NAME% %TAN%(Moonfall)%MAP-0A%//
+ItemDisplay[UNI !ID 9fl]:%NAME% %TAN%(Baezil's Vortex)%MAP-0A%//
+ItemDisplay[UNI !ID 9wh]:%NAME% %TAN%(Earthshaker)%MAP-0A%//
+ItemDisplay[UNI !ID 9m9]:%NAME% %TAN%(Bloodtree Stump)%MAP-0A%//
+ItemDisplay[UNI !ID 9gm]:%NAME% %TAN%(The Gavel Of Pain)%MAP-0A%//
+////////////////// Polearms //////////////////
+ItemDisplay[UNI !ID 9b7]:%NAME% %TAN%(The Meat Scraper)%MAP-0A%//
+ItemDisplay[UNI !ID 9vo]:%NAME% %TAN%(Blackleach Blade)%MAP-0A%//
+ItemDisplay[UNI !ID 9s8]:%NAME% %TAN%(Athena's Wrath)%MAP-0A%//
+ItemDisplay[UNI !ID 9pa]:%NAME% %TAN%(Pierre Tombale Couant)%MAP-0A%//
+ItemDisplay[UNI !ID 9h9]:%NAME% %TAN%(Husoldal Evo)%MAP-0A%//
+ItemDisplay[UNI !ID 9wc]:%NAME% %TAN%(Grim's Burning Dead)%MAP-0A%//
+////////////////// Scepters //////////////////
+ItemDisplay[UNI !ID 9sc]:%NAME% %TAN%(Zakarum's Hand)%MAP-0A%//
+ItemDisplay[UNI !ID 9qs]:%NAME% %TAN%(The Fetid Sprinkler)%MAP-0A%//
+ItemDisplay[UNI !ID 9ws]:%NAME% %TAN%(Hand of Blessed Light)%MAP-0A%//
+////////////////// Spears //////////////////
+ItemDisplay[UNI !ID 9sr]:%NAME% %TAN%(The Impaler)%MAP-0A%//
+ItemDisplay[UNI !ID 9tr]:%NAME% %TAN%(Kelpie Snare)%MAP-0A%//
+ItemDisplay[UNI !ID 9br]:%NAME% %TAN%(Soulfeast Tine)%MAP-0A%//
+ItemDisplay[UNI !ID 9st]:%NAME% %TAN%(Hone Sundan)%MAP-0A%//
+ItemDisplay[UNI !ID 9p9]:%NAME% %TAN%(Spire of Honor)%MAP-0A%//
+////////////////// Staves //////////////////
+ItemDisplay[UNI !ID 8ss]:%NAME% %TAN%(Razorswitch)%MAP-0A%//
+ItemDisplay[UNI !ID 8ls]:%NAME% %TAN%(Ribcracker)%MAP-0A%//
+ItemDisplay[UNI !ID 8cs]:%NAME% %TAN%(Chromatic Ire)%MAP-0A%//
+ItemDisplay[UNI !ID 8bs]:%NAME% %TAN%(Warpspear)%MAP-0A%//
+ItemDisplay[UNI !ID 8ws]:%NAME% %TAN%(Skull Collector)%MAP-0A%//
+////////////////// Swords //////////////////
+ItemDisplay[UNI !ID 9ss]:%NAME% %TAN%(Bloodletter)%MAP-0A%//
+ItemDisplay[UNI !ID 9sm]:%NAME% %TAN%(Coldsteel Eye)%MAP-0A%//
+ItemDisplay[UNI !ID 9sb]:%NAME% %TAN%(Hexfire)%MAP-0A%//
+ItemDisplay[UNI !ID 9fc]:%NAME% %TAN%(Blade of Ali Baba)%MAP-0A%//
+ItemDisplay[UNI !ID 9cr]:%NAME% %TAN%(Ginther's Rift)%MAP-0A%//
+ItemDisplay[UNI !ID 9bs]:%NAME% %TAN%(Headstriker)%MAP-0A%//
+ItemDisplay[UNI !ID 9ls]:%NAME% %TAN%(Plague Bearer)%MAP-0A%//
+ItemDisplay[UNI !ID 9wd]:%NAME% %TAN%(The Atlantean)%MAP-0A%//
+ItemDisplay[UNI !ID 92h]:%NAME% %TAN%(Crainte Vomir)%MAP-0A%//
+ItemDisplay[UNI !ID 9cm]:%NAME% %TAN%(Bing Sz Wang)%MAP-0A%//
+ItemDisplay[UNI !ID 9gs]:%NAME% %TAN%(The Vile Husk)%MAP-0A%//
+ItemDisplay[UNI !ID 9b9]:%NAME% %TAN%(Cloudcrack)%MAP-0A%//
+ItemDisplay[UNI !ID 9fb]:%NAME% %TAN%(Todesfaelle Flamme)%MAP-0A%//
+ItemDisplay[UNI !ID 9gd]:%NAME% %TAN%(Swordguard)%MAP-0A%//
+////////////////// Throwing Weapons //////////////////
+ItemDisplay[UNI !ID 9tk]:%NAME% %TAN%(Deathbit)%MAP-0A%//
+ItemDisplay[UNI !ID 9ta]:%NAME% %TAN%(The Scalper)%MAP-0A%//
+////////////////// Wands //////////////////
+ItemDisplay[UNI !ID 9wn]:%NAME% %TAN%(Suicide Branch)%MAP-0A%//
+ItemDisplay[UNI !ID 9yw]:%NAME% %TAN%(Carin Shard)%MAP-0A%//
+ItemDisplay[UNI !ID 9bw]:%NAME% %TAN%(Arm of King Leoric)%MAP-0A%//
+ItemDisplay[UNI !ID 9gw]:%NAME% %TAN%(Blackhand Key)%MAP-0A%//
+
+//////////////////////////////////// Elite /////////////////////////////////////
+////////////////// Helms //////////////////
+ItemDisplay[UNI !ID uap]:%NAME% %TAN%(Harlequin Crest)%MAP-0A%//
+ItemDisplay[UNI !ID ulm]:%NAME% %TAN%(Steel Shade)%MAP-0A%//
+ItemDisplay[UNI !ID uhm]:%NAME% %TAN%(Veil of Steel/Nightwing's Veil)%MAP-0A%//
+ItemDisplay[UNI !ID usk]:%NAME% %TAN%(Andariel's Visage)%MAP-0A%//
+ItemDisplay[UNI !ID urn]:%NAME% %TAN%(Crown of Ages)%MAP-0A%//
+ItemDisplay[UNI !ID uh9]:%NAME% %TAN%(Giant Skull)%MAP-0A%//
+////////////////// Armors //////////////////
+ItemDisplay[UNI !ID uui]:%NAME% %TAN%(Ormus' Robes)%MAP-0A%//
+ItemDisplay[UNI !ID utu]:%NAME% %TAN%(The Gladiator's Bane)%MAP-0A%//
+ItemDisplay[UNI !ID upl]:%NAME% %TAN%(Arkaine's Valor)%MAP-0A%//
+ItemDisplay[UNI !ID uld]:%NAME% %TAN%(Leviathan)%MAP-0A%//
+ItemDisplay[UNI !ID uul]:%NAME% %TAN%(Steel Carapace)%MAP-0A%//
+ItemDisplay[UNI !ID uar]:%NAME% %TAN%(Templar's Might/Tyrael's Might)%MAP-0A%//
+////////////////// Shields //////////////////
+ItemDisplay[UNI !ID uml]:%NAME% %TAN%(Blackoak Shield)//%MAP-0A%//
+ItemDisplay[UNI !ID uit]:%NAME% %TAN%(Stormshield)%MAP-0A%//
+ItemDisplay[UNI !ID upk]:%NAME% %TAN%(Spike Thorn)%MAP-0A%//
+ItemDisplay[UNI !ID uow]:%NAME% %TAN%(Medusa's Gaze)%MAP-0A%//
+ItemDisplay[UNI !ID ush]:%NAME% %TAN%(Head Hunter's Glory)%MAP-0A%//
+ItemDisplay[UNI !ID uts]:%NAME% %TAN%(Spirit Ward)%MAP-0A%//
+////////////////// Gloves //////////////////
+ItemDisplay[UNI !ID uvg]:%NAME% %TAN%(Dracul's Grasp)%MAP-0A%//
+ItemDisplay[UNI !ID umg]:%NAME% %TAN%(Soul Drainer)%MAP-0A%//
+ItemDisplay[UNI !ID uhg]:%NAME% %TAN%(Steelrend)%MAP-0A%//
+////////////////// Boots //////////////////
+ItemDisplay[UNI !ID uvb]:%NAME% %TAN%(Sandstorm Trek)%MAP-0A%//
+ItemDisplay[UNI !ID umb]:%NAME% %TAN%(Marrowwalk)%MAP-0A%//
+ItemDisplay[UNI !ID uhb]:%NAME% %TAN%(Shadow Dancer)%MAP-0A%//
+////////////////// Belts //////////////////
+ItemDisplay[UNI !ID ulc]:%NAME% %TAN%(Arachnid Mesh)%MAP-0A%//
+ItemDisplay[UNI !ID uvc]:%NAME% %TAN%(Nosferatu's Coil)%MAP-0A%//
+ItemDisplay[UNI !ID umc]:%NAME% %TAN%(Verdungo's Hearty Cord)%MAP-0A%//
+////////////////// Axes //////////////////
+ItemDisplay[UNI !ID 7ha]:%NAME% %TAN%(Razor's Edge)%MAP-0A%//
+ItemDisplay[UNI !ID 72a]:%NAME% %TAN%(Rune Master)%MAP-0A%//
+ItemDisplay[UNI !ID 7mp]:%NAME% %TAN%(Cranebeak)%MAP-0A%//
+ItemDisplay[UNI !ID 7wa]:%NAME% %TAN%(Death Cleaver)%MAP-0A%//
+ItemDisplay[UNI !ID 7ba]:%NAME% %TAN%(Ethereal Edge)//%MAP-0A%//
+ItemDisplay[UNI !ID 7bt]:%NAME% %TAN%(Hellslayer)%MAP-0A%//
+ItemDisplay[UNI !ID 7ga]:%NAME% %TAN%(Messerschmidt's Reaver)%MAP-0A%//
+ItemDisplay[UNI !ID 7gi]:%NAME% %TAN%(Executioner's Justice)%MAP-0A%//
+////////////////// Bows //////////////////
+ItemDisplay[UNI !ID 6l7]:%NAME% %TAN%(Eaglehorn)%MAP-0A%//
+ItemDisplay[UNI !ID 6sw]:%NAME% %TAN%(Widowmaker)%MAP-0A%//
+ItemDisplay[UNI !ID 6lw]:%NAME% %TAN%(Windforce)%MAP-0A%//
+////////////////// Crossbows //////////////////
+ItemDisplay[UNI !ID 6hx]:%NAME% %TAN%(Hellrack)%MAP-0A%//
+ItemDisplay[UNI !ID 6rx]:%NAME% %TAN%(Gut Siphon)%MAP-0A%//
+////////////////// Daggers //////////////////
+ItemDisplay[UNI !ID 7dg]:%NAME% %TAN%(Wizardspike)%MAP-0A%//
+ItemDisplay[UNI !ID 7kr]:%NAME% %TAN%(Fleshripper)%MAP-0A%//
+ItemDisplay[UNI !ID 7bl]:%NAME% %TAN%(Ghostflame)%MAP-0A%//
+////////////////// Javelins //////////////////
+ItemDisplay[UNI !ID 7s7]:%NAME% %TAN%(Demon's Arch)%MAP-0A%//
+ItemDisplay[UNI !ID 7gl]:%NAME% %TAN%(Wraith Flight)%MAP-0A%//
+ItemDisplay[UNI !ID 7ts]:%NAME% %TAN%(Gargoyle's Bite)%MAP-0A%//
+////////////////// Maces //////////////////
+ItemDisplay[UNI !ID 7cl]:%NAME% %TAN%(Nord's Tenderizer)%MAP-0A%//
+ItemDisplay[UNI !ID 7sp]:%NAME% %TAN%(Demon Limb)%MAP-0A%//
+ItemDisplay[UNI !ID 7mt]:%NAME% %TAN%(Baranar's Star)%MAP-0A%//
+ItemDisplay[UNI !ID 7fl]:%NAME% %TAN%(Horizon's Tornado/Stormlash)%MAP-0A%//
+ItemDisplay[UNI !ID 7wh]:%NAME% %TAN%(Stone Crusher/Schaefer's Hammer)%MAP-0A%//
+ItemDisplay[UNI !ID 7m7]:%NAME% %TAN%(Windhammer)%MAP-0A%//
+ItemDisplay[UNI !ID 7gm]:%NAME% %TAN%(Earth Shifter/The Cranium Basher)%MAP-0A%//
+////////////////// Polearms //////////////////
+ItemDisplay[UNI !ID 7o7]:%NAME% %TAN%(Bonehew)%MAP-0A%//
+ItemDisplay[UNI !ID 7s8]:%NAME% %TAN%(The Reaper's Toll)%MAP-0A%//
+ItemDisplay[UNI !ID 7pa]:%NAME% %TAN%(Tomb Reaver)%MAP-0A%//
+ItemDisplay[UNI !ID 7wc]:%NAME% %TAN%(Stormspire)%MAP-0A%//
+////////////////// Scepters //////////////////
+ItemDisplay[UNI !ID 7sc]:%NAME% %TAN%(Heaven's Light/The Redeemer)%MAP-0A%//
+ItemDisplay[UNI !ID 7ws]:%NAME% %TAN%(Astreon's Iron Ward)%MAP-0A%//
+////////////////// Spears //////////////////
+ItemDisplay[UNI !ID 7sr]:%NAME% %TAN%(Arioc's Needle)%MAP-0A%//
+ItemDisplay[UNI !ID 7br]:%NAME% %TAN%(Viperfork)%MAP-0A%//
+ItemDisplay[UNI !ID 7p7]:%NAME% %TAN%(Steel Pillar)%MAP-0A%//
+////////////////// Staves //////////////////
+ItemDisplay[UNI !ID 6cs]:%NAME% %TAN%(Ondal's Wisdom)%MAP-0A%//
+ItemDisplay[UNI !ID 6ws]:%NAME% %TAN%(Mang Song's Lesson)%MAP-0A%//
+////////////////// Swords //////////////////
+ItemDisplay[UNI !ID 7sm]:%NAME% %TAN%(Djinn Slayer)%MAP-0A%//
+ItemDisplay[UNI !ID 7sb]:%NAME% %TAN%(Bloodmoon)%MAP-0A%//
+ItemDisplay[UNI !ID 7cr]:%NAME% %TAN%(Lightsabre/Azurewrath)%MAP-0A%//
+ItemDisplay[UNI !ID 7ls]:%NAME% %TAN%(Frostwind)%MAP-0A%//
+ItemDisplay[UNI !ID 7gs]:%NAME% %TAN%(Flamebellow)%MAP-0A%//
+ItemDisplay[UNI !ID 7b7]:%NAME% %TAN%(Doombringer)%MAP-0A%//
+ItemDisplay[UNI !ID 7gd]:%NAME% %TAN%(The Grandfather)%MAP-0A%//
+////////////////// Throwing Weapons //////////////////
+ItemDisplay[UNI !ID 7bk]:%NAME% %TAN%(Warshrike)%MAP-0A%//
+ItemDisplay[UNI !ID 7ta]:%NAME% %TAN%(Gimmershred)%MAP-0A%//
+ItemDisplay[UNI !ID 7b8]:%NAME% %TAN%(Lacerator)%MAP-0A%//
+////////////////// Wands //////////////////
+ItemDisplay[UNI !ID 7bw]:%NAME% %TAN%(Boneshade)%MAP-0A%//
+ItemDisplay[UNI !ID 7gw]:%NAME% %TAN%(Death's Web)%MAP-0A%//
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////// Bases ////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+ItemDisplay[NMAG SUP ED=0 CLVL>29]]://
+ItemDisplay[NMAG SOCK=1]://
+ItemDisplay[NMAG !SUP !ETH !RW SOCK<2 CLVL>29]://
+
+
+////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////// Catchall /////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+ItemDisplay[UNI !ID]:%CODE%:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[SET !ID]:%CODE%:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+
+// Fix Shop Sell colors with the re-color at the end of the item name
+ItemDisplay[cm1 MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[cm2 MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[cm3 MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[rin MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[amu MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[jew MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[rin RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
+ItemDisplay[amu RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
+ItemDisplay[jew RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
+
+
+
