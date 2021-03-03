@@ -606,14 +606,14 @@ ItemDisplay[gth]:%NAME%{%TAN% Defense: 128-135 Durability: 55 Sockets: 4}%CONTIN
 ItemDisplay[ful]:%NAME%{%TAN% Defense: 150-161 Durability: 70 Sockets: 4}%CONTINUE%//
 ItemDisplay[aar]:%NAME%{%TAN% Defense: 218-233 Durability: 60 Sockets: 4}%CONTINUE%//
 ////////////////// Shields //////////////////
-ItemDisplay[buc]:%NAME%{%TAN% Defense: 4-6 Durability: 12 Sockets: 1}%CONTINUE%//
-ItemDisplay[sml]:%NAME%{%TAN% Defense: 8-10 Durability: 16 Sockets: 2}%CONTINUE%//
-ItemDisplay[lrg]:%NAME%{%TAN% Defense: 12-14 Durability: 24 Sockets: 3}%CONTINUE%//
-ItemDisplay[kit]:%NAME%{%TAN% Defense: 16-18 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[spk]:%NAME%{%TAN% Defense: 15-25 Durability: 40 Sockets: 3}%CONTINUE%//
-ItemDisplay[tow]:%NAME%{%TAN% Defense: 22-25 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[bsh]:%NAME%{%TAN% Defense: 10-30 Durability: 40 Sockets: 3}%CONTINUE%//
-ItemDisplay[gts]:%NAME%{%TAN% Defense: 30-35 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[buc]:%NAME%{%TAN% Block: 0 Defense: 4-6 Durability: 12 Sockets: 1}%CONTINUE%//
+ItemDisplay[sml]:%NAME%{%TAN% Block: 5 Defense: 8-10 Durability: 16 Sockets: 2}%CONTINUE%//
+ItemDisplay[lrg]:%NAME%{%TAN% Block: 12 Defense: 12-14 Durability: 24 Sockets: 3}%CONTINUE%//
+ItemDisplay[kit]:%NAME%{%TAN% Block: 8 Defense: 16-18 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[spk]:%NAME%{%TAN% Block: 10 Defense: 15-25 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[tow]:%NAME%{%TAN% Block: 24 Defense: 22-25 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[bsh]:%NAME%{%TAN% Block: 20 Defense: 10-30 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[gts]:%NAME%{%TAN% Block: 16 Defense: 30-35 Durability: 40 Sockets: 3}%CONTINUE%//
 ////////////////// Gloves //////////////////
 ItemDisplay[lgl]:%NAME%{%TAN% Defense: 2-3 Durability: 12}%CONTINUE%//
 ItemDisplay[vgl]:%NAME%{%TAN% Defense: 5-6 Durability: 14}%CONTINUE%//
@@ -797,14 +797,14 @@ ItemDisplay[xth]:%NAME%{%TAN% Defense: 282-303 Durability: 55 Sockets: 4}%CONTIN
 ItemDisplay[xul]:%NAME%{%TAN% Defense: 315-342 Durability: 70 Sockets: 4}%CONTINUE%//
 ItemDisplay[xar]:%NAME%{%TAN% Defense: 417-450 Durability: 60 Sockets: 4}%CONTINUE%//
 ////////////////// Shields //////////////////
-ItemDisplay[xuc]:%NAME%{%TAN% Defense: 41-49 Durability: 68 Sockets: 1}%CONTINUE%//
-ItemDisplay[xml]:%NAME%{%TAN% Defense: 47-55 Durability: 64 Sockets: 2}%CONTINUE%//
-ItemDisplay[xrg]:%NAME%{%TAN% Defense: 53-61 Durability: 24 Sockets: 3}%CONTINUE%//
-ItemDisplay[xpk]:%NAME%{%TAN% Defense: 58-78 Durability: 55 Sockets: 2}%CONTINUE%//
-ItemDisplay[xit]:%NAME%{%TAN% Defense: 59-67 Durability: 76 Sockets: 3}%CONTINUE%//
-ItemDisplay[xsh]:%NAME%{%TAN% Defense: 50-150 Durability: 70 Sockets: 2}%CONTINUE%//
-ItemDisplay[xow]:%NAME%{%TAN% Defense: 68-78 Durability: 72 Sockets: 3}%CONTINUE%//
-ItemDisplay[xts]:%NAME%{%TAN% Defense: 80-93 Durability: 80 Sockets: 3}%CONTINUE%//
+ItemDisplay[xuc]:%NAME%{%TAN% Block: 10 Defense: 41-49 Durability: 68 Sockets: 1}%CONTINUE%//
+ItemDisplay[xml]:%NAME%{%TAN% Block: 12 Defense: 47-55 Durability: 64 Sockets: 2}%CONTINUE%//
+ItemDisplay[xrg]:%NAME%{%TAN% Block: 14 Defense: 53-61 Durability: 24 Sockets: 3}%CONTINUE%//
+ItemDisplay[xpk]:%NAME%{%TAN% Block: 17 Defense: 58-78 Durability: 55 Sockets: 2}%CONTINUE%//
+ItemDisplay[xit]:%NAME%{%TAN% Block: 18 Defense: 59-67 Durability: 76 Sockets: 3}%CONTINUE%//
+ItemDisplay[xsh]:%NAME%{%TAN% Block: 20 Defense: 50-150 Durability: 70 Sockets: 2}%CONTINUE%//
+ItemDisplay[xow]:%NAME%{%TAN% Block: 24 Defense: 68-78 Durability: 72 Sockets: 3}%CONTINUE%//
+ItemDisplay[xts]:%NAME%{%TAN% Block: 16 Defense: 80-93 Durability: 80 Sockets: 3}%CONTINUE%//
 ////////////////// Gloves //////////////////
 ItemDisplay[xlg]:%NAME%{%TAN% Defense: 28-35 Durability: 12}%CONTINUE%//
 ItemDisplay[xvg]:%NAME%{%TAN% Defense: 33-39 Durability: 14}%CONTINUE%//
@@ -988,14 +988,14 @@ ItemDisplay[uth]:%NAME%{%TAN% Defense: 433-541 Durability: 55 Sockets: 4}%CONTIN
 ItemDisplay[uul]:%NAME%{%TAN% Defense: 446-557 Durability: 70 Sockets: 4}%CONTINUE%//
 ItemDisplay[uar]:%NAME%{%TAN% Defense: 487-600 Durability: 60 Sockets: 4}%CONTINUE%//
 ////////////////// Shields //////////////////
-ItemDisplay[uuc]:%NAME%{%TAN% Defense: 95-110 Durability: 88 Sockets: 2}%CONTINUE%//
-ItemDisplay[uml]:%NAME%{%TAN% Defense: 108-123 Durability: 84 Sockets: 2}%CONTINUE%//
-ItemDisplay[urg]:%NAME%{%TAN% Defense: 119-135 Durability: 82 Sockets: 3}%CONTINUE%//
-ItemDisplay[uit]:%NAME%{%TAN% Defense: 133-148 Durability: 86 Sockets: 4}%CONTINUE%//
-ItemDisplay[upk]:%NAME%{%TAN% Defense: 147-163 Durability: 83 Sockets: 3}%CONTINUE%//
-ItemDisplay[uow]:%NAME%{%TAN% Defense: 145-161 Durability: 92 Sockets: 4}%CONTINUE%//
-ItemDisplay[ush]:%NAME%{%TAN% Defense: 158-173 Durability: 74 Sockets: 3}%CONTINUE%//
-ItemDisplay[uts]:%NAME%{%TAN% Defense: 153-170 Durability: 100 Sockets: 4}%CONTINUE%//
+ItemDisplay[uuc]:%NAME%{%TAN% Block: 22 Defense: 95-110 Durability: 88 Sockets: 2}%CONTINUE%//
+ItemDisplay[uml]:%NAME%{%TAN% Block: 20 Defense: 108-123 Durability: 84 Sockets: 2}%CONTINUE%//
+ItemDisplay[urg]:%NAME%{%TAN% Block: 24 Defense: 119-135 Durability: 82 Sockets: 3}%CONTINUE%//
+ItemDisplay[uit]:%NAME%{%TAN% Block: 22 Defense: 133-148 Durability: 86 Sockets: 4}%CONTINUE%//
+ItemDisplay[upk]:%NAME%{%TAN% Block: 20 Defense: 147-163 Durability: 83 Sockets: 3}%CONTINUE%//
+ItemDisplay[uow]:%NAME%{%TAN% Block: 24 Defense: 145-161 Durability: 92 Sockets: 4}%CONTINUE%//
+ItemDisplay[ush]:%NAME%{%TAN% Block: 20 Defense: 158-173 Durability: 74 Sockets: 3}%CONTINUE%//
+ItemDisplay[uts]:%NAME%{%TAN% Block: 24 Defense: 153-170 Durability: 100 Sockets: 4}%CONTINUE%//
 ////////////////// Gloves //////////////////
 ItemDisplay[ulg]:%NAME%{%TAN% Defense: 54-62 Durability: 12}%CONTINUE%//
 ItemDisplay[uvg]:%NAME%{%TAN% Defense: 56-65 Durability: 14}%CONTINUE%//
