@@ -332,6 +332,7 @@ ItemDisplay[ETH SOCK=0 RARE]:%GRAY%[Eth] %YELLOW%%NAME%%CONTINUE%//
 ItemDisplay[ETH SOCK=0 UNI]:%GRAY%[Eth] %GOLD%%NAME%%CONTINUE%//
 ItemDisplay[ETH SOCK=0 SET]:%GRAY%[Eth] %GREEN%%NAME%%CONTINUE%//
 ItemDisplay[ETH SOCK=0 CRAFT]:%GRAY%[Eth] %ORANGE%%NAME%%CONTINUE%//
+ItemDisplay[ETH RW]:[Eth] %NAME%%CONTINUE%//
 ////////////////// Socket //////////////////
 ItemDisplay[!ETH SOCK>0 NMAG !RW]:%GRAY%[%SOCKETS%os] %NAME%%CONTINUE%//
 ItemDisplay[!ETH SOCK>0 MAG]:%GRAY%[%SOCKETS%os] %BLUE%%NAME%%CONTINUE%//
