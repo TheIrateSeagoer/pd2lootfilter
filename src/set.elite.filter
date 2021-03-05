@@ -1,0 +1,41 @@
+ItemDisplay[SET !ID xtb]:%NAME% %TAN%(Aldur's Advance)%MAP-0A%//
+ItemDisplay[SET !ID uul]:%NAME% %TAN%(Aldur's Deception)%MAP-0A%//
+ItemDisplay[SET !ID 9mt]:%NAME% %TAN%(Aldur's Rhythm)%MAP-0A%//
+ItemDisplay[SET !ID dr8]:%NAME% %TAN%(Aldur's Stony Gaze)%MAP-0A%//
+
+ItemDisplay[SET !ID 7gd]:%NAME% %TAN%(Bul-kathos' Sacred Charge)%MAP-0A%//
+ItemDisplay[SET !ID 7wd]:%NAME% %TAN%(Bul-kathos' Tribal Guardian)%MAP-0A%//
+
+ItemDisplay[SET !ID xar]:%NAME% %TAN%(Griswold's Heart)%MAP-0A%//
+ItemDisplay[SET !ID paf]:%NAME% %TAN%(Griswold's Honor)%MAP-0A%//
+ItemDisplay[SET !ID 7ws]:%NAME% %TAN%(Griswold's Redemption)%MAP-0A%//
+ItemDisplay[SET !ID urn]:%NAME% %TAN%(Griswold's Valor)%MAP-0A%//
+
+ItemDisplay[SET !ID amc]:%NAME% %TAN%(M'avina's Caster)%MAP-0A%//
+ItemDisplay[SET !ID uld]:%NAME% %TAN%(M'avina's Embrace)%MAP-0A%//
+ItemDisplay[SET !ID xtg]:%NAME% %TAN%(M'avina's Icy Clutch)%MAP-0A%//
+ItemDisplay[SET !ID zvb]:%NAME% %TAN%(M'avina's Tenet)%MAP-0A%//
+ItemDisplay[SET !ID ci3]:%NAME% %TAN%(M'avina's True Sight)%MAP-0A%//
+
+ItemDisplay[SET !ID 7qr]:%NAME% %TAN%(Natalya's Mark)%MAP-0A%//
+ItemDisplay[SET !ID ucl]:%NAME% %TAN%(Natalya's Shadow)%MAP-0A%//
+ItemDisplay[SET !ID xmb]:%NAME% %TAN%(Natalya's Soul)%MAP-0A%//
+ItemDisplay[SET !ID xh9]:%NAME% %TAN%(Natalya's Totem)%MAP-0A%//
+
+ItemDisplay[SET !ID zmb]:%NAME% %TAN%(Tal Rasha's Fine-Spun Cloth)%MAP-0A%//
+ItemDisplay[SET !ID uth]:%NAME% %TAN%(Tal Rasha's Guardianship)%MAP-0A%//
+ItemDisplay[SET !ID xsk]:%NAME% %TAN%(Tal Rasha's Horadric Crest)%MAP-0A%//
+ItemDisplay[SET !ID oba]:%NAME% %TAN%(Tal Rasha's Lidless Eye)%MAP-0A%//
+
+ItemDisplay[SET !ID xmg]:%NAME% %TAN%(Trang-Oul's Claws)%MAP-0A%//
+ItemDisplay[SET !ID utc]:%NAME% %TAN%(Trang-Oul's Girth)%MAP-0A%//
+ItemDisplay[SET !ID uh9]:%NAME% %TAN%(Trang-Oul's Guise)%MAP-0A%//
+ItemDisplay[SET !ID xul]:%NAME% %TAN%(Trang-Oul's Scales)%MAP-0A%//
+ItemDisplay[SET !ID ne9]:%NAME% %TAN%(Trang-Oul's Wing)%MAP-0A%//
+
+ItemDisplay[SET !ID zhb]:%NAME% %TAN%(Immortal King's Detail)%MAP-0A%//
+ItemDisplay[SET !ID xhg]:%NAME% %TAN%(Immortal King's Forge)%MAP-0A%//
+ItemDisplay[SET !ID xhb]:%NAME% %TAN%(Immortal King's Pillar)%MAP-0A%//
+ItemDisplay[SET !ID uar]:%NAME% %TAN%(Immortal King's Soul Cage)%MAP-0A%//
+ItemDisplay[SET !ID 7m7]:%NAME% %TAN%(Immortal King's Stone Crusher)%MAP-0A%//
+ItemDisplay[SET !ID ba5]:%NAME% %TAN%(Immortal King's Will)%MAP-0A%//

@@ -1,0 +1,511 @@
+Normal                Helms                 |  Possible  |  1-25  |  26-40  |  41+   |
+Cap                   |      2     |    2   |    2    |    2   |
+Skull Cap             |      2     |    2   |    2    |    2   |
+Helm                  |      2     |    2   |    2    |    2   |
+Full Helm             |      2     |    2   |    2    |    2   |
+Great Helm            |      3     |    2   |    2    |    3   |
+Crown                 |      3     |    2   |    2    |    3   |
+Mask                  |      3     |    2   |    2    |    3   |
+Bone Helm             |      2     |    2   |    2    |    2   |
+Exceptional           Helms                 |  Possible  |  1-25  |  26-40  |  41+   |
+War Hat               |      2     |    2   |    2    |    2   |
+Sallet                |      2     |    2   |    2    |    2   |
+Casque                |      2     |    2   |    2    |    2   |
+Basinet               |      2     |    2   |    2    |    2   |
+Winged Helm           |      3     |    2   |    2    |    3   |
+Grand Crown           |      3     |    2   |    2    |    3   |
+Death Mask            |      3     |    2   |    2    |    3   |
+Grim Helm             |      2     |    2   |    2    |    2   |
+Elite                 Helms                 |  Possible  |  1-25  |  26-40  |  41+   |
+Shako                 |      2     |    2   |    2    |    2   |
+Hydraskull            |      2     |    2   |    2    |    2   |
+Armet                 |      2     |    2   |    2    |    2   |
+Giant Conch           |      2     |    2   |    2    |    2   |
+Spired Helm           |      3     |    2   |    2    |    3   |
+Corona                |      3     |    2   |    2    |    3   |
+Demonhead             |      3     |    2   |    2    |    3   |
+Bone Visage           |      3     |    2   |    2    |    3   |
+Normal                Circlets              |  Possible  |  1-25  |  26-40  |  41+   |
+Circlet               |      2     |    1   |    2    |    2   |
+Coronet               |      2     |    1   |    2    |    2   |
+Exceptional           Circlets              |  Possible  |  1-25  |  26-40  |  41+   |
+Tiara                 |      3     |    1   |    2    |    3   |
+Elite                 Circlets              |  Possible  |  1-25  |  26-40  |  41+   |
+Diadem                |      3     |    1   |    2    |    3   |
+Normal                Barbarian Helms       |  Possible  |  1-25  |  26-40  |  41+   |
+Jawbone Cap           |      3     |    2   |    3    |    3   |
+Fanged Helm           |      3     |    2   |    3    |    3   |
+Horned Helm           |      3     |    2   |    3    |    3   |
+Assault Helmet        |      3     |    2   |    3    |    3   |
+Avenger Guard         |      3     |    2   |    3    |    3   |
+Exceptional           Barbarian Helms       |  Possible  |  1-25  |  26-40  |  41+   |
+Jawbone Visor         |      3     |    2   |    3    |    3   |
+Lion Helm             |      3     |    2   |    3    |    3   |
+Rage Mask             |      3     |    2   |    3    |    3   |
+Savage Helmet         |      3     |    2   |    3    |    3   |
+Slayer Guard          |      3     |    2   |    3    |    3   |
+Elite                 Barbarian Helms       |  Possible  |  1-25  |  26-40  |  41+   |
+Carnage Helm          |      3     |    2   |    3    |    3   |
+Fury Visor            |      3     |    2   |    3    |    3   |
+Destroyer Helm        |      3     |    2   |    3    |    3   |
+Conquerer Crown       |      3     |    2   |    3    |    3   |
+Guardian Crown        |      3     |    2   |    3    |    3   |
+Normal                Druid Pelts           |  Possible  |  1-25  |  26-40  |  41+   |
+Wolf Head             |      3     |    2   |    3    |    3   |
+Hawk Helm             |      3     |    2   |    3    |    3   |
+Antlers               |      3     |    2   |    3    |    3   |
+Falcon Mask           |      3     |    2   |    3    |    3   |
+Spirit Mask           |      3     |    2   |    3    |    3   |
+Exceptional           Druid Pelts           |  Possible  |  1-25  |  26-40  |  41+   |
+Alpha Helm            |      3     |    2   |    3    |    3   |
+Griffon Headress      |      3     |    2   |    3    |    3   |
+Hunter's Guise        |      3     |    2   |    3    |    3   |
+Sacred Feathers       |      3     |    2   |    3    |    3   |
+Totemic Mask          |      3     |    2   |    3    |    3   |
+Elite                 Druid Pelts           |  Possible  |  1-25  |  26-40  |  41+   |
+Blood Spirit          |      3     |    2   |    3    |    3   |
+Sun Spirit            |      3     |    2   |    3    |    3   |
+Earth Spirit          |      3     |    2   |    3    |    3   |
+Sky Spirit            |      3     |    2   |    3    |    3   |
+Dream Spirit          |      3     |    2   |    3    |    3   |
+Normal                Body Armor            |  Possible  |  1-25  |  26-40  |  41+   |
+Quilted Armor         |      2     |    2   |    2    |    2   |
+Leather Armor         |      2     |    2   |    2    |    2   |
+Hard Leather Armor    |      2     |    2   |    2    |    2   |
+Studded Leather       |      2     |    2   |    2    |    2   |
+Ring Mail             |      3     |    3   |    3    |    3   |
+Scale Mail            |      2     |    2   |    2    |    2   |
+Chain Mail            |      2     |    2   |    2    |    2   |
+Breast Plate          |      3     |    3   |    3    |    3   |
+Splint Mail           |      2     |    2   |    2    |    2   |
+Plate Mail            |      2     |    2   |    2    |    2   |
+Field Plate           |      2     |    2   |    2    |    2   |
+Gothic Plate          |      4     |    3   |    4    |    4   |
+Full Plate Mail       |      4     |    3   |    4    |    4   |
+Ancient Armor         |      4     |    3   |    4    |    4   |
+Light Plate           |      3     |    3   |    3    |    3   |
+Exceptional           Body Armor            |  Possible  |  1-25  |  26-40  |  41+   |
+Ghost Armor           |      2     |    2   |    2    |    2   |
+Serpentskin Armor     |      2     |    2   |    2    |    2   |
+Demonhide Armor       |      2     |    2   |    2    |    2   |
+Trellised Armor       |      2     |    2   |    2    |    2   |
+Linked Mail           |      3     |    3   |    3    |    3   |
+Tigulated Mail        |      3     |    3   |    3    |    3   |
+Mesh Armor            |      3     |    3   |    3    |    3   |
+Cuirass               |      3     |    3   |    3    |    3   |
+Russet Armor          |      3     |    3   |    3    |    3   |
+Templar Coat          |      3     |    3   |    3    |    3   |
+Sharktooth Armor      |      3     |    3   |    3    |    3   |
+Embossed Plate        |      4     |    3   |    4    |    4   |
+Chaos Armor           |      4     |    3   |    4    |    4   |
+Ornate Armor          |      4     |    3   |    4    |    4   |
+Mage Plate            |      3     |    3   |    3    |    3   |
+Elite                 Body Armor            |  Possible  |  1-25  |  26-40  |  41+   |
+Dusk Shroud           |      4     |    3   |    4    |    4   |
+Wyrmhide              |      4     |    3   |    4    |    4   |
+Scarab Husk           |      4     |    3   |    4    |    4   |
+Wire Fleece           |      4     |    3   |    4    |    4   |
+Diamond Mail          |      4     |    3   |    4    |    4   |
+Loricated Mail        |      4     |    3   |    4    |    4   |
+Boneweave             |      4     |    3   |    4    |    4   |
+Great Hauberk         |      4     |    3   |    4    |    4   |
+Balrog Skin           |      4     |    3   |    4    |    4   |
+Hellforge Plate       |      4     |    3   |    4    |    4   |
+Kraken Shell          |      4     |    3   |    4    |    4   |
+Lacquered Plate       |      4     |    3   |    4    |    4   |
+Shadow Plate          |      4     |    3   |    4    |    4   |
+Sacred Armor          |      4     |    3   |    4    |    4   |
+Archon Plate          |      4     |    3   |    4    |    4   |
+Normal                Shields               |  Possible  |  1-25  |  26-40  |  41+   |
+Buckler               |      1     |    1   |    1    |    1   |
+Small Shield          |      2     |    2   |    2    |    2   |
+Large Shield          |      3     |    3   |    3    |    3   |
+Kite Shield           |      3     |    3   |    3    |    3   |
+Tower Shield          |      3     |    3   |    3    |    3   |
+Gothic Shield         |      3     |    3   |    3    |    3   |
+Bone Shield           |      2     |    2   |    2    |    2   |
+Spiked Shield         |      2     |    2   |    2    |    2   |
+Exceptional           Shields               |  Possible  |  1-25  |  26-40  |  41+   |
+Defender              |      1     |    1   |    1    |    1   |
+Round Shield          |      2     |    2   |    2    |    2   |
+Scutum                |      3     |    3   |    3    |    3   |
+Dragon Shield         |      3     |    3   |    3    |    3   |
+Pavise                |      3     |    3   |    3    |    3   |
+Ancient Shield        |      3     |    3   |    3    |    3   |
+Grim Shield           |      2     |    2   |    2    |    2   |
+Barbed Shield         |      2     |    2   |    2    |    2   |
+Elite                 Shields               |  Possible  |  1-25  |  26-40  |  41+   |
+Heater                |      2     |    2   |    2    |    2   |
+Luna                  |      2     |    2   |    2    |    2   |
+Hyperion              |      3     |    3   |    3    |    3   |
+Monarch               |      4     |    3   |    3    |    4   |
+Aegis                 |      4     |    3   |    3    |    4   |
+Ward                  |      4     |    3   |    3    |    4   |
+Troll Nest            |      3     |    3   |    3    |    3   |
+Blade Barrier         |      3     |    3   |    3    |    3   |
+Normal                Necromancer Totems    |  Possible  |  1-25  |  26-40  |  41+   |
+Preserved Head        |      2     |    2   |    2    |    2   |
+Zombie Head           |      2     |    2   |    2    |    2   |
+Unraveller Head       |      2     |    2   |    2    |    2   |
+Gargoyle Head         |      2     |    2   |    2    |    2   |
+Demon Head            |      2     |    2   |    2    |    2   |
+Exceptional           Necromancer Totems    |  Possible  |  1-25  |  26-40  |  41+   |
+Mummified Trophy      |      2     |    2   |    2    |    2   |
+Fetish Trophy         |      2     |    2   |    2    |    2   |
+Sexton Trophy         |      2     |    2   |    2    |    2   |
+Cantor Trophy         |      2     |    2   |    2    |    2   |
+Hierophant Trophy     |      2     |    2   |    2    |    2   |
+Elite                 Necromancer Totems    |  Possible  |  1-25  |  26-40  |  41+   |
+Minion Skull          |      2     |    2   |    2    |    2   |
+Hellspawn Skull       |      2     |    2   |    2    |    2   |
+Overseer Skull        |      2     |    2   |    2    |    2   |
+Succubae Skull        |      2     |    2   |    2    |    2   |
+Bloodlord Skull       |      2     |    2   |    2    |    2   |
+Normal                Paladin Shields       |  Possible  |  1-25  |  26-40  |  41+   |
+Targe                 |      4     |    3   |    4    |    4   |
+Rondache              |      4     |    3   |    4    |    4   |
+Heraldic Shield       |      4     |    3   |    4    |    4   |
+Aerin Shield          |      4     |    3   |    4    |    4   |
+Crown Shield          |      4     |    3   |    4    |    4   |
+Exceptional           Paladin Shields       |  Possible  |  1-25  |  26-40  |  41+   |
+Akaran Targe          |      4     |    3   |    4    |    4   |
+Akaran Rondache       |      4     |    3   |    4    |    4   |
+Protector Shield      |      4     |    3   |    4    |    4   |
+Gilded Shield         |      4     |    3   |    4    |    4   |
+Royal Shield          |      4     |    3   |    4    |    4   |
+Elite                 Paladin Shields       |  Possible  |  1-25  |  26-40  |  41+   |
+Sacred Targe          |      4     |    3   |    4    |    4   |
+Sacred Rondache       |      4     |    3   |    4    |    4   |
+Kurast Shield         |      4     |    3   |    4    |    4   |
+Zakarum Shield        |      4     |    3   |    4    |    4   |
+Vortex Shield         |      4     |    3   |    4    |    4   |
+Normal                Axes                  |  Possible  |  1-25  |  26-40  |  41+   |
+(1-handed)            |            |        |         |        |
+Hand Axe              |      2     |    2   |    2    |    2   |
+Axe                   |      4     |    4   |    4    |    4   |
+Double Axe            |      5     |    4   |    5    |    5   |
+Military Pick         |      6     |    4   |    5    |    6   |
+War Axe               |      6     |    4   |    5    |    6   |
+(2-handed)            |            |        |         |        |
+Large Axe             |      4     |    4   |    4    |    4   |
+Broad Axe             |      5     |    4   |    5    |    5   |
+Battle Axe            |      5     |    4   |    5    |    5   |
+Great Axe             |      6     |    4   |    5    |    6   |
+Giant Axe             |      6     |    4   |    5    |    6   |
+Exceptional           Axes                  |  Possible  |  1-25  |  26-40  |  41+   |
+(1-handed)            |            |        |         |        |
+Hatchet               |      2     |    2   |    2    |    2   |
+Cleaver               |      4     |    4   |    4    |    4   |
+Twin Axe              |      5     |    4   |    5    |    5   |
+Crowbill              |      6     |    4   |    5    |    6   |
+Naga                  |      6     |    4   |    5    |    6   |
+(2-handed)            |            |        |         |        |
+Military Axe          |      4     |    4   |    4    |    4   |
+Bearded Axe           |      5     |    4   |    5    |    5   |
+Tabar                 |      5     |    4   |    5    |    5   |
+Gothic Axe            |      6     |    4   |    5    |    6   |
+Ancient Axe           |      6     |    4   |    5    |    6   |
+Elite                 Axes                  |  Possible  |  1-25  |  26-40  |  41+   |
+(1-handed)            |            |        |         |        |
+Tomahawk              |      2     |    2   |    2    |    2   |
+Small Crescent        |      4     |    4   |    4    |    4   |
+Ettin Axe             |      5     |    4   |    5    |    5   |
+War Spike             |      6     |    4   |    5    |    6   |
+Berserker Axe         |      6     |    4   |    5    |    6   |
+(2-handed)            |            |        |         |        |
+Feral Axe             |      4     |    4   |    4    |    4   |
+Silver Edged Axe      |      5     |    4   |    5    |    5   |
+Decapitator           |      5     |    4   |    5    |    5   |
+Champion Axe          |      6     |    4   |    5    |    6   |
+Glorious Axe          |      6     |    4   |    5    |    6   |
+Normal                Bows (2-handed)       |  Possible  |  1-25  |  26-40  |  41+   |
+Short Bow             |      3     |    3   |    3    |    3   |
+Hunter's Bow          |      4     |    3   |    4    |    4   |
+Long Bow              |      5     |    3   |    4    |    5   |
+Composite Bow         |      4     |    3   |    4    |    4   |
+Short Battle Bow      |      5     |    3   |    4    |    5   |
+Long Battle Bow       |      6     |    3   |    4    |    6   |
+Short War Bow         |      5     |    3   |    4    |    5   |
+Long War Bow          |      6     |    3   |    4    |    6   |
+Exceptional           Bows (2-handed)       |  Possible  |  1-25  |  26-40  |  41+   |
+Edge Bow              |      3     |    3   |    3    |    3   |
+Razor Bow             |      4     |    3   |    4    |    4   |
+Cedar Bow             |      5     |    3   |    4    |    5   |
+Double Bow            |      4     |    3   |    4    |    4   |
+Short Siege Bow       |      5     |    3   |    4    |    5   |
+Long Siege Bow        |      6     |    3   |    4    |    6   |
+Rune Bow              |      5     |    3   |    4    |    5   |
+Gothic Bow            |      6     |    3   |    4    |    6   |
+Elite                 Bows (2-handed)       |  Possible  |  1-25  |  26-40  |  41+   |
+Spider Bow            |      3     |    3   |    3    |    3   |
+Blade Bow             |      4     |    3   |    4    |    4   |
+Shadow Bow            |      5     |    3   |    4    |    5   |
+Great Bow             |      4     |    3   |    4    |    4   |
+Diamond Bow           |      5     |    3   |    4    |    5   |
+Crusader Bow          |      6     |    3   |    4    |    6   |
+Ward Bow              |      5     |    3   |    4    |    5   |
+Hydra Bow             |      6     |    3   |    4    |    6   |
+Normal                Crossbows (2-handed)  |  Possible  |  1-25  |  26-40  |  41+   |
+Light Crossbow        |      3     |    3   |    3    |    3   |
+Crossbow              |      4     |    3   |    4    |    4   |
+Heavy Crossbow        |      6     |    3   |    4    |    6   |
+Repeating Crossbow    |      5     |    3   |    4    |    5   |
+Exceptional           Crossbows (2-handed)  |  Possible  |  1-25  |  26-40  |  41+   |
+Arbalest              |      3     |    3   |    3    |    3   |
+Siege Crossbow        |      4     |    3   |    4    |    4   |
+Balista               |      6     |    3   |    4    |    6   |
+Chu-Ko-Nu             |      5     |    3   |    4    |    5   |
+Elite                 Crossbows (2-handed)  |  Possible  |  1-25  |  26-40  |  41+   |
+Pellet Bow            |      3     |    3   |    3    |    3   |
+Gorgon Crossbow       |      4     |    3   |    4    |    4   |
+Colossus Crossbow     |      6     |    3   |    4    |    6   |
+Demon Crossbow        |      5     |    3   |    4    |    5   |
+Normal                Daggers (1-handed)    |  Possible  |  1-25  |  26-40  |  41+   |
+Dagger                |      1     |    1   |    1    |    1   |
+Dirk                  |      1     |    1   |    1    |    1   |
+Kriss                 |      3     |    2   |    3    |    3   |
+Blade                 |      2     |    2   |    2    |    2   |
+Exceptional           Daggers (1-handed)    |  Possible  |  1-25  |  26-40  |  41+   |
+Poignard              |      1     |    1   |    1    |    1   |
+Rondel                |      1     |    1   |    1    |    1   |
+Cinquedeas            |      3     |    2   |    3    |    3   |
+Stiletto              |      2     |    2   |    2    |    2   |
+Elite                 Daggers (1-handed)    |  Possible  |  1-25  |  26-40  |  41+   |
+Bone Knife            |      1     |    1   |    1    |    1   |
+Mithral Point         |      1     |    1   |    1    |    1   |
+Fanged Knife          |      3     |    2   |    3    |    3   |
+Legend Spike          |      2     |    2   |    2    |    2   |
+Normal                Clubs (1-handed)      |  Possible  |  1-25  |  26-40  |  41+   |
+Club                  |      2     |    2   |    2    |    2   |
+Spiked Club           |      2     |    2   |    2    |    2   |
+Exceptional           Clubs (1-handed)      |  Possible  |  1-25  |  26-40  |  41+   |
+Cudgel                |      2     |    2   |    2    |    2   |
+Barbed Club           |      3     |    3   |    3    |    3   |
+Elite                 Clubs (1-handed)      |  Possible  |  1-25  |  26-40  |  41+   |
+Truncheon             |      2     |    2   |    2    |    2   |
+Tyrant Club           |      3     |    3   |    3    |    3   |
+Normal                Maces (1-handed)      |  Possible  |  1-25  |  26-40  |  41+   |
+Mace                  |      2     |    2   |    2    |    2   |
+Morning Star          |      3     |    3   |    3    |    3   |
+Flail                 |      5     |    3   |    4    |    5   |
+Exceptional           Maces (1-handed)      |  Possible  |  1-25  |  26-40  |  41+   |
+Flanged Mace          |      2     |    2   |    2    |    2   |
+Jagged Star           |      3     |    3   |    3    |    3   |
+Knout                 |      5     |    3   |    4    |    5   |
+Elite                 Maces (1-handed)      |  Possible  |  1-25  |  26-40  |  41+   |
+Reinforced Mace       |      2     |    2   |    2    |    2   |
+Devil Star            |      3     |    3   |    3    |    3   |
+Scourge               |      5     |    3   |    4    |    5   |
+Normal                Hammers               |  Possible  |  1-25  |  26-40  |  41+   |
+(1-handed)            |            |        |         |        |
+War Hammer            |      4     |    3   |    4    |    4   |
+(2-handed)            |            |        |         |        |
+Maul                  |      6     |    3   |    4    |    6   |
+Great Maul            |      6     |    3   |    4    |    6   |
+Exceptional           Hammers               |  Possible  |  1-25  |  26-40  |  41+   |
+(1-handed)            |            |        |         |        |
+Battle Hammer         |      4     |    3   |    4    |    4   |
+(2-handed)            |            |        |         |        |
+War Club              |      6     |    3   |    4    |    6   |
+Martel de Fer         |      6     |    3   |    4    |    6   |
+Elite                 Hammers               |  Possible  |  1-25  |  26-40  |  41+   |
+(1-handed)            |            |        |         |        |
+Legendary Mallet      |      4     |    3   |    4    |    4   |
+(2-handed)            |            |        |         |        |
+Ogre Maul             |      6     |    3   |    4    |    6   |
+Thunder Maul          |      6     |    3   |    4    |    6   |
+Normal                Polearms (2-handed)   |  Possible  |  1-25  |  26-40  |  41+   |
+Bardiche              |      3     |    3   |    3    |    3   |
+Voulge                |      4     |    3   |    4    |    4   |
+Scythe                |      5     |    3   |    4    |    5   |
+Poleaxe               |      5     |    3   |    4    |    5   |
+Halberd               |      6     |    3   |    4    |    6   |
+War Scythe            |      6     |    3   |    4    |    6   |
+Exceptional           Polearms (2-handed)   |  Possible  |  1-25  |  26-40  |  41+   |
+Lochaber Axe          |      3     |    3   |    3    |    3   |
+Bill                  |      4     |    3   |    4    |    4   |
+Battle Scythe         |      5     |    3   |    4    |    5   |
+Partizan              |      5     |    3   |    4    |    5   |
+Bec-de-Corbin         |      6     |    3   |    4    |    6   |
+Grim Scythe           |      6     |    3   |    4    |    6   |
+Elite                 Polearms (2-handed)   |  Possible  |  1-25  |  26-40  |  41+   |
+Ogre Axe              |      3     |    3   |    3    |    3   |
+Colossus Voulge       |      4     |    3   |    4    |    4   |
+Thresher              |      5     |    3   |    4    |    5   |
+Cryptic Axe           |      5     |    3   |    4    |    5   |
+Great Poleaxe         |      6     |    3   |    4    |    6   |
+Giant Thresher        |      6     |    3   |    4    |    6   |
+Normal                Scepters (1-handed)   |  Possible  |  1-25  |  26-40  |  41+   |
+Scepter               |      2     |    2   |    2    |    2   |
+Grand Scepter         |      3     |    3   |    3    |    3   |
+War Scepter           |      5     |    3   |    5    |    5   |
+Exceptional           Scepters (1-handed)   |  Possible  |  1-25  |  26-40  |  41+   |
+Rune Scepter          |      2     |    2   |    2    |    2   |
+Holy Water Sprinkler  |      3     |    3   |    3    |    3   |
+Divine Scepter        |      5     |    3   |    5    |    5   |
+Elite                 Scepters (1-handed)   |  Possible  |  1-25  |  26-40  |  41+   |
+Mighty Scepter        |      2     |    2   |    2    |    2   |
+Seraph Rod            |      3     |    3   |    3    |    3   |
+Caduceus              |      5     |    3   |    5    |    5   |
+Normal                Spears (2-handed)     |  Possible  |  1-25  |  26-40  |  41+   |
+Spear                 |      3     |    3   |    3    |    3   |
+Trident               |      4     |    3   |    4    |    4   |
+Brandistock           |      5     |    3   |    4    |    5   |
+Spetum                |      6     |    3   |    4    |    6   |
+Pike                  |      6     |    3   |    4    |    6   |
+Exceptional           Spears (2-handed)     |  Possible  |  1-25  |  26-40  |  41+   |
+War Spear             |      3     |    3   |    3    |    3   |
+Fuscina               |      4     |    3   |    4    |    4   |
+War Fork              |      5     |    3   |    4    |    5   |
+Yari                  |      6     |    3   |    4    |    6   |
+Lance                 |      6     |    3   |    4    |    6   |
+Elite                 Spears (2-handed)     |  Possible  |  1-25  |  26-40  |  41+   |
+Hyperion Spear        |      3     |    3   |    3    |    3   |
+Stygian Pike          |      4     |    3   |    4    |    4   |
+Mancatcher            |      5     |    3   |    4    |    5   |
+Ghost Spear           |      6     |    3   |    4    |    6   |
+War Pike              |      6     |    3   |    4    |    6   |
+Normal                Staves (2-handed)     |  Possible  |  1-25  |  26-40  |  41+   |
+Short Staff           |      2     |    2   |    2    |    2   |
+Long Staff            |      3     |    3   |    3    |    3   |
+Gnarled Staff         |      4     |    4   |    4    |    4   |
+Battle Staff          |      4     |    4   |    4    |    4   |
+War Staff             |      6     |    5   |    6    |    6   |
+Exceptional           Staves (2-handed)     |  Possible  |  1-25  |  26-40  |  41+   |
+Jo Staff              |      2     |    2   |    2    |    2   |
+Quarterstaff          |      3     |    3   |    3    |    3   |
+Cedar Staff           |      4     |    4   |    4    |    4   |
+Gothic Staff          |      4     |    4   |    4    |    4   |
+Rune Staff            |      6     |    5   |    6    |    6   |
+Elite                 Staves (2-handed)     |  Possible  |  1-25  |  26-40  |  41+   |
+Walking Stick         |      2     |    2   |    2    |    2   |
+Stalagmite            |      3     |    3   |    3    |    3   |
+Elder Staff           |      4     |    4   |    4    |    4   |
+Shillelagh            |      4     |    4   |    4    |    4   |
+Archon Staff          |      6     |    5   |    6    |    6   |
+Normal                Swords                |  Possible  |  1-25  |  26-40  |  41+   |
+(1-handed)            |            |        |         |        |
+Short Sword           |      2     |    2   |    2    |    2   |
+Scimitar              |      2     |    2   |    2    |    2   |
+Saber                 |      2     |    2   |    2    |    2   |
+Falchion              |      2     |    2   |    2    |    2   |
+Crystal Sword         |      6     |    3   |    4    |    6   |
+Broad Sword           |      4     |    3   |    4    |    4   |
+Long Sword            |      4     |    3   |    4    |    4   |
+War Sword             |      3     |    3   |    3    |    3   |
+(2-handed)            |            |        |         |        |
+Two-Handed Sword      |      3     |    3   |    3    |    3   |
+Claymore              |      4     |    3   |    4    |    4   |
+Giant Sword           |      4     |    3   |    4    |    4   |
+Bastard Sword         |      4     |    3   |    4    |    4   |
+Flamberge             |      5     |    3   |    4    |    5   |
+Great Sword           |      6     |    3   |    4    |    6   |
+Exceptional           Swords                |  Possible  |  1-25  |  26-40  |  41+   |
+(1-handed)            |            |        |         |        |
+Gladius               |      2     |    2   |    2    |    2   |
+Cutlass               |      2     |    2   |    2    |    2   |
+Shamshir              |      2     |    2   |    2    |    2   |
+Tulwar                |      2     |    2   |    2    |    2   |
+Dimensional Blade     |      6     |    3   |    4    |    6   |
+Battle Sword          |      4     |    3   |    4    |    4   |
+Rune Sword            |      4     |    3   |    4    |    4   |
+Ancient Sword         |      3     |    3   |    3    |    3   |
+(2-handed)            |            |        |         |        |
+Espadon               |      3     |    3   |    3    |    3   |
+Dacian Falx           |      4     |    3   |    4    |    4   |
+Tusk Sword            |      4     |    3   |    4    |    4   |
+Gothic Sword          |      4     |    3   |    4    |    4   |
+Zweihander            |      5     |    3   |    4    |    5   |
+Executioner Sword     |      6     |    3   |    4    |    6   |
+Elite                 Swords                |  Possible  |  1-25  |  26-40  |  41+   |
+(1-handed)            |            |        |         |        |
+Falcata               |      2     |    2   |    2    |    2   |
+Ataghan               |      2     |    2   |    2    |    2   |
+Elegant Blade         |      2     |    2   |    2    |    2   |
+Hydra Edge            |      2     |    2   |    2    |    2   |
+Phase Blade           |      6     |    3   |    4    |    6   |
+Conquest Sword        |      4     |    3   |    4    |    4   |
+Cryptic Sword         |      4     |    3   |    4    |    4   |
+Mythical Sword        |      3     |    3   |    3    |    3   |
+(2-handed)            |            |        |         |        |
+Legend Sword          |      3     |    3   |    3    |    3   |
+Highland Blade        |      4     |    3   |    4    |    4   |
+Balrog Blade          |      4     |    3   |    4    |    4   |
+Champion Sword        |      4     |    3   |    4    |    4   |
+Colossal Sword        |      5     |    3   |    4    |    5   |
+Colossus Blade        |      6     |    3   |    4    |    6   |
+Normal                Wands (1-handed)      |  Possible  |  1-25  |  26-40  |  41+   |
+Wand                  |      1     |    1   |    1    |    1   |
+Yew Wand              |      1     |    1   |    1    |    1   |
+Bone Wand             |      2     |    2   |    2    |    2   |
+Grim Wand             |      2     |    2   |    2    |    2   |
+Exceptional           Wands (1-handed)      |  Possible  |  1-24  |  25-39  |  40+   |
+Burnt Wand            |      1     |    1   |    1    |    1   |
+Petrified Wand        |      2     |    2   |    2    |    2   |
+Tomb Wand             |      2     |    2   |    2    |    2   |
+Grave Wand            |      2     |    2   |    2    |    2   |
+Elite                 Wands (1-handed)      |  Possible  |  1-25  |  26-40  |  41+   |
+Polished Wand         |      2     |    2   |    2    |    2   |
+Ghost Wand            |      2     |    2   |    2    |    2   |
+Lich Wand             |      2     |    2   |    2    |    2   |
+Unearthed Wand        |      2     |    2   |    2    |    2   |
+Normal Amazon         Bows (2-handed)       |  Possible  |  1-25  |  26-40  |  41+   |
+Stag Bow              |      5     |    3   |    4    |    5   |
+Reflex Bow            |      5     |    3   |    4    |    5   |
+Exceptional Amazon    Bows (2-handed)       |  Possible  |  1-25  |  26-40  |  41+   |
+Ashwood Bow           |      5     |    3   |    4    |    5   |
+Ceremonial Bow        |      5     |    3   |    4    |    5   |
+Elite Amazon          Bows (2-handed)       |  Possible  |  1-25  |  26-40  |  41+   |
+Matriarchal Bow       |      5     |    3   |    4    |    5   |
+Grand Matron Bow      |      5     |    3   |    4    |    5   |
+Normal Amazon         Spears (2-handed)     |  Possible  |  1-25  |  26-40  |  41+   |
+Maiden Spear          |      6     |    3   |    4    |    6   |
+Maiden Pike           |      6     |    3   |    4    |    6   |
+Exceptional Amazon    Spears (2-handed)     |  Possible  |  1-25  |  26-40  |  41+   |
+Ceremonial Spear      |      6     |    3   |    4    |    6   |
+Ceremonial Pike       |      6     |    3   |    4    |    6   |
+Elite Amazon          Spears (2-handed)     |  Possible  |  1-25  |  26-40  |  41+   |
+Matriarchal Spear     |      6     |    3   |    4    |    6   |
+Matriarchal Pike      |      6     |    3   |    4    |    6   |
+Normal Assassin       Claws (1-handed)      |  Possible  |  1-25  |  26-40  |  41+   |
+Katar                 |      2     |    2   |    2    |    2   |
+Wrist Blade           |      2     |    2   |    2    |    2   |
+Hatchet Hands         |      2     |    2   |    2    |    2   |
+Cestus                |      2     |    2   |    2    |    2   |
+Claws                 |      3     |    2   |    3    |    3   |
+Blade Talons          |      3     |    2   |    3    |    3   |
+Scissors Katar        |      3     |    2   |    3    |    3   |
+Exceptional Assassin  Claws (1-handed)      |  Possible  |  1-25  |  26-40  |  41+   |
+Quhab                 |      3     |    2   |    3    |    3   |
+Wrist Spike           |      2     |    2   |    2    |    2   |
+Fascia                |      2     |    2   |    2    |    2   |
+Hand Scythe           |      2     |    2   |    2    |    2   |
+Greater Claws         |      3     |    2   |    3    |    3   |
+Greater Talons        |      3     |    2   |    3    |    3   |
+Scissors Quhab        |      3     |    2   |    3    |    3   |
+Elite Assassin        Claws (1-handed)      |  Possible  |  1-25  |  26-40  |  41+   |
+Suwayyah              |      3     |    2   |    3    |    3   |
+Wrist Sword           |      3     |    2   |    3    |    3   |
+War Fist              |      2     |    2   |    2    |    2   |
+Battle Cestus         |      2     |    2   |    2    |    2   |
+Feral Claws           |      3     |    2   |    3    |    3   |
+Runic Talons          |      3     |    2   |    3    |    3   |
+Scissors Suwayyah     |      3     |    2   |    3    |    3   |
+Normal Sorceress      Orbs (1-handed)       |  Possible  |  1-25  |  26-40  |  41+   |
+Eagle Orb             |      2     |    2   |    2    |    2   |
+Sacred Globe          |      2     |    2   |    2    |    2   |
+Smoked Sphere         |      2     |    2   |    2    |    2   |
+Clasped Orb           |      2     |    2   |    2    |    2   |
+Jared's Stone         |      3     |    2   |    3    |    3   |
+Exceptional Sorceress Orbs (1-handed)       |  Possible  |  1-25  |  26-40  |  41+   |
+Glowing Orb           |      2     |    2   |    2    |    2   |
+Crystalline Globe     |      2     |    2   |    2    |    2   |
+Cloudy Sphere         |      2     |    2   |    2    |    2   |
+Sparkling Ball        |      2     |    2   |    2    |    2   |
+Swirling Crystal      |      3     |    2   |    3    |    3   |
+Elite Sorceress       Orbs (1-handed)       |  Possible  |  1-25  |  26-40  |  41+   |
+Heavenly Stone        |      2     |    2   |    2    |    2   |
+Eldritch Orb          |      2     |    2   |    2    |    2   |
+Demon Heart           |      2     |    2   |    2    |    2   |
+Vortex Orb            |      2     |    2   |    2    |    2   |
+Dimensional Shard     |      3     |    2   |    3    |    3   |

@@ -444,6 +444,14 @@ ItemDisplay[WEAPON NORM UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Ral%GRAY
 ItemDisplay[ARMOR NORM UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Shael%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[WEAPON EXC UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Lum%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[ARMOR EXC UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Lem%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[WEAPON NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Amethyst%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[SHIELD NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Ruby%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[HELM NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[CHEST NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Topaz%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[WEAPON NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[SHIELD NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[HELM NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[CHEST NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[ci0 ILVL<26]:%NAME%{%NAME%%TAN% Defense: 20-30 Durability: 35 Sockets: 1}%CONTINUE%//
 ItemDisplay[ci0 ILVL>25]:%NAME%{%NAME%%TAN% Defense: 20-30 Durability: 35 Sockets: 2}%CONTINUE%//
 ItemDisplay[ci1 ILVL<26]:%NAME%{%NAME%%TAN% Defense: 30-40 Durability: 30 Sockets: 1}%CONTINUE%//
@@ -1729,4 +1737,3 @@ ItemDisplay[rin RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
 ItemDisplay[amu RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
 ItemDisplay[jew RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
 ItemDisplay[INF]://
-

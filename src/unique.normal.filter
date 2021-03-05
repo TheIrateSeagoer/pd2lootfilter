@@ -1,0 +1,150 @@
+/////Helms /////
+ItemDisplay[UNI !ID cap]:%NAME% %TAN%(Biggin's Bonnet)%DOT-0A%//
+ItemDisplay[UNI !ID skp]:%NAME% %TAN%(Tarnhelm)%DOT-0A%//
+ItemDisplay[UNI !ID hlm]:%NAME% %TAN%(Coif of Glory)%DOT-0A%//
+ItemDisplay[UNI !ID fhl]:%NAME% %TAN%(Duskdeep)%DOT-0A%//
+ItemDisplay[UNI !ID ghm]:%NAME% %TAN%(Howltusk)%DOT-0A%//
+ItemDisplay[UNI !ID msk]:%NAME% %TAN%(The Face of Horror)%DOT-0A%//
+ItemDisplay[UNI !ID crn]:%NAME% %TAN%(Undead Crown)%DOT-0A%//
+ItemDisplay[UNI !ID bhm]:%NAME% %TAN%(Wormskull)%DOT-0A%//
+
+///// Armors /////
+ItemDisplay[UNI !ID qui]:%NAME% %TAN%(Greyform)%DOT-0A%//
+ItemDisplay[UNI !ID lea]:%NAME% %TAN%(Blinkbat's Form)%DOT-0A%//
+ItemDisplay[UNI !ID hla]:%NAME% %TAN%(The Centurion)%DOT-0A%//
+ItemDisplay[UNI !ID stu]:%NAME% %TAN%(Twitchthroe)%DOT-0A%//
+ItemDisplay[UNI !ID rng]:%NAME% %TAN%(Darkglow)%DOT-0A%//
+ItemDisplay[UNI !ID scl]:%NAME% %TAN%(Hawkmail)%DOT-0A%//
+ItemDisplay[UNI !ID brs]:%NAME% %TAN%(Venom Ward)%DOT-0A%//
+ItemDisplay[UNI !ID chn]:%NAME% %TAN%(Sparking Mail)%DOT-0A%//
+ItemDisplay[UNI !ID spl]:%NAME% %TAN%(Iceblink)%DOT-0A%//
+ItemDisplay[UNI !ID ltp]:%NAME% %TAN%(Heavenly Garb)%DOT-0A%//
+ItemDisplay[UNI !ID fld]:%NAME% %TAN%(Rockfleece)%DOT-0A%//
+ItemDisplay[UNI !ID plt]:%NAME% %TAN%(Boneflesh)%DOT-0A%//
+ItemDisplay[UNI !ID gth]:%NAME% %TAN%(Rattlecage)%DOT-0A%//
+ItemDisplay[UNI !ID ful]:%NAME% %TAN%(Goldskin)%DOT-0A%//
+ItemDisplay[UNI !ID aar]:%NAME% %TAN%(Silks of the Victor)%DOT-0A%//
+
+///// Shields /////
+ItemDisplay[UNI !ID buc]:%NAME% %TAN%(Pelta Lunata)%DOT-0A%//
+ItemDisplay[UNI !ID sml]:%NAME% %TAN%(Umbral Disk)%DOT-0A%//
+ItemDisplay[UNI !ID lrg]:%NAME% %TAN%(Stormguild)%DOT-0A%//
+ItemDisplay[UNI !ID kit]:%NAME% %TAN%(Steelclash)%DOT-0A%//
+ItemDisplay[UNI !ID spk]:%NAME% %TAN%(Swordback Hold)%DOT-0A%//
+ItemDisplay[UNI !ID tow]:%NAME% %TAN%(Bverrit Keep)%DOT-0A%//
+ItemDisplay[UNI !ID bsh]:%NAME% %TAN%(Wall of the Eyeless)%DOT-0A%//
+ItemDisplay[UNI !ID gts]:%NAME% %TAN%(The Ward)%DOT-0A%//
+
+///// Gloves /////
+ItemDisplay[UNI !ID lgl]:%NAME% %TAN%(The Hand of Broc)%DOT-0A%//
+ItemDisplay[UNI !ID vgl]:%NAME% %TAN%(Bloodfist)%DOT-0A%//
+ItemDisplay[UNI !ID mgl]:%NAME% %TAN%(Chance Guards)%DOT-0A%//
+ItemDisplay[UNI !ID tgl]:%NAME% %TAN%(Magefist)%DOT-0A%//
+ItemDisplay[UNI !ID hgl]:%NAME% %TAN%(Frostburn)%DOT-0A%//
+
+///// Boots /////
+ItemDisplay[UNI !ID lbt]:%NAME% %TAN%(Hotspur)%DOT-0A%//
+ItemDisplay[UNI !ID vbt]:%NAME% %TAN%(Gorefoot)%DOT-0A%//
+ItemDisplay[UNI !ID mbt]:%NAME% %TAN%(Treads of Cthon)%DOT-0A%//
+ItemDisplay[UNI !ID tbt]:%NAME% %TAN%(Goblin Toe)%DOT-0A%//
+ItemDisplay[UNI !ID hbt]:%NAME% %TAN%(Tearhaunch)%DOT-0A%//
+
+///// Belts /////
+ItemDisplay[UNI !ID lbl]:%NAME% %TAN%(Lenymo)%DOT-0A%//
+ItemDisplay[UNI !ID vbl]:%NAME% %TAN%(Snakecord)%DOT-0A%//
+ItemDisplay[UNI !ID mbl]:%NAME% %TAN%(Nightsmoke)%DOT-0A%//
+ItemDisplay[UNI !ID tbl]:%NAME% %TAN%(Goldwrap)%DOT-0A%//
+ItemDisplay[UNI !ID hbl]:%NAME% %TAN%(Bladebuckle)%DOT-0A%//
+
+///// Axes /////
+ItemDisplay[UNI !ID hax]:%NAME% %TAN%(The Gnasher)%DOT-0A%//
+ItemDisplay[UNI !ID axe]:%NAME% %TAN%(Deathspade)%DOT-0A%//
+ItemDisplay[UNI !ID 2ax]:%NAME% %TAN%(Bladebone)%DOT-0A%//
+ItemDisplay[UNI !ID mpi]:%NAME% %TAN%(Skull Splitter)%DOT-0A%//
+ItemDisplay[UNI !ID wax]:%NAME% %TAN%(Rakescar)%DOT-0A%//
+ItemDisplay[UNI !ID lax]:%NAME% %TAN%(Axe of Fechmar)%DOT-0A%//
+ItemDisplay[UNI !ID bax]:%NAME% %TAN%(Goreshovel)%DOT-0A%//
+ItemDisplay[UNI !ID btx]:%NAME% %TAN%(The Chieftain)%DOT-0A%//
+ItemDisplay[UNI !ID gax]:%NAME% %TAN%(Brainhew)%DOT-0A%//
+ItemDisplay[UNI !ID gix]:%NAME% %TAN%(Humongous)%DOT-0A%//
+
+///// Bows /////
+ItemDisplay[UNI !ID sbw]:%NAME% %TAN%(Pluckeye)%DOT-0A%//
+ItemDisplay[UNI !ID hbw]:%NAME% %TAN%(Witherstring)%DOT-0A%//
+ItemDisplay[UNI !ID lbw]:%NAME% %TAN%(Raven Claw)%DOT-0A%//
+ItemDisplay[UNI !ID cbw]:%NAME% %TAN%(Rogue's Bow)%DOT-0A%//
+ItemDisplay[UNI !ID sbb]:%NAME% %TAN%(Stormstrike)%DOT-0A%//
+ItemDisplay[UNI !ID lbb]:%NAME% %TAN%(Wizendraw)%DOT-0A%//
+ItemDisplay[UNI !ID swb]:%NAME% %TAN%(Hellclap)%DOT-0A%//
+ItemDisplay[UNI !ID lwb]:%NAME% %TAN%(Blastbark)%DOT-0A%//
+
+///// Crossbows /////
+ItemDisplay[UNI !ID lxb]:%NAME% %TAN%(Leadcrow)%DOT-0A%//
+ItemDisplay[UNI !ID mxb]:%NAME% %TAN%(Ichorsting)%DOT-0A%//
+ItemDisplay[UNI !ID hxb]:%NAME% %TAN%(Hellcast)%DOT-0A%//
+ItemDisplay[UNI !ID rxb]:%NAME% %TAN%(Doomslinger)%DOT-0A%//
+
+///// Daggers /////
+ItemDisplay[UNI !ID dgr]:%NAME% %TAN%(Gull)%DOT-0A%//
+ItemDisplay[UNI !ID dir]:%NAME% %TAN%(The Diggler)%DOT-0A%//
+ItemDisplay[UNI !ID kri]:%NAME% %TAN%(The Jade Tan Do)%DOT-0A%//
+ItemDisplay[UNI !ID bld]:%NAME% %TAN%(Spectral Shard)%DOT-0A%//
+
+///// Maces /////
+ItemDisplay[UNI !ID clb]:%NAME% %TAN%(Felloak)%DOT-0A%//
+ItemDisplay[UNI !ID spc]:%NAME% %TAN%(Stoutnail)%DOT-0A%//
+ItemDisplay[UNI !ID mac]:%NAME% %TAN%(Crushflange)%DOT-0A%//
+ItemDisplay[UNI !ID mst]:%NAME% %TAN%(Bloodrise)%DOT-0A%//
+ItemDisplay[UNI !ID fla]:%NAME% %TAN%(The General's Tan Do Li Ga)%DOT-0A%//
+ItemDisplay[UNI !ID whm]:%NAME% %TAN%(Ironstone)%DOT-0A%//
+ItemDisplay[UNI !ID mau]:%NAME% %TAN%(Bonesnap)%DOT-0A%//
+ItemDisplay[UNI !ID gma]:%NAME% %TAN%(Steeldriver)%DOT-0A%//
+
+///// Polearms /////
+ItemDisplay[UNI !ID bar]:%NAME% %TAN%(Dimoak's Hew)%DOT-0A%//
+ItemDisplay[UNI !ID vou]:%NAME% %TAN%(Steelgoad)%DOT-0A%//
+ItemDisplay[UNI !ID scy]:%NAME% %TAN%(Soul Harvest)%DOT-0A%//
+ItemDisplay[UNI !ID pax]:%NAME% %TAN%(The Battlebranch)%DOT-0A%//
+ItemDisplay[UNI !ID hal]:%NAME% %TAN%(Woestave)%DOT-0A%//
+ItemDisplay[UNI !ID wsc]:%NAME% %TAN%(The Grim Reaper)%DOT-0A%//
+
+///// Scepters /////
+ItemDisplay[UNI !ID scp]:%NAME% %TAN%(Knell Striker)%DOT-0A%//
+ItemDisplay[UNI !ID gsc]:%NAME% %TAN%(Rusthandle)%DOT-0A%//
+ItemDisplay[UNI !ID wsp]:%NAME% %TAN%(Stormeye)%DOT-0A%//
+
+///// Spears /////
+ItemDisplay[UNI !ID spr]:%NAME% %TAN%(The Dragon Chang)%DOT-0A%//
+ItemDisplay[UNI !ID tri]:%NAME% %TAN%(Razortine)%DOT-0A%//
+ItemDisplay[UNI !ID brn]:%NAME% %TAN%(Bloodthief)%DOT-0A%//
+ItemDisplay[UNI !ID spt]:%NAME% %TAN%(Lance of Yaggai)%DOT-0A%//
+ItemDisplay[UNI !ID pik]:%NAME% %TAN%(The Tannr Gorerod)%DOT-0A%//
+
+///// Staves /////
+ItemDisplay[UNI !ID sst]:%NAME% %TAN%(Bane Ash)%DOT-0A%//
+ItemDisplay[UNI !ID lst]:%NAME% %TAN%(Serpent Lord)%DOT-0A%//
+ItemDisplay[UNI !ID cst]:%NAME% %TAN%(Spire of Lazarus)%DOT-0A%//
+ItemDisplay[UNI !ID bst]:%NAME% %TAN%(The Salamander)%DOT-0A%//
+ItemDisplay[UNI !ID wst]:%NAME% %TAN%(The Iron Jang Bong)%DOT-0A%//
+
+///// Swords /////
+ItemDisplay[UNI !ID ssd]:%NAME% %TAN%(Rixot's Keen)%DOT-0A%//
+ItemDisplay[UNI !ID scm]:%NAME% %TAN%(Blood Crescent)%DOT-0A%//
+ItemDisplay[UNI !ID sbr]:%NAME% %TAN%(Skewer of Krintiz)%DOT-0A%//
+ItemDisplay[UNI !ID flc]:%NAME% %TAN%(Gleamscythe)%DOT-0A%//
+ItemDisplay[UNI !ID crs]:%NAME% %TAN%(Azurewrath)%DOT-0A%//
+ItemDisplay[UNI !ID bsd]:%NAME% %TAN%(Griswold's Edge)%DOT-0A%//
+ItemDisplay[UNI !ID lsd]:%NAME% %TAN%(Hellplague)%DOT-0A%//
+ItemDisplay[UNI !ID wsd]:%NAME% %TAN%(Culwen's Point)%DOT-0A%//
+ItemDisplay[UNI !ID 2hs]:%NAME% %TAN%(Shadowfang)%DOT-0A%//
+ItemDisplay[UNI !ID clm]:%NAME% %TAN%(Soulflay)%DOT-0A%//
+ItemDisplay[UNI !ID gis]:%NAME% %TAN%(Kinemil's Awl)%DOT-0A%//
+ItemDisplay[UNI !ID bsw]:%NAME% %TAN%(Blacktongue)%DOT-0A%//
+ItemDisplay[UNI !ID flb]:%NAME% %TAN%(Ripsaw)%DOT-0A%//
+ItemDisplay[UNI !ID gsd]:%NAME% %TAN%(The Patriarch)%DOT-0A%//
+
+///// Wands /////
+ItemDisplay[UNI !ID wnd]:%NAME% %TAN%(Torch of Iro)%DOT-0A%//
+ItemDisplay[UNI !ID ywn]:%NAME% %TAN%(Maelstrom)%DOT-0A%//
+ItemDisplay[UNI !ID bwn]:%NAME% %TAN%(Gravenspine)%DOT-0A%//
+ItemDisplay[UNI !ID gwn]:%NAME% %TAN%(Ume's Lament)%DOT-0A%//

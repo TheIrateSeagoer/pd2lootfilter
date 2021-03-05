@@ -1,0 +1,13 @@
+ItemDisplay[UNI !ID]:%CODE%:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[SET !ID]:%CODE%:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+////// Fix Shop Sell colors with the re-color at the end of the item name
+ItemDisplay[cm1 MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[cm2 MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[cm3 MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[rin MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[amu MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[jew MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[rin RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
+ItemDisplay[amu RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
+ItemDisplay[jew RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
+ItemDisplay[INF]://

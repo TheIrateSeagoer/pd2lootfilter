@@ -1,0 +1,176 @@
+///// Helms /////
+ItemDisplay[cap ED=0 DEF=5  ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[skp ED=0 DEF=11 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[hlm ED=0 DEF=18 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[fhl ED=0 DEF=26 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ghm ED=0 DEF=35 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[msk ED=0 DEF=27 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[crn ED=0 DEF=45 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[bhm ED=0 DEF=36 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xap ED=0 DEF=53 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xkp ED=0 DEF=62 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xlm ED=0 DEF=72 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xhl ED=0 DEF=84 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xhm ED=0 DEF=98 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xsk ED=0 DEF=86 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xrn ED=0 DEF=113]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xh9 ED=0 DEF=125]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uap ED=0 DEF=141]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ukp ED=0 DEF=145]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ulm ED=0 DEF=149]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uhl ED=0 DEF=154]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uhm ED=0 DEF=159]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[usk ED=0 DEF=154]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[urn ED=0 DEF=165]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uh9 ED=0 DEF=157]:%NAME% %PURPLE%max%CONTINUE%//
+
+///// Armors /////
+ItemDisplay[qui ED=0 DEF=11 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[lea ED=0 DEF=17 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[hla ED=0 DEF=24 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[stu ED=0 DEF=25 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[rng ED=0 DEF=48 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[scl ED=0 DEF=60 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[brs ED=0 DEF=68 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[chn ED=0 DEF=75 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[spl ED=0 DEF=95 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ltp ED=0 DEF=107]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[fld ED=0 DEF=105]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[plt ED=0 DEF=116]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[gth ED=0 DEF=135]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ful ED=0 DEF=161]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[aar ED=0 DEF=233]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xui ED=0 DEF=117]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xea ED=0 DEF=126]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xla ED=0 DEF=136]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xtu ED=0 DEF=153]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xng ED=0 DEF=172]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xcl ED=0 DEF=190]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xrs ED=0 DEF=202]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xhn ED=0 DEF=213]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xpl ED=0 DEF=243]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xtp ED=0 DEF=261]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xld ED=0 DEF=258]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xlt ED=0 DEF=274]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xth ED=0 DEF=303]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xul ED=0 DEF=342]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xar ED=0 DEF=450]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xuc ED=0 DEF=49 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xml ED=0 DEF=55 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xrg ED=0 DEF=61 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xpk ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xit ED=0 DEF=67 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xsh ED=0 DEF=150]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xow ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xts ED=0 DEF=93 ]:%NAME% %PURPLE%max%CONTINUE%//
+
+///// Shields /////
+ItemDisplay[buc ED=0 DEF=6  ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[sml ED=0 DEF=10 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[lrg ED=0 DEF=14 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[kit ED=0 DEF=18 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[spk ED=0 DEF=25 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[tow ED=0 DEF=25 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[bsh ED=0 DEF=30 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[gts ED=0 DEF=35 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xuc ED=0 DEF=49 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xml ED=0 DEF=55 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xrg ED=0 DEF=61 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xpk ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xit ED=0 DEF=67 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xsh ED=0 DEF=150]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xow ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xts ED=0 DEF=93 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xuc ED=0 DEF=49 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xml ED=0 DEF=55 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xrg ED=0 DEF=61 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xpk ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xit ED=0 DEF=67 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xsh ED=0 DEF=150]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xow ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xts ED=0 DEF=93 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uuc ED=0 DEF=110]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uml ED=0 DEF=123]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[urg ED=0 DEF=135]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uit ED=0 DEF=148]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[upk ED=0 DEF=163]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uow ED=0 DEF=161]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ush ED=0 DEF=173]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uts ED=0 DEF=170]:%NAME% %PURPLE%max%CONTINUE%//
+
+///// Gloves /////
+ItemDisplay[lgl ED=0 DEF=3 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[vgl ED=0 DEF=6 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[mgl ED=0 DEF=9 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[tgl ED=0 DEF=11]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[hgl ED=0 DEF=15]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xlg ED=0 DEF=35]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xvg ED=0 DEF=39]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xmg ED=0 DEF=44]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xtg ED=0 DEF=47]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xhg ED=0 DEF=53]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ulg ED=0 DEF=62]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uvg ED=0 DEF=65]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[umg ED=0 DEF=67]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[utg ED=0 DEF=68]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uhg ED=0 DEF=71]:%NAME% %PURPLE%max%CONTINUE%//
+
+///// Boots /////
+ItemDisplay[lbt ED=0 DEF=3 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[vbt ED=0 DEF=6 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[mbt ED=0 DEF=9 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[tbt ED=0 DEF=11]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[hbt ED=0 DEF=15]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xlb ED=0 DEF=35]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xvb ED=0 DEF=39]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xmb ED=0 DEF=44]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xtb ED=0 DEF=47]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[xhb ED=0 DEF=53]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ulb ED=0 DEF=62]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uvb ED=0 DEF=65]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[umb ED=0 DEF=67]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[utb ED=0 DEF=67]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uhb ED=0 DEF=71]:%NAME% %PURPLE%max%CONTINUE%//
+
+///// Belts /////
+ItemDisplay[lbl ED=0 DEF=2 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[vbl ED=0 DEF=3 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[mbl ED=0 DEF=5 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[tbl ED=0 DEF=6 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[hbl ED=0 DEF=11]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[zlb ED=0 DEF=34]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[zvb ED=0 DEF=36]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[zmb ED=0 DEF=40]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ztb ED=0 DEF=42]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[zhb ED=0 DEF=52]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ulc ED=0 DEF=62]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uvc ED=0 DEF=63]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[umc ED=0 DEF=65]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[utc ED=0 DEF=66]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uhc ED=0 DEF=71]:%NAME% %PURPLE%max%CONTINUE%//
+
+///// Amulets /////
+
+///// Rings /////
+
+////////// Price ///////////
+ItemDisplay[!RW !UNI PRICE>4999]:%NAME% %DARK_GREEN%$%CONTINUE%//
+ItemDisplay[!RW !UNI PRICE>9999]:%NAME%%DARK_GREEN%$%CONTINUE%//
+ItemDisplay[!RW !UNI PRICE>14999]:%NAME%%DARK_GREEN%$%CONTINUE%//
+ItemDisplay[!RW !UNI PRICE>19999]:%NAME%%DARK_GREEN%$%CONTINUE%//
+ItemDisplay[!RW !UNI PRICE>24999]:%NAME%%DARK_GREEN%$%CONTINUE%//
+ItemDisplay[!RW !UNI PRICE>29999]:%NAME%%DARK_GREEN%$%CONTINUE%//
+ItemDisplay[!RW !UNI PRICE>34999]:%NAME%%DARK_GREEN%$%CONTINUE%//
+///// Sleepy Gamer Reminder /////
+ItemDisplay[SOCK>1 MAG]:%NAME%%NL%%RED%NOT A RUNEWORD CANDIDATE%BLUE%%CONTINUE%//
+ItemDisplay[SOCK>1 RARE]:%NAME%%NL%%RED%NOT A RUNEWORD CANDIDATE%YELLOW%%CONTINUE%//
+///// Shop Color Fix /////
+ItemDisplay[RW]:%NAME%%GOLD%%CONTINUE%//
+ItemDisplay[NMAG SOCK=0]:%NAME%%WHITE%%CONTINUE%//
+ItemDisplay[NMAG SOCK>0 !RW]:%NAME%%GRAY%%CONTINUE%//
+ItemDisplay[NMAG ETH]:%NAME%%GRAY%%CONTINUE%//
+ItemDisplay[MAG]:%NAME%%BLUE%%CONTINUE%//
+ItemDisplay[RARE]:%NAME%%YELLOW%%CONTINUE%//
+ItemDisplay[UNI]:%NAME%%GOLD%%CONTINUE%//
+ItemDisplay[SET]:%NAME%%GREEN%%CONTINUE%//
+ItemDisplay[CRAFT]:%NAME%%ORANGE%%CONTINUE%//

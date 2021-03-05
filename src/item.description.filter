@@ -1,0 +1,20 @@
+////////// Upgrades //////////
+ItemDisplay[WEAPON NORM RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ort%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[ARMOR NORM RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[WEAPON EXC RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Fal%GRAY%+%RED%Um%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[ARMOR EXC RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
+
+ItemDisplay[WEAPON NORM UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Sol%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[ARMOR NORM UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Shael%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[WEAPON EXC UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Lum%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[ARMOR EXC UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Lem%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
+
+ItemDisplay[WEAPON NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Amethyst%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[SHIELD NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Ruby%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[HELM NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[CHEST NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Topaz%GRAY%)%NL%}%CONTINUE%//
+
+ItemDisplay[WEAPON NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[SHIELD NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[HELM NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[CHEST NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
