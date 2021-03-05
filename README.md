@@ -54,7 +54,7 @@ This is the largest source of noise while playing the game.
 - Level 30 hides Normal Quality Items and Superior Items with no enchanced Defense/Damage
 
 ## Enchancements
-  - All Items have their Arreat Summit Values as a description line. 
+  - All Items have their Arreat Summit Values as a description line. (This is setup to be dynamic, so you know exactly how many sockets on Larzuk you would receive at the maximum)
   - Ethereal Items are prefixed with [Eth]
   - Socketed Items are prefixed with [2os]
   - Ethereal+Socketed Items are prefixed with [Eth,3os]
