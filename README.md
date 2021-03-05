@@ -11,7 +11,7 @@ Upcoming changes include:
 
 # Preview
 ![Vendor](https://i.imgur.com/6jAOh85.png)
-![Recipe](https://i.imgur.com/FDXhUFz.png)
+![Recipe](https://i.imgur.com/x9FOL7k.png)
 ![Items](https://i.imgur.com/3yCaMdV.png)
 ![Runewords](https://cdn.discordapp.com/attachments/771820538502971402/816863404601901096/unknown.png)
 ![Runeword](https://i.imgur.com/Buge5Yu.png)
