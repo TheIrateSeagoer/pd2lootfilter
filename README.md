@@ -7,11 +7,11 @@ This filter is setup to cut down on a lot of the noise that occurs with drops du
 Upcoming changes include:
 - Add prominent marking for early runeword bases for the upcoming season 2, until then 2+ socket items will show up past level 30
 - Add things for late game shopping.
-- Upgrade rune words on Normal/Elite Items 
 
 
 # Preview
 ![Vendor](https://i.imgur.com/6jAOh85.png)
+![Recipe](https://i.imgur.com/FDXhUFz.png)
 ![Items](https://i.imgur.com/3yCaMdV.png)
 ![Runewords](https://cdn.discordapp.com/attachments/771820538502971402/816863404601901096/unknown.png)
 ![Runeword](https://i.imgur.com/Buge5Yu.png)
@@ -62,6 +62,7 @@ This is the largest source of noise while playing the game.
   - Normal/Magic/Rare Items will be suffixed with a MAX denoting it's highest defense value roll
   - For every $5000 of vendor value the item is suffixed with a $ (Example a 15,358 value item will be suffixed with $$$)
   - Magic / Rare that rolled sockets have a "NOT A RUNEWORD CANDIATE" warning attached" for the sleepy gamers
+  - Upgrade Recipies for Rare/Unique Armors
 
 ### Unique Items
 All unique items have notifications enabled by default.
