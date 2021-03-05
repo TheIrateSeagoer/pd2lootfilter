@@ -1728,3 +1728,5 @@ ItemDisplay[jew MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
 ItemDisplay[rin RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
 ItemDisplay[amu RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
 ItemDisplay[jew RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
+ItemDisplay[INF]://
+
