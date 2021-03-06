@@ -9,6 +9,7 @@ ItemDisplay[ARMOR NORM UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Tal%GRAY%
 ItemDisplay[WEAPON EXC UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Lum%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[ARMOR EXC UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Lem%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
 
+////////// Socketing //////////
 ItemDisplay[WEAPON NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Amethyst%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[SHIELD NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Ruby%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[HELM NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
@@ -18,3 +19,16 @@ ItemDisplay[WEAPON NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask 
 ItemDisplay[SHIELD NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[HELM NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[CHEST NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+
+////////// Crafting //////////
+
+ItemDisplay[HELM MAG]:%NAME%{%NAME%%ORANGE%Blood: Ral/Caster: Nef/Power: Ith/Safety: Ith%NL%}%CONTINUE%//
+ItemDisplay[CHEST MAG]:%NAME%{%NAME%%ORANGE%Blood: Thul/Caster: Tal/Power: Nef/Safety: Eth%NL%}%CONTINUE%//
+ItemDisplay[WEAPON MAG]:%NAME%{%NAME%%ORANGE%Blood: Ort/Caster: Tir/Power: Tir/Safety: Sol%NL%}%CONTINUE%//
+ItemDisplay[SHIELD MAG]:%NAME%{%NAME%%ORANGE%Blood: Ith/Caster: Eth/Power: Eth/Safety: Nef%NL%}%CONTINUE%//
+ItemDisplay[GLOVES MAG]:%NAME%{%NAME%%ORANGE%Blood: Nef/Caster: Ort/Power: Ort/Safety: Ral%NL%}%CONTINUE%//
+ItemDisplay[BELT MAG]:%NAME%{%NAME%%ORANGE%Blood: Tal/Caster: Ith/Power: Tal/Safety: Tal%NL%}%CONTINUE%//
+ItemDisplay[BOOTS MAG]:%NAME%{%NAME%%ORANGE%Blood: Eth/Caster: Thul/Power: Ral/Safety: Ort%NL%}%CONTINUE%//
+ItemDisplay[amu MAG]:%NAME%{%NAME%%ORANGE%Blood: Amn/Caster: Ral/Power: Thul/Safety: Thul}%CONTINUE%//
+ItemDisplay[rin MAG]:%NAME%{%NAME%%ORANGE%Blood: Sol/Caster: Amn/Power: Amn/Safety: Amn}%CONTINUE%//
+ItemDisplay[jew MAG]:%NAME%{%ORANGE%Crafting%TAN%: (Blood: Ruby/Caster: Amethyst/Power: Sapphire/Safety: Emerald)}%CONTINUE%//

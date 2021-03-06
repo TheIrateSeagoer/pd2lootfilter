@@ -58,7 +58,7 @@ ItemDisplay[tbk]:%NAME%//
 ItemDisplay[ibk]:%NAME%//
 ItemDisplay[tsc]:Town//
 ItemDisplay[isc]:Ident//
-ItemDisplay[key]:Key//
+ItemDisplay[key]:Key{%TAN%See Magic Item for Rune%NL%%TAN%See Jewel for Gem%NL%%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Nef-Sol)%GRAY%+%BLUE%Item%GRAY%)}//
 
 ///// Chipped Gems /////
 ItemDisplay[gcv DIFF>0]://
