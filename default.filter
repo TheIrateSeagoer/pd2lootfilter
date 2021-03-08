@@ -1274,7 +1274,7 @@ ItemDisplay[obd]:%NAME%{%NAME%%TAN% Damage: 23-55 Durability: 15 Sockets: 2}%CON
 ItemDisplay[obe]:%NAME%{%NAME%%TAN% Damage: 12-66 Durability: 15 Sockets: 2}%CONTINUE%//
 ItemDisplay[obf ILVL<26]:%NAME%{%NAME%%TAN% Damage: 30-53 Durability: 15 Sockets: 2}%CONTINUE%//
 ItemDisplay[obf ILVL>25]:%NAME%{%NAME%%TAN% Damage: 30-53 Durability: 15 Sockets: 3}%CONTINUE%//
-ItemDisplay[SET !ID rng]:%NAME% %TAN%(Cathan/Angelic/PD2 Bul-kathos)%DOT-0A%//
+ItemDisplay[SET !ID rin]:%NAME% %TAN%(Cathan/Angelic/PD2 Bul-kathos)%DOT-0A%//
 ItemDisplay[SET !ID amu]:%NAME% %TAN%(Arcanna/Cathan/Civerb/Angelic/Iratha/Tancred/Vidala/The Disciple/Tal Rasha)%DOT-0A%//
 ItemDisplay[SET !ID tgl]:%NAME% %TAN%(Arctic/Iratha)%DOT-0A%//
 ItemDisplay[SET !ID cap]:%NAME% %TAN%(Infernal/Sander)%DOT-0A%//
