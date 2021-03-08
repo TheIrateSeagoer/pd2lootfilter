@@ -50,5 +50,5 @@ New-Item -ItemType Directory -Path 'bin' | Out-Null
 
 Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter', '.\obj\common.lod.filter', '.\obj\common.pd2.filter', '.\obj\item.prefix.filter', '.\obj\item.treasureclass.filter', '.\obj\item.suffix.filter', '.\obj\item.description.filter','.\obj\arreat.normal.filter', '.\obj\arreat.exceptional.filter', '.\obj\arreat.elite.filter', '.\obj\set.shared.filter', '.\obj\set.normal.filter', '.\obj\set.exceptional.filter', '.\obj\set.elite.filter', '.\obj\unique.shared.filter', '.\obj\unique.normal.filter', '.\obj\unique.exceptional.filter', '.\obj\unique.elite.filter', '.\obj\bases.filter', '.\obj\catchall.filter' | Set-Content '.\bin\treasureclass.filter'
 
-if (Test-Path -Path 'C:\Program Files (x86)\Diablo II\ProjectD2') { Copy-Item '.\bin\default.filter' -Destination 'C:\Program Files (x86)\Diablo II\ProjectD2' }
-if (Test-Path -Path 'C:\Program Files (x86)\Diablo II\ProjectD2Beta') { Copy-Item '.\bin\default.filter' -Destination 'C:\Program Files (x86)\Diablo II\ProjectD2Beta' }
+if (Test-Path -Path 'C:\Program Files (x86)\Diablo II\ProjectD2') { Copy-Item '.\bin\treasureclass.filter' -Destination 'C:\Program Files (x86)\Diablo II\ProjectD2\default.filter' }
+if (Test-Path -Path 'C:\Program Files (x86)\Diablo II\ProjectD2Beta') { Copy-Item '.\bin\treasureclass.filter' -Destination 'C:\Program Files (x86)\Diablo II\ProjectD2Beta\default.filter' }
