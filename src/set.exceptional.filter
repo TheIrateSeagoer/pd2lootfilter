@@ -1,32 +1,32 @@
-ItemDisplay[SET !ID 7ma]:%NAME% %TAN%(Dangoon's Teaching)%MAP-0A%//
-ItemDisplay[SET !ID xrs]:%NAME% %TAN%(Haemosu's Adament)%MAP-0A%//
-ItemDisplay[SET !ID uhm]:%NAME% %TAN%(Ondal's Almighty)%MAP-0A%//
-ItemDisplay[SET !ID uts]:%NAME% %TAN%(Taebaek'sGlory)%MAP-0A%//
+ItemDisplay[SET !ID 7ma]:%GREEN%Dangoon's Teaching%MAP-0A%//
+ItemDisplay[SET !ID xrs]:%GREEN%Haemosu's Adament%MAP-0A%//
+ItemDisplay[SET !ID uhm]:%GREEN%Ondal's Almighty%MAP-0A%//
+ItemDisplay[SET !ID uts]:%GREEN%Taebaek'sGlory%MAP-0A%//
 
-ItemDisplay[SET !ID umc]:%NAME% %TAN%(Credendum)%MAP-0A%//
-ItemDisplay[SET !ID uui]:%NAME% %TAN%(Dark Adherent)%MAP-0A%//
-ItemDisplay[SET !ID ulg]:%NAME% %TAN%(Laying of Hands)%MAP-0A%//
-ItemDisplay[SET !ID xlb]:%NAME% %TAN%(Rite of Passage)%MAP-0A%//
+ItemDisplay[SET !ID umc]:%GREEN%Credendum%MAP-0A%//
+ItemDisplay[SET !ID uui]:%GREEN%Dark Adherent%MAP-0A%//
+ItemDisplay[SET !ID ulg]:%GREEN%Laying of Hands%MAP-0A%//
+ItemDisplay[SET !ID xlb]:%GREEN%Rite of Passage%MAP-0A%//
 
-ItemDisplay[SET !ID 9vo]:%NAME% %TAN%(Hwanin's Justice)%MAP-0A%//
-ItemDisplay[SET !ID xcl]:%NAME% %TAN%(Hwanin's Refuge)%MAP-0A%//
-ItemDisplay[SET !ID xrn]:%NAME% %TAN%(Hwanin's Splendor)%MAP-0A%//
+ItemDisplay[SET !ID 9vo]:%GREEN%Hwanin's Justice%MAP-0A%//
+ItemDisplay[SET !ID xcl]:%GREEN%Hwanin's Refuge%MAP-0A%//
+ItemDisplay[SET !ID xrn]:%GREEN%Hwanin's Splendor%MAP-0A%//
 
-ItemDisplay[SET !ID stu]:%NAME% %TAN%(Cow King's Hide)%MAP-0A%//
-ItemDisplay[SET !ID xap]:%NAME% %TAN%(Cow King's Horns)%MAP-0A%//
+ItemDisplay[SET !ID stu]:%GREEN%Cow King's Hide%MAP-0A%//
+ItemDisplay[SET !ID xap]:%GREEN%Cow King's Horns%MAP-0A%//
 
-ItemDisplay[SET !ID ci0]:%NAME% %TAN%(Naj's Circlet)%MAP-0A%//
-ItemDisplay[SET !ID ult]:%NAME% %TAN%(Naj's Light Plate)%MAP-0A%//
-ItemDisplay[SET !ID 6cs]:%NAME% %TAN%(Naj's Puzzler)%MAP-0A%//
+ItemDisplay[SET !ID ci0]:%GREEN%Naj's Circlet%MAP-0A%//
+ItemDisplay[SET !ID ult]:%GREEN%Naj's Light Plate%MAP-0A%//
+ItemDisplay[SET !ID 6cs]:%GREEN%Naj's Puzzler%MAP-0A%//
 
-ItemDisplay[SET !ID bwn]:%NAME% %TAN%(Sander's Superstition)%MAP-0A%//
-ItemDisplay[SET !ID vgl]:%NAME% %TAN%(Sander's Taboo)%MAP-0A%//
+ItemDisplay[SET !ID bwn]:%GREEN%Sander's Superstition%MAP-0A%//
+ItemDisplay[SET !ID vgl]:%GREEN%Sander's Taboo%MAP-0A%//
 
-ItemDisplay[SET !ID 7ls]:%NAME% %TAN%(Sazabi's Cobalt Redeemer)%MAP-0A%//
-ItemDisplay[SET !ID upl]:%NAME% %TAN%(Sazabi's Ghost Liberator)%MAP-0A%//
-ItemDisplay[SET !ID xhl]:%NAME% %TAN%(Sazabi's Sazabi's Mental Sheath)%MAP-0A%//
+ItemDisplay[SET !ID 7ls]:%GREEN%Sazabi's Cobalt Redeemer%MAP-0A%//
+ItemDisplay[SET !ID upl]:%GREEN%Sazabi's Ghost Liberator%MAP-0A%//
+ItemDisplay[SET !ID xhl]:%GREEN%Sazabi's Sazabi's Mental Sheath%MAP-0A%//
 
-ItemDisplay[SET !ID xhm]:%NAME% %TAN%(Guillaume's Face)%MAP-0A%//
-ItemDisplay[SET !ID xvg]:%NAME% %TAN%(Magnus's Skin)%MAP-0A%//
-ItemDisplay[SET !ID xml]:%NAME% %TAN%(Whitstan's Guard)%MAP-0A%//
-ItemDisplay[SET !ID ztb]:%NAME% %TAN%(Wilhelm's Pride)%MAP-0A%//
+ItemDisplay[SET !ID xhm]:%GREEN%Guillaume's Face%MAP-0A%//
+ItemDisplay[SET !ID xvg]:%GREEN%Magnus's Skin%MAP-0A%//
+ItemDisplay[SET !ID xml]:%GREEN%Whitstan's Guard%MAP-0A%//
+ItemDisplay[SET !ID ztb]:%GREEN%Wilhelm's Pride%MAP-0A%//

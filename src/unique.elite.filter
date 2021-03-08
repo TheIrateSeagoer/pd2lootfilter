@@ -1,113 +1,113 @@
 ///// Helms /////
-ItemDisplay[UNI !ID uap]:%NAME% %TAN%(Harlequin Crest)%MAP-0A%//
-ItemDisplay[UNI !ID ulm]:%NAME% %TAN%(Steel Shade)%MAP-0A%//
-ItemDisplay[UNI !ID uhm]:%NAME% %TAN%(Veil of Steel/Nightwing's Veil)%MAP-0A%//
-ItemDisplay[UNI !ID usk]:%NAME% %TAN%(Andariel's Visage)%MAP-0A%//
-ItemDisplay[UNI !ID urn]:%NAME% %TAN%(Crown of Ages)%MAP-0A%//
-ItemDisplay[UNI !ID uh9]:%NAME% %TAN%(Giant Skull)%MAP-0A%//
+ItemDisplay[UNI !ID uap]:%GOLD%Harlequin Crest%MAP-0A%//
+ItemDisplay[UNI !ID ulm]:%GOLD%Steel Shade%MAP-0A%//
+ItemDisplay[UNI !ID uhm]:%GOLD%Veil of Steel/Nightwing's Veil%MAP-0A%//
+ItemDisplay[UNI !ID usk]:%GOLD%Andariel's Visage%MAP-0A%//
+ItemDisplay[UNI !ID urn]:%GOLD%Crown of Ages%MAP-0A%//
+ItemDisplay[UNI !ID uh9]:%GOLD%Giant Skull%MAP-0A%//
 
 ///// Armors /////
-ItemDisplay[UNI !ID uui]:%NAME% %TAN%(Ormus' Robes)%MAP-0A%//
-ItemDisplay[UNI !ID utu]:%NAME% %TAN%(The Gladiator's Bane)%MAP-0A%//
-ItemDisplay[UNI !ID upl]:%NAME% %TAN%(Arkaine's Valor)%MAP-0A%//
-ItemDisplay[UNI !ID uld]:%NAME% %TAN%(Leviathan)%MAP-0A%//
-ItemDisplay[UNI !ID uul]:%NAME% %TAN%(Steel Carapace)%MAP-0A%//
-ItemDisplay[UNI !ID uar]:%NAME% %TAN%(Templar's Might/Tyrael's Might)%MAP-0A%//
+ItemDisplay[UNI !ID uui]:%GOLD%Ormus' Robes%MAP-0A%//
+ItemDisplay[UNI !ID utu]:%GOLD%The Gladiator's Bane%MAP-0A%//
+ItemDisplay[UNI !ID upl]:%GOLD%Arkaine's Valor%MAP-0A%//
+ItemDisplay[UNI !ID uld]:%GOLD%Leviathan%MAP-0A%//
+ItemDisplay[UNI !ID uul]:%GOLD%Steel Carapace%MAP-0A%//
+ItemDisplay[UNI !ID uar]:%GOLD%Templar's Might/Tyrael's Might%MAP-0A%//
 
 ///// Shields /////
-ItemDisplay[UNI !ID uml]:%NAME% %TAN%(Blackoak Shield)//%MAP-0A%//
-ItemDisplay[UNI !ID uit]:%NAME% %TAN%(Stormshield)%MAP-0A%//
-ItemDisplay[UNI !ID upk]:%NAME% %TAN%(Spike Thorn)%MAP-0A%//
-ItemDisplay[UNI !ID uow]:%NAME% %TAN%(Medusa's Gaze)%MAP-0A%//
-ItemDisplay[UNI !ID ush]:%NAME% %TAN%(Head Hunter's Glory)%MAP-0A%//
-ItemDisplay[UNI !ID uts]:%NAME% %TAN%(Spirit Ward)%MAP-0A%//
+ItemDisplay[UNI !ID uml]:%GOLD%Blackoak Shield%MAP-0A%//
+ItemDisplay[UNI !ID uit]:%GOLD%Stormshield%MAP-0A%//
+ItemDisplay[UNI !ID upk]:%GOLD%Spike Thorn%MAP-0A%//
+ItemDisplay[UNI !ID uow]:%GOLD%Medusa's Gaze%MAP-0A%//
+ItemDisplay[UNI !ID ush]:%GOLD%Head Hunter's Glory%MAP-0A%//
+ItemDisplay[UNI !ID uts]:%GOLD%Spirit Ward%MAP-0A%//
 
 ///// Gloves /////
-ItemDisplay[UNI !ID uvg]:%NAME% %TAN%(Dracul's Grasp)%MAP-0A%//
-ItemDisplay[UNI !ID umg]:%NAME% %TAN%(Soul Drainer)%MAP-0A%//
-ItemDisplay[UNI !ID uhg]:%NAME% %TAN%(Steelrend)%MAP-0A%//
+ItemDisplay[UNI !ID uvg]:%GOLD%Dracul's Grasp%MAP-0A%//
+ItemDisplay[UNI !ID umg]:%GOLD%Soul Drainer%MAP-0A%//
+ItemDisplay[UNI !ID uhg]:%GOLD%Steelrend%MAP-0A%//
 
 ///// Boots /////
-ItemDisplay[UNI !ID uvb]:%NAME% %TAN%(Sandstorm Trek)%MAP-0A%//
-ItemDisplay[UNI !ID umb]:%NAME% %TAN%(Marrowwalk)%MAP-0A%//
-ItemDisplay[UNI !ID uhb]:%NAME% %TAN%(Shadow Dancer)%MAP-0A%//
+ItemDisplay[UNI !ID uvb]:%GOLD%Sandstorm Trek%MAP-0A%//
+ItemDisplay[UNI !ID umb]:%GOLD%Marrowwalk%MAP-0A%//
+ItemDisplay[UNI !ID uhb]:%GOLD%Shadow Dancer%MAP-0A%//
 
 ///// Belts /////
-ItemDisplay[UNI !ID ulc]:%NAME% %TAN%(Arachnid Mesh)%MAP-0A%//
-ItemDisplay[UNI !ID uvc]:%NAME% %TAN%(Nosferatu's Coil)%MAP-0A%//
-ItemDisplay[UNI !ID umc]:%NAME% %TAN%(Verdungo's Hearty Cord)%MAP-0A%//
+ItemDisplay[UNI !ID ulc]:%GOLD%Arachnid Mesh%MAP-0A%//
+ItemDisplay[UNI !ID uvc]:%GOLD%Nosferatu's Coil%MAP-0A%//
+ItemDisplay[UNI !ID umc]:%GOLD%Verdungo's Hearty Cord%MAP-0A%//
 
 ///// Axes /////
-ItemDisplay[UNI !ID 7ha]:%NAME% %TAN%(Razor's Edge)%MAP-0A%//
-ItemDisplay[UNI !ID 72a]:%NAME% %TAN%(Rune Master)%MAP-0A%//
-ItemDisplay[UNI !ID 7mp]:%NAME% %TAN%(Cranebeak)%MAP-0A%//
-ItemDisplay[UNI !ID 7wa]:%NAME% %TAN%(Death Cleaver)%MAP-0A%//
-ItemDisplay[UNI !ID 7ba]:%NAME% %TAN%(Ethereal Edge)//%MAP-0A%//
-ItemDisplay[UNI !ID 7bt]:%NAME% %TAN%(Hellslayer)%MAP-0A%//
-ItemDisplay[UNI !ID 7ga]:%NAME% %TAN%(Messerschmidt's Reaver)%MAP-0A%//
-ItemDisplay[UNI !ID 7gi]:%NAME% %TAN%(Executioner's Justice)%MAP-0A%//
+ItemDisplay[UNI !ID 7ha]:%GOLD%Razor's Edge%MAP-0A%//
+ItemDisplay[UNI !ID 72a]:%GOLD%Rune Master%MAP-0A%//
+ItemDisplay[UNI !ID 7mp]:%GOLD%Cranebeak%MAP-0A%//
+ItemDisplay[UNI !ID 7wa]:%GOLD%Death Cleaver%MAP-0A%//
+ItemDisplay[UNI !ID 7ba]:%GOLD%Ethereal Edge%MAP-0A%//
+ItemDisplay[UNI !ID 7bt]:%GOLD%Hellslayer%MAP-0A%//
+ItemDisplay[UNI !ID 7ga]:%GOLD%Messerschmidt's Reaver%MAP-0A%//
+ItemDisplay[UNI !ID 7gi]:%GOLD%Executioner's Justice%MAP-0A%//
 
 ///// Bows /////
-ItemDisplay[UNI !ID 6l7]:%NAME% %TAN%(Eaglehorn)%MAP-0A%//
-ItemDisplay[UNI !ID 6sw]:%NAME% %TAN%(Widowmaker)%MAP-0A%//
-ItemDisplay[UNI !ID 6lw]:%NAME% %TAN%(Windforce)%MAP-0A%//
+ItemDisplay[UNI !ID 6l7]:%GOLD%Eaglehorn%MAP-0A%//
+ItemDisplay[UNI !ID 6sw]:%GOLD%Widowmaker%MAP-0A%//
+ItemDisplay[UNI !ID 6lw]:%GOLD%Windforce%MAP-0A%//
 
 ///// Crossbows /////
-ItemDisplay[UNI !ID 6hx]:%NAME% %TAN%(Hellrack)%MAP-0A%//
-ItemDisplay[UNI !ID 6rx]:%NAME% %TAN%(Gut Siphon)%MAP-0A%//
+ItemDisplay[UNI !ID 6hx]:%GOLD%Hellrack%MAP-0A%//
+ItemDisplay[UNI !ID 6rx]:%GOLD%Gut Siphon%MAP-0A%//
 
 ///// Daggers /////
-ItemDisplay[UNI !ID 7dg]:%NAME% %TAN%(Wizardspike)%MAP-0A%//
-ItemDisplay[UNI !ID 7kr]:%NAME% %TAN%(Fleshripper)%MAP-0A%//
-ItemDisplay[UNI !ID 7bl]:%NAME% %TAN%(Ghostflame)%MAP-0A%//
+ItemDisplay[UNI !ID 7dg]:%GOLD%Wizardspike%MAP-0A%//
+ItemDisplay[UNI !ID 7kr]:%GOLD%Fleshripper%MAP-0A%//
+ItemDisplay[UNI !ID 7bl]:%GOLD%Ghostflame%MAP-0A%//
 
 ///// Javelins /////
-ItemDisplay[UNI !ID 7s7]:%NAME% %TAN%(Demon's Arch)%MAP-0A%//
-ItemDisplay[UNI !ID 7gl]:%NAME% %TAN%(Wraith Flight)%MAP-0A%//
-ItemDisplay[UNI !ID 7ts]:%NAME% %TAN%(Gargoyle's Bite)%MAP-0A%//
+ItemDisplay[UNI !ID 7s7]:%GOLD%Demon's Arch%MAP-0A%//
+ItemDisplay[UNI !ID 7gl]:%GOLD%Wraith Flight%MAP-0A%//
+ItemDisplay[UNI !ID 7ts]:%GOLD%Gargoyle's Bite%MAP-0A%//
 
 ///// Maces /////
-ItemDisplay[UNI !ID 7cl]:%NAME% %TAN%(Nord's Tenderizer)%MAP-0A%//
-ItemDisplay[UNI !ID 7sp]:%NAME% %TAN%(Demon Limb)%MAP-0A%//
-ItemDisplay[UNI !ID 7mt]:%NAME% %TAN%(Baranar's Star)%MAP-0A%//
-ItemDisplay[UNI !ID 7fl]:%NAME% %TAN%(Horizon's Tornado/Stormlash)%MAP-0A%//
-ItemDisplay[UNI !ID 7wh]:%NAME% %TAN%(Stone Crusher/Schaefer's Hammer)%MAP-0A%//
-ItemDisplay[UNI !ID 7m7]:%NAME% %TAN%(Windhammer)%MAP-0A%//
-ItemDisplay[UNI !ID 7gm]:%NAME% %TAN%(Earth Shifter/The Cranium Basher)%MAP-0A%//
+ItemDisplay[UNI !ID 7cl]:%GOLD%Nord's Tenderizer%MAP-0A%//
+ItemDisplay[UNI !ID 7sp]:%GOLD%Demon Limb%MAP-0A%//
+ItemDisplay[UNI !ID 7mt]:%GOLD%Baranar's Star%MAP-0A%//
+ItemDisplay[UNI !ID 7fl]:%GOLD%Horizon's Tornado/Stormlash%MAP-0A%//
+ItemDisplay[UNI !ID 7wh]:%GOLD%Stone Crusher/Schaefer's Hammer%MAP-0A%//
+ItemDisplay[UNI !ID 7m7]:%GOLD%Windhammer%MAP-0A%//
+ItemDisplay[UNI !ID 7gm]:%GOLD%Earth Shifter/The Cranium Basher%MAP-0A%//
 
 ///// Polearms /////
-ItemDisplay[UNI !ID 7o7]:%NAME% %TAN%(Bonehew)%MAP-0A%//
-ItemDisplay[UNI !ID 7s8]:%NAME% %TAN%(The Reaper's Toll)%MAP-0A%//
-ItemDisplay[UNI !ID 7pa]:%NAME% %TAN%(Tomb Reaver)%MAP-0A%//
-ItemDisplay[UNI !ID 7wc]:%NAME% %TAN%(Stormspire)%MAP-0A%//
+ItemDisplay[UNI !ID 7o7]:%GOLD%Bonehew%MAP-0A%//
+ItemDisplay[UNI !ID 7s8]:%GOLD%The Reaper's Toll%MAP-0A%//
+ItemDisplay[UNI !ID 7pa]:%GOLD%Tomb Reaver%MAP-0A%//
+ItemDisplay[UNI !ID 7wc]:%GOLD%Stormspire%MAP-0A%//
 
 ///// Scepters /////
-ItemDisplay[UNI !ID 7sc]:%NAME% %TAN%(Heaven's Light/The Redeemer)%MAP-0A%//
-ItemDisplay[UNI !ID 7ws]:%NAME% %TAN%(Astreon's Iron Ward)%MAP-0A%//
+ItemDisplay[UNI !ID 7sc]:%GOLD%Heaven's Light/The Redeemer%MAP-0A%//
+ItemDisplay[UNI !ID 7ws]:%GOLD%Astreon's Iron Ward%MAP-0A%//
 
 ///// Spears /////
-ItemDisplay[UNI !ID 7sr]:%NAME% %TAN%(Arioc's Needle)%MAP-0A%//
-ItemDisplay[UNI !ID 7br]:%NAME% %TAN%(Viperfork)%MAP-0A%//
-ItemDisplay[UNI !ID 7p7]:%NAME% %TAN%(Steel Pillar)%MAP-0A%//
+ItemDisplay[UNI !ID 7sr]:%GOLD%Arioc's Needle%MAP-0A%//
+ItemDisplay[UNI !ID 7br]:%GOLD%Viperfork%MAP-0A%//
+ItemDisplay[UNI !ID 7p7]:%GOLD%Steel Pillar%MAP-0A%//
 
 ///// Staves /////
-ItemDisplay[UNI !ID 6cs]:%NAME% %TAN%(Ondal's Wisdom)%MAP-0A%//
-ItemDisplay[UNI !ID 6ws]:%NAME% %TAN%(Mang Song's Lesson)%MAP-0A%//
+ItemDisplay[UNI !ID 6cs]:%GOLD%Ondal's Wisdom%MAP-0A%//
+ItemDisplay[UNI !ID 6ws]:%GOLD%Mang Song's Lesson%MAP-0A%//
 
 ///// Swords /////
-ItemDisplay[UNI !ID 7sm]:%NAME% %TAN%(Djinn Slayer)%MAP-0A%//
-ItemDisplay[UNI !ID 7sb]:%NAME% %TAN%(Bloodmoon)%MAP-0A%//
-ItemDisplay[UNI !ID 7cr]:%NAME% %TAN%(Lightsabre/Azurewrath)%MAP-0A%//
-ItemDisplay[UNI !ID 7ls]:%NAME% %TAN%(Frostwind)%MAP-0A%//
-ItemDisplay[UNI !ID 7gs]:%NAME% %TAN%(Flamebellow)%MAP-0A%//
-ItemDisplay[UNI !ID 7b7]:%NAME% %TAN%(Doombringer)%MAP-0A%//
-ItemDisplay[UNI !ID 7gd]:%NAME% %TAN%(The Grandfather)%MAP-0A%//
+ItemDisplay[UNI !ID 7sm]:%GOLD%Djinn Slayer%MAP-0A%//
+ItemDisplay[UNI !ID 7sb]:%GOLD%Bloodmoon%MAP-0A%//
+ItemDisplay[UNI !ID 7cr]:%GOLD%Lightsabre/Azurewrath%MAP-0A%//
+ItemDisplay[UNI !ID 7ls]:%GOLD%Frostwind%MAP-0A%//
+ItemDisplay[UNI !ID 7gs]:%GOLD%Flamebellow%MAP-0A%//
+ItemDisplay[UNI !ID 7b7]:%GOLD%Doombringer%MAP-0A%//
+ItemDisplay[UNI !ID 7gd]:%GOLD%The Grandfather%MAP-0A%//
 
 ///// Throwing Weapons /////
-ItemDisplay[UNI !ID 7bk]:%NAME% %TAN%(Warshrike)%MAP-0A%//
-ItemDisplay[UNI !ID 7ta]:%NAME% %TAN%(Gimmershred)%MAP-0A%//
-ItemDisplay[UNI !ID 7b8]:%NAME% %TAN%(Lacerator)%MAP-0A%//
+ItemDisplay[UNI !ID 7bk]:%GOLD%Warshrike%MAP-0A%//
+ItemDisplay[UNI !ID 7ta]:%GOLD%Gimmershred%MAP-0A%//
+ItemDisplay[UNI !ID 7b8]:%GOLD%Lacerator%MAP-0A%//
 
 ///// Wands /////
-ItemDisplay[UNI !ID 7bw]:%NAME% %TAN%(Boneshade)%MAP-0A%//
-ItemDisplay[UNI !ID 7gw]:%NAME% %TAN%(Death's Web)%MAP-0A%//
+ItemDisplay[UNI !ID 7bw]:%GOLD%Boneshade%MAP-0A%//
+ItemDisplay[UNI !ID 7gw]:%GOLD%Death's Web%MAP-0A%//

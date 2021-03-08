@@ -1,19 +1,19 @@
 ///// Rings /////
-ItemDisplay[SET !ID rin]:%NAME% %TAN%(Cathan/Angelic/PD2 Bul-kathos)%DOT-0A%//
+ItemDisplay[SET !ID rin]:%GREEN%Cathan/Angelic/PD2 Bul-kathos%DOT-0A%//
 
 ///// Amulets /////
-ItemDisplay[SET !ID amu]:%NAME% %TAN%(Arcanna/Cathan/Civerb/Angelic/Iratha/Tancred/Vidala/The Disciple/Tal Rasha)%DOT-0A%//
+ItemDisplay[SET !ID amu]:%GREEN%Arcanna/Cathan/Civerb/Angelic/Iratha/Tancred/Vidala/The Disciple/Tal Rasha%DOT-0A%//
 
 ///// Gloves /////
-ItemDisplay[SET !ID tgl]:%NAME% %TAN%(Arctic/Iratha)%DOT-0A%//
+ItemDisplay[SET !ID tgl]:%GREEN%Arctic/Iratha%DOT-0A%//
 
 ///// Helms /////
-ItemDisplay[SET !ID cap]:%NAME% %TAN%(Infernal/Sander)%DOT-0A%//
-ItemDisplay[SET !ID crn]:%NAME% %TAN%(Iratha/Milabrega)%DOT-0A%//
+ItemDisplay[SET !ID cap]:%GREEN%Infernal/Sander%DOT-0A%//
+ItemDisplay[SET !ID crn]:%GREEN%Iratha/Milabrega%DOT-0A%//
 
 ///// Boots /////
-ItemDisplay[SET !ID vbt]:%NAME% %TAN%(Cow King/Sander)%DOT-0A%//
+ItemDisplay[SET !ID vbt]:%GREEN%Cow King/Sander%DOT-0A%//
 
 ///// Belts /////
-ItemDisplay[SET !ID mbl]:%NAME% %TAN%(Hsaru/Hwanin)%DOT-0A%//
-ItemDisplay[SET !ID tbl]:%NAME% %TAN%(Infernal/Iratha)%DOT-0A%//
+ItemDisplay[SET !ID mbl]:%GREEN%Hsaru/Hwanin%DOT-0A%//
+ItemDisplay[SET !ID tbl]:%GREEN%Infernal/Iratha%DOT-0A%//

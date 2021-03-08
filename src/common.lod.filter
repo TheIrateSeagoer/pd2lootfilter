@@ -45,8 +45,8 @@ ItemDisplay[mp5]:%BLUE%@%WHITE%Super//
 ItemDisplay[rvs]:%PURPLE%@%WHITE%Rejuv//
 ItemDisplay[rvl]:%PURPLE%@%WHITE%Full//
 ItemDisplay[vps]:Stamina//
-ItemDisplay[yps]:Antidote//
-ItemDisplay[wms]:Thawing//
+ItemDisplay[yps]:%GREEN%@%WHITE%Anti//
+ItemDisplay[wms]:%GREEN%@%WHITE%Thaw//
 ItemDisplay[opl]:Fulminating//
 ItemDisplay[opm]:Exploding//
 ItemDisplay[ops]:Oil//
@@ -59,7 +59,9 @@ ItemDisplay[cqv]:Bolts//
 ///// Scrolls+Tome+Key /////
 ItemDisplay[tbk]:%NAME%//
 ItemDisplay[ibk]:%NAME%//
+ItemDisplay[tsc CLVL>69]:TP//
 ItemDisplay[tsc]:Town//
+ItemDisplay[isc CLVL>69]:ID//
 ItemDisplay[isc]:Ident//
 ItemDisplay[key]:Key{%TAN%See Magic Item for Rune%NL%%TAN%See Jewel for Gem%NL%%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Nef-Sol)%GRAY%+%BLUE%Item%GRAY%)}//
 
