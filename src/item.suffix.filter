@@ -55,14 +55,21 @@ ItemDisplay[xlt ED=0 DEF=274]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[xth ED=0 DEF=303]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[xul ED=0 DEF=342]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[xar ED=0 DEF=450]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xuc ED=0 DEF=49 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xml ED=0 DEF=55 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xrg ED=0 DEF=61 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xpk ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xit ED=0 DEF=67 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xsh ED=0 DEF=150]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xow ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xts ED=0 DEF=93 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uui ED=0 DEF=467]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uea ED=0 DEF=470]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ula ED=0 DEF=474]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[utu ED=0 DEF=481]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ung ED=0 DEF=489]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ucl ED=0 DEF=496]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[urs ED=0 DEF=501]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uhn ED=0 DEF=505]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[upl ED=0 DEF=517]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[utp ED=0 DEF=524]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uld ED=0 DEF=523]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ult ED=0 DEF=530]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uth ED=0 DEF=541]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uul ED=0 DEF=557]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uar ED=0 DEF=600]:%NAME% %PURPLE%max%CONTINUE%//
 
 ///// Shields /////
 ItemDisplay[buc ED=0 DEF=6  ]:%NAME% %PURPLE%max%CONTINUE%//
@@ -73,14 +80,6 @@ ItemDisplay[spk ED=0 DEF=25 ]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[tow ED=0 DEF=25 ]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[bsh ED=0 DEF=30 ]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[gts ED=0 DEF=35 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xuc ED=0 DEF=49 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xml ED=0 DEF=55 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xrg ED=0 DEF=61 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xpk ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xit ED=0 DEF=67 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xsh ED=0 DEF=150]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xow ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xts ED=0 DEF=93 ]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[xuc ED=0 DEF=49 ]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[xml ED=0 DEF=55 ]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[xrg ED=0 DEF=61 ]:%NAME% %PURPLE%max%CONTINUE%//

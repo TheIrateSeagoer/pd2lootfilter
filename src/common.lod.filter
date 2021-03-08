@@ -1,10 +1,9 @@
 ///// Gold /////
-ItemDisplay[GOLD<4000 CLVL>79]://
+ItemDisplay[GOLD<3000 CLVL>79]://
 ItemDisplay[GOLD<2000 CLVL>39]://
 ItemDisplay[GOLD<1000 CLVL>19]://
 ItemDisplay[GOLD<500 CLVL>9]://
 ItemDisplay[GOLD<100]://
-ItemDisplay[GOLD]:%NAME%//
 
 ///// Ammo /////
 ItemDisplay[aqv CLVL>4]://
@@ -18,8 +17,12 @@ ItemDisplay[ear]://
 ///// Potions /////
 ItemDisplay[hp1 CLVL>29]://
 ItemDisplay[hp2 CLVL>29]://
+ItemDisplay[hp3 CLVL>49]://
+ItemDisplay[hp4 CLVL>79]://
 ItemDisplay[mp1 CLVL>29]://
 ItemDisplay[mp2 CLVL>29]://
+ItemDisplay[mp3 CLVL>49]://
+ItemDisplay[mp4 CLVL>79]://
 ItemDisplay[vps CLVL>19]://
 ItemDisplay[opl CLVL>19]://
 ItemDisplay[opm CLVL>19]://

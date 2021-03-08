@@ -1,5 +1,5 @@
 ///// Rings /////
-ItemDisplay[SET !ID rng]:%NAME% %TAN%(Cathan/Angelic/PD2 Bul-kathos)%DOT-0A%//
+ItemDisplay[SET !ID rin]:%NAME% %TAN%(Cathan/Angelic/PD2 Bul-kathos)%DOT-0A%//
 
 ///// Amulets /////
 ItemDisplay[SET !ID amu]:%NAME% %TAN%(Arcanna/Cathan/Civerb/Angelic/Iratha/Tancred/Vidala/The Disciple/Tal Rasha)%DOT-0A%//

@@ -34,28 +34,29 @@ ItemDisplay[ceh]:%NAME%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Hatred%GRAY%
 ItemDisplay[bet]:%NAME%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Terror%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Suffering%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Hell Diablo}//
 ItemDisplay[fed]:%NAME%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Destruction%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Suffering%GRAY%)%NL%%TAN%Hell Baal}//
 ItemDisplay[toa]:%NAME%//
-ItemDisplay[lbox]:%NAME%{%TAN%One-Handed: 1-2 Two-Handed: 1-4%NL%Helmet: 1-2 Chest: 1-2 Shield: 1-2}//
-ItemDisplay[wss]:%NAME%{%TAN%Item: (Modifier: 50% Sockets: 25% Brick: 25%)%NL%Socketed Item: (Modifier: 75% Brick: 25%)%NL%Maps: (Modifier: 70% Brick: 30%)}//
+ItemDisplay[t11 OR t12 OR t13 OR t14]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t21 OR t22 OR t23 OR t24]:[T2] %NAME%%CONTINUE%//
+ItemDisplay[t31 OR t32 OR t33 OR t34 OR t35]:[T3] %NAME%%CONTINUE%//
+ItemDisplay[t41 OR t42]:[T4] %NAME%%CONTINUE%//
+ItemDisplay[lbox]:%NAME%{%TAN%One-Handed: 1-2 Two-Handed: 1-4%NL%Helmet: 1-2 Chest: 1-2 Shield: 1-2}%BORDER-0A%//
+ItemDisplay[wss]:%NAME%{%TAN%Item: (Modifier: 50% Sockets: 25% Brick: 25%)%NL%Socketed Item: (Modifier: 75% Brick: 25%)%NL%Maps: (Modifier: 70% Brick: 30%)}%BORDER-0A%//
 ItemDisplay[imra]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Zakarum Orb%GRAY%+%BLUE%Jewel%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%WHITE%Map%GRAY%)}//
 ItemDisplay[imma]:%NAME%{%BLUE%Map%GRAY%: (%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%+%WHITE%Map%GRAY%)}//
 ItemDisplay[upma]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Angelic Orb%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%ORANGE%Perfect Skull%GRAY%+%BLUE%Map%GRAY%)}//
 ItemDisplay[rera]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Horadrim Orb%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%YELLOW%Map%GRAY%)}//
 ItemDisplay[scou]:%NAME%{%WHITE%Map%GRAY%: (%GOLD%Orb of Destruction%GRAY%+%ORANGE%Hel%GRAY%+%BLUE%MAP%GRAY%)%NL%%WHITE%Map%GRAY%: %GRAY%(%GOLD%Orb of Destruction%GRAY%+%ORANGE%Hel%GRAY%+%YELLOW%MAP%GRAY%)}//
-ItemDisplay[t16 OR t17 OR t18 AND MAG]:%NAME%{%BLUE%Map%WHITE%%GRAY%: (%BLUE%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%)}//
-ItemDisplay[t16 OR t17 OR t18 AND RARE]:%NAME%{%YELLOW%Map%WHITE%%GRAY%: (%YELLOW%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%GOLD%Horadrim Orb%GRAY%)}//
-ItemDisplay[t16]:%NAME%{%BLUE%Map%GRAY%: (%WHITE%Map%GRAY%+%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%)}//
-ItemDisplay[t17]:%NAME%{%BLUE%Map%GRAY%: (%WHITE%Map%GRAY%+%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%)}//
-ItemDisplay[t18]:%NAME%{%BLUE%Map%GRAY%: (%WHITE%Map%GRAY%+%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%)}//
+ItemDisplay[NMAG t11 OR t12 OR t13 OR t14 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41 OR t42]:%NAME%{%BLUE%Map%GRAY%: (%WHITE%Map%GRAY%+%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%)}%BORDER-0A%// 
+ItemDisplay[MAG t11 OR t12 OR t13 OR t14 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41 OR t42]:%NAME%{%BLUE%Map%WHITE%%GRAY%: (%BLUE%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%)}%BORDER-0A%//
+ItemDisplay[RARE t11 OR t12 OR t13 OR t14 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41 OR t42]:%NAME%{%YELLOW%Map%WHITE%%GRAY%: (%YELLOW%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%GOLD%Horadrim Orb%GRAY%)}%BORDER-0A%//
 ItemDisplay[dcho]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Black Soulstone%GRAY%+%ORANGE%Prime Evil Soul%GRAY%+%ORANGE%Pure Demonic Essence%GRAY%)%NL%%TAN%Complete an Uber}//
 ItemDisplay[dcso]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Prime Evil Soul%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Pure Demonic Essence%GRAY%)%NL%%TAN%Hell Diablo / Hell Baal}//
 ItemDisplay[dcbl]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Pure Demonic Essence%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Prime Evil Soul%GRAY%)%NL%%TAN%Map Bosses}//
 ItemDisplay[dcma]:%NAME%//
-ItemDisplay[GOLD<4000 CLVL>79]://
+ItemDisplay[GOLD<3000 CLVL>79]://
 ItemDisplay[GOLD<2000 CLVL>39]://
 ItemDisplay[GOLD<1000 CLVL>19]://
 ItemDisplay[GOLD<500 CLVL>9]://
 ItemDisplay[GOLD<100]://
-ItemDisplay[GOLD]:%NAME%//
 ItemDisplay[aqv CLVL>4]://
 ItemDisplay[cqv CLVL>4]://
 ItemDisplay[aqv]:%NAME%//
@@ -63,8 +64,12 @@ ItemDisplay[cqv]:%NAME%//
 ItemDisplay[ear]://
 ItemDisplay[hp1 CLVL>29]://
 ItemDisplay[hp2 CLVL>29]://
+ItemDisplay[hp3 CLVL>49]://
+ItemDisplay[hp4 CLVL>79]://
 ItemDisplay[mp1 CLVL>29]://
 ItemDisplay[mp2 CLVL>29]://
+ItemDisplay[mp3 CLVL>49]://
+ItemDisplay[mp4 CLVL>79]://
 ItemDisplay[vps CLVL>19]://
 ItemDisplay[opl CLVL>19]://
 ItemDisplay[opm CLVL>19]://
@@ -333,14 +338,21 @@ ItemDisplay[xlt ED=0 DEF=274]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[xth ED=0 DEF=303]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[xul ED=0 DEF=342]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[xar ED=0 DEF=450]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xuc ED=0 DEF=49 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xml ED=0 DEF=55 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xrg ED=0 DEF=61 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xpk ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xit ED=0 DEF=67 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xsh ED=0 DEF=150]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xow ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xts ED=0 DEF=93 ]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uui ED=0 DEF=467]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uea ED=0 DEF=470]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ula ED=0 DEF=474]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[utu ED=0 DEF=481]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ung ED=0 DEF=489]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ucl ED=0 DEF=496]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[urs ED=0 DEF=501]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uhn ED=0 DEF=505]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[upl ED=0 DEF=517]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[utp ED=0 DEF=524]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uld ED=0 DEF=523]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[ult ED=0 DEF=530]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uth ED=0 DEF=541]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uul ED=0 DEF=557]:%NAME% %PURPLE%max%CONTINUE%//
+ItemDisplay[uar ED=0 DEF=600]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[buc ED=0 DEF=6  ]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[sml ED=0 DEF=10 ]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[lrg ED=0 DEF=14 ]:%NAME% %PURPLE%max%CONTINUE%//
@@ -349,14 +361,6 @@ ItemDisplay[spk ED=0 DEF=25 ]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[tow ED=0 DEF=25 ]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[bsh ED=0 DEF=30 ]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[gts ED=0 DEF=35 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xuc ED=0 DEF=49 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xml ED=0 DEF=55 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xrg ED=0 DEF=61 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xpk ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xit ED=0 DEF=67 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xsh ED=0 DEF=150]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xow ED=0 DEF=78 ]:%NAME% %PURPLE%max%CONTINUE%//
-ItemDisplay[xts ED=0 DEF=93 ]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[xuc ED=0 DEF=49 ]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[xml ED=0 DEF=55 ]:%NAME% %PURPLE%max%CONTINUE%//
 ItemDisplay[xrg ED=0 DEF=61 ]:%NAME% %PURPLE%max%CONTINUE%//
@@ -1274,7 +1278,7 @@ ItemDisplay[obd]:%NAME%{%NAME%%TAN% Damage: 23-55 Durability: 15 Sockets: 2}%CON
 ItemDisplay[obe]:%NAME%{%NAME%%TAN% Damage: 12-66 Durability: 15 Sockets: 2}%CONTINUE%//
 ItemDisplay[obf ILVL<26]:%NAME%{%NAME%%TAN% Damage: 30-53 Durability: 15 Sockets: 2}%CONTINUE%//
 ItemDisplay[obf ILVL>25]:%NAME%{%NAME%%TAN% Damage: 30-53 Durability: 15 Sockets: 3}%CONTINUE%//
-ItemDisplay[SET !ID rng]:%NAME% %TAN%(Cathan/Angelic/PD2 Bul-kathos)%DOT-0A%//
+ItemDisplay[SET !ID rin]:%NAME% %TAN%(Cathan/Angelic/PD2 Bul-kathos)%DOT-0A%//
 ItemDisplay[SET !ID amu]:%NAME% %TAN%(Arcanna/Cathan/Civerb/Angelic/Iratha/Tancred/Vidala/The Disciple/Tal Rasha)%DOT-0A%//
 ItemDisplay[SET !ID tgl]:%NAME% %TAN%(Arctic/Iratha)%DOT-0A%//
 ItemDisplay[SET !ID cap]:%NAME% %TAN%(Infernal/Sander)%DOT-0A%//
