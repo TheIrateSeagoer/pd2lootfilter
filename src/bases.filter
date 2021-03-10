@@ -1,2 +1,6 @@
 ItemDisplay[NMAG SOCK=1]://
 ItemDisplay[SUP ETH] CLVL>19]://
+
+ItemDisplay[GLOVES NMAG DIFF>0]://
+ItemDisplay[BELT NMAG DIFF>0]://
+ItemDisplay[BOOTS NMAG DIFF>0]:/

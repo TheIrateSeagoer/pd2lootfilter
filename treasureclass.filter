@@ -28,7 +28,7 @@ ItemDisplay[pk3]:%NAME%{%RED%Pandemonium%GRAY%: (%ORANGE%Destruction%GRAY%+%ORAN
 ItemDisplay[dhn]:%NAME%{%RED%Uber Tristram%GRAY%: (%ORANGE%Diablo's Horn%GRAY%+%ORANGE%Baal's Eye%GRAY%+%ORANGE%Mephisto's Brain%GRAY%)%NL%%TAN%Uber Andariel}//
 ItemDisplay[bey]:%NAME%{%RED%Uber Tristram%GRAY%: (%ORANGE%Baal's Eye%GRAY%+%ORANGE%Diablo's Horn%GRAY%+%ORANGE%Mephisto's Brain%GRAY%)%NL%%TAN%Uber Duriel}//
 ItemDisplay[mbr]:%NAME%{%RED%Uber Tristram%GRAY%: (%ORANGE%Mephisto's Brain%GRAY%+%ORANGE%Baal's Eye%GRAY%+%ORANGE%Diablo's Horn%GRAY%)%NL%%TAN%Uber Izual}//
-ItemDisplay[std]:%NAME%//
+ItemDisplay[std]:%NAME%{%WHITE%Magic and Gold Find: %BLUE%+20%%NL%%WHITE%Monster Density: %BLUE%+20%%NL%%WHITE%Experience: %BLUE%+10%%NL%%DARK_GREEN%Heroic %NL%%TAN%Map: (Map+Standard of Heroes)}//
 ItemDisplay[tes]:%NAME%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Suffering%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Hell Andarial and Hell Durial}//
 ItemDisplay[ceh]:%NAME%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Hatred%GRAY%+%ORANGE%Suffering%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Hell Mephisto}//
 ItemDisplay[bet]:%NAME%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Terror%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Suffering%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Hell Diablo}//
@@ -92,22 +92,22 @@ ItemDisplay[mp4]:%BLUE%@%WHITE%Greater//
 ItemDisplay[mp5]:%BLUE%@%WHITE%Super//
 ItemDisplay[rvs]:%PURPLE%@%WHITE%Rejuv//
 ItemDisplay[rvl]:%PURPLE%@%WHITE%Full//
-ItemDisplay[vps]:Stamina//
+ItemDisplay[vps]:%WHITE%@%WHITE%Stamina//
 ItemDisplay[yps]:%GREEN%@%WHITE%Anti//
 ItemDisplay[wms]:%GREEN%@%WHITE%Thaw//
-ItemDisplay[opl]:Fulminating//
-ItemDisplay[opm]:Exploding//
-ItemDisplay[ops]:Oil//
-ItemDisplay[gpl]:Strangling//
-ItemDisplay[gpm]:Choking//
-ItemDisplay[gps]:Rancid//
-ItemDisplay[aqv]:Arrows//
-ItemDisplay[cqv]:Bolts//
+ItemDisplay[opl]:%GRAY%@%WHITE%Fulminating//
+ItemDisplay[opm]:%GRAY%@%WHITE%Exploding//
+ItemDisplay[ops]:%GRAY%@%WHITE%Oil//
+ItemDisplay[gpl]:%GRAY%@%WHITE%Strangling//
+ItemDisplay[gpm]:%GRAY%@%WHITE%Choking//
+ItemDisplay[gps]:%GRAY%@%WHITE%Rancid//
+ItemDisplay[aqv]:%GRAY%@%WHITE%Arrows//
+ItemDisplay[cqv]:%GRAY%@%WHITE%Bolts//
 ItemDisplay[tbk]:%NAME%//
 ItemDisplay[ibk]:%NAME%//
-ItemDisplay[tsc CLVL>69]:TP//
+ItemDisplay[tsc DIFF>0]:TP//
 ItemDisplay[tsc]:Town//
-ItemDisplay[isc CLVL>69]:ID//
+ItemDisplay[isc DIFF>0]:ID//
 ItemDisplay[isc]:Ident//
 ItemDisplay[key]:Key{%TAN%See Magic Item for Rune%NL%%TAN%See Jewel for Gem%NL%%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Nef-Sol)%GRAY%+%BLUE%Item%GRAY%)}//
 ItemDisplay[gcv DIFF>0]://
@@ -2039,6 +2039,9 @@ ItemDisplay[UNI !ID 7bw]:%GOLD%Boneshade%MAP-0A%//
 ItemDisplay[UNI !ID 7gw]:%GOLD%Death's Web%MAP-0A%//
 ItemDisplay[NMAG SOCK=1]://
 ItemDisplay[SUP ETH] CLVL>19]://
+ItemDisplay[GLOVES NMAG DIFF>0]://
+ItemDisplay[BELT NMAG DIFF>0]://
+ItemDisplay[BOOTS NMAG DIFF>0]:/
 ItemDisplay[UNI !ID]:%CODE%:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
 ItemDisplay[SET !ID]:%CODE%:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
 ItemDisplay[cm1 MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//

@@ -41,7 +41,7 @@ ItemDisplay[pk3]:%NAME%{%RED%Pandemonium%GRAY%: (%ORANGE%Destruction%GRAY%+%ORAN
 ItemDisplay[dhn]:%NAME%{%RED%Uber Tristram%GRAY%: (%ORANGE%Diablo's Horn%GRAY%+%ORANGE%Baal's Eye%GRAY%+%ORANGE%Mephisto's Brain%GRAY%)%NL%%TAN%Uber Andariel}//
 ItemDisplay[bey]:%NAME%{%RED%Uber Tristram%GRAY%: (%ORANGE%Baal's Eye%GRAY%+%ORANGE%Diablo's Horn%GRAY%+%ORANGE%Mephisto's Brain%GRAY%)%NL%%TAN%Uber Duriel}//
 ItemDisplay[mbr]:%NAME%{%RED%Uber Tristram%GRAY%: (%ORANGE%Mephisto's Brain%GRAY%+%ORANGE%Baal's Eye%GRAY%+%ORANGE%Diablo's Horn%GRAY%)%NL%%TAN%Uber Izual}//
-ItemDisplay[std]:%NAME%//
+ItemDisplay[std]:%NAME%{%WHITE%Magic and Gold Find: %BLUE%+20%%NL%%WHITE%Monster Density: %BLUE%+20%%NL%%WHITE%Experience: %BLUE%+10%%NL%%DARK_GREEN%Heroic %NL%%TAN%Map: (Map+Standard of Heroes)}//
 
 ///// Respec 1.13 /////
 ItemDisplay[tes]:%NAME%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Suffering%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Hell Andarial and Hell Durial}//

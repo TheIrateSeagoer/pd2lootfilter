@@ -44,24 +44,24 @@ ItemDisplay[mp4]:%BLUE%@%WHITE%Greater//
 ItemDisplay[mp5]:%BLUE%@%WHITE%Super//
 ItemDisplay[rvs]:%PURPLE%@%WHITE%Rejuv//
 ItemDisplay[rvl]:%PURPLE%@%WHITE%Full//
-ItemDisplay[vps]:Stamina//
+ItemDisplay[vps]:%WHITE%@%WHITE%Stamina//
 ItemDisplay[yps]:%GREEN%@%WHITE%Anti//
 ItemDisplay[wms]:%GREEN%@%WHITE%Thaw//
-ItemDisplay[opl]:Fulminating//
-ItemDisplay[opm]:Exploding//
-ItemDisplay[ops]:Oil//
-ItemDisplay[gpl]:Strangling//
-ItemDisplay[gpm]:Choking//
-ItemDisplay[gps]:Rancid//
-ItemDisplay[aqv]:Arrows//
-ItemDisplay[cqv]:Bolts//
+ItemDisplay[opl]:%GRAY%@%WHITE%Fulminating//
+ItemDisplay[opm]:%GRAY%@%WHITE%Exploding//
+ItemDisplay[ops]:%GRAY%@%WHITE%Oil//
+ItemDisplay[gpl]:%GRAY%@%WHITE%Strangling//
+ItemDisplay[gpm]:%GRAY%@%WHITE%Choking//
+ItemDisplay[gps]:%GRAY%@%WHITE%Rancid//
+ItemDisplay[aqv]:%GRAY%@%WHITE%Arrows//
+ItemDisplay[cqv]:%GRAY%@%WHITE%Bolts//
 
 ///// Scrolls+Tome+Key /////
 ItemDisplay[tbk]:%NAME%//
 ItemDisplay[ibk]:%NAME%//
-ItemDisplay[tsc CLVL>69]:TP//
+ItemDisplay[tsc DIFF>0]:TP//
 ItemDisplay[tsc]:Town//
-ItemDisplay[isc CLVL>69]:ID//
+ItemDisplay[isc DIFF>0]:ID//
 ItemDisplay[isc]:Ident//
 ItemDisplay[key]:Key{%TAN%See Magic Item for Rune%NL%%TAN%See Jewel for Gem%NL%%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Nef-Sol)%GRAY%+%BLUE%Item%GRAY%)}//
 
