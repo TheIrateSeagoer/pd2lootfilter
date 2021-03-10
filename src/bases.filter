@@ -1,6 +1,11 @@
 ItemDisplay[NMAG SOCK=1]://
-ItemDisplay[SUP ETH] CLVL>19]://
+ItemDisplay[SUP ETH CLVL>19]://
+ItemDisplay[SUP ED=0 SOCK=0 CLVL>19]://
 
-ItemDisplay[GLOVES NMAG DIFF>0]://
-ItemDisplay[BELT NMAG DIFF>0]://
-ItemDisplay[BOOTS NMAG DIFF>0]:/
+ItemDisplay[GLOVES NMAG CLVL>19]://
+ItemDisplay[BELT NMAG CLVL>19]://
+ItemDisplay[BOOTS NMAG CLVL>19]://
+ItemDisplay[THROWING NMAG CLVL>19]://
+ItemDisplay[JAV NMAG CLVL>19]://
+ItemDisplay[SIN NORM NMAG CLVL>19]://
+ItemDisplay[9ar OR 9wb OR 9xf AND NMAG AND CLVL>19]://
