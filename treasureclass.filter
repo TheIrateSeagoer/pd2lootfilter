@@ -287,6 +287,64 @@ ItemDisplay[!ETH SOCK>0 RARE]:%GRAY%[%SOCKETS%os] %YELLOW%%NAME%%CONTINUE%//
 ItemDisplay[!ETH SOCK>0 UNI]:%GRAY%[%SOCKETS%os] %GOLD%%NAME%%CONTINUE%//
 ItemDisplay[!ETH SOCK>0 SET]:%GRAY%[%SOCKETS%os] %GREEN%%NAME%%CONTINUE%//
 ItemDisplay[!ETH SOCK>0 CRAFT]:%GRAY%[%SOCKETS%os] %ORANGE%%NAME%%CONTINUE%//
+ItemDisplay[7qr OR 7wa OR 7gi OR 7ws OR 7gm OR 7wd OR 7gd OR 7bl OR 7ts OR 7p7 OR 7wc OR 6ws OR 6lw OR obf OR 7gw]:[TC87] %NAME%%CONTINUE%//
+ItemDisplay[7ga OR 7wh OR 7ls OR 7kr OR 7st OR 6bs OR 7h7 OR 6rx OR obe]:[TC84] %NAME%%CONTINUE%//
+ItemDisplay[7mp OR 7gl OR 7pa OR 7fb OR 7b8 OR 6sw OR 7tw OR ame]:[TC81] %NAME%%CONTINUE%//
+ItemDisplay[7qs OR 7fl OR 7b7 OR 7bk OR 6l7 OR 7lw OR 7bs OR amc]:[TC78] %NAME%%CONTINUE%//
+ItemDisplay[7cs OR 7bt OR 7cr OR 7br OR 6cs OR 7bw OR 6hx OR obd]:[TC75] %NAME%%CONTINUE%//
+ItemDisplay[72a OR 7mt OR 7di OR 7gs OR 7s7 OR 7s8 OR 6s7]:[TC72] %NAME%%CONTINUE%//
+ItemDisplay[6mx OR obc OR 7xf OR 6cb OR 7m7 OR 7fc]:[TC69] %NAME%%CONTINUE%//
+ItemDisplay[7tk OR 7vo OR 7ba OR 7yw OR amf OR 7cm OR 7tr OR 6ls]:[TC66] %NAME%%CONTINUE%//
+ItemDisplay[7ax OR 7sm OR amd OR 7wb OR 7sc OR 7pi OR 7ma OR 7sb OR 6lb]:[TC63] %NAME%%CONTINUE%//
+ItemDisplay[7dg OR 7sr OR 6ss OR 7ar OR 72h OR obb OR 7o7 OR 6hb]:[TC60] %NAME%%CONTINUE%//
+ItemDisplay[9wc OR 7wn OR 6sb OR 7ss OR 7ta OR 7la OR 7sp OR 6lx]:[TC57] %NAME%%CONTINUE%//
+ItemDisplay[8lw OR 7cl OR 9gm OR amb OR 9gd OR 8rx OR 9qr OR 7ha OR 7ja]:[TC54] %NAME%%CONTINUE%//
+ItemDisplay[9gw OR 9wd OR 9fb OR 8sw OR 9tw OR oba OR 9gi OR 9ts OR 9h9 OR am9]:[TC51] %NAME%%CONTINUE%//
+ItemDisplay[9ga OR 9bl OR 9gl OR 8l8 OR ob9 OR 9p9 OR 8ws OR 8hx OR am7 OR 9wa OR 9wh OR 9b9]:[TC48] %NAME%%CONTINUE%//
+ItemDisplay[9mp OR 9bw OR 9fl OR 9sm OR 8s8 OR am8 OR 9ls OR 9st OR 9ws OR 9m9 OR 9gs OR 9lw]:[TC45] %NAME%%CONTINUE%//
+ItemDisplay[9qs OR 9bs OR 9s9 OR 9s8 OR 8mx OR 9b8 OR 9br OR 9cs OR ob8 OR 9bt OR 9cm OR 9kr OR 8bs]:[TC42] %NAME%%CONTINUE%//
+ItemDisplay[9fc OR 9cr OR 92h OR 9pi OR 9vo OR ob7 OR 9ba OR 9yw OR 8cs OR 92a OR 9mt OR 9bk OR 8cb OR am6]:[TC39] %NAME%%CONTINUE%//
+ItemDisplay[wsc OR 9ax OR 9la OR 9ta OR 8lx OR 9ma OR 9sb OR 9pa OR 8ls OR 8lb OR ama OR 9di OR 9tr OR 9xf]:[TC36] %NAME%%CONTINUE%//
+ItemDisplay[lwb OR 9ha OR 9wn OR 9sc OR 9dg OR 9tk OR gma OR gps OR 9sp OR 9wb OR ob6 OR gsd OR rxb OR 9sr OR 9b7 OR 8hb]:[TC33] %NAME%%CONTINUE%//
+ItemDisplay[ops OR 9ar OR tsp OR hal OR 9cl OR 9ss OR 9ja OR 8ss OR 8sb]:[TC30] %NAME%%CONTINUE%//
+ItemDisplay[wax OR whm OR gwn OR gix OR wsd OR flb OR swb OR am2 OR am4]:[TC27] %NAME%%CONTINUE%//
+ItemDisplay[gax OR bld OR glv OR lbb OR am5 OR bsw OR pik OR wst OR hxb OR skr OR ob5]:[TC24] %NAME%%CONTINUE%//
+ItemDisplay[mpi OR fla OR lsd OR spt OR gpm OR wsp OR mau OR gis OR pax OR btl]:[TC21] %NAME%%CONTINUE%//
+ItemDisplay[bal OR brn OR opm OR btx OR clm OR kri OR bst OR ob4 OR bwn OR sbb OR clw OR am1 OR am3]:[TC18] %NAME%%CONTINUE%//
+ItemDisplay[2ax OR mst OR bkf OR gsc OR bsd OR ssp OR scy OR mxb OR ces]:[TC15] %NAME%%CONTINUE%//
+ItemDisplay[2hs OR pil OR flc OR crs OR vou OR bax OR ywn OR cst OR cbw OR axf OR ob3]:[TC12] %NAME%%CONTINUE%//
+ItemDisplay[axe OR tax OR mac OR sbr OR lst OR lbw OR gpl OR ob2 OR dir OR tri OR wrb]:[TC9] %NAME%%CONTINUE%//
+ItemDisplay[spc OR opl OR scm OR spr OR bar OR hbw OR lax OR lxb]:[TC6] %NAME%%CONTINUE%//
+ItemDisplay[clb OR ssd OR jav OR sst OR sbw OR ktr OR ob1 OR wnd OR tkf OR hax OR scp OR dgr]:[TC3] %NAME%%CONTINUE%//
+ItemDisplay[ci3 OR urn OR uar OR uhg OR uhb OR uhc OR drf OR baf OR paf OR nef]:[TC87] %NAME%%CONTINUE%//
+ItemDisplay[uth OR utc OR pae OR uul OR dre OR utp OR uts OR uh9]:[TC84] %NAME%%CONTINUE%//
+ItemDisplay[uhm OR uow OR bae OR uld OR utb OR nee]:[TC81] %NAME%%CONTINUE%//
+ItemDisplay[upl OR utg OR ush OR drd OR ult]:[TC78] %NAME%%CONTINUE%//
+ItemDisplay[ucl OR bad OR usk OR pad OR urs OR umc]:[TC75] %NAME%%CONTINUE%//
+ItemDisplay[ci2 OR utu OR pac OR ung OR uit OR umb]:[TC72] %NAME%%CONTINUE%//
+ItemDisplay[uea OR neg OR ulm OR ula OR uvc OR upk OR umg OR drc]:[TC69] %NAME%%CONTINUE%//
+ItemDisplay[xar OR urg OR uui OR uvb OR bac OR ned]:[TC66] %NAME%%CONTINUE%//
+ItemDisplay[xul OR uml OR ulc OR uhn OR drb OR ukp OR uvg OR pab]:[TC63] %NAME%%CONTINUE%//
+ItemDisplay[xth OR uap OR uuc OR neb OR xtp OR ulb OR bab]:[TC60] %NAME%%CONTINUE%//
+ItemDisplay[xrn OR xld OR dra OR paa OR xts OR ulg]:[TC57] %NAME%%CONTINUE%//
+ItemDisplay[xlt OR ci1 OR xhg OR xhb OR zhb OR uhl OR baa OR nea]:[TC54] %NAME%%CONTINUE%//
+ItemDisplay[xpl OR xtg OR xtb OR ztb OR ba9 OR ne9 OR xow OR xh9 OR dr9 OR xhm OR pa9]:[TC51] %NAME%%CONTINUE%//
+ItemDisplay[dr8 OR pa8 OR xrs OR xsk OR xsh]:[TC48] %NAME%%CONTINUE%//
+ItemDisplay[xcl OR xmg OR xmb OR zmb OR ba8 OR xhl OR xhn OR xit OR ne8]:[TC45] %NAME%%CONTINUE%//
+ItemDisplay[aar OR xtu OR dr7 OR pa7 OR xlm OR xng OR xrg OR xpk]:[TC42] %NAME%%CONTINUE%//
+ItemDisplay[ful OR xkp OR xla OR xml OR ba7 OR xvg OR xvb OR zvb OR ne7]:[TC39] %NAME%%CONTINUE%//
+ItemDisplay[xap OR xui OR xuc OR ltp OR dr6 OR pa6 OR xea OR xlb OR zlb]:[TC36] %NAME%%CONTINUE%//
+ItemDisplay[gth OR xlg OR ba6 OR ne6]:[TC33] %NAME%%CONTINUE%//
+ItemDisplay[fld OR crn OR gts]:[TC30] %NAME%%CONTINUE%//
+ItemDisplay[hgl OR hbt OR hbl]:[TC27] %NAME%%CONTINUE%//
+ItemDisplay[tow OR bhm OR ghm OR plt OR dr5 OR ba5 OR pa5 OR ne5 OR ci0]:[TC24] %NAME%%CONTINUE%//
+ItemDisplay[msk OR bsh OR spl OR tgl OR tbt OR tbl OR dr4 OR ba4 OR pa4 OR ne4]:[TC21] %NAME%%CONTINUE%//
+ItemDisplay[dr3 OR ba3 OR pa3 OR ne3 OR brs]:[TC18] %NAME%%CONTINUE%//
+ItemDisplay[scl OR fhl OR chn OR kit]:[TC15] %NAME%%CONTINUE%//
+ItemDisplay[hlm OR rng OR lrg OR spk OR mgl OR mbt OR mbl]:[TC12] %NAME%%CONTINUE%//
+ItemDisplay[vgl OR vbt OR vbl OR stu OR dr2 OR ba2 OR pa2 OR ne2]:[TC9] %NAME%%CONTINUE%//
+ItemDisplay[dr1 OR ba1 OR pa1 OR ne1 OR skp OR hla OR sml]:[TC6] %NAME%%CONTINUE%//
+ItemDisplay[cap OR qui OR buc OR lea OR lgl OR lbt OR lbl]:[TC3] %NAME%%CONTINUE%//
 ItemDisplay[cap ED=0 DEF=5  ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[skp ED=0 DEF=11 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[hlm ED=0 DEF=18 ]:%NAME% %PURPLE%Perfect%CONTINUE%//

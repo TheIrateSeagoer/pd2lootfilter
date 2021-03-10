@@ -109,20 +109,20 @@ ItemDisplay[dr5 ILVL<26]:%NAME%{%NAME%%TAN% Defense: 22-35 Durability: 20 Socket
 ItemDisplay[dr5 ILVL>25]:%NAME%{%NAME%%TAN% Defense: 22-35 Durability: 20 Sockets: 3}%CONTINUE%//
 
 ///// Paladin Shields /////
-ItemDisplay[pa1 ILVL>26]:%NAME%{%NAME%%TAN% Defense: 8-12 Durability: 20 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa1 ILVL<25]:%NAME%{%NAME%%TAN% Defense: 8-12 Durability: 20 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa1 ILVL<26]:%NAME%{%NAME%%TAN% Defense: 8-12 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa1 ILVL>25]:%NAME%{%NAME%%TAN% Defense: 8-12 Durability: 20 Sockets: 4}%CONTINUE%//
 
-ItemDisplay[pa2 ILVL>26]:%NAME%{%NAME%%TAN% Defense: 10-18 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa2 ILVL<25]:%NAME%{%NAME%%TAN% Defense: 10-18 Durability: 30 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa2 ILVL<26]:%NAME%{%NAME%%TAN% Defense: 10-18 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa2 ILVL>25]:%NAME%{%NAME%%TAN% Defense: 10-18 Durability: 30 Sockets: 4}%CONTINUE%//
 
-ItemDisplay[pa3 ILVL>26]:%NAME%{%NAME%%TAN% Defense: 16-26 Durability: 40 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa3 ILVL<25]:%NAME%{%NAME%%TAN% Defense: 16-26 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa3 ILVL<26]:%NAME%{%NAME%%TAN% Defense: 16-26 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa3 ILVL>25]:%NAME%{%NAME%%TAN% Defense: 16-26 Durability: 40 Sockets: 4}%CONTINUE%//
 
-ItemDisplay[pa4 ILVL>26]:%NAME%{%NAME%%TAN% Defense: 26-36 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa4 ILVL<25]:%NAME%{%NAME%%TAN% Defense: 26-36 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa4 ILVL<26]:%NAME%{%NAME%%TAN% Defense: 26-36 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa4 ILVL>25]:%NAME%{%NAME%%TAN% Defense: 26-36 Durability: 50 Sockets: 4}%CONTINUE%//
 
-ItemDisplay[pa5 ILVL>26]:%NAME%{%NAME%%TAN% Defense: 30-40 Durability: 65 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa5 ILVL<25]:%NAME%{%NAME%%TAN% Defense: 30-40 Durability: 65 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa5 ILVL<26]:%NAME%{%NAME%%TAN% Defense: 30-40 Durability: 65 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa5 ILVL>25]:%NAME%{%NAME%%TAN% Defense: 30-40 Durability: 65 Sockets: 4}%CONTINUE%//
 
 ///// Necromancer Shrunken Heads /////
 ItemDisplay[ne1]:%NAME%{%NAME%%TAN% Defense: 2-5 Durability: 20 Sockets: 2}%CONTINUE%//

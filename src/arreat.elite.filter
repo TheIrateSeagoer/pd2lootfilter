@@ -108,38 +108,50 @@ ItemDisplay[uhc]:%NAME%{%NAME%%TAN% Defense: 61-71 Durability: 24 Rows: 4}%CONTI
 ///// Barbarian Helms /////
 ItemDisplay[bab ILVL<26]:%NAME%{%NAME%%TAN% Defense: 102-147 Durability: 25 Sockets:2}%CONTINUE%//
 ItemDisplay[bab ILVL>25]:%NAME%{%NAME%%TAN% Defense: 102-147 Durability: 25 Sockets: 3}%CONTINUE%//
+
 ItemDisplay[bac ILVL<26]:%NAME%{%NAME%%TAN% Defense: 105-150 Durability: 35 Sockets:2}%CONTINUE%//
 ItemDisplay[bac ILVL>25]:%NAME%{%NAME%%TAN% Defense: 105-150 Durability: 35 Sockets: 3}%CONTINUE%//
+
 ItemDisplay[bad ILVL<26]:%NAME%{%NAME%%TAN% Defense: 111-156 Durability: 45 Sockets:2}%CONTINUE%//
 ItemDisplay[bad ILVL>25]:%NAME%{%NAME%%TAN% Defense: 111-156 Durability: 45 Sockets: 3}%CONTINUE%//
+
 ItemDisplay[bae ILVL<26]:%NAME%{%NAME%%TAN% Defense: 114-159 Durability: 50 Sockets:2}%CONTINUE%//
 ItemDisplay[bae ILVL>25]:%NAME%{%NAME%%TAN% Defense: 114-159 Durability: 50 Sockets: 3}%CONTINUE%//
+
 ItemDisplay[baf ILVL<26]:%NAME%{%NAME%%TAN% Defense: 117-168 Durability: 55 Sockets:2}%CONTINUE%//
 ItemDisplay[baf ILVL>25]:%NAME%{%NAME%%TAN% Defense: 117-168 Durability: 55 Sockets: 3}%CONTINUE%//
 
 ///// Druid Pelts /////
 ItemDisplay[drb ILVL<26]:%NAME%{%NAME%%TAN% Defense: 101-145 Durability: 25 Sockets: 2}%CONTINUE%//
 ItemDisplay[drb ILVL>25]:%NAME%{%NAME%%TAN% Defense: 101-145 Durability: 25 Sockets: 3}%CONTINUE%//
+
 ItemDisplay[drc ILVL<26]:%NAME%{%NAME%%TAN% Defense: 98-147 Durability: 35 Sockets: 2}%CONTINUE%//
 ItemDisplay[drc ILVL>25]:%NAME%{%NAME%%TAN% Defense: 98-147 Durability: 35 Sockets: 3}%CONTINUE%//
+
 ItemDisplay[drd ILVL<26]:%NAME%{%NAME%%TAN% Defense: 107-152 Durability: 45 Sockets: 2}%CONTINUE%//
 ItemDisplay[drd ILVL>25]:%NAME%{%NAME%%TAN% Defense: 107-152 Durability: 45 Sockets: 3}%CONTINUE%//
+
 ItemDisplay[dre ILVL<26]:%NAME%{%NAME%%TAN% Defense: 103-155 Durability: 50 Sockets: 2}%CONTINUE%//
 ItemDisplay[dre ILVL>25]:%NAME%{%NAME%%TAN% Defense: 103-155 Durability: 50 Sockets: 3}%CONTINUE%//
+
 ItemDisplay[drf ILVL<26]:%NAME%{%NAME%%TAN% Defense: 109-159 Durability: 55 Sockets: 2}%CONTINUE%//
 ItemDisplay[drf ILVL>25]:%NAME%{%NAME%%TAN% Defense: 109-159 Durability: 55 Sockets: 3}%CONTINUE%//
 
 ///// Paladin Shields /////
 ItemDisplay[pab ILVL<26]:%NAME%{%NAME%%TAN% Defense: 126-158 Durability: 25 Sockets: 3}%CONTINUE%//
 ItemDisplay[pab ILVL>25]:%NAME%{%NAME%%TAN% Defense: 126-158 Durability: 25 Sockets: 4}%CONTINUE%//
+
 ItemDisplay[pac ILVL<26]:%NAME%{%NAME%%TAN% Defense: 138-164 Durability: 35 Sockets: 3}%CONTINUE%//
 ItemDisplay[pac ILVL>25]:%NAME%{%NAME%%TAN% Defense: 138-164 Durability: 35 Sockets: 4}%CONTINUE%//
+
 ItemDisplay[pad ILVL<26]:%NAME%{%NAME%%TAN% Defense: 154-172 Durability: 45 Sockets: 3}%CONTINUE%//
 ItemDisplay[pad ILVL>25]:%NAME%{%NAME%%TAN% Defense: 154-172 Durability: 45 Sockets: 4}%CONTINUE%//
+
 ItemDisplay[pae ILVL<26]:%NAME%{%NAME%%TAN% Defense: 169-193 Durability: 50 Sockets: 3}%CONTINUE%//
 ItemDisplay[pae ILVL>25]:%NAME%{%NAME%%TAN% Defense: 169-193 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[paf ILVL<26]:%NAME%{%NAME%%TAN% Defense: 182-225 Durability: 55 Sockets: 4}%CONTINUE%//
-ItemDisplay[paf ILVL>25]:%NAME%{%NAME%%TAN% Defense: 182-225 Durability: 55 Sockets: 3}%CONTINUE%//
+
+ItemDisplay[paf ILVL<26]:%NAME%{%NAME%%TAN% Defense: 182-225 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[paf ILVL>25]:%NAME%{%NAME%%TAN% Defense: 182-225 Durability: 55 Sockets: 4}%CONTINUE%//
 
 ///// Necromancer Shrunken Heads /////
 ItemDisplay[neb]:%NAME%{%NAME%%TAN% Defense: 95-139 Durability: 20 Sockets: 2}%CONTINUE%//
