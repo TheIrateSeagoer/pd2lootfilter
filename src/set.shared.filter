@@ -2,7 +2,7 @@
 ItemDisplay[SET !ID rin]:%GREEN%Cathan/Angelic/PD2 Bul-kathos%DOT-0A%//
 
 ///// Amulets /////
-ItemDisplay[SET !ID amu]:%GREEN%Arcanna/Cathan/Civerb/Angelic/Iratha/Tancred/Vidala/The Disciple/Tal Rasha%DOT-0A%//
+ItemDisplay[SET !ID amu]:%GREEN%Arcanna/Cathan/Civerb/Angelic/Iratha%NL%Tancred/Vidala/The Disciple/Tal Rasha%DOT-0A%//
 
 ///// Gloves /////
 ItemDisplay[SET !ID tgl]:%GREEN%Arctic/Iratha%DOT-0A%//

@@ -7,54 +7,68 @@ ItemDisplay[GOLD<100]://
 
 ///// Ammo /////
 ItemDisplay[aqv CLVL>4]://
+ItemDisplay[aqv CLVL<5]:%NAME%//
+
 ItemDisplay[cqv CLVL>4]://
-ItemDisplay[aqv]:%NAME%//
-ItemDisplay[cqv]:%NAME%//
+ItemDisplay[cqv CLVL<5]:%NAME%//
 
 ///// Junk /////
 ItemDisplay[ear]://
 
 ///// Potions /////
 ItemDisplay[hp1 CLVL>29]://
+ItemDisplay[hp1 CLVL<30]:%RED%@%WHITE%Minor//
+
 ItemDisplay[hp2 CLVL>29]://
+ItemDisplay[hp2 CLVL<30]:%RED%@%WHITE%Light//
+
 ItemDisplay[hp3 CLVL>49]://
+ItemDisplay[hp3 CLVL<50]:%RED%@%WHITE%Healing//
+
 ItemDisplay[hp4 CLVL>79]://
-ItemDisplay[mp1 CLVL>29]://
-ItemDisplay[mp2 CLVL>29]://
-ItemDisplay[mp3 CLVL>49]://
-ItemDisplay[mp4 CLVL>79]://
-ItemDisplay[vps CLVL>19]://
-ItemDisplay[opl CLVL>19]://
-ItemDisplay[opm CLVL>19]://
-ItemDisplay[ops CLVL>19]://
-ItemDisplay[gpl CLVL>19]://
-ItemDisplay[gpm CLVL>19]://
-ItemDisplay[gps CLVL>19]://
-ItemDisplay[aqv CLVL>19]://
-ItemDisplay[cqv CLVL>19]://
-ItemDisplay[hp1]:%RED%@%WHITE%Minor//
-ItemDisplay[hp2]:%RED%@%WHITE%Light//
-ItemDisplay[hp3]:%RED%@%WHITE%Healing//
-ItemDisplay[hp4]:%RED%@%WHITE%Greater//
+ItemDisplay[hp4 CLVL<80]:%RED%@%WHITE%Greater//
+
 ItemDisplay[hp5]:%RED%@%WHITE%Super//
-ItemDisplay[mp1]:%BLUE%@%WHITE%Minor//
-ItemDisplay[mp2]:%BLUE%@%WHITE%Light//
-ItemDisplay[mp3]:%BLUE%@%WHITE%Mana//
-ItemDisplay[mp4]:%BLUE%@%WHITE%Greater//
+
+ItemDisplay[mp1 CLVL>29]://
+ItemDisplay[mp1 CLVL<30]:%BLUE%@%WHITE%Minor//
+
+ItemDisplay[mp2 CLVL>29]://
+ItemDisplay[mp2 CLVL<30]:%BLUE%@%WHITE%Light//
+
+ItemDisplay[mp3 CLVL>49]://
+ItemDisplay[mp3 CLVL<50]:%BLUE%@%WHITE%Mana//
+
+ItemDisplay[mp4 CLVL>79]://
+ItemDisplay[mp4 CLVL<80]:%BLUE%@%WHITE%Greater//
+
 ItemDisplay[mp5]:%BLUE%@%WHITE%Super//
+
 ItemDisplay[rvs]:%PURPLE%@%WHITE%Rejuv//
 ItemDisplay[rvl]:%PURPLE%@%WHITE%Full//
-ItemDisplay[vps]:%WHITE%@%WHITE%Stamina//
 ItemDisplay[yps]:%GREEN%@%WHITE%Anti//
 ItemDisplay[wms]:%GREEN%@%WHITE%Thaw//
-ItemDisplay[opl]:%GRAY%@%WHITE%Fulminating//
-ItemDisplay[opm]:%GRAY%@%WHITE%Exploding//
-ItemDisplay[ops]:%GRAY%@%WHITE%Oil//
-ItemDisplay[gpl]:%GRAY%@%WHITE%Strangling//
-ItemDisplay[gpm]:%GRAY%@%WHITE%Choking//
-ItemDisplay[gps]:%GRAY%@%WHITE%Rancid//
-ItemDisplay[aqv]:%GRAY%@%WHITE%Arrows//
-ItemDisplay[cqv]:%GRAY%@%WHITE%Bolts//
+
+ItemDisplay[vps CLVL>19]://
+ItemDisplay[vps CLVL<20]:%WHITE%@%WHITE%Stamina//
+
+ItemDisplay[opl CLVL>19]://
+ItemDisplay[opl CLVL<20]:%GRAY%@%WHITE%Fulminating//
+
+ItemDisplay[opm CLVL>19]://
+ItemDisplay[opm CLVL<20]:%GRAY%@%WHITE%Exploding//
+
+ItemDisplay[ops CLVL>19]://
+ItemDisplay[ops CLVL<20]:%GRAY%@%WHITE%Oil//
+
+ItemDisplay[gpl CLVL>19]://
+ItemDisplay[gpl CLVL<20]:%GRAY%@%WHITE%Strangling//
+
+ItemDisplay[gpm CLVL>19]://
+ItemDisplay[gpm CLVL<20]:%GRAY%@%WHITE%Choking//
+
+ItemDisplay[gps CLVL>19]://
+ItemDisplay[gps CLVL<20]:%GRAY%@%WHITE%Rancid//
 
 ///// Scrolls+Tome+Key /////
 ItemDisplay[tbk]:%NAME%//

@@ -54,5 +54,6 @@ Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter', '.\obj\common.lo
 
 if (Test-Path -Path 'C:\Program Files (x86)\Diablo II\ProjectD2') { Copy-Item '.\bin\treasureclass.filter' -Destination 'C:\Program Files (x86)\Diablo II\ProjectD2\loot.filter' }
 if (Test-Path -Path 'C:\Program Files (x86)\Diablo II\ProjectD2Beta') { Copy-Item '.\bin\treasureclass.filter' -Destination 'C:\Program Files (x86)\Diablo II\ProjectD2Beta\loot.filter' }
+if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II\BH.cfg') { Copy-Item '.\bin\treasureclass.filter' -Destination 'C:\Program Files (x86)\Diablo II\BH.cfg' }
 
 Copy-Item '.\bin\treasureclass.filter' -Destination '..\treasureclass.filter'

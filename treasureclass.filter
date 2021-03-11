@@ -59,50 +59,46 @@ ItemDisplay[GOLD<1000 CLVL>19]://
 ItemDisplay[GOLD<500 CLVL>9]://
 ItemDisplay[GOLD<100]://
 ItemDisplay[aqv CLVL>4]://
+ItemDisplay[aqv CLVL<5]:%NAME%//
 ItemDisplay[cqv CLVL>4]://
-ItemDisplay[aqv]:%NAME%//
-ItemDisplay[cqv]:%NAME%//
+ItemDisplay[cqv CLVL<5]:%NAME%//
 ItemDisplay[ear]://
 ItemDisplay[hp1 CLVL>29]://
+ItemDisplay[hp1 CLVL<30]:%RED%@%WHITE%Minor//
 ItemDisplay[hp2 CLVL>29]://
+ItemDisplay[hp2 CLVL<30]:%RED%@%WHITE%Light//
 ItemDisplay[hp3 CLVL>49]://
+ItemDisplay[hp3 CLVL<50]:%RED%@%WHITE%Healing//
 ItemDisplay[hp4 CLVL>79]://
-ItemDisplay[mp1 CLVL>29]://
-ItemDisplay[mp2 CLVL>29]://
-ItemDisplay[mp3 CLVL>49]://
-ItemDisplay[mp4 CLVL>79]://
-ItemDisplay[vps CLVL>19]://
-ItemDisplay[opl CLVL>19]://
-ItemDisplay[opm CLVL>19]://
-ItemDisplay[ops CLVL>19]://
-ItemDisplay[gpl CLVL>19]://
-ItemDisplay[gpm CLVL>19]://
-ItemDisplay[gps CLVL>19]://
-ItemDisplay[aqv CLVL>19]://
-ItemDisplay[cqv CLVL>19]://
-ItemDisplay[hp1]:%RED%@%WHITE%Minor//
-ItemDisplay[hp2]:%RED%@%WHITE%Light//
-ItemDisplay[hp3]:%RED%@%WHITE%Healing//
-ItemDisplay[hp4]:%RED%@%WHITE%Greater//
+ItemDisplay[hp4 CLVL<80]:%RED%@%WHITE%Greater//
 ItemDisplay[hp5]:%RED%@%WHITE%Super//
-ItemDisplay[mp1]:%BLUE%@%WHITE%Minor//
-ItemDisplay[mp2]:%BLUE%@%WHITE%Light//
-ItemDisplay[mp3]:%BLUE%@%WHITE%Mana//
-ItemDisplay[mp4]:%BLUE%@%WHITE%Greater//
+ItemDisplay[mp1 CLVL>29]://
+ItemDisplay[mp1 CLVL<30]:%BLUE%@%WHITE%Minor//
+ItemDisplay[mp2 CLVL>29]://
+ItemDisplay[mp2 CLVL<30]:%BLUE%@%WHITE%Light//
+ItemDisplay[mp3 CLVL>49]://
+ItemDisplay[mp3 CLVL<50]:%BLUE%@%WHITE%Mana//
+ItemDisplay[mp4 CLVL>79]://
+ItemDisplay[mp4 CLVL<80]:%BLUE%@%WHITE%Greater//
 ItemDisplay[mp5]:%BLUE%@%WHITE%Super//
 ItemDisplay[rvs]:%PURPLE%@%WHITE%Rejuv//
 ItemDisplay[rvl]:%PURPLE%@%WHITE%Full//
-ItemDisplay[vps]:%WHITE%@%WHITE%Stamina//
 ItemDisplay[yps]:%GREEN%@%WHITE%Anti//
 ItemDisplay[wms]:%GREEN%@%WHITE%Thaw//
-ItemDisplay[opl]:%GRAY%@%WHITE%Fulminating//
-ItemDisplay[opm]:%GRAY%@%WHITE%Exploding//
-ItemDisplay[ops]:%GRAY%@%WHITE%Oil//
-ItemDisplay[gpl]:%GRAY%@%WHITE%Strangling//
-ItemDisplay[gpm]:%GRAY%@%WHITE%Choking//
-ItemDisplay[gps]:%GRAY%@%WHITE%Rancid//
-ItemDisplay[aqv]:%GRAY%@%WHITE%Arrows//
-ItemDisplay[cqv]:%GRAY%@%WHITE%Bolts//
+ItemDisplay[vps CLVL>19]://
+ItemDisplay[vps CLVL<20]:%WHITE%@%WHITE%Stamina//
+ItemDisplay[opl CLVL>19]://
+ItemDisplay[opl CLVL<20]:%GRAY%@%WHITE%Fulminating//
+ItemDisplay[opm CLVL>19]://
+ItemDisplay[opm CLVL<20]:%GRAY%@%WHITE%Exploding//
+ItemDisplay[ops CLVL>19]://
+ItemDisplay[ops CLVL<20]:%GRAY%@%WHITE%Oil//
+ItemDisplay[gpl CLVL>19]://
+ItemDisplay[gpl CLVL<20]:%GRAY%@%WHITE%Strangling//
+ItemDisplay[gpm CLVL>19]://
+ItemDisplay[gpm CLVL<20]:%GRAY%@%WHITE%Choking//
+ItemDisplay[gps CLVL>19]://
+ItemDisplay[gps CLVL<20]:%GRAY%@%WHITE%Rancid//
 ItemDisplay[tbk]:%NAME%//
 ItemDisplay[ibk]:%NAME%//
 ItemDisplay[tsc DIFF>0]:TP//
@@ -399,36 +395,36 @@ ItemDisplay[xlt ED=0 DEF=274]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xth ED=0 DEF=303]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xul ED=0 DEF=342]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xar ED=0 DEF=450]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=467]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=470]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=474]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=481]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=489]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=496]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=501]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=505]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=517]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=524]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=523]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=530]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=541]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=557]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=600]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[uui ED=0 DEF>420 DEF<467]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[uea ED=0 DEF>423 DEF<470]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ula ED=0 DEF>426 DEF<474]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[utu ED=0 DEF>432 DEF<481]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ung ED=0 DEF>440 DEF<489]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF>446 DEF<496]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[urs ED=0 DEF>450 DEF<501]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF>454 DEF<505]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[upl ED=0 DEF>465 DEF<517]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[utp ED=0 DEF>471 DEF<524]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[uld ED=0 DEF>470 DEF<523]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ult ED=0 DEF>477 DEF<530]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[uth ED=0 DEF>486 DEF<541]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[uul ED=0 DEF>501 DEF<557]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[uar ED=0 DEF>540 DEF<600]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[uui ED=0 DEF=467]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[uea ED=0 DEF=470]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ula ED=0 DEF=474]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[utu ED=0 DEF=481]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ung ED=0 DEF=489]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ucl ED=0 DEF=496]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[urs ED=0 DEF=501]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[uhn ED=0 DEF=505]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[upl ED=0 DEF=517]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[utp ED=0 DEF=524]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[uld ED=0 DEF=523]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ult ED=0 DEF=530]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[uth ED=0 DEF=541]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[uul ED=0 DEF=557]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[uar ED=0 DEF=600]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[uui ED=0 DEF>420 DEF<467]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[uea ED=0 DEF>423 DEF<470]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ula ED=0 DEF>426 DEF<474]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[utu ED=0 DEF>432 DEF<481]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ung ED=0 DEF>440 DEF<489]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ucl ED=0 DEF>446 DEF<496]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[urs ED=0 DEF>450 DEF<501]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[uhn ED=0 DEF>454 DEF<505]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[upl ED=0 DEF>465 DEF<517]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[utp ED=0 DEF>471 DEF<524]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[uld ED=0 DEF>470 DEF<523]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ult ED=0 DEF>477 DEF<530]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[uth ED=0 DEF>486 DEF<541]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[uul ED=0 DEF>501 DEF<557]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[uar ED=0 DEF>540 DEF<600]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
 ItemDisplay[buc ED=0 DEF=6  ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[sml ED=0 DEF=10 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[lrg ED=0 DEF=14 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -706,36 +702,36 @@ ItemDisplay[DIN AR=118]:%NAME%%RED%118%GRAY%]%CONTINUE%//
 ItemDisplay[DIN AR=119]:%NAME%%RED%119%GRAY%]%CONTINUE%//
 ItemDisplay[DIN AR=120]:%NAME%%RED%120%GRAY%]%CONTINUE%//
 ItemDisplay[DIN AR=121]:%NAME%%PURPLE%121%GRAY%]%CONTINUE%//
-ItemDisplay[ETH uar ED=0 DEF=900 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH uul ED=0 DEF=835 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH uth ED=0 DEF=811 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH ult ED=0 DEF=795 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH uld ED=0 DEF=784 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH utp ED=0 DEF=786 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH upl ED=0 DEF=775 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH uhn ED=0 DEF=757 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH urs ED=0 DEF=751 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH ucl ED=0 DEF=744 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH ung ED=0 DEF=733 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH utu ED=0 DEF=721 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH ula ED=0 DEF=711 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH uea ED=0 DEF=705 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH uui ED=0 DEF=700 SOCK=0]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[ETH uar ED=0 DEF>809 DEF<900 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ETH uul ED=0 DEF>750 DEF<835 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ETH uth ED=0 DEF>728 DEF<811 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ETH ult ED=0 DEF>714 DEF<795 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ETH uld ED=0 DEF>704 DEF<784 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ETH utp ED=0 DEF>706 DEF<786 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ETH upl ED=0 DEF>696 DEF<775 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ETH uhn ED=0 DEF>680 DEF<757 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ETH urs ED=0 DEF>674 DEF<751 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ETH ucl ED=0 DEF>668 DEF<744 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ETH ung ED=0 DEF>658 DEF<733 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ETH utu ED=0 DEF>647 DEF<721 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ETH ula ED=0 DEF>638 DEF<711 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ETH uea ED=0 DEF>633 DEF<705 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
-ItemDisplay[ETH uui ED=0 DEF>629 DEF<700 SOCK=0]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH uar ED=0 DEF=900 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH uul ED=0 DEF=835 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH uth ED=0 DEF=811 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH ult ED=0 DEF=795 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH uld ED=0 DEF=784 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH utp ED=0 DEF=786 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH upl ED=0 DEF=775 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH uhn ED=0 DEF=757 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH urs ED=0 DEF=751 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH ucl ED=0 DEF=744 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH ung ED=0 DEF=733 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH utu ED=0 DEF=721 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH ula ED=0 DEF=711 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH uea ED=0 DEF=705 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH uui ED=0 DEF=700 SOCK=0]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH uar ED=0 DEF>809 DEF<900 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH uul ED=0 DEF>750 DEF<835 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH uth ED=0 DEF>728 DEF<811 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH ult ED=0 DEF>714 DEF<795 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH uld ED=0 DEF>704 DEF<784 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH utp ED=0 DEF>706 DEF<786 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH upl ED=0 DEF>696 DEF<775 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH uhn ED=0 DEF>680 DEF<757 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH urs ED=0 DEF>674 DEF<751 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH ucl ED=0 DEF>668 DEF<744 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH ung ED=0 DEF>658 DEF<733 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH utu ED=0 DEF>647 DEF<721 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH ula ED=0 DEF>638 DEF<711 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH uea ED=0 DEF>633 DEF<705 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH uui ED=0 DEF>629 DEF<700 SOCK=0]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
 ItemDisplay[!RW !UNI PRICE>4999]:%NAME% %DARK_GREEN%$%CONTINUE%//
 ItemDisplay[!RW !UNI PRICE>9999]:%NAME%%DARK_GREEN%$%CONTINUE%//
 ItemDisplay[!RW !UNI PRICE>14999]:%NAME%%DARK_GREEN%$%CONTINUE%//
@@ -743,8 +739,8 @@ ItemDisplay[!RW !UNI PRICE>19999]:%NAME%%DARK_GREEN%$%CONTINUE%//
 ItemDisplay[!RW !UNI PRICE>24999]:%NAME%%DARK_GREEN%$%CONTINUE%//
 ItemDisplay[!RW !UNI PRICE>29999]:%NAME%%DARK_GREEN%$%CONTINUE%//
 ItemDisplay[!RW !UNI PRICE>34999]:%NAME%%DARK_GREEN%$%CONTINUE%//
-ItemDisplay[SOCK>1 MAG]:%NAME%%NL%%RED%NOT A RUNEWORD CANDIDATE%BLUE%%CONTINUE%//
-ItemDisplay[SOCK>1 RARE]:%NAME%%NL%%RED%NOT A RUNEWORD CANDIDATE%YELLOW%%CONTINUE%//
+ItemDisplay[MAG SOCK>1]:%NAME%%NL%%RED%NOT A RUNEWORD CANDIDATE%BLUE%%CONTINUE%//
+ItemDisplay[RARE SOCK>1]:%NAME%%NL%%RED%NOT A RUNEWORD CANDIDATE%YELLOW%%CONTINUE%//
 ItemDisplay[RW]:%NAME%%GOLD%%CONTINUE%//
 ItemDisplay[NMAG SOCK=0]:%NAME%%WHITE%%CONTINUE%//
 ItemDisplay[NMAG SOCK>0 !RW]:%NAME%%GRAY%%CONTINUE%//
@@ -754,33 +750,34 @@ ItemDisplay[RARE]:%NAME%%YELLOW%%CONTINUE%//
 ItemDisplay[UNI]:%NAME%%GOLD%%CONTINUE%//
 ItemDisplay[SET]:%NAME%%GREEN%%CONTINUE%//
 ItemDisplay[CRAFT]:%NAME%%ORANGE%%CONTINUE%//
-ItemDisplay[WEAPON NORM RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ort%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[ARMOR NORM RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[WEAPON EXC RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Fal%GRAY%+%RED%Um%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[ARMOR EXC RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[WEAPON NORM UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Sol%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[ARMOR NORM UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Shael%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[WEAPON EXC UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Lum%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[ARMOR EXC UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Lem%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[WEAPON NMAG SOCK=0 !SUP !THROWING]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Amethyst%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[SHIELD NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Ruby%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[HELM NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[CHEST NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Topaz%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[WEAPON NMAG SOCK=0 SUP !THROWING]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[SHIELD NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[HELM NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[CHEST NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[HELM MAG]:%NAME%{%NAME%%ORANGE%Blood: Ral Caster: Nef Power: Ith Safety: Ith%NL%}%CONTINUE%//
-ItemDisplay[CHEST MAG]:%NAME%{%NAME%%ORANGE%Blood: Thul Caster: Tal Power: Nef Safety: Eth%NL%}%CONTINUE%//
-ItemDisplay[WEAPON MAG !BOW !XBOW]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir%NL%}%CONTINUE%//
-ItemDisplay[WEAPON MAG BOW OR XBOW]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir Safety: Sol%NL%}%CONTINUE%//
-ItemDisplay[SHIELD MAG]:%NAME%{%NAME%%ORANGE%Blood: Ith Caster: Eth Power: Eth Safety: Nef%NL%}%CONTINUE%//
-ItemDisplay[GLOVES MAG]:%NAME%{%NAME%%ORANGE%Blood: Nef Caster: Ort Power: Ort Safety: Ral%NL%}%CONTINUE%//
-ItemDisplay[BELT MAG]:%NAME%{%NAME%%ORANGE%Blood: Tal Caster: Ith Power: Tal Safety: Tal%NL%}%CONTINUE%//
-ItemDisplay[BOOTS MAG]:%NAME%{%NAME%%ORANGE%Blood: Eth Caster: Thul Power: Ral Safety: Ort%NL%}%CONTINUE%//
-ItemDisplay[amu MAG]:%NAME%{%NAME%%ORANGE%Blood: Amn Caster: Ral Power: Thul Safety: Thul}%CONTINUE%//
-ItemDisplay[rin MAG]:%NAME%{%NAME%%ORANGE%Blood: Sol Caster: Amn Power: Amn Safety: Amn}%CONTINUE%//
-ItemDisplay[jew MAG]:%NAME%{%ORANGE%Crafting%TAN%: (Blood: Ruby/Caster: Amethyst/Power: Sapphire/Safety: Emerald)}%CONTINUE%//
+ItemDisplay[RARE WEAPON NORM]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ort%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[RARE ARMOR NORM]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[RARE WEAPON EXC]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Fal%GRAY%+%RED%Um%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[RARE ARMOR EXC]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[UNI WEAPON NORM]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Sol%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[UNI ARMOR NORM]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Shael%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[UNI WEAPON EXC]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Lum%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[UNI ARMOR EXC]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Lem%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG !SUP SOCK=0 WEAPON !THROWING]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Amethyst%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG !SUP SOCK=0 SHIELD]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Ruby%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG !SUP SOCK=0 HELM]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG !SUP SOCK=0 CHEST]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Topaz%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG SUP SOCK=0 WEAPON !THROWING]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG SUP SOCK=0 SHIELD]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG SUP SOCK=0 HELM]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG SUP SOCK=0 CHEST]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[MAG WEAPON BOW]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir Safety: Sol%NL%}%CONTINUE%//
+ItemDisplay[MAG WEAPON XBOW]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir Safety: Sol%NL%}%CONTINUE%//
+ItemDisplay[MAG WEAPON !BOW !XBOW]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir%NL%}%CONTINUE%//
+ItemDisplay[MAG HELM]:%NAME%{%NAME%%ORANGE%Blood: Ral Caster: Nef Power: Ith Safety: Ith%NL%}%CONTINUE%//
+ItemDisplay[MAG CHEST]:%NAME%{%NAME%%ORANGE%Blood: Thul Caster: Tal Power: Nef Safety: Eth%NL%}%CONTINUE%//
+ItemDisplay[MAG SHIELD]:%NAME%{%NAME%%ORANGE%Blood: Ith Caster: Eth Power: Eth Safety: Nef%NL%}%CONTINUE%//
+ItemDisplay[MAG GLOVES]:%NAME%{%NAME%%ORANGE%Blood: Nef Caster: Ort Power: Ort Safety: Ral%NL%}%CONTINUE%//
+ItemDisplay[MAG BELT]:%NAME%{%NAME%%ORANGE%Blood: Tal Caster: Ith Power: Tal Safety: Tal%NL%}%CONTINUE%//
+ItemDisplay[MAG BOOTS]:%NAME%{%NAME%%ORANGE%Blood: Eth Caster: Thul Power: Ral Safety: Ort%NL%}%CONTINUE%//
+ItemDisplay[MAG amu]:%NAME%{%NAME%%ORANGE%Blood: Amn Caster: Ral Power: Thul Safety: Thul}%CONTINUE%//
+ItemDisplay[MAG rin]:%NAME%{%NAME%%ORANGE%Blood: Sol Caster: Amn Power: Amn Safety: Amn}%CONTINUE%//
+ItemDisplay[MAG jew]:%NAME%{%ORANGE%Crafting%TAN%: (Blood: Ruby/Caster: Amethyst/Power: Sapphire/Safety: Emerald)}%CONTINUE%//
 ItemDisplay[ci0 ILVL<26]:%NAME%{%NAME%%TAN% Defense: 20-30 Durability: 35 Sockets: 1}%CONTINUE%//
 ItemDisplay[ci0 ILVL>25]:%NAME%{%NAME%%TAN% Defense: 20-30 Durability: 35 Sockets: 2}%CONTINUE%//
 ItemDisplay[ci1 ILVL<26]:%NAME%{%NAME%%TAN% Defense: 30-40 Durability: 30 Sockets: 1}%CONTINUE%//
@@ -1594,7 +1591,7 @@ ItemDisplay[obe]:%NAME%{%NAME%%TAN% Damage: 12-66 Durability: 15 Sockets: 2}%CON
 ItemDisplay[obf ILVL<26]:%NAME%{%NAME%%TAN% Damage: 30-53 Durability: 15 Sockets: 2}%CONTINUE%//
 ItemDisplay[obf ILVL>25]:%NAME%{%NAME%%TAN% Damage: 30-53 Durability: 15 Sockets: 3}%CONTINUE%//
 ItemDisplay[SET !ID rin]:%GREEN%Cathan/Angelic/PD2 Bul-kathos%DOT-0A%//
-ItemDisplay[SET !ID amu]:%GREEN%Arcanna/Cathan/Civerb/Angelic/Iratha/Tancred/Vidala/The Disciple/Tal Rasha%DOT-0A%//
+ItemDisplay[SET !ID amu]:%GREEN%Arcanna/Cathan/Civerb/Angelic/Iratha%NL%Tancred/Vidala/The Disciple/Tal Rasha%DOT-0A%//
 ItemDisplay[SET !ID tgl]:%GREEN%Arctic/Iratha%DOT-0A%//
 ItemDisplay[SET !ID cap]:%GREEN%Infernal/Sander%DOT-0A%//
 ItemDisplay[SET !ID crn]:%GREEN%Iratha/Milabrega%DOT-0A%//
@@ -2053,25 +2050,41 @@ ItemDisplay[UNI !ID 7ta]:%GOLD%Gimmershred%MAP-0A%//
 ItemDisplay[UNI !ID 7b8]:%GOLD%Lacerator%MAP-0A%//
 ItemDisplay[UNI !ID 7bw]:%GOLD%Boneshade%MAP-0A%//
 ItemDisplay[UNI !ID 7gw]:%GOLD%Death's Web%MAP-0A%//
+ItemDisplay[ETH NMAG (7s8 OR 7wc OR 7h7 OR 7pa) SOCK=4]:%NAME%%NL%%PURPLE%Infinity Base%MAP-0A%//
+ItemDisplay[ETH NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4 CLVL<50]:%NAME%%NL%%PURPLE%Insight Base%MAP-0A%//
+ItemDisplay[ETH NMAG (scy OR wsc OR hal OR pax) SOCK=4 CLVL<50]:%NAME%%NL%%PURPLE%Insight Base%MAP-0A%//
+ItemDisplay[ETH NMAG (scy OR wsc OR hal OR pax) SOCK=3 CLVL<30]:%NAME%%NL%%PURPLE%Malice Base%MAP-0A%//
+ItemDisplay[NMAG (7s8 OR 7wc OR 7h7 OR 7pa) SOCK=4]:%NAME%%NL%%RED%Infinity Base%DOT-0A%//
+ItemDisplay[NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4 CLVL<50]:%NAME%%NL%%RED%Insight Base%DOT-0A%//
+ItemDisplay[NMAG (scy OR wsc OR hal OR pax) SOCK=4 CLVL<50]:%NAME%%NL%%RED%Insight Base%DOT-0A%//
+ItemDisplay[NMAG (scy OR wsc OR hal OR pax) SOCK=3 CLVL<30]:%NAME%%NL%%RED%Malice Base%DOT-0A%//
+ItemDisplay[NMAG fla SOCK=4]:%NAME%%NL%%PURPLE%Heart of the Oak Base%MAP-0A%//
+ItemDisplay[NMAG crs SOCK=4]:%NAME%%NL%%PURPLE%Spirit Base%MAP-0A%//
+ItemDisplay[NMAG fla ILVL>25 ILVL<41 SOCK=0 CLVL<50]:%NAME%%NL%%RED%Possible Heart of the Oak%DOT-0A%//
+ItemDisplay[NMAG crs ILVL>25 ILVL<41 SOCK=0 CLVL<50]:%NAME%%NL%%RED%Possible Spirit Base%DOT-0A%//
+ItemDisplay[NMAG (scy OR wsc OR hal OR pax) SOCK=0 CLVL<50]:%NAME%%NL%%RED%Possible Insight Base%DOT-0A%//
+ItemDisplay[NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=0 CLVL<50]:%NAME%%NL%%RED%Possible Insight Base%MAP-0A%//
+ItemDisplay[NMAG (bsh OR xsh or ush) SOCK=0]:%NAME%%NL%%RED%Shield Runeword Base%DOT-0A%//
+ItemDisplay[NMAG (bsh OR xsh or ush) SOCK=3 CLVL<50]:%NAME%%NL%%PURPLE%Ancients Pledge Base%MAP-0A%//
+ItemDisplay[NMAG (bsh OR xsh or ush) SOCK=3 CLVL<50]:%NAME%%NL%%PURPLE%Rhyme Base%MAP-0A%//
+ItemDisplay[UNI !ID]:%CODE%:%NAME%%PX-0A%//
+ItemDisplay[SET !ID]:%CODE%:%NAME%%PX-0A%//
+ItemDisplay[MAG !ID cm1]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[MAG !ID cm2]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[MAG !ID cm3]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[MAG !ID rin]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[MAG !ID amu]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[MAG !ID jew]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
+ItemDisplay[RARE !ID rin]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
+ItemDisplay[RARE !ID amu]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
+ItemDisplay[RARE !ID jew]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
 ItemDisplay[NMAG SOCK=1]://
+ItemDisplay[NMAG GLOVES CLVL>19]://
+ItemDisplay[NMAG BELT CLVL>19]://
+ItemDisplay[NMAG BOOTS CLVL>19]://
+ItemDisplay[NMAG THROWING CLVL>19]://
+ItemDisplay[NMAG (ktr OR wrb OR axf OR ces OR clw OR btl OR skr) CLVL>19]://
+ItemDisplay[NMAG (9ar OR 9wb OR 9xf) CLVL>19]://
+ItemDisplay[SUP SOCK=0 ED=0 CLVL>19]://
 ItemDisplay[SUP ETH CLVL>19]://
-ItemDisplay[SUP ED=0 SOCK=0 CLVL>19]://
-ItemDisplay[GLOVES NMAG CLVL>19]://
-ItemDisplay[BELT NMAG CLVL>19]://
-ItemDisplay[BOOTS NMAG CLVL>19]://
-ItemDisplay[THROWING NMAG CLVL>19]://
-ItemDisplay[JAV NMAG CLVL>19]://
-ItemDisplay[SIN NORM NMAG CLVL>19]://
-ItemDisplay[9ar OR 9wb OR 9xf AND NMAG AND CLVL>19]://
-ItemDisplay[UNI !ID]:%CODE%:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
-ItemDisplay[SET !ID]:%CODE%:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
-ItemDisplay[cm1 MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
-ItemDisplay[cm2 MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
-ItemDisplay[cm3 MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
-ItemDisplay[rin MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
-ItemDisplay[amu MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
-ItemDisplay[jew MAG !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
-ItemDisplay[rin RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
-ItemDisplay[amu RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
-ItemDisplay[jew RARE !ID]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
 ItemDisplay[INF]://

@@ -1,34 +1,35 @@
 ////////// Upgrades //////////
-ItemDisplay[WEAPON NORM RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ort%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[ARMOR NORM RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[WEAPON EXC RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Fal%GRAY%+%RED%Um%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[ARMOR EXC RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[RARE WEAPON NORM]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ort%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[RARE ARMOR NORM]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[RARE WEAPON EXC]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Fal%GRAY%+%RED%Um%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[RARE ARMOR EXC]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
 
-ItemDisplay[WEAPON NORM UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Sol%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[ARMOR NORM UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Shael%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[WEAPON EXC UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Lum%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[ARMOR EXC UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Lem%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[UNI WEAPON NORM]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Sol%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[UNI ARMOR NORM]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Shael%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[UNI WEAPON EXC]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Lum%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[UNI ARMOR EXC]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Lem%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
 
 ////////// Socketing //////////
-ItemDisplay[WEAPON NMAG SOCK=0 !SUP !THROWING]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Amethyst%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[SHIELD NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Ruby%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[HELM NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[CHEST NMAG SOCK=0 !SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Topaz%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG !SUP SOCK=0 WEAPON !THROWING]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Amethyst%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG !SUP SOCK=0 SHIELD]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Ruby%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG !SUP SOCK=0 HELM]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG !SUP SOCK=0 CHEST]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Topaz%GRAY%)%NL%}%CONTINUE%//
 
-ItemDisplay[WEAPON NMAG SOCK=0 SUP !THROWING]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[SHIELD NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[HELM NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[CHEST NMAG SOCK=0 SUP]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG SUP SOCK=0 WEAPON !THROWING]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG SUP SOCK=0 SHIELD]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG SUP SOCK=0 HELM]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[NMAG SUP SOCK=0 CHEST]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
 
 ////////// Crafting //////////
-ItemDisplay[HELM MAG]:%NAME%{%NAME%%ORANGE%Blood: Ral Caster: Nef Power: Ith Safety: Ith%NL%}%CONTINUE%//
-ItemDisplay[CHEST MAG]:%NAME%{%NAME%%ORANGE%Blood: Thul Caster: Tal Power: Nef Safety: Eth%NL%}%CONTINUE%//
-ItemDisplay[WEAPON MAG !BOW !XBOW]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir%NL%}%CONTINUE%//
-ItemDisplay[WEAPON MAG BOW OR XBOW]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir Safety: Sol%NL%}%CONTINUE%//
-ItemDisplay[SHIELD MAG]:%NAME%{%NAME%%ORANGE%Blood: Ith Caster: Eth Power: Eth Safety: Nef%NL%}%CONTINUE%//
-ItemDisplay[GLOVES MAG]:%NAME%{%NAME%%ORANGE%Blood: Nef Caster: Ort Power: Ort Safety: Ral%NL%}%CONTINUE%//
-ItemDisplay[BELT MAG]:%NAME%{%NAME%%ORANGE%Blood: Tal Caster: Ith Power: Tal Safety: Tal%NL%}%CONTINUE%//
-ItemDisplay[BOOTS MAG]:%NAME%{%NAME%%ORANGE%Blood: Eth Caster: Thul Power: Ral Safety: Ort%NL%}%CONTINUE%//
-ItemDisplay[amu MAG]:%NAME%{%NAME%%ORANGE%Blood: Amn Caster: Ral Power: Thul Safety: Thul}%CONTINUE%//
-ItemDisplay[rin MAG]:%NAME%{%NAME%%ORANGE%Blood: Sol Caster: Amn Power: Amn Safety: Amn}%CONTINUE%//
-ItemDisplay[jew MAG]:%NAME%{%ORANGE%Crafting%TAN%: (Blood: Ruby/Caster: Amethyst/Power: Sapphire/Safety: Emerald)}%CONTINUE%//
+ItemDisplay[MAG WEAPON BOW]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir Safety: Sol%NL%}%CONTINUE%//
+ItemDisplay[MAG WEAPON XBOW]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir Safety: Sol%NL%}%CONTINUE%//
+ItemDisplay[MAG WEAPON !BOW !XBOW]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir%NL%}%CONTINUE%//
+ItemDisplay[MAG HELM]:%NAME%{%NAME%%ORANGE%Blood: Ral Caster: Nef Power: Ith Safety: Ith%NL%}%CONTINUE%//
+ItemDisplay[MAG CHEST]:%NAME%{%NAME%%ORANGE%Blood: Thul Caster: Tal Power: Nef Safety: Eth%NL%}%CONTINUE%//
+ItemDisplay[MAG SHIELD]:%NAME%{%NAME%%ORANGE%Blood: Ith Caster: Eth Power: Eth Safety: Nef%NL%}%CONTINUE%//
+ItemDisplay[MAG GLOVES]:%NAME%{%NAME%%ORANGE%Blood: Nef Caster: Ort Power: Ort Safety: Ral%NL%}%CONTINUE%//
+ItemDisplay[MAG BELT]:%NAME%{%NAME%%ORANGE%Blood: Tal Caster: Ith Power: Tal Safety: Tal%NL%}%CONTINUE%//
+ItemDisplay[MAG BOOTS]:%NAME%{%NAME%%ORANGE%Blood: Eth Caster: Thul Power: Ral Safety: Ort%NL%}%CONTINUE%//
+ItemDisplay[MAG amu]:%NAME%{%NAME%%ORANGE%Blood: Amn Caster: Ral Power: Thul Safety: Thul}%CONTINUE%//
+ItemDisplay[MAG rin]:%NAME%{%NAME%%ORANGE%Blood: Sol Caster: Amn Power: Amn Safety: Amn}%CONTINUE%//
+ItemDisplay[MAG jew]:%NAME%{%ORANGE%Crafting%TAN%: (Blood: Ruby/Caster: Amethyst/Power: Sapphire/Safety: Emerald)}%CONTINUE%//
