@@ -126,7 +126,7 @@ ItemDisplay[skz]:%ORANGE%Perfect Skull%PX-0A%//
 
 ///// Normal Runes /////
 ItemDisplay[r01]:%ORANGE%El Rune{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
-ItemDisplay[r02]:%ORANGE%Eld Rune{%NAME%%TAN%Rune Number:  2%}%DOT-0A%//
+ItemDisplay[r02]:%ORANGE%Eld Rune{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
 ItemDisplay[r03]:%ORANGE%Tir Rune{%NAME%%TAN%Rune Number:  3}%DOT-0A%//
 ItemDisplay[r04]:%ORANGE%Nef Rune{%NAME%%TAN%Rune Number:  4}%DOT-0A%//
 ItemDisplay[r05]:%ORANGE%Eth Rune{%NAME%%TAN%Rune Number:  5}%DOT-0A%//

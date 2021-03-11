@@ -18,7 +18,7 @@ ItemDisplay[skzs]:%ORANGE%Perfect Skull Stack%PX-0A%//
 
 ///// Normal Runes /////
 ItemDisplay[r01s]:%ORANGE%El Stack{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
-ItemDisplay[r02s]:%ORANGE%Eld Stack{%NAME%%TAN%Rune Number:  2%}%DOT-0A%//
+ItemDisplay[r02s]:%ORANGE%Eld Stack{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
 ItemDisplay[r03s]:%ORANGE%Tir Stack{%NAME%%TAN%Rune Number:  3}%DOT-0A%//
 ItemDisplay[r04s]:%ORANGE%Nef Stack{%NAME%%TAN%Rune Number:  4}%DOT-0A%//
 ItemDisplay[r05s]:%ORANGE%Eth Stack{%NAME%%TAN%Rune Number:  5}%DOT-0A%//
