@@ -57,3 +57,6 @@ ItemDisplay[!ETH SOCK>0 RARE]:%GRAY%[%SOCKETS%os] %YELLOW%%NAME%%CONTINUE%//
 ItemDisplay[!ETH SOCK>0 UNI]:%GRAY%[%SOCKETS%os] %GOLD%%NAME%%CONTINUE%//
 ItemDisplay[!ETH SOCK>0 SET]:%GRAY%[%SOCKETS%os] %GREEN%%NAME%%CONTINUE%//
 ItemDisplay[!ETH SOCK>0 CRAFT]:%GRAY%[%SOCKETS%os] %ORANGE%%NAME%%CONTINUE%//
+
+///// Inferior /////
+ItemDisplay[INF]:%WHITE%[Inf] %NAME%%CONTINUE%//

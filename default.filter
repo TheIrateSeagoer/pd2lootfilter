@@ -283,6 +283,7 @@ ItemDisplay[!ETH SOCK>0 RARE]:%GRAY%[%SOCKETS%os] %YELLOW%%NAME%%CONTINUE%//
 ItemDisplay[!ETH SOCK>0 UNI]:%GRAY%[%SOCKETS%os] %GOLD%%NAME%%CONTINUE%//
 ItemDisplay[!ETH SOCK>0 SET]:%GRAY%[%SOCKETS%os] %GREEN%%NAME%%CONTINUE%//
 ItemDisplay[!ETH SOCK>0 CRAFT]:%GRAY%[%SOCKETS%os] %ORANGE%%NAME%%CONTINUE%//
+ItemDisplay[INF]:%WHITE%[Inf] %NAME%%CONTINUE%//
 ItemDisplay[cap ED=0 DEF=5  ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[skp ED=0 DEF=11 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[hlm ED=0 DEF=18 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -2009,12 +2010,12 @@ ItemDisplay[MAG !ID jew]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
 ItemDisplay[RARE !ID rin]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
 ItemDisplay[RARE !ID amu]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
 ItemDisplay[RARE !ID jew]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
-ItemDisplay[NMAG SOCK=1]:%WHITE%//
-ItemDisplay[NMAG GLOVES CLVL>19]:%WHITE%//
-ItemDisplay[NMAG BELT CLVL>19]:%WHITE%//
-ItemDisplay[NMAG BOOTS CLVL>19]:%WHITE%//
-ItemDisplay[NMAG THROWING CLVL>19]:%WHITE%//
-ItemDisplay[NMAG (ktr OR wrb OR axf OR ces OR clw OR btl OR skr) CLVL>19]:%WHITE%//
-ItemDisplay[NMAG (9ar OR 9wb OR 9xf) CLVL>19]:%WHITE%//
-ItemDisplay[SUP SOCK=0 ED=0 CLVL>19]:%WHITE%//
+ItemDisplay[NMAG SOCK=1]://
+ItemDisplay[NMAG GLOVES CLVL>19]://
+ItemDisplay[NMAG BELT CLVL>19]://
+ItemDisplay[NMAG BOOTS CLVL>19]://
+ItemDisplay[NMAG THROWING CLVL>19]://
+ItemDisplay[NMAG (ktr OR wrb OR axf OR ces OR clw OR btl OR skr) CLVL>19]://
+ItemDisplay[NMAG (9ar OR 9wb OR 9xf) CLVL>19]://
+ItemDisplay[SUP SOCK=0 ED=0 CLVL>19]://
 ItemDisplay[INF]://
