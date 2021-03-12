@@ -2090,5 +2090,4 @@ ItemDisplay[NMAG THROWING CLVL>19]://
 ItemDisplay[NMAG (ktr OR wrb OR axf OR ces OR clw OR btl OR skr) CLVL>19]://
 ItemDisplay[NMAG (9ar OR 9wb OR 9xf) CLVL>19]://
 ItemDisplay[SUP SOCK=0 ED=0 CLVL>19]://
-//ItemDisplay[SUP ETH CLVL>19]://
 ItemDisplay[INF]://
