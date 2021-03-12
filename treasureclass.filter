@@ -2100,23 +2100,23 @@ ItemDisplay[UNI !ID 7ta]:%GOLD%Gimmershred%MAP-0A%//
 ItemDisplay[UNI !ID 7b8]:%GOLD%Lacerator%MAP-0A%//
 ItemDisplay[UNI !ID 7bw]:%GOLD%Boneshade%MAP-0A%//
 ItemDisplay[UNI !ID 7gw]:%GOLD%Death's Web%MAP-0A%//
-ItemDisplay[ETH NMAG (7s8 OR 7wc OR 7h7 OR 7pa) SOCK=4]:%NAME%%NL%%PURPLE%Infinity Base%MAP-0A%//
-ItemDisplay[ETH NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4]:%NAME%%NL%%PURPLE%Insight Base%MAP-0A%//
-ItemDisplay[ETH NMAG (scy OR wsc OR hal OR pax) SOCK=4 CLVL<50]:%NAME%%NL%%PURPLE%Insight Base%MAP-0A%//
-ItemDisplay[ETH NMAG (scy OR wsc OR hal OR pax) SOCK=3 CLVL<30]:%NAME%%NL%%PURPLE%Malice Base%MAP-0A%//
-ItemDisplay[NMAG (7s8 OR 7wc OR 7h7 OR 7pa) SOCK=4]:%NAME%%NL%%RED%Swap Infinity Base%DOT-0A%//
-ItemDisplay[NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4 CLVL<50]:%NAME%%NL%%RED%Insight Base%DOT-0A%//
-ItemDisplay[NMAG (scy OR wsc OR hal OR pax) SOCK=4 CLVL<50]:%NAME%%NL%%RED%Insight Base%DOT-0A%//
-ItemDisplay[NMAG (scy OR wsc OR hal OR pax) SOCK=3 CLVL<30]:%NAME%%NL%%RED%Malice Base%DOT-0A%//
-ItemDisplay[NMAG fla SOCK=4]:%NAME%%NL%%PURPLE%Heart of the Oak Base%MAP-0A%//
-ItemDisplay[NMAG crs SOCK=4]:%NAME%%NL%%PURPLE%Spirit Base%MAP-0A%//
-ItemDisplay[NMAG fla ILVL>25 ILVL<41 SOCK=0 CLVL<33]:%NAME%%NL%%RED%Possible Heart of the Oak%DOT-0A%//
-ItemDisplay[NMAG crs ILVL>25 ILVL<41 SOCK=0 CLVL<50]:%NAME%%NL%%RED%Possible Spirit Base%DOT-0A%//
-ItemDisplay[NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=0 CLVL<50]:%NAME%%NL%%RED%Possible Insight Base%MAP-0A%//
-ItemDisplay[NMAG (scy OR wsc OR hal OR pax) SOCK=0 CLVL<30]:%NAME%%NL%%RED%Possible Insight Base%DOT-0A%//
-ItemDisplay[NMAG (bsh OR xsh or ush) SOCK=0]:%NAME%%NL%%RED%Shield Runeword Base%DOT-0A%//
-ItemDisplay[NMAG (bsh OR xsh or ush) SOCK=3 CLVL<50]:%NAME%%NL%%PURPLE%Ancients Pledge Base%MAP-0A%//
-ItemDisplay[NMAG (bsh OR xsh or ush) SOCK=3 CLVL<50]:%NAME%%NL%%PURPLE%Rhyme Base%MAP-0A%//
+ItemDisplay[ETH NMAG (7s8 OR 7wc OR 7h7 OR 7pa) SOCK=4 ILVL>25]:%NAME%%NL%%PURPLE%Infinity Base%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4 ILVL>25]:%NAME%%NL%%PURPLE%Insight Base%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH NMAG (scy OR wsc OR hal OR pax) SOCK=4 ILVL>25 CLVL<50]:%NAME%%NL%%PURPLE%Insight Base%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH NMAG (scy OR wsc OR hal OR pax) SOCK=3 CLVL<30]:%NAME%%NL%%PURPLE%Malice Base%MAP-0A%%CONTINUE%//
+ItemDisplay[NMAG (7s8 OR 7wc OR 7h7 OR 7pa) SOCK=4 ILVL>25]:%NAME%%NL%%RED%Swap Infinity Base%DOT-0A%%CONTINUE%//
+ItemDisplay[NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4 ILVL>25 CLVL<50]:%NAME%%NL%%RED%Insight Base%DOT-0A%%CONTINUE%//
+ItemDisplay[NMAG (scy OR wsc OR hal OR pax) SOCK=4 ILVL>25 CLVL<50]:%NAME%%NL%%RED%Insight Base%DOT-0A%%CONTINUE%//
+ItemDisplay[NMAG (scy OR wsc OR hal OR pax) SOCK=3 CLVL<30]:%NAME%%NL%%RED%Malice Base%DOT-0A%%CONTINUE%//
+ItemDisplay[NMAG fla SOCK=4]:%NAME%%NL%%PURPLE%Heart of the Oak Base%MAP-0A%%CONTINUE%//
+ItemDisplay[NMAG crs SOCK=4]:%NAME%%NL%%PURPLE%Spirit Base%MAP-0A%%CONTINUE%//
+ItemDisplay[NMAG fla ILVL>25 ILVL<41 SOCK=0 CLVL<33]:%NAME%%NL%%RED%Possible Heart of the Oak%DOT-0A%%CONTINUE%//
+ItemDisplay[NMAG crs ILVL>25 ILVL<41 SOCK=0 CLVL<50]:%NAME%%NL%%RED%Possible Spirit Base%DOT-0A%%CONTINUE%//
+ItemDisplay[NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=0 CLVL<50]:%NAME%%NL%%RED%Possible Insight Base%MAP-0A%%CONTINUE%//
+ItemDisplay[NMAG (scy OR wsc OR hal OR pax) SOCK=0 CLVL<30]:%NAME%%NL%%RED%Possible Insight Base%DOT-0A%%CONTINUE%//
+ItemDisplay[NMAG (bsh OR xsh or ush) SOCK=0]:%NAME%%NL%%RED%Shield Runeword Base%DOT-0A%%CONTINUE%//
+ItemDisplay[NMAG (bsh OR xsh or ush) SOCK=3 CLVL<50]:%NAME%%NL%%PURPLE%Ancients Pledge Base%MAP-0A%%CONTINUE%//
+ItemDisplay[NMAG (bsh OR xsh or ush) SOCK=3 CLVL<50]:%NAME%%NL%%PURPLE%Rhyme Base%MAP-0A%%CONTINUE%//
 ItemDisplay[UNI !ID]:%CODE%:%NAME%%PX-0A%//
 ItemDisplay[SET !ID]:%CODE%:%NAME%%PX-0A%//
 ItemDisplay[MAG !ID cm1]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
