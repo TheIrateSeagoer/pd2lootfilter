@@ -865,9 +865,9 @@ ItemDisplay[buc]:%NAME%{%NAME%%TAN% Block: 0 Defense: 4-6 Durability: 12 Sockets
 ItemDisplay[sml]:%NAME%{%NAME%%TAN% Block: 5 Defense: 8-10 Durability: 16 Sockets: 2}%CONTINUE%//
 ItemDisplay[lrg]:%NAME%{%NAME%%TAN% Block: 12 Defense: 12-14 Durability: 24 Sockets: 3}%CONTINUE%//
 ItemDisplay[kit]:%NAME%{%NAME%%TAN% Block: 8 Defense: 16-18 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[spk]:%NAME%{%NAME%%TAN% Block: 10 Defense: 15-25 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[spk]:%NAME%{%NAME%%TAN% Block: 10 Defense: 15-25 Durability: 40 Sockets: 2}%CONTINUE%//
 ItemDisplay[tow]:%NAME%{%NAME%%TAN% Block: 24 Defense: 22-25 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[bsh]:%NAME%{%NAME%%TAN% Block: 20 Defense: 10-30 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[bsh]:%NAME%{%NAME%%TAN% Block: 20 Defense: 10-30 Durability: 40 Sockets: 2}%CONTINUE%//
 ItemDisplay[gts]:%NAME%{%NAME%%TAN% Block: 16 Defense: 30-35 Durability: 40 Sockets: 3}%CONTINUE%//
 ItemDisplay[lgl]:%NAME%{%NAME%%TAN% Defense: 2-3 Durability: 12}%CONTINUE%//
 ItemDisplay[vgl]:%NAME%{%NAME%%TAN% Defense: 5-6 Durability: 14}%CONTINUE%//
