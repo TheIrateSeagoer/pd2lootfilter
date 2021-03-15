@@ -2896,8 +2896,8 @@ ItemDisplay[!SUP !ETH SOCK=0 NMAG CHEST NORM DIFF>0]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG CHEST EXC DIFF>1]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG HELM NORM DIFF>0]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG HELM EXC DIFF>1]://
-ItemDisplay[!SUP !ETH SOCK=0 NMAG SHIELD NORM DIFF>0]://
-ItemDisplay[!SUP !ETH SOCK=0 NMAG SHIELD EXC DIFF>1]://
+ItemDisplay[!SUP !ETH SOCK=0 NMAG !DIN SHIELD NORM DIFF>0]://
+ItemDisplay[!SUP !ETH SOCK=0 NMAG !DIN SHIELD EXC DIFF>1]://
 ItemDisplay[NMAG (ktr OR wrb OR axf OR ces OR clw OR btl OR skr) CLVL>19]://
 ItemDisplay[NMAG (9ar OR 9wb OR 9xf) CLVL>19]://
 ItemDisplay[SUP SOCK=0 ED=0 CLVL>19]://
