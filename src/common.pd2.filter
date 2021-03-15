@@ -1,56 +1,56 @@
 ///// Flawless Gems /////
-ItemDisplay[gzvs]:%ORANGE%Flawless Amethyst Stack%PX-0A%//
-ItemDisplay[glys]:%ORANGE%Flawless Topaz Stack%PX-0A%//
-ItemDisplay[glbs]:%ORANGE%Flawless Sapphire Stack%PX-0A%//
-ItemDisplay[glgs]:%ORANGE%Flawless Emerald Stack%PX-0A%//
-ItemDisplay[glrs]:%ORANGE%Flawless Ruby Stack%PX-0A%//
-ItemDisplay[glws]:%ORANGE%Flawless Diamond Stack%PX-0A%//
-ItemDisplay[skls]:%ORANGE%Flawless Skull Stack%PX-0A%//
+ItemDisplay[gzvs]:%ORANGE%Flawless Amethyst Stack%NL%ooo%PX-0A%//
+ItemDisplay[glys]:%ORANGE%Flawless Topaz Stack%NL%ooo%PX-0A%//
+ItemDisplay[glbs]:%ORANGE%Flawless Sapphire Stack%NL%ooo%PX-0A%//
+ItemDisplay[glgs]:%ORANGE%Flawless Emerald Stack%NL%ooo%PX-0A%//
+ItemDisplay[glrs]:%ORANGE%Flawless Ruby Stack%NL%ooo%PX-0A%//
+ItemDisplay[glws]:%ORANGE%Flawless Diamond Stack%NL%ooo%PX-0A%//
+ItemDisplay[skls]:%ORANGE%Flawless Skull Stack%NL%ooo%PX-0A%//
 
 ///// Perfect Gems /////
-ItemDisplay[gpvs]:%ORANGE%Perfect Amethyst Stack%PX-0A%//
-ItemDisplay[gpys]:%ORANGE%Perfect Topaz Stack%PX-0A%//
-ItemDisplay[gpbs]:%ORANGE%Perfect Sapphire Stack%PX-0A%//
-ItemDisplay[gpgs]:%ORANGE%Perfect Emerald Stack%PX-0A%//
-ItemDisplay[gprs]:%ORANGE%Perfect Ruby Stack%PX-0A%//
-ItemDisplay[gpws]:%ORANGE%Perfect Diamond Stack%PX-0A%//
-ItemDisplay[skzs]:%ORANGE%Perfect Skull Stack%PX-0A%//
+ItemDisplay[gpvs]:%ORANGE%Perfect Amethyst Stack%NL%ooo%PX-0A%//
+ItemDisplay[gpys]:%ORANGE%Perfect Topaz Stack%NL%ooo%PX-0A%//
+ItemDisplay[gpbs]:%ORANGE%Perfect Sapphire Stack%NL%ooo%PX-0A%//
+ItemDisplay[gpgs]:%ORANGE%Perfect Emerald Stack%NL%ooo%PX-0A%//
+ItemDisplay[gprs]:%ORANGE%Perfect Ruby Stack%NL%ooo%PX-0A%//
+ItemDisplay[gpws]:%ORANGE%Perfect Diamond Stack%NL%ooo%PX-0A%//
+ItemDisplay[skzs]:%ORANGE%Perfect Skull Stack%NL%ooo%PX-0A%//
 
 ///// Normal Runes /////
-ItemDisplay[r01s]:%ORANGE%El Stack{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
-ItemDisplay[r02s]:%ORANGE%Eld Stack{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
-ItemDisplay[r03s]:%ORANGE%Tir Stack{%NAME%%TAN%Rune Number:  3}%DOT-0A%//
-ItemDisplay[r04s]:%ORANGE%Nef Stack{%NAME%%TAN%Rune Number:  4}%DOT-0A%//
-ItemDisplay[r05s]:%ORANGE%Eth Stack{%NAME%%TAN%Rune Number:  5}%DOT-0A%//
-ItemDisplay[r06s]:%ORANGE%Ith Stack{%NAME%%TAN%Rune Number:  6}%DOT-0A%//
-ItemDisplay[r07s]:%ORANGE%Tal Stack{%NAME%%TAN%Rune Number:  7}%DOT-0A%//
-ItemDisplay[r08s]:%ORANGE%Ral Stack{%NAME%%TAN%Rune Number:  8}%DOT-0A%//
-ItemDisplay[r09s]:%ORANGE%Ort Stack{%NAME%%TAN%Rune Number:  9}%DOT-0A%//
-ItemDisplay[r10s]:%ORANGE%Thul Stack{%NAME%%TAN%Rune Number: 10}%DOT-0A%//
-ItemDisplay[r11s]:%ORANGE%Amn Stack{%NAME%%TAN%Rune Number: 11}%DOT-0A%//
-ItemDisplay[r12s]:%ORANGE%Sol Stack{%NAME%%TAN%Rune Number: 12}%DOT-0A%//
-ItemDisplay[r13s]:%ORANGE%Shael Stack{%NAME%%TAN%Rune Number: 13}%DOT-0A%//
-ItemDisplay[r14s]:%ORANGE%Dol Stack{%NAME%%TAN%Rune Number: 14}%DOT-0A%//
+ItemDisplay[r01s]:%ORANGE%El Stack%NL%ooo{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
+ItemDisplay[r02s]:%ORANGE%Eld Stack%NL%ooo{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
+ItemDisplay[r03s]:%ORANGE%Tir Stack%NL%ooo{%NAME%%TAN%Rune Number:  3}%DOT-0A%//
+ItemDisplay[r04s]:%ORANGE%Nef Stack%NL%ooo{%NAME%%TAN%Rune Number:  4}%DOT-0A%//
+ItemDisplay[r05s]:%ORANGE%Eth Stack%NL%ooo{%NAME%%TAN%Rune Number:  5}%DOT-0A%//
+ItemDisplay[r06s]:%ORANGE%Ith Stack%NL%ooo{%NAME%%TAN%Rune Number:  6}%DOT-0A%//
+ItemDisplay[r07s]:%ORANGE%Tal Stack%NL%ooo{%NAME%%TAN%Rune Number:  7}%DOT-0A%//
+ItemDisplay[r08s]:%ORANGE%Ral Stack%NL%ooo{%NAME%%TAN%Rune Number:  8}%DOT-0A%//
+ItemDisplay[r09s]:%ORANGE%Ort Stack%NL%ooo{%NAME%%TAN%Rune Number:  9}%DOT-0A%//
+ItemDisplay[r10s]:%ORANGE%Thul Stack%NL%ooo{%NAME%%TAN%Rune Number: 10}%DOT-0A%//
+ItemDisplay[r11s]:%ORANGE%Amn Stack%NL%ooo{%NAME%%TAN%Rune Number: 11}%DOT-0A%//
+ItemDisplay[r12s]:%ORANGE%Sol Stack%NL%ooo{%NAME%%TAN%Rune Number: 12}%DOT-0A%//
+ItemDisplay[r13s]:%ORANGE%Shael Stack%NL%ooo{%NAME%%TAN%Rune Number: 13}%DOT-0A%//
+ItemDisplay[r14s]:%ORANGE%Dol Stack%NL%ooo{%NAME%%TAN%Rune Number: 14}%DOT-0A%//
 
 ///// Nightmare Runes /////
-ItemDisplay[r15s]:%RED%Hel Stack{%NAME%%TAN%Rune Number: 15}%MAP-0A%//
-ItemDisplay[r16s]:%RED%Io Stack{%NAME%%TAN%Rune Number: 16}%MAP-0A%//
-ItemDisplay[r17s]:%RED%Lum Stack{%NAME%%TAN%Rune Number: 17}%MAP-0A%//
-ItemDisplay[r18s]:%RED%Ko Stack{%NAME%%TAN%Rune Number: 18}%MAP-0A%//
-ItemDisplay[r19s]:%RED%Fal Stack{%NAME%%TAN%Rune Number: 19}%MAP-0A%//
-ItemDisplay[r20s]:%RED%Lem Stack{%NAME%%TAN%Rune Number: 20}%MAP-0A%//
-ItemDisplay[r21s]:%RED%Pul Stack{%NAME%%TAN%Rune Number: 21}%MAP-0A%//
-ItemDisplay[r22s]:%RED%Um Stack{%NAME%%TAN%Rune Number: 22}%MAP-0A%//
-ItemDisplay[r23s]:%RED%Mal Stack{%NAME%%TAN%Rune Number: 23}%MAP-0A%//
-ItemDisplay[r24s]:%RED%Ist Stack{%NAME%%TAN%Rune Number: 24}%MAP-0A%//
+ItemDisplay[r15s]:%RED%Hel Stack%NL%ooo{%NAME%%TAN%Rune Number: 15}%MAP-0A%//
+ItemDisplay[r16s]:%RED%Io Stack%NL%ooo{%NAME%%TAN%Rune Number: 16}%MAP-0A%//
+ItemDisplay[r17s]:%RED%Lum Stack%NL%ooo{%NAME%%TAN%Rune Number: 17}%MAP-0A%//
+ItemDisplay[r18s]:%RED%Ko Stack%NL%ooo{%NAME%%TAN%Rune Number: 18}%MAP-0A%//
+ItemDisplay[r19s]:%RED%Fal Stack%NL%ooo{%NAME%%TAN%Rune Number: 19}%MAP-0A%//
+ItemDisplay[r20s]:%RED%Lem Stack%NL%ooo{%NAME%%TAN%Rune Number: 20}%MAP-0A%//
+ItemDisplay[r21s]:%RED%Pul Stack%NL%ooo{%NAME%%TAN%Rune Number: 21}%MAP-0A%//
+ItemDisplay[r22s]:%RED%Um Stack%NL%ooo{%NAME%%TAN%Rune Number: 22}%MAP-0A%//
+ItemDisplay[r23s]:%RED%Mal Stack%NL%ooo{%NAME%%TAN%Rune Number: 23}%MAP-0A%//
+ItemDisplay[r24s]:%RED%Ist Stack%NL%ooo{%NAME%%TAN%Rune Number: 24}%MAP-0A%//
 
 ///// Hell Runes /////
-ItemDisplay[r25s]:%PURPLE%Gul Stack{%NAME%%TAN%Rune Number: 25}%BORDER-0A%//
-ItemDisplay[r26s]:%PURPLE%Vex Stack{%NAME%%TAN%Rune Number: 26}%BORDER-0A%//
-ItemDisplay[r27s]:%PURPLE%Ohm Stack{%NAME%%TAN%Rune Number: 27}%BORDER-0A%//
-ItemDisplay[r28s]:%PURPLE%Lo Stack{%NAME%%TAN%Rune Number: 28}%BORDER-0A%//
-ItemDisplay[r29s]:%PURPLE%Sur Stack{%NAME%%TAN%Rune Number: 29}%BORDER-0A%//
-ItemDisplay[r30s]:%PURPLE%Ber Stack{%NAME%%TAN%Rune Number: 30}%BORDER-0A%//
-ItemDisplay[r31s]:%PURPLE%Jah Stack{%NAME%%TAN%Rune Number: 31}%BORDER-0A%//
-ItemDisplay[r32s]:%PURPLE%Cham Stack{%NAME%%TAN%Rune Number: 32}%BORDER-0A%//
-ItemDisplay[r33s]:%PURPLE%Zod Stack{%NAME%%TAN%Rune Number: 33}%BORDER-0A%//
+ItemDisplay[r25s]:%PURPLE%Gul Stack%NL%ooo{%NAME%%TAN%Rune Number: 25}%BORDER-0A%//
+ItemDisplay[r26s]:%PURPLE%Vex Stack%NL%ooo{%NAME%%TAN%Rune Number: 26}%BORDER-0A%//
+ItemDisplay[r27s]:%PURPLE%Ohm Stack%NL%ooo{%NAME%%TAN%Rune Number: 27}%BORDER-0A%//
+ItemDisplay[r28s]:%PURPLE%Lo Stack%NL%ooo{%NAME%%TAN%Rune Number: 28}%BORDER-0A%//
+ItemDisplay[r29s]:%PURPLE%Sur Stack%NL%ooo{%NAME%%TAN%Rune Number: 29}%BORDER-0A%//
+ItemDisplay[r30s]:%PURPLE%Ber Stack%NL%ooo{%NAME%%TAN%Rune Number: 30}%BORDER-0A%//
+ItemDisplay[r31s]:%PURPLE%Jah Stack%NL%ooo{%NAME%%TAN%Rune Number: 31}%BORDER-0A%//
+ItemDisplay[r32s]:%PURPLE%Cham Stack%NL%ooo{%NAME%%TAN%Rune Number: 32}%BORDER-0A%//
+ItemDisplay[r33s]:%PURPLE%Zod Stack%NL%ooo{%NAME%%TAN%Rune Number: 33}%BORDER-0A%//

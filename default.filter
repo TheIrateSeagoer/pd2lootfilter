@@ -35,11 +35,11 @@ ItemDisplay[bet]:%NAME%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Terror%GRAY%
 ItemDisplay[fed]:%NAME%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Destruction%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Suffering%GRAY%)%NL%%TAN%Hell Baal}//
 ItemDisplay[toa]:%NAME%//
 ItemDisplay[t11 OR t12 OR t13]:[T1] %NAME%%CONTINUE%//
-ItemDisplay[t21 OR t22 OR t23 OR t24]:[T2] %NAME%%CONTINUE%//
-ItemDisplay[t31 OR t32 OR t33 OR t34 OR t35 OR t36]:[T3] %NAME%%CONTINUE%//
-ItemDisplay[t41 OR t42]:[T4] %NAME%%CONTINUE%//
-ItemDisplay[lbox]:%NAME%{%TAN%One-Handed: 1-2 Two-Handed: 1-4%NL%Helmet: 1-2 Chest: 1-2 Shield: 1-2}%BORDER-0A%//
-ItemDisplay[wss]:%NAME%{%TAN%Item: (Modifier: 50% Sockets: 25% Brick: 25%)%NL%Socketed Item: (Modifier: 75% Brick: 25%)%NL%Maps: (Modifier: 70% Brick: 30%)}%BORDER-0A%//
+ItemDisplay[t21 OR t22 OR t23]:[T2] %NAME%%CONTINUE%//
+ItemDisplay[t31 OR t32 OR t33 OR t34]:[T3] %NAME%%CONTINUE%//
+ItemDisplay[t41]:[T4] %NAME%%CONTINUE%//
+ItemDisplay[lbox]:%NAME%%NL%ooo{%TAN%One-Handed: 1-2 Two-Handed: 1-4%NL%Helmet: 1-2 Chest: 1-2 Shield: 1-2}%BORDER-0A%//
+ItemDisplay[wss]:%NAME%%NL%ooo{%TAN%Item: (Modifier: 50% Sockets: 25% Brick: 25%)%NL%Socketed Item: (Modifier: 75% Brick: 25%)%NL%Maps: (Modifier: 70% Brick: 30%)}%BORDER-0A%//
 ItemDisplay[imra]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Zakarum Orb%GRAY%+%BLUE%Jewel%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%WHITE%Map%GRAY%)}//
 ItemDisplay[imma]:%NAME%{%BLUE%Map%GRAY%: (%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%+%WHITE%Map%GRAY%)}//
 ItemDisplay[upma]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Angelic Orb%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%ORANGE%Perfect Skull%GRAY%+%BLUE%Map%GRAY%)}//
@@ -141,100 +141,100 @@ ItemDisplay[gsg]:%DARK_GREEN%Emerald%WHITE%//
 ItemDisplay[gsr]:%DARK_GREEN%Ruby%WHITE%//
 ItemDisplay[gsw]:%DARK_GREEN%Diamond%WHITE%//
 ItemDisplay[sku]:%DARK_GREEN%Skull%WHITE%//
-ItemDisplay[gzv]:%ORANGE%Flawless Amethyst%PX-0A%//
-ItemDisplay[gly]:%ORANGE%Flawless Topaz%PX-0A%//
-ItemDisplay[glb]:%ORANGE%Flawless Sapphire%PX-0A%//
-ItemDisplay[glg]:%ORANGE%Flawless Emerald%PX-0A%//
-ItemDisplay[glr]:%ORANGE%Flawless Ruby%PX-0A%//
-ItemDisplay[glw]:%ORANGE%Flawless Diamond%PX-0A%//
-ItemDisplay[skl]:%ORANGE%Flawless Skull%PX-0A%//
-ItemDisplay[gpv]:%ORANGE%Perfect Amethyst%PX-0A%//
-ItemDisplay[gpy]:%ORANGE%Perfect Topaz%PX-0A%//
-ItemDisplay[gpb]:%ORANGE%Perfect Sapphire%PX-0A%//
-ItemDisplay[gpg]:%ORANGE%Perfect Emerald%PX-0A%//
-ItemDisplay[gpr]:%ORANGE%Perfect Ruby%PX-0A%//
-ItemDisplay[gpw]:%ORANGE%Perfect Diamond%PX-0A%//
-ItemDisplay[skz]:%ORANGE%Perfect Skull%PX-0A%//
-ItemDisplay[r01]:%ORANGE%El Rune{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
-ItemDisplay[r02]:%ORANGE%Eld Rune{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
-ItemDisplay[r03]:%ORANGE%Tir Rune{%NAME%%TAN%Rune Number:  3}%DOT-0A%//
-ItemDisplay[r04]:%ORANGE%Nef Rune{%NAME%%TAN%Rune Number:  4}%DOT-0A%//
-ItemDisplay[r05]:%ORANGE%Eth Rune{%NAME%%TAN%Rune Number:  5}%DOT-0A%//
-ItemDisplay[r06]:%ORANGE%Ith Rune{%NAME%%TAN%Rune Number:  6}%DOT-0A%//
-ItemDisplay[r07]:%ORANGE%Tal Rune{%NAME%%TAN%Rune Number:  7}%DOT-0A%//
-ItemDisplay[r08]:%ORANGE%Ral Rune{%NAME%%TAN%Rune Number:  8}%DOT-0A%//
-ItemDisplay[r09]:%ORANGE%Ort Rune{%NAME%%TAN%Rune Number:  9}%DOT-0A%//
-ItemDisplay[r10]:%ORANGE%Thul Rune{%NAME%%TAN%Rune Number: 10}%DOT-0A%//
-ItemDisplay[r11]:%ORANGE%Amn Rune{%NAME%%TAN%Rune Number: 11}%DOT-0A%//
-ItemDisplay[r12]:%ORANGE%Sol Rune{%NAME%%TAN%Rune Number: 12}%DOT-0A%//
-ItemDisplay[r13]:%ORANGE%Shael Rune{%NAME%%TAN%Rune Number: 13}%DOT-0A%//
-ItemDisplay[r14]:%ORANGE%Dol Rune{%NAME%%TAN%Rune Number: 14}%DOT-0A%//
-ItemDisplay[r15]:%RED%Hel Rune{%NAME%%TAN%Rune Number: 15}%MAP-0A%//
-ItemDisplay[r16]:%RED%Io Rune{%NAME%%TAN%Rune Number: 16}%MAP-0A%//
-ItemDisplay[r17]:%RED%Lum Rune{%NAME%%TAN%Rune Number: 17}%MAP-0A%//
-ItemDisplay[r18]:%RED%Ko Rune{%NAME%%TAN%Rune Number: 18}%MAP-0A%//
-ItemDisplay[r19]:%RED%Fal Rune{%NAME%%TAN%Rune Number: 19}%MAP-0A%//
-ItemDisplay[r20]:%RED%Lem Rune{%NAME%%TAN%Rune Number: 20}%MAP-0A%//
-ItemDisplay[r21]:%RED%Pul Rune{%NAME%%TAN%Rune Number: 21}%MAP-0A%//
-ItemDisplay[r22]:%RED%Um Rune{%NAME%%TAN%Rune Number: 22}%MAP-0A%//
-ItemDisplay[r23]:%RED%Mal Rune{%NAME%%TAN%Rune Number: 23}%MAP-0A%//
-ItemDisplay[r24]:%RED%Ist Rune{%NAME%%TAN%Rune Number: 24}%MAP-0A%//
-ItemDisplay[r25]:%PURPLE%Gul Rune{%NAME%%TAN%Rune Number: 25}%BORDER-0A%//
-ItemDisplay[r26]:%PURPLE%Vex Rune{%NAME%%TAN%Rune Number: 26}%BORDER-0A%//
-ItemDisplay[r27]:%PURPLE%Ohm Rune{%NAME%%TAN%Rune Number: 27}%BORDER-0A%//
-ItemDisplay[r28]:%PURPLE%Lo Rune{%NAME%%TAN%Rune Number: 28}%BORDER-0A%//
-ItemDisplay[r29]:%PURPLE%Sur Rune{%NAME%%TAN%Rune Number: 29}%BORDER-0A%//
-ItemDisplay[r30]:%PURPLE%Ber Rune{%NAME%%TAN%Rune Number: 30}%BORDER-0A%//
-ItemDisplay[r31]:%PURPLE%Jah Rune{%NAME%%TAN%Rune Number: 31}%BORDER-0A%//
-ItemDisplay[r32]:%PURPLE%Cham Rune{%NAME%%TAN%Rune Number: 32}%BORDER-0A%//
-ItemDisplay[r33]:%PURPLE%Zod Rune{%NAME%%TAN%Rune Number: 33}%BORDER-0A%//
-ItemDisplay[gzvs]:%ORANGE%Flawless Amethyst Stack%PX-0A%//
-ItemDisplay[glys]:%ORANGE%Flawless Topaz Stack%PX-0A%//
-ItemDisplay[glbs]:%ORANGE%Flawless Sapphire Stack%PX-0A%//
-ItemDisplay[glgs]:%ORANGE%Flawless Emerald Stack%PX-0A%//
-ItemDisplay[glrs]:%ORANGE%Flawless Ruby Stack%PX-0A%//
-ItemDisplay[glws]:%ORANGE%Flawless Diamond Stack%PX-0A%//
-ItemDisplay[skls]:%ORANGE%Flawless Skull Stack%PX-0A%//
-ItemDisplay[gpvs]:%ORANGE%Perfect Amethyst Stack%PX-0A%//
-ItemDisplay[gpys]:%ORANGE%Perfect Topaz Stack%PX-0A%//
-ItemDisplay[gpbs]:%ORANGE%Perfect Sapphire Stack%PX-0A%//
-ItemDisplay[gpgs]:%ORANGE%Perfect Emerald Stack%PX-0A%//
-ItemDisplay[gprs]:%ORANGE%Perfect Ruby Stack%PX-0A%//
-ItemDisplay[gpws]:%ORANGE%Perfect Diamond Stack%PX-0A%//
-ItemDisplay[skzs]:%ORANGE%Perfect Skull Stack%PX-0A%//
-ItemDisplay[r01s]:%ORANGE%El Stack{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
-ItemDisplay[r02s]:%ORANGE%Eld Stack{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
-ItemDisplay[r03s]:%ORANGE%Tir Stack{%NAME%%TAN%Rune Number:  3}%DOT-0A%//
-ItemDisplay[r04s]:%ORANGE%Nef Stack{%NAME%%TAN%Rune Number:  4}%DOT-0A%//
-ItemDisplay[r05s]:%ORANGE%Eth Stack{%NAME%%TAN%Rune Number:  5}%DOT-0A%//
-ItemDisplay[r06s]:%ORANGE%Ith Stack{%NAME%%TAN%Rune Number:  6}%DOT-0A%//
-ItemDisplay[r07s]:%ORANGE%Tal Stack{%NAME%%TAN%Rune Number:  7}%DOT-0A%//
-ItemDisplay[r08s]:%ORANGE%Ral Stack{%NAME%%TAN%Rune Number:  8}%DOT-0A%//
-ItemDisplay[r09s]:%ORANGE%Ort Stack{%NAME%%TAN%Rune Number:  9}%DOT-0A%//
-ItemDisplay[r10s]:%ORANGE%Thul Stack{%NAME%%TAN%Rune Number: 10}%DOT-0A%//
-ItemDisplay[r11s]:%ORANGE%Amn Stack{%NAME%%TAN%Rune Number: 11}%DOT-0A%//
-ItemDisplay[r12s]:%ORANGE%Sol Stack{%NAME%%TAN%Rune Number: 12}%DOT-0A%//
-ItemDisplay[r13s]:%ORANGE%Shael Stack{%NAME%%TAN%Rune Number: 13}%DOT-0A%//
-ItemDisplay[r14s]:%ORANGE%Dol Stack{%NAME%%TAN%Rune Number: 14}%DOT-0A%//
-ItemDisplay[r15s]:%RED%Hel Stack{%NAME%%TAN%Rune Number: 15}%MAP-0A%//
-ItemDisplay[r16s]:%RED%Io Stack{%NAME%%TAN%Rune Number: 16}%MAP-0A%//
-ItemDisplay[r17s]:%RED%Lum Stack{%NAME%%TAN%Rune Number: 17}%MAP-0A%//
-ItemDisplay[r18s]:%RED%Ko Stack{%NAME%%TAN%Rune Number: 18}%MAP-0A%//
-ItemDisplay[r19s]:%RED%Fal Stack{%NAME%%TAN%Rune Number: 19}%MAP-0A%//
-ItemDisplay[r20s]:%RED%Lem Stack{%NAME%%TAN%Rune Number: 20}%MAP-0A%//
-ItemDisplay[r21s]:%RED%Pul Stack{%NAME%%TAN%Rune Number: 21}%MAP-0A%//
-ItemDisplay[r22s]:%RED%Um Stack{%NAME%%TAN%Rune Number: 22}%MAP-0A%//
-ItemDisplay[r23s]:%RED%Mal Stack{%NAME%%TAN%Rune Number: 23}%MAP-0A%//
-ItemDisplay[r24s]:%RED%Ist Stack{%NAME%%TAN%Rune Number: 24}%MAP-0A%//
-ItemDisplay[r25s]:%PURPLE%Gul Stack{%NAME%%TAN%Rune Number: 25}%BORDER-0A%//
-ItemDisplay[r26s]:%PURPLE%Vex Stack{%NAME%%TAN%Rune Number: 26}%BORDER-0A%//
-ItemDisplay[r27s]:%PURPLE%Ohm Stack{%NAME%%TAN%Rune Number: 27}%BORDER-0A%//
-ItemDisplay[r28s]:%PURPLE%Lo Stack{%NAME%%TAN%Rune Number: 28}%BORDER-0A%//
-ItemDisplay[r29s]:%PURPLE%Sur Stack{%NAME%%TAN%Rune Number: 29}%BORDER-0A%//
-ItemDisplay[r30s]:%PURPLE%Ber Stack{%NAME%%TAN%Rune Number: 30}%BORDER-0A%//
-ItemDisplay[r31s]:%PURPLE%Jah Stack{%NAME%%TAN%Rune Number: 31}%BORDER-0A%//
-ItemDisplay[r32s]:%PURPLE%Cham Stack{%NAME%%TAN%Rune Number: 32}%BORDER-0A%//
-ItemDisplay[r33s]:%PURPLE%Zod Stack{%NAME%%TAN%Rune Number: 33}%BORDER-0A%//
+ItemDisplay[gzv]:%ORANGE%Flawless Amethyst%NL%ooo%PX-0A%//
+ItemDisplay[gly]:%ORANGE%Flawless Topaz%NL%ooo%PX-0A%//
+ItemDisplay[glb]:%ORANGE%Flawless Sapphire%NL%ooo%PX-0A%//
+ItemDisplay[glg]:%ORANGE%Flawless Emerald%NL%ooo%PX-0A%//
+ItemDisplay[glr]:%ORANGE%Flawless Ruby%NL%ooo%PX-0A%//
+ItemDisplay[glw]:%ORANGE%Flawless Diamond%NL%ooo%PX-0A%//
+ItemDisplay[skl]:%ORANGE%Flawless Skull%NL%ooo%PX-0A%//
+ItemDisplay[gpv]:%ORANGE%Perfect Amethyst%NL%ooo%PX-0A%//
+ItemDisplay[gpy]:%ORANGE%Perfect Topaz%NL%ooo%PX-0A%//
+ItemDisplay[gpb]:%ORANGE%Perfect Sapphire%NL%ooo%PX-0A%//
+ItemDisplay[gpg]:%ORANGE%Perfect Emerald%NL%ooo%PX-0A%//
+ItemDisplay[gpr]:%ORANGE%Perfect Ruby%NL%ooo%PX-0A%//
+ItemDisplay[gpw]:%ORANGE%Perfect Diamond%NL%ooo%PX-0A%//
+ItemDisplay[skz]:%ORANGE%Perfect Skull%NL%ooo%PX-0A%//
+ItemDisplay[r01]:%ORANGE%El Rune%NL%ooo{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
+ItemDisplay[r02]:%ORANGE%Eld Rune%NL%ooo{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
+ItemDisplay[r03]:%ORANGE%Tir Rune%NL%ooo{%NAME%%TAN%Rune Number:  3}%DOT-0A%//
+ItemDisplay[r04]:%ORANGE%Nef Rune%NL%ooo{%NAME%%TAN%Rune Number:  4}%DOT-0A%//
+ItemDisplay[r05]:%ORANGE%Eth Rune%NL%ooo{%NAME%%TAN%Rune Number:  5}%DOT-0A%//
+ItemDisplay[r06]:%ORANGE%Ith Rune%NL%ooo{%NAME%%TAN%Rune Number:  6}%DOT-0A%//
+ItemDisplay[r07]:%ORANGE%Tal Rune%NL%ooo{%NAME%%TAN%Rune Number:  7}%DOT-0A%//
+ItemDisplay[r08]:%ORANGE%Ral Rune%NL%ooo{%NAME%%TAN%Rune Number:  8}%DOT-0A%//
+ItemDisplay[r09]:%ORANGE%Ort Rune%NL%ooo{%NAME%%TAN%Rune Number:  9}%DOT-0A%//
+ItemDisplay[r10]:%ORANGE%Thul Rune%NL%ooo{%NAME%%TAN%Rune Number: 10}%DOT-0A%//
+ItemDisplay[r11]:%ORANGE%Amn Rune%NL%ooo{%NAME%%TAN%Rune Number: 11}%DOT-0A%//
+ItemDisplay[r12]:%ORANGE%Sol Rune%NL%ooo{%NAME%%TAN%Rune Number: 12}%DOT-0A%//
+ItemDisplay[r13]:%ORANGE%Shael Rune%NL%ooo{%NAME%%TAN%Rune Number: 13}%DOT-0A%//
+ItemDisplay[r14]:%ORANGE%Dol Rune%NL%ooo{%NAME%%TAN%Rune Number: 14}%DOT-0A%//
+ItemDisplay[r15]:%RED%Hel Rune%NL%ooo{%NAME%%TAN%Rune Number: 15}%MAP-0A%//
+ItemDisplay[r16]:%RED%Io Rune%NL%ooo{%NAME%%TAN%Rune Number: 16}%MAP-0A%//
+ItemDisplay[r17]:%RED%Lum Rune%NL%ooo{%NAME%%TAN%Rune Number: 17}%MAP-0A%//
+ItemDisplay[r18]:%RED%Ko Rune%NL%ooo{%NAME%%TAN%Rune Number: 18}%MAP-0A%//
+ItemDisplay[r19]:%RED%Fal Rune%NL%ooo{%NAME%%TAN%Rune Number: 19}%MAP-0A%//
+ItemDisplay[r20]:%RED%Lem Rune%NL%ooo{%NAME%%TAN%Rune Number: 20}%MAP-0A%//
+ItemDisplay[r21]:%RED%Pul Rune%NL%ooo{%NAME%%TAN%Rune Number: 21}%MAP-0A%//
+ItemDisplay[r22]:%RED%Um Rune%NL%ooo{%NAME%%TAN%Rune Number: 22}%MAP-0A%//
+ItemDisplay[r23]:%RED%Mal Rune%NL%ooo{%NAME%%TAN%Rune Number: 23}%MAP-0A%//
+ItemDisplay[r24]:%RED%Ist Rune%NL%ooo{%NAME%%TAN%Rune Number: 24}%MAP-0A%//
+ItemDisplay[r25]:%PURPLE%Gul Rune%NL%ooo{%NAME%%TAN%Rune Number: 25}%BORDER-0A%//
+ItemDisplay[r26]:%PURPLE%Vex Rune%NL%ooo{%NAME%%TAN%Rune Number: 26}%BORDER-0A%//
+ItemDisplay[r27]:%PURPLE%Ohm Rune%NL%ooo{%NAME%%TAN%Rune Number: 27}%BORDER-0A%//
+ItemDisplay[r28]:%PURPLE%Lo Rune%NL%ooo{%NAME%%TAN%Rune Number: 28}%BORDER-0A%//
+ItemDisplay[r29]:%PURPLE%Sur Rune%NL%ooo{%NAME%%TAN%Rune Number: 29}%BORDER-0A%//
+ItemDisplay[r30]:%PURPLE%Ber Rune%NL%ooo{%NAME%%TAN%Rune Number: 30}%BORDER-0A%//
+ItemDisplay[r31]:%PURPLE%Jah Rune%NL%ooo{%NAME%%TAN%Rune Number: 31}%BORDER-0A%//
+ItemDisplay[r32]:%PURPLE%Cham Rune%NL%ooo{%NAME%%TAN%Rune Number: 32}%BORDER-0A%//
+ItemDisplay[r33]:%PURPLE%Zod Rune%NL%ooo{%NAME%%TAN%Rune Number: 33}%BORDER-0A%//
+ItemDisplay[gzvs]:%ORANGE%Flawless Amethyst Stack%NL%ooo%PX-0A%//
+ItemDisplay[glys]:%ORANGE%Flawless Topaz Stack%NL%ooo%PX-0A%//
+ItemDisplay[glbs]:%ORANGE%Flawless Sapphire Stack%NL%ooo%PX-0A%//
+ItemDisplay[glgs]:%ORANGE%Flawless Emerald Stack%NL%ooo%PX-0A%//
+ItemDisplay[glrs]:%ORANGE%Flawless Ruby Stack%NL%ooo%PX-0A%//
+ItemDisplay[glws]:%ORANGE%Flawless Diamond Stack%NL%ooo%PX-0A%//
+ItemDisplay[skls]:%ORANGE%Flawless Skull Stack%NL%ooo%PX-0A%//
+ItemDisplay[gpvs]:%ORANGE%Perfect Amethyst Stack%NL%ooo%PX-0A%//
+ItemDisplay[gpys]:%ORANGE%Perfect Topaz Stack%NL%ooo%PX-0A%//
+ItemDisplay[gpbs]:%ORANGE%Perfect Sapphire Stack%NL%ooo%PX-0A%//
+ItemDisplay[gpgs]:%ORANGE%Perfect Emerald Stack%NL%ooo%PX-0A%//
+ItemDisplay[gprs]:%ORANGE%Perfect Ruby Stack%NL%ooo%PX-0A%//
+ItemDisplay[gpws]:%ORANGE%Perfect Diamond Stack%NL%ooo%PX-0A%//
+ItemDisplay[skzs]:%ORANGE%Perfect Skull Stack%NL%ooo%PX-0A%//
+ItemDisplay[r01s]:%ORANGE%El Stack%NL%ooo{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
+ItemDisplay[r02s]:%ORANGE%Eld Stack%NL%ooo{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
+ItemDisplay[r03s]:%ORANGE%Tir Stack%NL%ooo{%NAME%%TAN%Rune Number:  3}%DOT-0A%//
+ItemDisplay[r04s]:%ORANGE%Nef Stack%NL%ooo{%NAME%%TAN%Rune Number:  4}%DOT-0A%//
+ItemDisplay[r05s]:%ORANGE%Eth Stack%NL%ooo{%NAME%%TAN%Rune Number:  5}%DOT-0A%//
+ItemDisplay[r06s]:%ORANGE%Ith Stack%NL%ooo{%NAME%%TAN%Rune Number:  6}%DOT-0A%//
+ItemDisplay[r07s]:%ORANGE%Tal Stack%NL%ooo{%NAME%%TAN%Rune Number:  7}%DOT-0A%//
+ItemDisplay[r08s]:%ORANGE%Ral Stack%NL%ooo{%NAME%%TAN%Rune Number:  8}%DOT-0A%//
+ItemDisplay[r09s]:%ORANGE%Ort Stack%NL%ooo{%NAME%%TAN%Rune Number:  9}%DOT-0A%//
+ItemDisplay[r10s]:%ORANGE%Thul Stack%NL%ooo{%NAME%%TAN%Rune Number: 10}%DOT-0A%//
+ItemDisplay[r11s]:%ORANGE%Amn Stack%NL%ooo{%NAME%%TAN%Rune Number: 11}%DOT-0A%//
+ItemDisplay[r12s]:%ORANGE%Sol Stack%NL%ooo{%NAME%%TAN%Rune Number: 12}%DOT-0A%//
+ItemDisplay[r13s]:%ORANGE%Shael Stack%NL%ooo{%NAME%%TAN%Rune Number: 13}%DOT-0A%//
+ItemDisplay[r14s]:%ORANGE%Dol Stack%NL%ooo{%NAME%%TAN%Rune Number: 14}%DOT-0A%//
+ItemDisplay[r15s]:%RED%Hel Stack%NL%ooo{%NAME%%TAN%Rune Number: 15}%MAP-0A%//
+ItemDisplay[r16s]:%RED%Io Stack%NL%ooo{%NAME%%TAN%Rune Number: 16}%MAP-0A%//
+ItemDisplay[r17s]:%RED%Lum Stack%NL%ooo{%NAME%%TAN%Rune Number: 17}%MAP-0A%//
+ItemDisplay[r18s]:%RED%Ko Stack%NL%ooo{%NAME%%TAN%Rune Number: 18}%MAP-0A%//
+ItemDisplay[r19s]:%RED%Fal Stack%NL%ooo{%NAME%%TAN%Rune Number: 19}%MAP-0A%//
+ItemDisplay[r20s]:%RED%Lem Stack%NL%ooo{%NAME%%TAN%Rune Number: 20}%MAP-0A%//
+ItemDisplay[r21s]:%RED%Pul Stack%NL%ooo{%NAME%%TAN%Rune Number: 21}%MAP-0A%//
+ItemDisplay[r22s]:%RED%Um Stack%NL%ooo{%NAME%%TAN%Rune Number: 22}%MAP-0A%//
+ItemDisplay[r23s]:%RED%Mal Stack%NL%ooo{%NAME%%TAN%Rune Number: 23}%MAP-0A%//
+ItemDisplay[r24s]:%RED%Ist Stack%NL%ooo{%NAME%%TAN%Rune Number: 24}%MAP-0A%//
+ItemDisplay[r25s]:%PURPLE%Gul Stack%NL%ooo{%NAME%%TAN%Rune Number: 25}%BORDER-0A%//
+ItemDisplay[r26s]:%PURPLE%Vex Stack%NL%ooo{%NAME%%TAN%Rune Number: 26}%BORDER-0A%//
+ItemDisplay[r27s]:%PURPLE%Ohm Stack%NL%ooo{%NAME%%TAN%Rune Number: 27}%BORDER-0A%//
+ItemDisplay[r28s]:%PURPLE%Lo Stack%NL%ooo{%NAME%%TAN%Rune Number: 28}%BORDER-0A%//
+ItemDisplay[r29s]:%PURPLE%Sur Stack%NL%ooo{%NAME%%TAN%Rune Number: 29}%BORDER-0A%//
+ItemDisplay[r30s]:%PURPLE%Ber Stack%NL%ooo{%NAME%%TAN%Rune Number: 30}%BORDER-0A%//
+ItemDisplay[r31s]:%PURPLE%Jah Stack%NL%ooo{%NAME%%TAN%Rune Number: 31}%BORDER-0A%//
+ItemDisplay[r32s]:%PURPLE%Cham Stack%NL%ooo{%NAME%%TAN%Rune Number: 32}%BORDER-0A%//
+ItemDisplay[r33s]:%PURPLE%Zod Stack%NL%ooo{%NAME%%TAN%Rune Number: 33}%BORDER-0A%//
 ItemDisplay[SUP WEAPON AR=0]:%GRAY%/%GRAY%0%GRAY%] %NAME%%CONTINUE%//
 ItemDisplay[SUP WEAPON AR=1]:%GRAY%/%RED%1%GRAY%] %NAME%%CONTINUE%//
 ItemDisplay[SUP WEAPON AR=2]:%GRAY%/%RED%2%GRAY%] %NAME%%CONTINUE%//
@@ -721,14 +721,773 @@ ItemDisplay[ETH SUP uth DEF>840 DEF<934]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
 ItemDisplay[ETH SUP uul DEF>865 DEF<962]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
 ItemDisplay[ETH SUP uar DEF>932 DEF<1036]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
 ItemDisplay[!RW !UNI PRICE>4999]:%NAME% %DARK_GREEN%$%CONTINUE%//
-ItemDisplay[!RW !UNI PRICE>9999]:%NAME%%DARK_GREEN%$%CONTINUE%//
-ItemDisplay[!RW !UNI PRICE>14999]:%NAME%%DARK_GREEN%$%CONTINUE%//
-ItemDisplay[!RW !UNI PRICE>19999]:%NAME%%DARK_GREEN%$%CONTINUE%//
-ItemDisplay[!RW !UNI PRICE>24999]:%NAME%%DARK_GREEN%$%CONTINUE%//
-ItemDisplay[!RW !UNI PRICE>29999]:%NAME%%DARK_GREEN%$%CONTINUE%//
-ItemDisplay[!RW !UNI PRICE>34999]:%NAME%%DARK_GREEN%$%CONTINUE%//
+ItemDisplay[!RW !UNI PRICE>9999]:%NAME%$%CONTINUE%//
+ItemDisplay[!RW !UNI PRICE>14999]:%NAME%$%CONTINUE%//
+ItemDisplay[!RW !UNI PRICE>19999]:%NAME%$%CONTINUE%//
+ItemDisplay[!RW !UNI PRICE>24999]:%NAME%$%CONTINUE%//
+ItemDisplay[!RW !UNI PRICE>29999]:%NAME%$%CONTINUE%//
+ItemDisplay[!RW !UNI PRICE>34999]:%NAME%$%CONTINUE%//
 ItemDisplay[MAG SOCK>1]:%NAME%%NL%%RED%NOT A RUNEWORD CANDIDATE%BLUE%%CONTINUE%//
 ItemDisplay[RARE SOCK>1]:%NAME%%NL%%RED%NOT A RUNEWORD CANDIDATE%YELLOW%%CONTINUE%//
+ItemDisplay[TABSK0=3]:%NAME%%NL%%PURPLE%+3 Bow and Crossbow%CONTINUE%//
+ItemDisplay[TABSK0=2]:%NAME%%NL%%RED%+2 Bow and Crossbow%CONTINUE%//
+ItemDisplay[TABSK0=1]:%NAME%%NL%%GREEN%+1 Bow and Crossbow%CONTINUE%//
+ItemDisplay[TABSK1=3]:%NAME%%NL%%PURPLE%+3 Passive and Magic%CONTINUE%//
+ItemDisplay[TABSK1=2]:%NAME%%NL%%RED%+2 Passive and Magic%CONTINUE%//
+ItemDisplay[TABSK1=1]:%NAME%%NL%%GREEN%+1 Passive and Magic%CONTINUE%//
+ItemDisplay[TABSK2=3]:%NAME%%NL%%PURPLE%+3 Javelin and Spear%CONTINUE%//
+ItemDisplay[TABSK2=2]:%NAME%%NL%%RED%+2 Javelin and Spear%CONTINUE%//
+ItemDisplay[TABSK2=1]:%NAME%%NL%%GREEN%+1 Javelin and Spear%CONTINUE%//
+ItemDisplay[TABSK8=3]:%NAME%%NL%%PURPLE%+3 Fire%CONTINUE%//
+ItemDisplay[TABSK8=2]:%NAME%%NL%%RED%+2 Fire%CONTINUE%//
+ItemDisplay[TABSK8=1]:%NAME%%NL%%GREEN%+1 Fire%CONTINUE%//
+ItemDisplay[TABSK9=3]:%NAME%%NL%%PURPLE%+3 Lightning%CONTINUE%//
+ItemDisplay[TABSK9=2]:%NAME%%NL%%RED%+2 Lightning%CONTINUE%//
+ItemDisplay[TABSK9=1]:%NAME%%NL%%GREEN%+1 Lightning%CONTINUE%//
+ItemDisplay[TABSK10=3]:%NAME%%NL%%PURPLE%+3 Cold%CONTINUE%//
+ItemDisplay[TABSK10=2]:%NAME%%NL%%RED%+2 Cold%CONTINUE%//
+ItemDisplay[TABSK10=1]:%NAME%%NL%%GREEN%+1 Cold%CONTINUE%//
+ItemDisplay[TABSK16=3]:%NAME%%NL%%PURPLE%+3 Curses%CONTINUE%//
+ItemDisplay[TABSK16=2]:%NAME%%NL%%RED%+2 Curses%CONTINUE%//
+ItemDisplay[TABSK16=1]:%NAME%%NL%%GREEN%+1 Curses%CONTINUE%//
+ItemDisplay[TABSK17=3]:%NAME%%NL%%PURPLE%+3 Poison & Bone%CONTINUE%//
+ItemDisplay[TABSK17=2]:%NAME%%NL%%RED%+2 Poison & Bone%CONTINUE%//
+ItemDisplay[TABSK17=1]:%NAME%%NL%%GREEN%+1 Poison & Bone%CONTINUE%//
+ItemDisplay[TABSK18=3]:%NAME%%NL%%PURPLE%+3 Summoning%CONTINUE%//
+ItemDisplay[TABSK18=2]:%NAME%%NL%%RED%+2 Summoning%CONTINUE%//
+ItemDisplay[TABSK18=1]:%NAME%%NL%%GREEN%+1 Summoning%CONTINUE%//
+ItemDisplay[TABSK24=3]:%NAME%%NL%%PURPLE%+3 Combat%CONTINUE%//
+ItemDisplay[TABSK24=2]:%NAME%%NL%%RED%+2 Combat%CONTINUE%//
+ItemDisplay[TABSK24=1]:%NAME%%NL%%GREEN%+1 Combat%CONTINUE%//
+ItemDisplay[TABSK25=3]:%NAME%%NL%%PURPLE%+3 Offensive%CONTINUE%//
+ItemDisplay[TABSK25=2]:%NAME%%NL%%RED%+2 Offensive%CONTINUE%//
+ItemDisplay[TABSK25=1]:%NAME%%NL%%GREEN%+1 Offensive%CONTINUE%//
+ItemDisplay[TABSK26=3]:%NAME%%NL%%PURPLE%+3 Offensive%CONTINUE%//
+ItemDisplay[TABSK26=2]:%NAME%%NL%%RED%+2 Offensive%CONTINUE%//
+ItemDisplay[TABSK26=1]:%NAME%%NL%%GREEN%+1 Offensive%CONTINUE%//
+ItemDisplay[TABSK32=3]:%NAME%%NL%%PURPLE%+3 Combat Skills%CONTINUE%//
+ItemDisplay[TABSK32=2]:%NAME%%NL%%RED%+2 Combat Skills%CONTINUE%//
+ItemDisplay[TABSK32=1]:%NAME%%NL%%GREEN%+1 Combat Skills%CONTINUE%//
+ItemDisplay[TABSK33=3]:%NAME%%NL%%PURPLE%+3 Combat Masteries%CONTINUE%//
+ItemDisplay[TABSK33=2]:%NAME%%NL%%RED%+2 Combat Masteries%CONTINUE%//
+ItemDisplay[TABSK33=1]:%NAME%%NL%%GREEN%+1 Combat Masteries%CONTINUE%//
+ItemDisplay[TABSK34=3]:%NAME%%NL%%PURPLE%+3 Warcries%CONTINUE%//
+ItemDisplay[TABSK34=2]:%NAME%%NL%%RED%+2 Warcries%CONTINUE%//
+ItemDisplay[TABSK34=1]:%NAME%%NL%%GREEN%+1 Warcries%CONTINUE%//
+ItemDisplay[TABSK40=3]:%NAME%%NL%%PURPLE%+3 Summoning%CONTINUE%//
+ItemDisplay[TABSK40=2]:%NAME%%NL%%RED%+2 Summoning%CONTINUE%//
+ItemDisplay[TABSK40=1]:%NAME%%NL%%GREEN%+1 Summoning%CONTINUE%//
+ItemDisplay[TABSK41=3]:%NAME%%NL%%PURPLE%+3 Shape Shifting%CONTINUE%//
+ItemDisplay[TABSK41=2]:%NAME%%NL%%RED%+2 Shape Shifting%CONTINUE%//
+ItemDisplay[TABSK41=1]:%NAME%%NL%%GREEN%+1 Shape Shifting%CONTINUE%//
+ItemDisplay[TABSK42=3]:%NAME%%NL%%PURPLE%+3 Elemental%CONTINUE%//
+ItemDisplay[TABSK42=2]:%NAME%%NL%%RED%+2 Elemental%CONTINUE%//
+ItemDisplay[TABSK42=1]:%NAME%%NL%%GREEN%+1 Elemental%CONTINUE%//
+ItemDisplay[TABSK48=3]:%NAME%%NL%%PURPLE%+3 Traps%CONTINUE%//
+ItemDisplay[TABSK48=2]:%NAME%%NL%%RED%+2 Traps%CONTINUE%//
+ItemDisplay[TABSK48=1]:%NAME%%NL%%GREEN%+1 Traps%CONTINUE%//
+ItemDisplay[TABSK49=3]:%NAME%%NL%%PURPLE%+3 Shadow Disciplines%CONTINUE%//
+ItemDisplay[TABSK49=2]:%NAME%%NL%%RED%+2 Shadow Disciplines%CONTINUE%//
+ItemDisplay[TABSK49=1]:%NAME%%NL%%GREEN%+1 Shadow Disciplines%CONTINUE%//
+ItemDisplay[TABSK50=3]:%NAME%%NL%%PURPLE%+3 Martial Arts%CONTINUE%//
+ItemDisplay[TABSK50=2]:%NAME%%NL%%RED%+2 Martial Arts%CONTINUE%//
+ItemDisplay[TABSK50=1]:%NAME%%NL%%GREEN%+1 Martial Arts%CONTINUE%//
+ItemDisplay[ALLSK=3]:%NAME%%NL%%PURPLE%+3 All Skills%CONTINUE%//
+ItemDisplay[ALLSK=2]:%NAME%%NL%%RED%+2 All Skills%CONTINUE%//
+ItemDisplay[ALLSK=1]:%NAME%%NL%%GREEN%+1 All Skills%CONTINUE%//
+ItemDisplay[CLSK0=3]:%NAME%%NL%%PURPLE%+3 Amazon Skills%CONTINUE%//
+ItemDisplay[CLSK0=2]:%NAME%%NL%%RED%+2 Amazon Skills%CONTINUE%//
+ItemDisplay[CLSK0=1]:%NAME%%NL%%GREEN%+1 Amazon Skills%CONTINUE%//
+ItemDisplay[CLSK1=3]:%NAME%%NL%%PURPLE%+3 Sorceress Skills%CONTINUE%//
+ItemDisplay[CLSK1=2]:%NAME%%NL%%RED%+2 Sorceress Skills%CONTINUE%//
+ItemDisplay[CLSK1=1]:%NAME%%NL%%GREEN%+1 Sorceress Skills%CONTINUE%//
+ItemDisplay[CLSK2=3]:%NAME%%NL%%PURPLE%+3 Necromancer Skills%CONTINUE%//
+ItemDisplay[CLSK2=2]:%NAME%%NL%%RED%+2 Necromancer Skills%CONTINUE%//
+ItemDisplay[CLSK2=1]:%NAME%%NL%%GREEN%+1 Necromancer Skills%CONTINUE%//
+ItemDisplay[CLSK3=3]:%NAME%%NL%%PURPLE%+3 Paladin Skills%CONTINUE%//
+ItemDisplay[CLSK3=2]:%NAME%%NL%%RED%+2 Paladin Skills%CONTINUE%//
+ItemDisplay[CLSK3=1]:%NAME%%NL%%GREEN%+1 Paladin Skills%CONTINUE%//
+ItemDisplay[CLSK4=3]:%NAME%%NL%%PURPLE%+3 Barbarian Skills%CONTINUE%//
+ItemDisplay[CLSK4=2]:%NAME%%NL%%RED%+2 Barbarian Skills%CONTINUE%//
+ItemDisplay[CLSK4=1]:%NAME%%NL%%GREEN%+1 Barbarian Skills%CONTINUE%//
+ItemDisplay[CLSK5=3]:%NAME%%NL%%PURPLE%+3 Druid Skills%CONTINUE%//
+ItemDisplay[CLSK5=2]:%NAME%%NL%%RED%+2 Druid Skills%CONTINUE%//
+ItemDisplay[CLSK5=1]:%NAME%%NL%%GREEN%+1 Druid Skills%CONTINUE%//
+ItemDisplay[CLSK6=3]:%NAME%%NL%%PURPLE%+3 Assassin Skills%CONTINUE%//
+ItemDisplay[CLSK6=2]:%NAME%%NL%%RED%+2 Assassin Skills%CONTINUE%//
+ItemDisplay[CLSK6=1]:%NAME%%NL%%GREEN%+1 Assassin Skills%CONTINUE%//
+ItemDisplay[(SK06>0 OR SK07>0 OR SK08>0 OR SK09>0 OR SK10>0 OR SK11>0 OR SK12>0 OR SK13>0 OR SK14>0 OR SK15>0 OR SK16>0 OR SK17>0 OR SK18>0 OR SK19>0 OR SK20>0 OR SK21>0 OR SK22>0 OR SK23>0 OR SK24>0 OR SK25>0 OR SK26>0 OR SK27>0 OR SK28>0 OR SK29>0 OR SK30>0 OR SK31>0 OR SK32>0 OR SK33>0 OR SK34>0 OR SK35>0)]:%NAME%%NL%%DARK_GREEN%%CONTINUE%//
+ItemDisplay[(SK36>0 OR SK37>0 OR SK38>0 OR SK39>0 OR SK40>0 OR SK41>0 OR SK42>0 OR SK43>0 OR SK44>0 OR SK45>0 OR SK46>0 OR SK47>0 OR SK48>0 OR SK49>0 OR SK50>0 OR SK51>0 OR SK52>0 OR SK53>0 OR SK54>0 OR SK55>0 OR SK56>0 OR SK57>0 OR SK58>0 OR SK59>0 OR SK60>0 OR SK61>0 OR SK62>0 OR SK63>0 OR SK64>0 OR SK65>0 OR SK369>0 OR SK383>0 OR SK376>0)]:%NAME%%NL%%DARK_GREEN%%CONTINUE%//
+ItemDisplay[(SK66>0 OR SK67>0 OR SK68>0 OR SK69>0 OR SK70>0 OR SK71>0 OR SK72>0 OR SK73>0 OR SK74>0 OR SK75>0 OR SK76>0 OR SK77>0 OR SK78>0 OR SK79>0 OR SK80>0 OR SK81>0 OR SK82>0 OR SK83>0 OR SK84>0 OR SK85>0 OR SK86>0 OR SK87>0 OR SK88>0 OR SK89>0 OR SK90>0 OR SK91>0 OR SK92>0 OR SK93>0 OR SK94>0 OR SK95>0 OR SK367>0 OR SK381>0 OR SK374>0)]:%NAME%%NL%%DARK_GREEN%%CONTINUE%//
+ItemDisplay[(SK96>0 OR SK97>0 OR SK98>0 OR SK99>0 OR SK100>0 OR SK101>0 OR SK102>0 OR SK103>0 OR SK104>0 OR SK105>0 OR SK106>0 OR SK107>0 OR SK108>0 OR SK109>0 OR SK110>0 OR SK111>0 OR SK112>0 OR SK113>0 OR SK114>0 OR SK115>0 OR SK116>0 OR SK117>0 OR SK118>0 OR SK119>0 OR SK120>0 OR SK121>0 OR SK122>0 OR SK123>0 OR SK124>0 OR SK125>0 OR SK364>0 OR SK371>0 OR SK378>0)]:%NAME%%NL%%DARK_GREEN%%CONTINUE%//
+ItemDisplay[(SK126>0 OR SK127>0 OR SK128>0 OR SK129>0 OR SK130>0 OR SK131>0 OR SK132>0 OR SK133>0 OR SK134>0 OR SK135>0 OR SK136>0 OR SK137>0 OR SK138>0 OR SK139>0 OR SK140>0 OR SK141>0 OR SK142>0 OR SK143>0 OR SK144>0 OR SK145>0 OR SK146>0 OR SK147>0 OR SK148>0 OR SK149>0 OR SK150>0 OR SK151>0 OR SK152>0 OR SK153>0 OR SK154>0 OR SK155>0)]:%NAME%%NL%%DARK_GREEN%%CONTINUE%//
+ItemDisplay[(SK221>0 OR SK222>0 OR SK223>0 OR SK224>0 OR SK225>0 OR SK226>0 OR SK227>0 OR SK228>0 OR SK229>0 OR SK230>0 OR SK231>0 OR SK232>0 OR SK233>0 OR SK234>0 OR SK235>0 OR SK236>0 OR SK237>0 OR SK238>0 OR SK239>0 OR SK240>0 OR SK241>0 OR SK242>0 OR SK243>0 OR SK244>0 OR SK245>0 OR SK246>0 OR SK247>0 OR SK248>0 OR SK249>0 OR SK250>0 OR SK370>0)]:%NAME%%NL%%DARK_GREEN%%CONTINUE%//
+ItemDisplay[(SK251>0 OR SK252>0 OR SK253>0 OR SK254>0 OR SK255>0 OR SK256>0 OR SK257>0 OR SK258>0 OR SK259>0 OR SK260>0 OR SK261>0 OR SK262>0 OR SK263>0 OR SK264>0 OR SK265>0 OR SK266>0 OR SK267>0 OR SK268>0 OR SK269>0 OR SK270>0 OR SK271>0 OR SK272>0 OR SK273>0 OR SK274>0 OR SK275>0 OR SK276>0 OR SK277>0 OR SK278>0 OR SK279>0 OR SK280>0 OR SK366>0)]:%NAME%%NL%%DARK_GREEN%%CONTINUE%//
+ItemDisplay[SK06=3]:%NAME% +3 Magic Arrow%CONTINUE%//
+ItemDisplay[SK06=2]:%NAME% +2 Magic Arrow%CONTINUE%//
+ItemDisplay[SK06=1]:%NAME% +1 Magic Arrow%CONTINUE%//
+ItemDisplay[SK07=3]:%NAME% +3 Fire Arrow%CONTINUE%//
+ItemDisplay[SK07=2]:%NAME% +2 Fire Arrow%CONTINUE%//
+ItemDisplay[SK07=1]:%NAME% +1 Fire Arrow%CONTINUE%//
+ItemDisplay[SK08=3]:%NAME% +3 Inner Sight%CONTINUE%//
+ItemDisplay[SK08=2]:%NAME% +2 Inner Sight%CONTINUE%//
+ItemDisplay[SK08=1]:%NAME% +1 Inner Sight%CONTINUE%//
+ItemDisplay[SK09=3]:%NAME% +3 Critical Strike%CONTINUE%//
+ItemDisplay[SK09=2]:%NAME% +2 Critical Strike%CONTINUE%//
+ItemDisplay[SK09=1]:%NAME% +1 Critical Strike%CONTINUE%//
+ItemDisplay[SK10=3]:%NAME% +3 Jab%CONTINUE%//
+ItemDisplay[SK10=2]:%NAME% +2 Jab%CONTINUE%//
+ItemDisplay[SK10=1]:%NAME% +1 Jab%CONTINUE%//
+ItemDisplay[SK11=3]:%NAME% +3 Cold Arrow%CONTINUE%//
+ItemDisplay[SK11=2]:%NAME% +2 Cold Arrow%CONTINUE%//
+ItemDisplay[SK11=1]:%NAME% +1 Cold Arrow%CONTINUE%//
+ItemDisplay[SK12=3]:%NAME% +3 Multiple Shot%CONTINUE%//
+ItemDisplay[SK12=2]:%NAME% +2 Multiple Shot%CONTINUE%//
+ItemDisplay[SK12=1]:%NAME% +1 Multiple Shot%CONTINUE%//
+ItemDisplay[SK13=3]:%NAME% +3 Dodge%CONTINUE%//
+ItemDisplay[SK13=2]:%NAME% +2 Dodge%CONTINUE%//
+ItemDisplay[SK13=1]:%NAME% +1 Dodge%CONTINUE%//
+ItemDisplay[SK14=3]:%NAME% +3 Power Strike%CONTINUE%//
+ItemDisplay[SK14=2]:%NAME% +2 Power Strike%CONTINUE%//
+ItemDisplay[SK14=1]:%NAME% +1 Power Strike%CONTINUE%//
+ItemDisplay[SK15=3]:%NAME% +3 Poison Javelin%CONTINUE%//
+ItemDisplay[SK15=2]:%NAME% +2 Poison Javelin%CONTINUE%//
+ItemDisplay[SK15=1]:%NAME% +1 Poison Javelin%CONTINUE%//
+ItemDisplay[SK16=3]:%NAME% +3 Exploding Arrow%CONTINUE%//
+ItemDisplay[SK16=2]:%NAME% +2 Exploding Arrow%CONTINUE%//
+ItemDisplay[SK16=1]:%NAME% +1 Exploding Arrow%CONTINUE%//
+ItemDisplay[SK17=3]:%NAME% +3 Slow Movement%CONTINUE%//
+ItemDisplay[SK17=2]:%NAME% +2 Slow Movement%CONTINUE%//
+ItemDisplay[SK17=1]:%NAME% +1 Slow Movement%CONTINUE%//
+ItemDisplay[SK18=3]:%NAME% +3 Avoid%CONTINUE%//
+ItemDisplay[SK18=2]:%NAME% +2 Avoid%CONTINUE%//
+ItemDisplay[SK18=1]:%NAME% +1 Avoid%CONTINUE%//
+ItemDisplay[SK19=3]:%NAME% +3 Javelin and Spear Mastery%CONTINUE%//
+ItemDisplay[SK19=2]:%NAME% +2 Javelin and Spear Mastery%CONTINUE%//
+ItemDisplay[SK19=1]:%NAME% +1 Javelin and Spear Mastery%CONTINUE%//
+ItemDisplay[SK20=3]:%NAME% +3 Lightning Bolt%CONTINUE%//
+ItemDisplay[SK20=2]:%NAME% +2 Lightning Bolt%CONTINUE%//
+ItemDisplay[SK20=1]:%NAME% +1 Lightning Bolt%CONTINUE%//
+ItemDisplay[SK21=3]:%NAME% +3 Ice Arrow%CONTINUE%//
+ItemDisplay[SK21=2]:%NAME% +2 Ice Arrow%CONTINUE%//
+ItemDisplay[SK21=1]:%NAME% +1 Ice Arrow%CONTINUE%//
+ItemDisplay[SK22=3]:%NAME% +3 Guided Arrow%CONTINUE%//
+ItemDisplay[SK22=2]:%NAME% +2 Guided Arrow%CONTINUE%//
+ItemDisplay[SK22=1]:%NAME% +1 Guided Arrow%CONTINUE%//
+ItemDisplay[SK23=3]:%NAME% +3 Penetrate%CONTINUE%//
+ItemDisplay[SK23=2]:%NAME% +2 Penetrate%CONTINUE%//
+ItemDisplay[SK23=1]:%NAME% +1 Penetrate%CONTINUE%//
+ItemDisplay[SK24=3]:%NAME% +3 Charged Strike%CONTINUE%//
+ItemDisplay[SK24=2]:%NAME% +2 Charged Strike%CONTINUE%//
+ItemDisplay[SK24=1]:%NAME% +1 Charged Strike%CONTINUE%//
+ItemDisplay[SK25=3]:%NAME% +3 Plague Javelin%CONTINUE%//
+ItemDisplay[SK25=2]:%NAME% +2 Plague Javelin%CONTINUE%//
+ItemDisplay[SK25=1]:%NAME% +1 Plague Javelin%CONTINUE%//
+ItemDisplay[SK26=3]:%NAME% +3 Strafe%CONTINUE%//
+ItemDisplay[SK26=2]:%NAME% +2 Strafe%CONTINUE%//
+ItemDisplay[SK26=1]:%NAME% +1 Strafe%CONTINUE%//
+ItemDisplay[SK27=3]:%NAME% +3 Immolation Arrow%CONTINUE%//
+ItemDisplay[SK27=2]:%NAME% +2 Immolation Arrow%CONTINUE%//
+ItemDisplay[SK27=1]:%NAME% +1 Immolation Arrow%CONTINUE%//
+ItemDisplay[SK28=3]:%NAME% +3 Decoy%CONTINUE%//
+ItemDisplay[SK28=2]:%NAME% +2 Decoy%CONTINUE%//
+ItemDisplay[SK28=1]:%NAME% +1 Decoy%CONTINUE%//
+ItemDisplay[SK29=3]:%NAME% +3 Evade%CONTINUE%//
+ItemDisplay[SK29=2]:%NAME% +2 Evade%CONTINUE%//
+ItemDisplay[SK29=1]:%NAME% +1 Evade%CONTINUE%//
+ItemDisplay[SK30=3]:%NAME% +3 Fend%CONTINUE%//
+ItemDisplay[SK30=2]:%NAME% +2 Fend%CONTINUE%//
+ItemDisplay[SK30=1]:%NAME% +1 Fend%CONTINUE%//
+ItemDisplay[SK31=3]:%NAME% +3 Freezing Arrow%CONTINUE%//
+ItemDisplay[SK31=2]:%NAME% +2 Freezing Arrow%CONTINUE%//
+ItemDisplay[SK31=1]:%NAME% +1 Freezing Arrow%CONTINUE%//
+ItemDisplay[SK32=3]:%NAME% +3 Valkyrie%CONTINUE%//
+ItemDisplay[SK32=2]:%NAME% +2 Valkyrie%CONTINUE%//
+ItemDisplay[SK32=1]:%NAME% +1 Valkyrie%CONTINUE%//
+ItemDisplay[SK33=3]:%NAME% +3 Pierce%CONTINUE%//
+ItemDisplay[SK33=2]:%NAME% +2 Pierce%CONTINUE%//
+ItemDisplay[SK33=1]:%NAME% +1 Pierce%CONTINUE%//
+ItemDisplay[SK34=3]:%NAME% +3 Lightning Strike%CONTINUE%//
+ItemDisplay[SK34=2]:%NAME% +2 Lightning Strike%CONTINUE%//
+ItemDisplay[SK34=1]:%NAME% +1 Lightning Strike%CONTINUE%//
+ItemDisplay[SK35=3]:%NAME% +3 Lightning Fury%CONTINUE%//
+ItemDisplay[SK35=2]:%NAME% +2 Lightning Fury%CONTINUE%//
+ItemDisplay[SK35=1]:%NAME% +1 Lightning Fury%CONTINUE%//
+ItemDisplay[SK36=3]:%NAME% +3 Fire Bolt%CONTINUE%//
+ItemDisplay[SK36=2]:%NAME% +2 Fire Bolt%CONTINUE%//
+ItemDisplay[SK36=1]:%NAME% +1 Fire Bolt%CONTINUE%//
+ItemDisplay[SK37=3]:%NAME% +3 Warmth%CONTINUE%//
+ItemDisplay[SK37=2]:%NAME% +2 Warmth%CONTINUE%//
+ItemDisplay[SK37=1]:%NAME% +1 Warmth%CONTINUE%//
+ItemDisplay[SK38=3]:%NAME% +3 Charged Bolt%CONTINUE%//
+ItemDisplay[SK38=2]:%NAME% +2 Charged Bolt%CONTINUE%//
+ItemDisplay[SK38=1]:%NAME% +1 Charged Bolt%CONTINUE%//
+ItemDisplay[SK39=3]:%NAME% +3 Ice Bolt%CONTINUE%//
+ItemDisplay[SK39=2]:%NAME% +2 Ice Bolt%CONTINUE%//
+ItemDisplay[SK39=1]:%NAME% +1 Ice Bolt%CONTINUE%//
+ItemDisplay[SK40=3]:%NAME% +3 Cold Enchant%CONTINUE%//
+ItemDisplay[SK40=2]:%NAME% +2 Cold Enchant%CONTINUE%//
+ItemDisplay[SK40=1]:%NAME% +1 Cold Enchant%CONTINUE%//
+ItemDisplay[SK41=3]:%NAME% +3 Inferno%CONTINUE%//
+ItemDisplay[SK41=2]:%NAME% +2 Inferno%CONTINUE%//
+ItemDisplay[SK41=1]:%NAME% +1 Inferno%CONTINUE%//
+ItemDisplay[SK42=3]:%NAME% +3 Static Field%CONTINUE%//
+ItemDisplay[SK42=2]:%NAME% +2 Static Field%CONTINUE%//
+ItemDisplay[SK42=1]:%NAME% +1 Static Field%CONTINUE%//
+ItemDisplay[SK43=3]:%NAME% +3 Telekinesis%CONTINUE%//
+ItemDisplay[SK43=2]:%NAME% +2 Telekinesis%CONTINUE%//
+ItemDisplay[SK43=1]:%NAME% +1 Telekinesis%CONTINUE%//
+ItemDisplay[SK44=3]:%NAME% +3 Frost Nova%CONTINUE%//
+ItemDisplay[SK44=2]:%NAME% +2 Frost Nova%CONTINUE%//
+ItemDisplay[SK44=1]:%NAME% +1 Frost Nova%CONTINUE%//
+ItemDisplay[SK45=3]:%NAME% +3 Ice Blast%CONTINUE%//
+ItemDisplay[SK45=2]:%NAME% +2 Ice Blast%CONTINUE%//
+ItemDisplay[SK45=1]:%NAME% +1 Ice Blast%CONTINUE%//
+ItemDisplay[SK46=3]:%NAME% +3 Blaze%CONTINUE%//
+ItemDisplay[SK46=2]:%NAME% +2 Blaze%CONTINUE%//
+ItemDisplay[SK46=1]:%NAME% +1 Blaze%CONTINUE%//
+ItemDisplay[SK47=3]:%NAME% +3 Fire Ball%CONTINUE%//
+ItemDisplay[SK47=2]:%NAME% +2 Fire Ball%CONTINUE%//
+ItemDisplay[SK47=1]:%NAME% +1 Fire Ball%CONTINUE%//
+ItemDisplay[SK48=3]:%NAME% +3 Nova%CONTINUE%//
+ItemDisplay[SK48=2]:%NAME% +2 Nova%CONTINUE%//
+ItemDisplay[SK48=1]:%NAME% +1 Nova%CONTINUE%//
+ItemDisplay[SK49=3]:%NAME% +3 Lightning%CONTINUE%//
+ItemDisplay[SK49=2]:%NAME% +2 Lightning%CONTINUE%//
+ItemDisplay[SK49=1]:%NAME% +1 Lightning%CONTINUE%//
+ItemDisplay[SK50=3]:%NAME% +3 Shiver Armor%CONTINUE%//
+ItemDisplay[SK50=2]:%NAME% +2 Shiver Armor%CONTINUE%//
+ItemDisplay[SK50=1]:%NAME% +1 Shiver Armor%CONTINUE%//
+ItemDisplay[SK51=3]:%NAME% +3 Fire Wall%CONTINUE%//
+ItemDisplay[SK51=2]:%NAME% +2 Fire Wall%CONTINUE%//
+ItemDisplay[SK51=1]:%NAME% +1 Fire Wall%CONTINUE%//
+ItemDisplay[SK52=3]:%NAME% +3 Enchant Fire%CONTINUE%//
+ItemDisplay[SK52=2]:%NAME% +2 Enchant Fire%CONTINUE%//
+ItemDisplay[SK52=1]:%NAME% +1 Enchant Fire%CONTINUE%//
+ItemDisplay[SK53=3]:%NAME% +3 Chain Lightning%CONTINUE%//
+ItemDisplay[SK53=2]:%NAME% +2 Chain Lightning%CONTINUE%//
+ItemDisplay[SK53=1]:%NAME% +1 Chain Lightning%CONTINUE%//
+ItemDisplay[SK54=3]:%NAME% +3 Teleport%CONTINUE%//
+ItemDisplay[SK54=2]:%NAME% +2 Teleport%CONTINUE%//
+ItemDisplay[SK54=1]:%NAME% +1 Teleport%CONTINUE%//
+ItemDisplay[SK55=3]:%NAME% +3 Glacial Spike%CONTINUE%//
+ItemDisplay[SK55=2]:%NAME% +2 Glacial Spike%CONTINUE%//
+ItemDisplay[SK55=1]:%NAME% +1 Glacial Spike%CONTINUE%//
+ItemDisplay[SK56=3]:%NAME% +3 Meteor%CONTINUE%//
+ItemDisplay[SK56=2]:%NAME% +2 Meteor%CONTINUE%//
+ItemDisplay[SK56=1]:%NAME% +1 Meteor%CONTINUE%//
+ItemDisplay[SK57=3]:%NAME% +3 Thunder Storm%CONTINUE%//
+ItemDisplay[SK57=2]:%NAME% +2 Thunder Storm%CONTINUE%//
+ItemDisplay[SK57=1]:%NAME% +1 Thunder Storm%CONTINUE%//
+ItemDisplay[SK58=3]:%NAME% +3 Energy Shield%CONTINUE%//
+ItemDisplay[SK58=2]:%NAME% +2 Energy Shield%CONTINUE%//
+ItemDisplay[SK58=1]:%NAME% +1 Energy Shield%CONTINUE%//
+ItemDisplay[SK59=3]:%NAME% +3 Blizzard%CONTINUE%//
+ItemDisplay[SK59=2]:%NAME% +2 Blizzard%CONTINUE%//
+ItemDisplay[SK59=1]:%NAME% +1 Blizzard%CONTINUE%//
+ItemDisplay[SK60=3]:%NAME% +3 Chilling Armor%CONTINUE%//
+ItemDisplay[SK60=2]:%NAME% +2 Chilling Armor%CONTINUE%//
+ItemDisplay[SK60=1]:%NAME% +1 Chilling Armor%CONTINUE%//
+ItemDisplay[SK61=3]:%NAME% +3 Fire Mastery%CONTINUE%//
+ItemDisplay[SK61=2]:%NAME% +2 Fire Mastery%CONTINUE%//
+ItemDisplay[SK61=1]:%NAME% +1 Fire Mastery%CONTINUE%//
+ItemDisplay[SK62=3]:%NAME% +3 Hydra%CONTINUE%//
+ItemDisplay[SK62=2]:%NAME% +2 Hydra%CONTINUE%//
+ItemDisplay[SK62=1]:%NAME% +1 Hydra%CONTINUE%//
+ItemDisplay[SK63=3]:%NAME% +3 Lightning Mastery%CONTINUE%//
+ItemDisplay[SK63=2]:%NAME% +2 Lightning Mastery%CONTINUE%//
+ItemDisplay[SK63=1]:%NAME% +1 Lightning Mastery%CONTINUE%//
+ItemDisplay[SK64=3]:%NAME% +3 Frozen Orb%CONTINUE%//
+ItemDisplay[SK64=2]:%NAME% +2 Frozen Orb%CONTINUE%//
+ItemDisplay[SK64=1]:%NAME% +1 Frozen Orb%CONTINUE%//
+ItemDisplay[SK65=3]:%NAME% +3 Cold Mastery%CONTINUE%//
+ItemDisplay[SK65=2]:%NAME% +2 Cold Mastery%CONTINUE%//
+ItemDisplay[SK65=1]:%NAME% +1 Cold Mastery%CONTINUE%//
+ItemDisplay[SK369=3]:%NAME% +3 Ice Barrage%CONTINUE%//
+ItemDisplay[SK369=2]:%NAME% +2 Ice Barrage%CONTINUE%//
+ItemDisplay[SK369=1]:%NAME% +1 Ice Barrage%CONTINUE%//
+ItemDisplay[SK383=3]:%NAME% +3 Lesser Hydra%CONTINUE%//
+ItemDisplay[SK383=2]:%NAME% +2 Lesser Hydra%CONTINUE%//
+ItemDisplay[SK383=1]:%NAME% +1 Lesser Hydra%CONTINUE%//
+ItemDisplay[SK376=3]:%NAME% +3 Combustion%CONTINUE%//
+ItemDisplay[SK376=2]:%NAME% +2 Combustion%CONTINUE%//
+ItemDisplay[SK376=1]:%NAME% +1 Combustion%CONTINUE%//
+ItemDisplay[SK66=3]:%NAME% +3 Amplify Damage%CONTINUE%//
+ItemDisplay[SK66=2]:%NAME% +2 Amplify Damage%CONTINUE%//
+ItemDisplay[SK66=1]:%NAME% +1 Amplify Damage%CONTINUE%//
+ItemDisplay[SK67=3]:%NAME% +3 Teeth%CONTINUE%//
+ItemDisplay[SK67=2]:%NAME% +2 Teeth%CONTINUE%//
+ItemDisplay[SK67=1]:%NAME% +1 Teeth%CONTINUE%//
+ItemDisplay[SK68=3]:%NAME% +3 Bone Armor%CONTINUE%//
+ItemDisplay[SK68=2]:%NAME% +2 Bone Armor%CONTINUE%//
+ItemDisplay[SK68=1]:%NAME% +1 Bone Armor%CONTINUE%//
+ItemDisplay[SK69=3]:%NAME% +3 Skeleton Mastery%CONTINUE%//
+ItemDisplay[SK69=2]:%NAME% +2 Skeleton Mastery%CONTINUE%//
+ItemDisplay[SK69=1]:%NAME% +1 Skeleton Mastery%CONTINUE%//
+ItemDisplay[SK70=3]:%NAME% +3 Raise Skeleton Warrior%CONTINUE%//
+ItemDisplay[SK70=2]:%NAME% +2 Raise Skeleton Warrior%CONTINUE%//
+ItemDisplay[SK70=1]:%NAME% +1 Raise Skeleton Warrior%CONTINUE%//
+ItemDisplay[SK71=3]:%NAME% +3 Dim Vision%CONTINUE%//
+ItemDisplay[SK71=2]:%NAME% +2 Dim Vision%CONTINUE%//
+ItemDisplay[SK71=1]:%NAME% +1 Dim Vision%CONTINUE%//
+ItemDisplay[SK72=3]:%NAME% +3 Weaken%CONTINUE%//
+ItemDisplay[SK72=2]:%NAME% +2 Weaken%CONTINUE%//
+ItemDisplay[SK72=1]:%NAME% +1 Weaken%CONTINUE%//
+ItemDisplay[SK73=3]:%NAME% +3 Poison Dagger%CONTINUE%//
+ItemDisplay[SK73=2]:%NAME% +2 Poison Dagger%CONTINUE%//
+ItemDisplay[SK73=1]:%NAME% +1 Poison Dagger%CONTINUE%//
+ItemDisplay[SK74=3]:%NAME% +3 Corpse Explosion%CONTINUE%//
+ItemDisplay[SK74=2]:%NAME% +2 Corpse Explosion%CONTINUE%//
+ItemDisplay[SK74=1]:%NAME% +1 Corpse Explosion%CONTINUE%//
+ItemDisplay[SK75=3]:%NAME% +3 Clay Golem%CONTINUE%//
+ItemDisplay[SK75=2]:%NAME% +2 Clay Golem%CONTINUE%//
+ItemDisplay[SK75=1]:%NAME% +1 Clay Golem%CONTINUE%//
+ItemDisplay[SK76=3]:%NAME% +3 Iron Maiden%CONTINUE%//
+ItemDisplay[SK76=2]:%NAME% +2 Iron Maiden%CONTINUE%//
+ItemDisplay[SK76=1]:%NAME% +1 Iron Maiden%CONTINUE%//
+ItemDisplay[SK77=3]:%NAME% +3 Terror%CONTINUE%//
+ItemDisplay[SK77=2]:%NAME% +2 Terror%CONTINUE%//
+ItemDisplay[SK77=1]:%NAME% +1 Terror%CONTINUE%//
+ItemDisplay[SK78=3]:%NAME% +3 Bone Wall%CONTINUE%//
+ItemDisplay[SK78=2]:%NAME% +2 Bone Wall%CONTINUE%//
+ItemDisplay[SK78=1]:%NAME% +1 Bone Wall%CONTINUE%//
+ItemDisplay[SK79=3]:%NAME% +3 Golem Mastery%CONTINUE%//
+ItemDisplay[SK79=2]:%NAME% +2 Golem Mastery%CONTINUE%//
+ItemDisplay[SK79=1]:%NAME% +1 Golem Mastery%CONTINUE%//
+ItemDisplay[SK80=3]:%NAME% +3 Raise Skeletal Mage%CONTINUE%//
+ItemDisplay[SK80=2]:%NAME% +2 Raise Skeletal Mage%CONTINUE%//
+ItemDisplay[SK80=1]:%NAME% +1 Raise Skeletal Mage%CONTINUE%//
+ItemDisplay[SK81=3]:%NAME% +3 Confuse%CONTINUE%//
+ItemDisplay[SK81=2]:%NAME% +2 Confuse%CONTINUE%//
+ItemDisplay[SK81=1]:%NAME% +1 Confuse%CONTINUE%//
+ItemDisplay[SK82=3]:%NAME% +3 Life Tap%CONTINUE%//
+ItemDisplay[SK82=2]:%NAME% +2 Life Tap%CONTINUE%//
+ItemDisplay[SK82=1]:%NAME% +1 Life Tap%CONTINUE%//
+ItemDisplay[SK83=3]:%NAME% +3 Desecrate%CONTINUE%//
+ItemDisplay[SK83=2]:%NAME% +2 Desecrate%CONTINUE%//
+ItemDisplay[SK83=1]:%NAME% +1 Desecrate%CONTINUE%//
+ItemDisplay[SK84=3]:%NAME% +3 Bone Spear%CONTINUE%//
+ItemDisplay[SK84=2]:%NAME% +2 Bone Spear%CONTINUE%//
+ItemDisplay[SK84=1]:%NAME% +1 Bone Spear%CONTINUE%//
+ItemDisplay[SK85=3]:%NAME% +3 Blood Golem%CONTINUE%//
+ItemDisplay[SK85=2]:%NAME% +2 Blood Golem%CONTINUE%//
+ItemDisplay[SK85=1]:%NAME% +1 Blood Golem%CONTINUE%//
+ItemDisplay[SK86=3]:%NAME% +3 Attract%CONTINUE%//
+ItemDisplay[SK86=2]:%NAME% +2 Attract%CONTINUE%//
+ItemDisplay[SK86=1]:%NAME% +1 Attract%CONTINUE%//
+ItemDisplay[SK87=3]:%NAME% +3 Decrepify%CONTINUE%//
+ItemDisplay[SK87=2]:%NAME% +2 Decrepify%CONTINUE%//
+ItemDisplay[SK87=1]:%NAME% +1 Decrepify%CONTINUE%//
+ItemDisplay[SK88=3]:%NAME% +3 Bone Prison%CONTINUE%//
+ItemDisplay[SK88=2]:%NAME% +2 Bone Prison%CONTINUE%//
+ItemDisplay[SK88=1]:%NAME% +1 Bone Prison%CONTINUE%//
+ItemDisplay[SK89=3]:%NAME% +3 Summon Resist%CONTINUE%//
+ItemDisplay[SK89=2]:%NAME% +2 Summon Resist%CONTINUE%//
+ItemDisplay[SK89=1]:%NAME% +1 Summon Resist%CONTINUE%//
+ItemDisplay[SK90=3]:%NAME% +3 Iron Golem%CONTINUE%//
+ItemDisplay[SK90=2]:%NAME% +2 Iron Golem%CONTINUE%//
+ItemDisplay[SK90=1]:%NAME% +1 Iron Golem%CONTINUE%//
+ItemDisplay[SK91=3]:%NAME% +3 Lower Resist%CONTINUE%//
+ItemDisplay[SK91=2]:%NAME% +2 Lower Resist%CONTINUE%//
+ItemDisplay[SK91=1]:%NAME% +1 Lower Resist%CONTINUE%//
+ItemDisplay[SK92=3]:%NAME% +3 Poison Nova%CONTINUE%//
+ItemDisplay[SK92=2]:%NAME% +2 Poison Nova%CONTINUE%//
+ItemDisplay[SK92=1]:%NAME% +1 Poison Nova%CONTINUE%//
+ItemDisplay[SK93=3]:%NAME% +3 Bone Spirit%CONTINUE%//
+ItemDisplay[SK93=2]:%NAME% +2 Bone Spirit%CONTINUE%//
+ItemDisplay[SK93=1]:%NAME% +1 Bone Spirit%CONTINUE%//
+ItemDisplay[SK94=3]:%NAME% +3 Fire Golem%CONTINUE%//
+ItemDisplay[SK94=2]:%NAME% +2 Fire Golem%CONTINUE%//
+ItemDisplay[SK94=1]:%NAME% +1 Fire Golem%CONTINUE%//
+ItemDisplay[SK95=3]:%NAME% +3 Revive%CONTINUE%//
+ItemDisplay[SK95=2]:%NAME% +2 Revive%CONTINUE%//
+ItemDisplay[SK95=1]:%NAME% +1 Revive%CONTINUE%//
+ItemDisplay[SK367=3]:%NAME% +3 Blood Warp%CONTINUE%//
+ItemDisplay[SK367=2]:%NAME% +2 Blood Warp%CONTINUE%//
+ItemDisplay[SK367=1]:%NAME% +1 Blood Warp%CONTINUE%//
+ItemDisplay[SK381=3]:%NAME% +3 Dark Pact%CONTINUE%//
+ItemDisplay[SK381=2]:%NAME% +2 Dark Pact%CONTINUE%//
+ItemDisplay[SK381=1]:%NAME% +1 Dark Pact%CONTINUE%//
+ItemDisplay[SK374=3]:%NAME% +3 Curse Mastery%CONTINUE%//
+ItemDisplay[SK374=2]:%NAME% +2 Curse Mastery%CONTINUE%//
+ItemDisplay[SK374=1]:%NAME% +1 Curse Mastery%CONTINUE%//
+ItemDisplay[SK96=3]:%NAME% +3 Sacrifice%CONTINUE%//
+ItemDisplay[SK96=2]:%NAME% +2 Sacrifice%CONTINUE%//
+ItemDisplay[SK96=1]:%NAME% +1 Sacrifice%CONTINUE%//
+ItemDisplay[SK97=3]:%NAME% +3 Smite%CONTINUE%//
+ItemDisplay[SK97=2]:%NAME% +2 Smite%CONTINUE%//
+ItemDisplay[SK97=1]:%NAME% +1 Smite%CONTINUE%//
+ItemDisplay[SK98=3]:%NAME% +3 Might%CONTINUE%//
+ItemDisplay[SK98=2]:%NAME% +2 Might%CONTINUE%//
+ItemDisplay[SK98=1]:%NAME% +1 Might%CONTINUE%//
+ItemDisplay[SK99=3]:%NAME% +3 Prayer%CONTINUE%//
+ItemDisplay[SK99=2]:%NAME% +2 Prayer%CONTINUE%//
+ItemDisplay[SK99=1]:%NAME% +1 Prayer%CONTINUE%//
+ItemDisplay[SK100=3]:%NAME% +3 Resist Fire%CONTINUE%//
+ItemDisplay[SK100=2]:%NAME% +2 Resist Fire%CONTINUE%//
+ItemDisplay[SK100=1]:%NAME% +1 Resist Fire%CONTINUE%//
+ItemDisplay[SK101=3]:%NAME% +3 Holy Bolt%CONTINUE%//
+ItemDisplay[SK101=2]:%NAME% +2 Holy Bolt%CONTINUE%//
+ItemDisplay[SK101=1]:%NAME% +1 Holy Bolt%CONTINUE%//
+ItemDisplay[SK102=3]:%NAME% +3 Holy Fire%CONTINUE%//
+ItemDisplay[SK102=2]:%NAME% +2 Holy Fire%CONTINUE%//
+ItemDisplay[SK102=1]:%NAME% +1 Holy Fire%CONTINUE%//
+ItemDisplay[SK103=3]:%NAME% +3 Thorns%CONTINUE%//
+ItemDisplay[SK103=2]:%NAME% +2 Thorns%CONTINUE%//
+ItemDisplay[SK103=1]:%NAME% +1 Thorns%CONTINUE%//
+ItemDisplay[SK104=3]:%NAME% +3 Defiance%CONTINUE%//
+ItemDisplay[SK104=2]:%NAME% +2 Defiance%CONTINUE%//
+ItemDisplay[SK104=1]:%NAME% +1 Defiance%CONTINUE%//
+ItemDisplay[SK105=3]:%NAME% +3 Resist Cold%CONTINUE%//
+ItemDisplay[SK105=2]:%NAME% +2 Resist Cold%CONTINUE%//
+ItemDisplay[SK105=1]:%NAME% +1 Resist Cold%CONTINUE%//
+ItemDisplay[SK106=3]:%NAME% +3 Zeal%CONTINUE%//
+ItemDisplay[SK106=2]:%NAME% +2 Zeal%CONTINUE%//
+ItemDisplay[SK106=1]:%NAME% +1 Zeal%CONTINUE%//
+ItemDisplay[SK107=3]:%NAME% +3 Charge%CONTINUE%//
+ItemDisplay[SK107=2]:%NAME% +2 Charge%CONTINUE%//
+ItemDisplay[SK107=1]:%NAME% +1 Charge%CONTINUE%//
+ItemDisplay[SK108=3]:%NAME% +3 Blessed Aim%CONTINUE%//
+ItemDisplay[SK108=2]:%NAME% +2 Blessed Aim%CONTINUE%//
+ItemDisplay[SK108=1]:%NAME% +1 Blessed Aim%CONTINUE%//
+ItemDisplay[SK109=3]:%NAME% +3 Cleansing%CONTINUE%//
+ItemDisplay[SK109=2]:%NAME% +2 Cleansing%CONTINUE%//
+ItemDisplay[SK109=1]:%NAME% +1 Cleansing%CONTINUE%//
+ItemDisplay[SK110=3]:%NAME% +3 Resist Lightning%CONTINUE%//
+ItemDisplay[SK110=2]:%NAME% +2 Resist Lightning%CONTINUE%//
+ItemDisplay[SK110=1]:%NAME% +1 Resist Lightning%CONTINUE%//
+ItemDisplay[SK111=3]:%NAME% +3 Vengeance%CONTINUE%//
+ItemDisplay[SK111=2]:%NAME% +2 Vengeance%CONTINUE%//
+ItemDisplay[SK111=1]:%NAME% +1 Vengeance%CONTINUE%//
+ItemDisplay[SK112=3]:%NAME% +3 Blessed Hammer%CONTINUE%//
+ItemDisplay[SK112=2]:%NAME% +2 Blessed Hammer%CONTINUE%//
+ItemDisplay[SK112=1]:%NAME% +1 Blessed Hammer%CONTINUE%//
+ItemDisplay[SK113=3]:%NAME% +3 Concentration%CONTINUE%//
+ItemDisplay[SK113=2]:%NAME% +2 Concentration%CONTINUE%//
+ItemDisplay[SK113=1]:%NAME% +1 Concentration%CONTINUE%//
+ItemDisplay[SK114=3]:%NAME% +3 Holy Freeze%CONTINUE%//
+ItemDisplay[SK114=2]:%NAME% +2 Holy Freeze%CONTINUE%//
+ItemDisplay[SK114=1]:%NAME% +1 Holy Freeze%CONTINUE%//
+ItemDisplay[SK115=3]:%NAME% +3 Vigor%CONTINUE%//
+ItemDisplay[SK115=2]:%NAME% +2 Vigor%CONTINUE%//
+ItemDisplay[SK115=1]:%NAME% +1 Vigor%CONTINUE%//
+ItemDisplay[SK116=3]:%NAME% +3 Conversion%CONTINUE%//
+ItemDisplay[SK116=2]:%NAME% +2 Conversion%CONTINUE%//
+ItemDisplay[SK116=1]:%NAME% +1 Conversion%CONTINUE%//
+ItemDisplay[SK117=3]:%NAME% +3 Holy Shield%CONTINUE%//
+ItemDisplay[SK117=2]:%NAME% +2 Holy Shield%CONTINUE%//
+ItemDisplay[SK117=1]:%NAME% +1 Holy Shield%CONTINUE%//
+ItemDisplay[SK118=3]:%NAME% +3 Holy Shock%CONTINUE%//
+ItemDisplay[SK118=2]:%NAME% +2 Holy Shock%CONTINUE%//
+ItemDisplay[SK118=1]:%NAME% +1 Holy Shock%CONTINUE%//
+ItemDisplay[SK119=3]:%NAME% +3 Sanctuary%CONTINUE%//
+ItemDisplay[SK119=2]:%NAME% +2 Sanctuary%CONTINUE%//
+ItemDisplay[SK119=1]:%NAME% +1 Sanctuary%CONTINUE%//
+ItemDisplay[SK120=3]:%NAME% +3 Meditation%CONTINUE%//
+ItemDisplay[SK120=2]:%NAME% +2 Meditation%CONTINUE%//
+ItemDisplay[SK120=1]:%NAME% +1 Meditation%CONTINUE%//
+ItemDisplay[SK121=3]:%NAME% +3 Fist of the Heavens%CONTINUE%//
+ItemDisplay[SK121=2]:%NAME% +2 Fist of the Heavens%CONTINUE%//
+ItemDisplay[SK121=1]:%NAME% +1 Fist of the Heavens%CONTINUE%//
+ItemDisplay[SK122=3]:%NAME% +3 Fanaticism%CONTINUE%//
+ItemDisplay[SK122=2]:%NAME% +2 Fanaticism%CONTINUE%//
+ItemDisplay[SK122=1]:%NAME% +1 Fanaticism%CONTINUE%//
+ItemDisplay[SK123=3]:%NAME% +3 Conviction%CONTINUE%//
+ItemDisplay[SK123=2]:%NAME% +2 Conviction%CONTINUE%//
+ItemDisplay[SK123=1]:%NAME% +1 Conviction%CONTINUE%//
+ItemDisplay[SK124=3]:%NAME% +3 Redemption%CONTINUE%//
+ItemDisplay[SK124=2]:%NAME% +2 Redemption%CONTINUE%//
+ItemDisplay[SK124=1]:%NAME% +1 Redemption%CONTINUE%//
+ItemDisplay[SK125=3]:%NAME% +3 Salvation%CONTINUE%//
+ItemDisplay[SK125=2]:%NAME% +2 Salvation%CONTINUE%//
+ItemDisplay[SK125=1]:%NAME% +1 Salvation%CONTINUE%//
+ItemDisplay[SK364=3]:%NAME% +3 Holy Nova%CONTINUE%//
+ItemDisplay[SK364=2]:%NAME% +2 Holy Nova%CONTINUE%//
+ItemDisplay[SK364=1]:%NAME% +1 Holy Nova%CONTINUE%//
+ItemDisplay[SK371=3]:%NAME% +3 Holy Light%CONTINUE%//
+ItemDisplay[SK371=2]:%NAME% +2 Holy Light%CONTINUE%//
+ItemDisplay[SK371=1]:%NAME% +1 Holy Light%CONTINUE%//
+ItemDisplay[SK378=3]:%NAME% +3 Joust%CONTINUE%//
+ItemDisplay[SK378=2]:%NAME% +2 Joust%CONTINUE%//
+ItemDisplay[SK378=1]:%NAME% +1 Joust%CONTINUE%//
+ItemDisplay[SK126=3]:%NAME% +3 Bash%CONTINUE%//
+ItemDisplay[SK126=2]:%NAME% +2 Bash%CONTINUE%//
+ItemDisplay[SK126=1]:%NAME% +1 Bash%CONTINUE%//
+ItemDisplay[SK127=3]:%NAME% +3 Sword Mastery%CONTINUE%//
+ItemDisplay[SK127=2]:%NAME% +2 Sword Mastery%CONTINUE%//
+ItemDisplay[SK127=1]:%NAME% +1 Sword Mastery%CONTINUE%//
+ItemDisplay[SK128=3]:%NAME% +3 General Mastery%CONTINUE%//
+ItemDisplay[SK128=2]:%NAME% +2 General Mastery%CONTINUE%//
+ItemDisplay[SK128=1]:%NAME% +1 General Mastery%CONTINUE%//
+ItemDisplay[SK129=3]:%NAME% +3 Mace Mastery%CONTINUE%//
+ItemDisplay[SK129=2]:%NAME% +2 Mace Mastery%CONTINUE%//
+ItemDisplay[SK129=1]:%NAME% +1 Mace Mastery%CONTINUE%//
+ItemDisplay[SK130=3]:%NAME% +3 Howl%CONTINUE%//
+ItemDisplay[SK130=2]:%NAME% +2 Howl%CONTINUE%//
+ItemDisplay[SK130=1]:%NAME% +1 Howl%CONTINUE%//
+ItemDisplay[SK131=3]:%NAME% +3 Find Potion%CONTINUE%//
+ItemDisplay[SK131=2]:%NAME% +2 Find Potion%CONTINUE%//
+ItemDisplay[SK131=1]:%NAME% +1 Find Potion%CONTINUE%//
+ItemDisplay[SK132=3]:%NAME% +3 Leap%CONTINUE%//
+ItemDisplay[SK132=2]:%NAME% +2 Leap%CONTINUE%//
+ItemDisplay[SK132=1]:%NAME% +1 Leap%CONTINUE%//
+ItemDisplay[SK133=3]:%NAME% +3 Double Swing%CONTINUE%//
+ItemDisplay[SK133=2]:%NAME% +2 Double Swing%CONTINUE%//
+ItemDisplay[SK133=1]:%NAME% +1 Double Swing%CONTINUE%//
+ItemDisplay[SK134=3]:%NAME% +3 Polearm Mastery%CONTINUE%//
+ItemDisplay[SK134=2]:%NAME% +2 Polearm Mastery%CONTINUE%//
+ItemDisplay[SK134=1]:%NAME% +1 Polearm Mastery%CONTINUE%//
+ItemDisplay[SK135=3]:%NAME% +3 Throwing Mastery%CONTINUE%//
+ItemDisplay[SK135=2]:%NAME% +2 Throwing Mastery%CONTINUE%//
+ItemDisplay[SK135=1]:%NAME% +1 Throwing Mastery%CONTINUE%//
+ItemDisplay[SK136=3]:%NAME% +3 Polearm and Spear Mastery%CONTINUE%//
+ItemDisplay[SK136=2]:%NAME% +2 Polearm and Spear Mastery%CONTINUE%//
+ItemDisplay[SK136=1]:%NAME% +1 Polearm and Spear Mastery%CONTINUE%//
+ItemDisplay[SK137=3]:%NAME% +3 Taunt%CONTINUE%//
+ItemDisplay[SK137=2]:%NAME% +2 Taunt%CONTINUE%//
+ItemDisplay[SK137=1]:%NAME% +1 Taunt%CONTINUE%//
+ItemDisplay[SK138=3]:%NAME% +3 Shout%CONTINUE%//
+ItemDisplay[SK138=2]:%NAME% +2 Shout%CONTINUE%//
+ItemDisplay[SK138=1]:%NAME% +1 Shout%CONTINUE%//
+ItemDisplay[SK139=3]:%NAME% +3 Stun%CONTINUE%//
+ItemDisplay[SK139=2]:%NAME% +2 Stun%CONTINUE%//
+ItemDisplay[SK139=1]:%NAME% +1 Stun%CONTINUE%//
+ItemDisplay[SK140=3]:%NAME% +3 Double Throw%CONTINUE%//
+ItemDisplay[SK140=2]:%NAME% +2 Double Throw%CONTINUE%//
+ItemDisplay[SK140=1]:%NAME% +1 Double Throw%CONTINUE%//
+ItemDisplay[SK141=3]:%NAME% +3 Combat Reflexes%CONTINUE%//
+ItemDisplay[SK141=2]:%NAME% +2 Combat Reflexes%CONTINUE%//
+ItemDisplay[SK141=1]:%NAME% +1 Combat Reflexes%CONTINUE%//
+ItemDisplay[SK142=3]:%NAME% +3 Find Item%CONTINUE%//
+ItemDisplay[SK142=2]:%NAME% +2 Find Item%CONTINUE%//
+ItemDisplay[SK142=1]:%NAME% +1 Find Item%CONTINUE%//
+ItemDisplay[SK143=3]:%NAME% +3 Leap Attack%CONTINUE%//
+ItemDisplay[SK143=2]:%NAME% +2 Leap Attack%CONTINUE%//
+ItemDisplay[SK143=1]:%NAME% +1 Leap Attack%CONTINUE%//
+ItemDisplay[SK144=3]:%NAME% +3 Concentrate%CONTINUE%//
+ItemDisplay[SK144=2]:%NAME% +2 Concentrate%CONTINUE%//
+ItemDisplay[SK144=1]:%NAME% +1 Concentrate%CONTINUE%//
+ItemDisplay[SK145=3]:%NAME% +3 Iron Skin%CONTINUE%//
+ItemDisplay[SK145=2]:%NAME% +2 Iron Skin%CONTINUE%//
+ItemDisplay[SK145=1]:%NAME% +1 Iron Skin%CONTINUE%//
+ItemDisplay[SK146=3]:%NAME% +3 Battle Cry%CONTINUE%//
+ItemDisplay[SK146=2]:%NAME% +2 Battle Cry%CONTINUE%//
+ItemDisplay[SK146=1]:%NAME% +1 Battle Cry%CONTINUE%//
+ItemDisplay[SK147=3]:%NAME% +3 Frenzy%CONTINUE%//
+ItemDisplay[SK147=2]:%NAME% +2 Frenzy%CONTINUE%//
+ItemDisplay[SK147=1]:%NAME% +1 Frenzy%CONTINUE%//
+ItemDisplay[SK148=3]:%NAME% +3 Increased Speed%CONTINUE%//
+ItemDisplay[SK148=2]:%NAME% +2 Increased Speed%CONTINUE%//
+ItemDisplay[SK148=1]:%NAME% +1 Increased Speed%CONTINUE%//
+ItemDisplay[SK149=3]:%NAME% +3 Battle Orders%CONTINUE%//
+ItemDisplay[SK149=2]:%NAME% +2 Battle Orders%CONTINUE%//
+ItemDisplay[SK149=1]:%NAME% +1 Battle Orders%CONTINUE%//
+ItemDisplay[SK150=3]:%NAME% +3 Grim Ward%CONTINUE%//
+ItemDisplay[SK150=2]:%NAME% +2 Grim Ward%CONTINUE%//
+ItemDisplay[SK150=1]:%NAME% +1 Grim Ward%CONTINUE%//
+ItemDisplay[SK151=3]:%NAME% +3 Whirlwind%CONTINUE%//
+ItemDisplay[SK151=2]:%NAME% +2 Whirlwind%CONTINUE%//
+ItemDisplay[SK151=1]:%NAME% +1 Whirlwind%CONTINUE%//
+ItemDisplay[SK152=3]:%NAME% +3 Berserk%CONTINUE%//
+ItemDisplay[SK152=2]:%NAME% +2 Berserk%CONTINUE%//
+ItemDisplay[SK152=1]:%NAME% +1 Berserk%CONTINUE%//
+ItemDisplay[SK153=3]:%NAME% +3 Natural Resistance%CONTINUE%//
+ItemDisplay[SK153=2]:%NAME% +2 Natural Resistance%CONTINUE%//
+ItemDisplay[SK153=1]:%NAME% +1 Natural Resistance%CONTINUE%//
+ItemDisplay[SK154=3]:%NAME% +3 War Cry%CONTINUE%//
+ItemDisplay[SK154=2]:%NAME% +2 War Cry%CONTINUE%//
+ItemDisplay[SK154=1]:%NAME% +1 War Cry%CONTINUE%//
+ItemDisplay[SK155=3]:%NAME% +3 Battle Command%CONTINUE%//
+ItemDisplay[SK155=2]:%NAME% +2 Battle Command%CONTINUE%//
+ItemDisplay[SK155=1]:%NAME% +1 Battle Command%CONTINUE%//
+ItemDisplay[SK221=3]:%NAME% +3 Raven%CONTINUE%//
+ItemDisplay[SK221=2]:%NAME% +2 Raven%CONTINUE%//
+ItemDisplay[SK221=1]:%NAME% +1 Raven%CONTINUE%//
+ItemDisplay[SK222=3]:%NAME% +3 Poison Creeper%CONTINUE%//
+ItemDisplay[SK222=2]:%NAME% +2 Poison Creeper%CONTINUE%//
+ItemDisplay[SK222=1]:%NAME% +1 Poison Creeper%CONTINUE%//
+ItemDisplay[SK223=3]:%NAME% +3 Werewolf%CONTINUE%//
+ItemDisplay[SK223=2]:%NAME% +2 Werewolf%CONTINUE%//
+ItemDisplay[SK223=1]:%NAME% +1 Werewolf%CONTINUE%//
+ItemDisplay[SK224=3]:%NAME% +3 Lycanthropy%CONTINUE%//
+ItemDisplay[SK224=2]:%NAME% +2 Lycanthropy%CONTINUE%//
+ItemDisplay[SK224=1]:%NAME% +1 Lycanthropy%CONTINUE%//
+ItemDisplay[SK225=3]:%NAME% +3 Firestorm%CONTINUE%//
+ItemDisplay[SK225=2]:%NAME% +2 Firestorm%CONTINUE%//
+ItemDisplay[SK225=1]:%NAME% +1 Firestorm%CONTINUE%//
+ItemDisplay[SK226=3]:%NAME% +3 Oak Sage%CONTINUE%//
+ItemDisplay[SK226=2]:%NAME% +2 Oak Sage%CONTINUE%//
+ItemDisplay[SK226=1]:%NAME% +1 Oak Sage%CONTINUE%//
+ItemDisplay[SK227=3]:%NAME% +3 Summon Spirit Wolf%CONTINUE%//
+ItemDisplay[SK227=2]:%NAME% +2 Summon Spirit Wolf%CONTINUE%//
+ItemDisplay[SK227=1]:%NAME% +1 Summon Spirit Wolf%CONTINUE%//
+ItemDisplay[SK228=3]:%NAME% +3 Werebear%CONTINUE%//
+ItemDisplay[SK228=2]:%NAME% +2 Werebear%CONTINUE%//
+ItemDisplay[SK228=1]:%NAME% +1 Werebear%CONTINUE%//
+ItemDisplay[SK229=3]:%NAME% +3 Molten Boulder%CONTINUE%//
+ItemDisplay[SK229=2]:%NAME% +2 Molten Boulder%CONTINUE%//
+ItemDisplay[SK229=1]:%NAME% +1 Molten Boulder%CONTINUE%//
+ItemDisplay[SK230=3]:%NAME% +3 Arctic Blast%CONTINUE%//
+ItemDisplay[SK230=2]:%NAME% +2 Arctic Blast%CONTINUE%//
+ItemDisplay[SK230=1]:%NAME% +1 Arctic Blast%CONTINUE%//
+ItemDisplay[SK231=3]:%NAME% +3 Carrion Vine%CONTINUE%//
+ItemDisplay[SK231=2]:%NAME% +2 Carrion Vine%CONTINUE%//
+ItemDisplay[SK231=1]:%NAME% +1 Carrion Vine%CONTINUE%//
+ItemDisplay[SK232=3]:%NAME% +3 Feral Rage%CONTINUE%//
+ItemDisplay[SK232=2]:%NAME% +2 Feral Rage%CONTINUE%//
+ItemDisplay[SK232=1]:%NAME% +1 Feral Rage%CONTINUE%//
+ItemDisplay[SK233=3]:%NAME% +3 Maul%CONTINUE%//
+ItemDisplay[SK233=2]:%NAME% +2 Maul%CONTINUE%//
+ItemDisplay[SK233=1]:%NAME% +1 Maul%CONTINUE%//
+ItemDisplay[SK234=3]:%NAME% +3 Fissure%CONTINUE%//
+ItemDisplay[SK234=2]:%NAME% +2 Fissure%CONTINUE%//
+ItemDisplay[SK234=1]:%NAME% +1 Fissure%CONTINUE%//
+ItemDisplay[SK235=3]:%NAME% +3 Cyclone Armor%CONTINUE%//
+ItemDisplay[SK235=2]:%NAME% +2 Cyclone Armor%CONTINUE%//
+ItemDisplay[SK235=1]:%NAME% +1 Cyclone Armor%CONTINUE%//
+ItemDisplay[SK236=3]:%NAME% +3 Heart of Wolverine%CONTINUE%//
+ItemDisplay[SK236=2]:%NAME% +2 Heart of Wolverine%CONTINUE%//
+ItemDisplay[SK236=1]:%NAME% +1 Heart of Wolverine%CONTINUE%//
+ItemDisplay[SK237=3]:%NAME% +3 Summon Dire Wolf%CONTINUE%//
+ItemDisplay[SK237=2]:%NAME% +2 Summon Dire Wolf%CONTINUE%//
+ItemDisplay[SK237=1]:%NAME% +1 Summon Dire Wolf%CONTINUE%//
+ItemDisplay[SK238=3]:%NAME% +3 Rabies%CONTINUE%//
+ItemDisplay[SK238=2]:%NAME% +2 Rabies%CONTINUE%//
+ItemDisplay[SK238=1]:%NAME% +1 Rabies%CONTINUE%//
+ItemDisplay[SK239=3]:%NAME% +3 Fire Claws%CONTINUE%//
+ItemDisplay[SK239=2]:%NAME% +2 Fire Claws%CONTINUE%//
+ItemDisplay[SK239=1]:%NAME% +1 Fire Claws%CONTINUE%//
+ItemDisplay[SK240=3]:%NAME% +3 Twister%CONTINUE%//
+ItemDisplay[SK240=2]:%NAME% +2 Twister%CONTINUE%//
+ItemDisplay[SK240=1]:%NAME% +1 Twister%CONTINUE%//
+ItemDisplay[SK241=3]:%NAME% +3 Solar Creeper%CONTINUE%//
+ItemDisplay[SK241=2]:%NAME% +2 Solar Creeper%CONTINUE%//
+ItemDisplay[SK241=1]:%NAME% +1 Solar Creeper%CONTINUE%//
+ItemDisplay[SK242=3]:%NAME% +3 Hunger%CONTINUE%//
+ItemDisplay[SK242=2]:%NAME% +2 Hunger%CONTINUE%//
+ItemDisplay[SK242=1]:%NAME% +1 Hunger%CONTINUE%//
+ItemDisplay[SK243=3]:%NAME% +3 Shock Wave%CONTINUE%//
+ItemDisplay[SK243=2]:%NAME% +2 Shock Wave%CONTINUE%//
+ItemDisplay[SK243=1]:%NAME% +1 Shock Wave%CONTINUE%//
+ItemDisplay[SK244=3]:%NAME% +3 Volcano%CONTINUE%//
+ItemDisplay[SK244=2]:%NAME% +2 Volcano%CONTINUE%//
+ItemDisplay[SK244=1]:%NAME% +1 Volcano%CONTINUE%//
+ItemDisplay[SK245=3]:%NAME% +3 Tornado%CONTINUE%//
+ItemDisplay[SK245=2]:%NAME% +2 Tornado%CONTINUE%//
+ItemDisplay[SK245=1]:%NAME% +1 Tornado%CONTINUE%//
+ItemDisplay[SK246=3]:%NAME% +3 Spirit of Barbs%CONTINUE%//
+ItemDisplay[SK246=2]:%NAME% +2 Spirit of Barbs%CONTINUE%//
+ItemDisplay[SK246=1]:%NAME% +1 Spirit of Barbs%CONTINUE%//
+ItemDisplay[SK247=3]:%NAME% +3 Summon Grizzly%CONTINUE%//
+ItemDisplay[SK247=2]:%NAME% +2 Summon Grizzly%CONTINUE%//
+ItemDisplay[SK247=1]:%NAME% +1 Summon Grizzly%CONTINUE%//
+ItemDisplay[SK248=3]:%NAME% +3 Fury%CONTINUE%//
+ItemDisplay[SK248=2]:%NAME% +2 Fury%CONTINUE%//
+ItemDisplay[SK248=1]:%NAME% +1 Fury%CONTINUE%//
+ItemDisplay[SK249=3]:%NAME% +3 Armageddon%CONTINUE%//
+ItemDisplay[SK249=2]:%NAME% +2 Armageddon%CONTINUE%//
+ItemDisplay[SK249=1]:%NAME% +1 Armageddon%CONTINUE%//
+ItemDisplay[SK250=3]:%NAME% +3 Hurricane%CONTINUE%//
+ItemDisplay[SK250=2]:%NAME% +2 Hurricane%CONTINUE%//
+ItemDisplay[SK250=1]:%NAME% +1 Hurricane%CONTINUE%//
+ItemDisplay[SK370=3]:%NAME% +3 Gust%CONTINUE%//
+ItemDisplay[SK370=2]:%NAME% +2 Gust%CONTINUE%//
+ItemDisplay[SK370=1]:%NAME% +1 Gust%CONTINUE%//
+ItemDisplay[SK251=3]:%NAME% +3 Fire Blast%CONTINUE%//
+ItemDisplay[SK251=2]:%NAME% +2 Fire Blast%CONTINUE%//
+ItemDisplay[SK251=1]:%NAME% +1 Fire Blast%CONTINUE%//
+ItemDisplay[SK252=3]:%NAME% +3 Claw Mastery%CONTINUE%//
+ItemDisplay[SK252=2]:%NAME% +2 Claw Mastery%CONTINUE%//
+ItemDisplay[SK252=1]:%NAME% +1 Claw Mastery%CONTINUE%//
+ItemDisplay[SK253=3]:%NAME% +3 Psychic Hammer%CONTINUE%//
+ItemDisplay[SK253=2]:%NAME% +2 Psychic Hammer%CONTINUE%//
+ItemDisplay[SK253=1]:%NAME% +1 Psychic Hammer%CONTINUE%//
+ItemDisplay[SK254=3]:%NAME% +3 Tiger Strike%CONTINUE%//
+ItemDisplay[SK254=2]:%NAME% +2 Tiger Strike%CONTINUE%//
+ItemDisplay[SK254=1]:%NAME% +1 Tiger Strike%CONTINUE%//
+ItemDisplay[SK255=3]:%NAME% +3 Dragon Talon%CONTINUE%//
+ItemDisplay[SK255=2]:%NAME% +2 Dragon Talon%CONTINUE%//
+ItemDisplay[SK255=1]:%NAME% +1 Dragon Talon%CONTINUE%//
+ItemDisplay[SK256=3]:%NAME% +3 Shock Web%CONTINUE%//
+ItemDisplay[SK256=2]:%NAME% +2 Shock Web%CONTINUE%//
+ItemDisplay[SK256=1]:%NAME% +1 Shock Web%CONTINUE%//
+ItemDisplay[SK257=3]:%NAME% +3 Blade Sentinel%CONTINUE%//
+ItemDisplay[SK257=2]:%NAME% +2 Blade Sentinel%CONTINUE%//
+ItemDisplay[SK257=1]:%NAME% +1 Blade Sentinel%CONTINUE%//
+ItemDisplay[SK258=3]:%NAME% +3 Burst of Speed%CONTINUE%//
+ItemDisplay[SK258=2]:%NAME% +2 Burst of Speed%CONTINUE%//
+ItemDisplay[SK258=1]:%NAME% +1 Burst of Speed%CONTINUE%//
+ItemDisplay[SK259=3]:%NAME% +3 Fists of Fire%CONTINUE%//
+ItemDisplay[SK259=2]:%NAME% +2 Fists of Fire%CONTINUE%//
+ItemDisplay[SK259=1]:%NAME% +1 Fists of Fire%CONTINUE%//
+ItemDisplay[SK260=3]:%NAME% +3 Dragon Claw%CONTINUE%//
+ItemDisplay[SK260=2]:%NAME% +2 Dragon Claw%CONTINUE%//
+ItemDisplay[SK260=1]:%NAME% +1 Dragon Claw%CONTINUE%//
+ItemDisplay[SK261=3]:%NAME% +3 Charged Bolt Sentry%CONTINUE%//
+ItemDisplay[SK261=2]:%NAME% +2 Charged Bolt Sentry%CONTINUE%//
+ItemDisplay[SK261=1]:%NAME% +1 Charged Bolt Sentry%CONTINUE%//
+ItemDisplay[SK262=3]:%NAME% +3 Wake of Fire%CONTINUE%//
+ItemDisplay[SK262=2]:%NAME% +2 Wake of Fire%CONTINUE%//
+ItemDisplay[SK262=1]:%NAME% +1 Wake of Fire%CONTINUE%//
+ItemDisplay[SK263=3]:%NAME% +3 Weapon Block%CONTINUE%//
+ItemDisplay[SK263=2]:%NAME% +2 Weapon Block%CONTINUE%//
+ItemDisplay[SK263=1]:%NAME% +1 Weapon Block%CONTINUE%//
+ItemDisplay[SK264=3]:%NAME% +3 Cloak of Shadows%CONTINUE%//
+ItemDisplay[SK264=2]:%NAME% +2 Cloak of Shadows%CONTINUE%//
+ItemDisplay[SK264=1]:%NAME% +1 Cloak of Shadows%CONTINUE%//
+ItemDisplay[SK265=3]:%NAME% +3 Cobra Strike%CONTINUE%//
+ItemDisplay[SK265=2]:%NAME% +2 Cobra Strike%CONTINUE%//
+ItemDisplay[SK265=1]:%NAME% +1 Cobra Strike%CONTINUE%//
+ItemDisplay[SK266=3]:%NAME% +3 Blade Fury%CONTINUE%//
+ItemDisplay[SK266=2]:%NAME% +2 Blade Fury%CONTINUE%//
+ItemDisplay[SK266=1]:%NAME% +1 Blade Fury%CONTINUE%//
+ItemDisplay[SK267=3]:%NAME% +3 Fade%CONTINUE%//
+ItemDisplay[SK267=2]:%NAME% +2 Fade%CONTINUE%//
+ItemDisplay[SK267=1]:%NAME% +1 Fade%CONTINUE%//
+ItemDisplay[SK268=3]:%NAME% +3 Shadow Warrior%CONTINUE%//
+ItemDisplay[SK268=2]:%NAME% +2 Shadow Warrior%CONTINUE%//
+ItemDisplay[SK268=1]:%NAME% +1 Shadow Warrior%CONTINUE%//
+ItemDisplay[SK269=3]:%NAME% +3 Claws of Thunder%CONTINUE%//
+ItemDisplay[SK269=2]:%NAME% +2 Claws of Thunder%CONTINUE%//
+ItemDisplay[SK269=1]:%NAME% +1 Claws of Thunder%CONTINUE%//
+ItemDisplay[SK270=3]:%NAME% +3 Dragon Tail%CONTINUE%//
+ItemDisplay[SK270=2]:%NAME% +2 Dragon Tail%CONTINUE%//
+ItemDisplay[SK270=1]:%NAME% +1 Dragon Tail%CONTINUE%//
+ItemDisplay[SK271=3]:%NAME% +3 Chain Lightning Sentry%CONTINUE%//
+ItemDisplay[SK271=2]:%NAME% +2 Chain Lightning Sentry%CONTINUE%//
+ItemDisplay[SK271=1]:%NAME% +1 Chain Lightning Sentry%CONTINUE%//
+ItemDisplay[SK272=3]:%NAME% +3 Wake of Inferno%CONTINUE%//
+ItemDisplay[SK272=2]:%NAME% +2 Wake of Inferno%CONTINUE%//
+ItemDisplay[SK272=1]:%NAME% +1 Wake of Inferno%CONTINUE%//
+ItemDisplay[SK273=3]:%NAME% +3 Mind Blast%CONTINUE%//
+ItemDisplay[SK273=2]:%NAME% +2 Mind Blast%CONTINUE%//
+ItemDisplay[SK273=1]:%NAME% +1 Mind Blast%CONTINUE%//
+ItemDisplay[SK274=3]:%NAME% +3 Blades of Ice%CONTINUE%//
+ItemDisplay[SK274=2]:%NAME% +2 Blades of Ice%CONTINUE%//
+ItemDisplay[SK274=1]:%NAME% +1 Blades of Ice%CONTINUE%//
+ItemDisplay[SK275=3]:%NAME% +3 Dragon Flight%CONTINUE%//
+ItemDisplay[SK275=2]:%NAME% +2 Dragon Flight%CONTINUE%//
+ItemDisplay[SK275=1]:%NAME% +1 Dragon Flight%CONTINUE%//
+ItemDisplay[SK276=3]:%NAME% +3 Death Sentry%CONTINUE%//
+ItemDisplay[SK276=2]:%NAME% +2 Death Sentry%CONTINUE%//
+ItemDisplay[SK276=1]:%NAME% +1 Death Sentry%CONTINUE%//
+ItemDisplay[SK277=3]:%NAME% +3 Blade Shield%CONTINUE%//
+ItemDisplay[SK277=2]:%NAME% +2 Blade Shield%CONTINUE%//
+ItemDisplay[SK277=1]:%NAME% +1 Blade Shield%CONTINUE%//
+ItemDisplay[SK278=3]:%NAME% +3 Venom%CONTINUE%//
+ItemDisplay[SK278=2]:%NAME% +2 Venom%CONTINUE%//
+ItemDisplay[SK278=1]:%NAME% +1 Venom%CONTINUE%//
+ItemDisplay[SK279=3]:%NAME% +3 Shadow Master%CONTINUE%//
+ItemDisplay[SK279=2]:%NAME% +2 Shadow Master%CONTINUE%//
+ItemDisplay[SK279=1]:%NAME% +1 Shadow Master%CONTINUE%//
+ItemDisplay[SK280=3]:%NAME% +3 Phoenix Strike%CONTINUE%//
+ItemDisplay[SK280=2]:%NAME% +2 Phoenix Strike%CONTINUE%//
+ItemDisplay[SK280=1]:%NAME% +1 Phoenix Strike%CONTINUE%//
+ItemDisplay[SK366=3]:%NAME% +3 Lightning Sentry%CONTINUE%//
+ItemDisplay[SK366=2]:%NAME% +2 Lightning Sentry%CONTINUE%//
+ItemDisplay[SK366=1]:%NAME% +1 Lightning Sentry%CONTINUE%//
+ItemDisplay[IAS=20]:%NAME%%NL%%RED%+20 IAS%CONTINUE%//
+ItemDisplay[IAS=10]:%NAME%%NL%%GREEN%+10 IAS%CONTINUE%//
 ItemDisplay[RW]:%NAME%%GOLD%%CONTINUE%//
 ItemDisplay[NMAG SOCK=0]:%NAME%%WHITE%%CONTINUE%//
 ItemDisplay[NMAG SOCK>0 !RW]:%NAME%%GRAY%%CONTINUE%//
@@ -2061,20 +2820,26 @@ ItemDisplay[NMAG (bsh OR xsh or ush) SOCK=3 CLVL<50]:%NAME%%NL%%PURPLE%Ancients 
 ItemDisplay[NMAG (bsh OR xsh or ush) SOCK=3 CLVL<50]:%NAME%%NL%%PURPLE%Rhyme Base%MAP-0A%%CONTINUE%//
 ItemDisplay[UNI !ID]:%CODE%:%NAME%%PX-0A%//
 ItemDisplay[SET !ID]:%CODE%:%NAME%%PX-0A%//
-ItemDisplay[MAG !ID cm1]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
-ItemDisplay[MAG !ID cm2]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
-ItemDisplay[MAG !ID cm3]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
-ItemDisplay[MAG !ID rin]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
-ItemDisplay[MAG !ID amu]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
-ItemDisplay[MAG !ID jew]:%NAME% %TAN%Lv%ILVL%%PX-0A%%BLUE%//
-ItemDisplay[RARE !ID rin]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
-ItemDisplay[RARE !ID amu]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
-ItemDisplay[RARE !ID jew]:%NAME% %TAN%Lv%ILVL%%PX-0A%%YELLOW%//
+ItemDisplay[MAG !ID cm1]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%BLUE%//
+ItemDisplay[MAG !ID cm2]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%BLUE%//
+ItemDisplay[MAG !ID cm3]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%BLUE%//
+ItemDisplay[MAG !ID rin]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%BLUE%//
+ItemDisplay[MAG !ID amu]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%BLUE%//
+ItemDisplay[MAG !ID jew]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%BLUE%//
+ItemDisplay[RARE !ID rin]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%YELLOW%//
+ItemDisplay[RARE !ID amu]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%YELLOW%//
+ItemDisplay[RARE !ID jew]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%YELLOW%//
 ItemDisplay[NMAG SOCK=1]://
 ItemDisplay[NMAG GLOVES CLVL>19]://
 ItemDisplay[NMAG BELT CLVL>19]://
 ItemDisplay[NMAG BOOTS CLVL>19]://
 ItemDisplay[NMAG THROWING CLVL>19]://
+ItemDisplay[!SUP !ETH SOCK=0 NMAG CHEST NORM DIFF>0]://
+ItemDisplay[!SUP !ETH SOCK=0 NMAG CHEST EXC DIFF>1]://
+ItemDisplay[!SUP !ETH SOCK=0 NMAG HELM NORM DIFF>0]://
+ItemDisplay[!SUP !ETH SOCK=0 NMAG HELM EXC DIFF>1]://
+ItemDisplay[!SUP !ETH SOCK=0 NMAG SHIELD NORM DIFF>0]://
+ItemDisplay[!SUP !ETH SOCK=0 NMAG SHIELD EXC DIFF>1]://
 ItemDisplay[NMAG (ktr OR wrb OR axf OR ces OR clw OR btl OR skr) CLVL>19]://
 ItemDisplay[NMAG (9ar OR 9wb OR 9xf) CLVL>19]://
 ItemDisplay[SUP SOCK=0 ED=0 CLVL>19]://

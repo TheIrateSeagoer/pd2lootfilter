@@ -11,6 +11,7 @@ New-Item -ItemType Directory -Path 'bin' | Out-Null
 (Get-Content '..\src\item.prefix.filter') | Where-Object {$_.trim() -ne "" } | Set-Content '.\obj\item.prefix.filter'
 (Get-Content '..\src\item.treasureclass.filter') | Where-Object {$_.trim() -ne "" } | Set-Content '.\obj\item.treasureclass.filter'
 (Get-Content '..\src\item.suffix.filter') | Where-Object {$_.trim() -ne "" } | Set-Content '.\obj\item.suffix.filter'
+(Get-Content '..\src\item.shopping.filter') | Where-Object {$_.trim() -ne "" } | Set-Content '.\obj\item.shopping.filter'
 (Get-Content '..\src\item.colorfix.filter') | Where-Object {$_.trim() -ne "" } | Set-Content '.\obj\item.colorfix.filter'
 (Get-Content '..\src\item.description.filter') | Where-Object {$_.trim() -ne "" } | Set-Content '.\obj\item.description.filter'
 (Get-Content '..\src\arreat.normal.filter') | Where-Object {$_.trim() -ne "" } | Set-Content '.\obj\arreat.normal.filter'
@@ -34,6 +35,7 @@ New-Item -ItemType Directory -Path 'bin' | Out-Null
 ((Get-Content '.\obj\item.prefix.filter') | Select-String -pattern '/////' -notmatch) | Set-Content '.\obj\item.prefix.filter'
 ((Get-Content '.\obj\item.treasureclass.filter') | Select-String -pattern '/////' -notmatch) | Set-Content '.\obj\item.treasureclass.filter'
 ((Get-Content '.\obj\item.suffix.filter') |  Select-String -pattern '/////' -notmatch) | Set-Content '.\obj\item.suffix.filter'
+((Get-Content '.\obj\item.shopping.filter') |  Select-String -pattern '/////' -notmatch) | Set-Content '.\obj\item.shopping.filter'
 ((Get-Content '.\obj\item.colorfix.filter') |  Select-String -pattern '/////' -notmatch) | Set-Content '.\obj\item.colorfix.filter'
 ((Get-Content '.\obj\item.description.filter') |  Select-String -pattern '/////' -notmatch) | Set-Content '.\obj\item.description.filter'
 ((Get-Content '.\obj\arreat.normal.filter') |  Select-String -pattern '/////' -notmatch) | Set-Content '.\obj\arreat.normal.filter'
@@ -50,7 +52,7 @@ New-Item -ItemType Directory -Path 'bin' | Out-Null
 ((Get-Content '.\obj\bases.filter') |  Select-String -pattern '/////' -notmatch) | Set-Content '.\obj\bases.filter'
 ((Get-Content '.\obj\catchall.filter') |  Select-String -pattern '/////' -notmatch) | Set-Content '.\obj\catchall.filter'
 
-Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter', '.\obj\common.lod.filter', '.\obj\common.pd2.filter', '.\obj\item.prefix.filter', '.\obj\item.treasureclass.filter', '.\obj\item.suffix.filter', '.\obj\item.colorfix.filter', '.\obj\item.description.filter','.\obj\arreat.normal.filter', '.\obj\arreat.exceptional.filter', '.\obj\arreat.elite.filter', '.\obj\set.shared.filter', '.\obj\set.normal.filter', '.\obj\set.exceptional.filter', '.\obj\set.elite.filter', '.\obj\unique.shared.filter', '.\obj\unique.normal.filter', '.\obj\unique.exceptional.filter', '.\obj\unique.elite.filter', '.\obj\bases.filter', '.\obj\catchall.filter' | Set-Content '.\bin\treasureclass.filter'
+Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter', '.\obj\common.lod.filter', '.\obj\common.pd2.filter', '.\obj\item.prefix.filter', '.\obj\item.treasureclass.filter', '.\obj\item.suffix.filter', '.\obj\item.shopping.filter', '.\obj\item.colorfix.filter', '.\obj\item.description.filter','.\obj\arreat.normal.filter', '.\obj\arreat.exceptional.filter', '.\obj\arreat.elite.filter', '.\obj\set.shared.filter', '.\obj\set.normal.filter', '.\obj\set.exceptional.filter', '.\obj\set.elite.filter', '.\obj\unique.shared.filter', '.\obj\unique.normal.filter', '.\obj\unique.exceptional.filter', '.\obj\unique.elite.filter', '.\obj\bases.filter', '.\obj\catchall.filter' | Set-Content '.\bin\treasureclass.filter'
 
 if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2') { Copy-Item '.\bin\treasureclass.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2\loot.filter' }
 if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg') { Copy-Item '.\bin\treasureclass.filter' -Destination 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg' }
