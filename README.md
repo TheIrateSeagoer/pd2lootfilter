@@ -10,6 +10,7 @@ Upcoming changes include:
 
 
 # Preview
+![Staffmod](https://i.imgur.com/pn4rRJG.png)
 ![Vendor](https://i.imgur.com/6jAOh85.png)
 ![Crafting](https://i.imgur.com/Z4dd4LY.png)
 ![Recipe](https://i.imgur.com/x9FOL7k.png)
