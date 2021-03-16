@@ -1,8 +1,8 @@
 ///// Prefix /////
-ItemDisplay[t11 OR t12 OR t13]:[T1] %NAME%%CONTINUE%//
-ItemDisplay[t21 OR t22 OR t23]:[T2] %NAME%%CONTINUE%//
-ItemDisplay[t31 OR t32 OR t33 OR t34]:[T3] %NAME%%CONTINUE%//
-ItemDisplay[t41]:[T4] %NAME%%CONTINUE%//
+ItemDisplay[t11 OR t12 OR t13]:[T1] %NAME%%NL%ooo%CONTINUE%//
+ItemDisplay[t21 OR t22 OR t23]:[T2] %NAME%%NL%ooo%CONTINUE%//
+ItemDisplay[t31 OR t32 OR t33 OR t34]:[T3] %NAME%%NL%ooo%CONTINUE%//
+ItemDisplay[t41]:[T4] %NAME%%NL%ooo%CONTINUE%//
 
 ///// Corruptions /////
 ItemDisplay[lbox]:%NAME%%NL%ooo{%TAN%One-Handed: 1-2 Two-Handed: 1-4%NL%Helmet: 1-2 Chest: 1-2 Shield: 1-2}%BORDER-0A%//
@@ -20,7 +20,7 @@ ItemDisplay[MAG  t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR 
 ItemDisplay[RARE t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42]:%NAME%{%YELLOW%Map%WHITE%%GRAY%: (%YELLOW%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%GOLD%Horadrim Orb%GRAY%)}%BORDER-0A%//
 
 ///// Diablo Clone /////
-ItemDisplay[dcho]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Black Soulstone%GRAY%+%ORANGE%Prime Evil Soul%GRAY%+%ORANGE%Pure Demonic Essence%GRAY%)%NL%%TAN%Complete an Uber}//
-ItemDisplay[dcso]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Prime Evil Soul%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Pure Demonic Essence%GRAY%)%NL%%TAN%Hell Diablo / Hell Baal}//
-ItemDisplay[dcbl]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Pure Demonic Essence%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Prime Evil Soul%GRAY%)%NL%%TAN%Map Bosses}//
-ItemDisplay[dcma]:%NAME%//
+ItemDisplay[dcho]:%NAME%%NL%ooo{%RED%Vision of Terror%GRAY%: (%ORANGE%Black Soulstone%GRAY%+%ORANGE%Prime Evil Soul%GRAY%+%ORANGE%Pure Demonic Essence%GRAY%)%NL%%TAN%Complete an Uber}//
+ItemDisplay[dcso]:%NAME%%NL%ooo{%RED%Vision of Terror%GRAY%: (%ORANGE%Prime Evil Soul%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Pure Demonic Essence%GRAY%)%NL%%TAN%Hell Diablo / Hell Baal}//
+ItemDisplay[dcbl]:%NAME%%NL%ooo{%RED%Vision of Terror%GRAY%: (%ORANGE%Pure Demonic Essence%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Prime Evil Soul%GRAY%)%NL%%TAN%Map Bosses}//
+ItemDisplay[dcma]:%NAME%%NL%ooo//
