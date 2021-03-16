@@ -1,7 +1,7 @@
 ///// Prefix /////
 ItemDisplay[t11 OR t12 OR t13]:[T1] %NAME%%NL%ooo%CONTINUE%//
 ItemDisplay[t21 OR t22 OR t23]:[T2] %NAME%%NL%ooo%CONTINUE%//
-ItemDisplay[t31 OR t32 OR t33 OR t34]:[T3] %NAME%%NL%ooo%CONTINUE%//
+ItemDisplay[t31 OR t32 OR t33 OR t34 OR t35 OR t36]:[T3] %NAME%%NL%ooo%CONTINUE%//
 ItemDisplay[t41]:[T4] %NAME%%NL%ooo%CONTINUE%//
 
 ///// Corruptions /////
