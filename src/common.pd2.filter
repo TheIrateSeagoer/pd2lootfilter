@@ -19,16 +19,16 @@ ItemDisplay[skzs]:%ORANGE%Perfect Skull Stack%NL%ooo%PX-0A%//
 ///// Normal Runes /////
 ItemDisplay[r01s]:%ORANGE%El Stack%NL%ooo{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
 ItemDisplay[r02s]:%ORANGE%Eld Stack%NL%ooo{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
-ItemDisplay[r03s]:%ORANGE%Tir Stack%NL%ooo{%NAME%%TAN%Rune Number:  3}%DOT-0A%//
-ItemDisplay[r04s]:%ORANGE%Nef Stack%NL%ooo{%NAME%%TAN%Rune Number:  4}%DOT-0A%//
-ItemDisplay[r05s]:%ORANGE%Eth Stack%NL%ooo{%NAME%%TAN%Rune Number:  5}%DOT-0A%//
-ItemDisplay[r06s]:%ORANGE%Ith Stack%NL%ooo{%NAME%%TAN%Rune Number:  6}%DOT-0A%//
-ItemDisplay[r07s]:%ORANGE%Tal Stack%NL%ooo{%NAME%%TAN%Rune Number:  7}%DOT-0A%//
-ItemDisplay[r08s]:%ORANGE%Ral Stack%NL%ooo{%NAME%%TAN%Rune Number:  8}%DOT-0A%//
-ItemDisplay[r09s]:%ORANGE%Ort Stack%NL%ooo{%NAME%%TAN%Rune Number:  9}%DOT-0A%//
-ItemDisplay[r10s]:%ORANGE%Thul Stack%NL%ooo{%NAME%%TAN%Rune Number: 10}%DOT-0A%//
-ItemDisplay[r11s]:%ORANGE%Amn Stack%NL%ooo{%NAME%%TAN%Rune Number: 11}%DOT-0A%//
-ItemDisplay[r12s]:%ORANGE%Sol Stack%NL%ooo{%NAME%%TAN%Rune Number: 12}%DOT-0A%//
+ItemDisplay[r03s]:%ORANGE%Tir Stack%NL%ooo{%NAME%%ORANGE%Caster: Weapon%NL%Hit Power: Weapon%NL%%TAN%Rune Number:  3}%DOT-0A%//
+ItemDisplay[r04s]:%ORANGE%Nef Stack%NL%ooo{%NAME%%ORANGE%Blood: Gloves%NL%Caster: Helm%NL%Hit Power: Body%NL%Safety: Shield%TAN%Rune Number:  4}%DOT-0A%//
+ItemDisplay[r05s]:%ORANGE%Eth Stack%NL%ooo{%NAME%%ORANGE%Blood: Boots%NL%Caster: Shield%NL%Hit Power: Shield%NL%Safety: Body%TAN%Rune Number:  5}%DOT-0A%//
+ItemDisplay[r06s]:%ORANGE%Ith Stack%NL%ooo{%NAME%%ORANGE%Blood: Shield%NL%Caster: Belt%NL%Hit Power: Helm%NL%Safety: Helm%TAN%Rune Number:  6}%DOT-0A%//
+ItemDisplay[r07s]:%ORANGE%Tal Stack%NL%ooo{%NAME%%ORANGE%Blood: Belt%NL%Caster: Body%NL%Safety: Belt%NL%%TAN%Rune Number:  7}%DOT-0A%//
+ItemDisplay[r08s]:%ORANGE%Ral Stack%NL%ooo{%NAME%%ORANGE%Blood: Helm%NL%Caster: Amulet%NL%Hit Power: Boots%NL%Safety: Gloves%NL%%TAN%Rune Number:  8}%DOT-0A%//
+ItemDisplay[r09s]:%ORANGE%Ort Stack%NL%ooo{%NAME%%ORANGE%Blood: Weapon%NL%Caster: Gloves%NL%Hit Power: Gloves%NL%Safety: Boots%NL%%TAN%Rune Number:  9}%DOT-0A%//
+ItemDisplay[r10s]:%ORANGE%Thul Stack%NL%ooo{%NAME%%ORANGE%Blood: Body%NL%Caster: Boots%NL%Hit Power: Amulet%NL%Safety: Amulet%NL%%TAN%Rune Number: 10}%DOT-0A%//
+ItemDisplay[r11s]:%ORANGE%Amn Stack%NL%ooo{%NAME%%ORANGE%Blood: Amulet%NL%Caster: Ring%NL%Hit Power: Ring%NL%Safety: Ring%TAN%Rune Number: 11}%DOT-0A%//
+ItemDisplay[r12s]:%ORANGE%Sol Stack%NL%ooo{%NAME%%ORANGE%Blood: Ring%NL%Safety: Crossbow/Bow%NL%%TAN%Rune Number: 12}%DOT-0A%//
 ItemDisplay[r13s]:%ORANGE%Shael Stack%NL%ooo{%NAME%%TAN%Rune Number: 13}%DOT-0A%//
 ItemDisplay[r14s]:%ORANGE%Dol Stack%NL%ooo{%NAME%%TAN%Rune Number: 14}%DOT-0A%//
 
