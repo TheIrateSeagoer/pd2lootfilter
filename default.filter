@@ -69,7 +69,7 @@ ItemDisplay[hp2 CLVL>29]://
 ItemDisplay[hp2 CLVL<30]:%RED%@%WHITE%Light//
 ItemDisplay[hp3 CLVL>49]://
 ItemDisplay[hp3 CLVL<50]:%RED%@%WHITE%Healing//
-ItemDisplay[hp4 CLVL>79]://
+ItemDisplay[hp4 (CLVL>79 OR DIFF>1)]://
 ItemDisplay[hp4 CLVL<80]:%RED%@%WHITE%Greater//
 ItemDisplay[hp5]:%RED%@%WHITE%Super//
 ItemDisplay[mp1 CLVL>29]://
@@ -78,7 +78,7 @@ ItemDisplay[mp2 CLVL>29]://
 ItemDisplay[mp2 CLVL<30]:%BLUE%@%WHITE%Light//
 ItemDisplay[mp3 CLVL>49]://
 ItemDisplay[mp3 CLVL<50]:%BLUE%@%WHITE%Mana//
-ItemDisplay[mp4 CLVL>79]://
+ItemDisplay[mp4 (CLVL>79 OR DIFF>1)]://
 ItemDisplay[mp4 CLVL<80]:%BLUE%@%WHITE%Greater//
 ItemDisplay[mp5]:%BLUE%@%WHITE%Super//
 ItemDisplay[rvs]:%PURPLE%@%WHITE%Rejuv//
