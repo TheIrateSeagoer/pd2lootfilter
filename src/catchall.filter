@@ -3,15 +3,15 @@ ItemDisplay[UNI !ID]:%CODE%:%NAME%%PX-0A%//
 ItemDisplay[SET !ID]:%CODE%:%NAME%%PX-0A%//
 
 ////// Fix Shop Sell colors with the re-color at the end of the item name /////
-ItemDisplay[MAG !ID cm1]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%BLUE%//
-ItemDisplay[MAG !ID cm2]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%BLUE%//
-ItemDisplay[MAG !ID cm3]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%BLUE%//
-ItemDisplay[MAG !ID rin]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%BLUE%//
-ItemDisplay[MAG !ID amu]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%BLUE%//
-ItemDisplay[MAG !ID jew]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%BLUE%//
-ItemDisplay[RARE !ID rin]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%YELLOW%//
-ItemDisplay[RARE !ID amu]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%YELLOW%//
-ItemDisplay[RARE !ID jew]:%NAME% %TAN%Lv%ILVL%%NL%ooo%PX-0A%%YELLOW%//
+ItemDisplay[MAG !ID cm1]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
+ItemDisplay[MAG !ID cm2]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
+ItemDisplay[MAG !ID cm3]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
+ItemDisplay[MAG !ID rin]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%//
+ItemDisplay[MAG !ID amu]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
+ItemDisplay[MAG !ID jew]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
+ItemDisplay[RARE !ID rin]:%PX-OA%%TAN%Lv%ILVL% %YELLOW%%NAME%//
+ItemDisplay[RARE !ID amu]:%PX-OA%%TAN%Lv%ILVL% %YELLOW%%NAME%%NL%ooo//
+ItemDisplay[RARE !ID jew]:%PX-OA%%TAN%Lv%ILVL% %YELLOW%%NAME%%NL%ooo//
 
 ////// Junk Reduction /////
 ItemDisplay[NMAG SOCK=1]://
