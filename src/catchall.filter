@@ -9,9 +9,9 @@ ItemDisplay[MAG !ID cm3]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
 ItemDisplay[MAG !ID rin]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%//
 ItemDisplay[MAG !ID amu]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
 ItemDisplay[MAG !ID jew]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
-ItemDisplay[RARE !ID rin]:%PX-OA%%TAN%Lv%ILVL% %YELLOW%%NAME%//
-ItemDisplay[RARE !ID amu]:%PX-OA%%TAN%Lv%ILVL% %YELLOW%%NAME%%NL%ooo//
-ItemDisplay[RARE !ID jew]:%PX-OA%%TAN%Lv%ILVL% %YELLOW%%NAME%%NL%ooo//
+ItemDisplay[RARE !ID rin]:%PX-0A%%TAN%Lv%ILVL% %YELLOW%%NAME%//
+ItemDisplay[RARE !ID amu]:%PX-0A%%TAN%Lv%ILVL% %YELLOW%%NAME%%NL%ooo//
+ItemDisplay[RARE !ID jew]:%PX-0A%%TAN%Lv%ILVL% %YELLOW%%NAME%%NL%ooo//
 
 ////// Junk Reduction /////
 ItemDisplay[NMAG SOCK=1]://
