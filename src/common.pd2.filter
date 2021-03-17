@@ -8,13 +8,13 @@ ItemDisplay[glws]:%ORANGE%Flawless Diamond Stack%NL%ooo%PX-0A%//
 ItemDisplay[skls]:%ORANGE%Flawless Skull Stack%NL%ooo%PX-0A%//
 
 ///// Perfect Gems /////
-ItemDisplay[gpvs]:%ORANGE%Perfect Amethyst Stack%NL%ooo%PX-0A%//
-ItemDisplay[gpys]:%ORANGE%Perfect Topaz Stack%NL%ooo%PX-0A%//
-ItemDisplay[gpbs]:%ORANGE%Perfect Sapphire Stack%NL%ooo%PX-0A%//
-ItemDisplay[gpgs]:%ORANGE%Perfect Emerald Stack%NL%ooo%PX-0A%//
-ItemDisplay[gprs]:%ORANGE%Perfect Ruby Stack%NL%ooo%PX-0A%//
-ItemDisplay[gpws]:%ORANGE%Perfect Diamond Stack%NL%ooo%PX-0A%//
-ItemDisplay[skzs]:%ORANGE%Perfect Skull Stack%NL%ooo%PX-0A%//
+ItemDisplay[gpvs]:%RED%Perfect Amethyst Stack%NL%ooo%DOT-0A%//
+ItemDisplay[gpys]:%RED%Perfect Topaz Stack%NL%ooo%DOT-0A%//
+ItemDisplay[gpbs]:%RED%Perfect Sapphire Stack%NL%ooo%DOT-0A%//
+ItemDisplay[gpgs]:%RED%Perfect Emerald Stack%NL%ooo%DOT-0A%//
+ItemDisplay[gprs]:%RED%Perfect Ruby Stack%NL%ooo%DOT-0A%//
+ItemDisplay[gpws]:%RED%Perfect Diamond Stack%NL%ooo%DOT-0A%//
+ItemDisplay[skzs]:%RED%Perfect Skull Stack%NL%ooo%DOT-0A%//
 
 ///// Normal Runes /////
 ItemDisplay[r01s]:%ORANGE%El Stack%NL%ooo{%NAME%%TAN%Rune Number:  1}%DOT-0A%//

@@ -148,13 +148,13 @@ ItemDisplay[glg]:%ORANGE%Flawless Emerald%NL%ooo%PX-0A%//
 ItemDisplay[glr]:%ORANGE%Flawless Ruby%NL%ooo%PX-0A%//
 ItemDisplay[glw]:%ORANGE%Flawless Diamond%NL%ooo%PX-0A%//
 ItemDisplay[skl]:%ORANGE%Flawless Skull%NL%ooo%PX-0A%//
-ItemDisplay[gpv]:%ORANGE%Perfect Amethyst%NL%ooo%PX-0A%//
-ItemDisplay[gpy]:%ORANGE%Perfect Topaz%NL%ooo%PX-0A%//
-ItemDisplay[gpb]:%ORANGE%Perfect Sapphire%NL%ooo%PX-0A%//
-ItemDisplay[gpg]:%ORANGE%Perfect Emerald%NL%ooo%PX-0A%//
-ItemDisplay[gpr]:%ORANGE%Perfect Ruby%NL%ooo%PX-0A%//
-ItemDisplay[gpw]:%ORANGE%Perfect Diamond%NL%ooo%PX-0A%//
-ItemDisplay[skz]:%ORANGE%Perfect Skull%NL%ooo%PX-0A%//
+ItemDisplay[gpv]:%RED%Perfect Amethyst%NL%ooo%DOT-0A%//
+ItemDisplay[gpy]:%RED%Perfect Topaz%NL%ooo%DOT-0A%//
+ItemDisplay[gpb]:%RED%Perfect Sapphire%NL%ooo%DOT-0A%//
+ItemDisplay[gpg]:%RED%Perfect Emerald%NL%ooo%DOT-0A%//
+ItemDisplay[gpr]:%RED%Perfect Ruby%NL%ooo%DOT-0A%//
+ItemDisplay[gpw]:%RED%Perfect Diamond%NL%ooo%DOT-0A%//
+ItemDisplay[skz]:%RED%Perfect Skull%NL%ooo%DOT-0A%//
 ItemDisplay[r01]:%ORANGE%El Rune%NL%ooo{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
 ItemDisplay[r02]:%ORANGE%Eld Rune%NL%ooo{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
 ItemDisplay[r03]:%ORANGE%Tir Rune%NL%ooo{%NAME%%TAN%Rune Number:  3}%DOT-0A%//
@@ -195,13 +195,13 @@ ItemDisplay[glgs]:%ORANGE%Flawless Emerald Stack%NL%ooo%PX-0A%//
 ItemDisplay[glrs]:%ORANGE%Flawless Ruby Stack%NL%ooo%PX-0A%//
 ItemDisplay[glws]:%ORANGE%Flawless Diamond Stack%NL%ooo%PX-0A%//
 ItemDisplay[skls]:%ORANGE%Flawless Skull Stack%NL%ooo%PX-0A%//
-ItemDisplay[gpvs]:%ORANGE%Perfect Amethyst Stack%NL%ooo%PX-0A%//
-ItemDisplay[gpys]:%ORANGE%Perfect Topaz Stack%NL%ooo%PX-0A%//
-ItemDisplay[gpbs]:%ORANGE%Perfect Sapphire Stack%NL%ooo%PX-0A%//
-ItemDisplay[gpgs]:%ORANGE%Perfect Emerald Stack%NL%ooo%PX-0A%//
-ItemDisplay[gprs]:%ORANGE%Perfect Ruby Stack%NL%ooo%PX-0A%//
-ItemDisplay[gpws]:%ORANGE%Perfect Diamond Stack%NL%ooo%PX-0A%//
-ItemDisplay[skzs]:%ORANGE%Perfect Skull Stack%NL%ooo%PX-0A%//
+ItemDisplay[gpvs]:%RED%Perfect Amethyst Stack%NL%ooo%DOT-0A%//
+ItemDisplay[gpys]:%RED%Perfect Topaz Stack%NL%ooo%DOT-0A%//
+ItemDisplay[gpbs]:%RED%Perfect Sapphire Stack%NL%ooo%DOT-0A%//
+ItemDisplay[gpgs]:%RED%Perfect Emerald Stack%NL%ooo%DOT-0A%//
+ItemDisplay[gprs]:%RED%Perfect Ruby Stack%NL%ooo%DOT-0A%//
+ItemDisplay[gpws]:%RED%Perfect Diamond Stack%NL%ooo%DOT-0A%//
+ItemDisplay[skzs]:%RED%Perfect Skull Stack%NL%ooo%DOT-0A%//
 ItemDisplay[r01s]:%ORANGE%El Stack%NL%ooo{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
 ItemDisplay[r02s]:%ORANGE%Eld Stack%NL%ooo{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
 ItemDisplay[r03s]:%ORANGE%Tir Stack%NL%ooo{%NAME%%ORANGE%Caster: Weapon%NL%Hit Power: Weapon%NL%%TAN%Rune Number:  3}%DOT-0A%//

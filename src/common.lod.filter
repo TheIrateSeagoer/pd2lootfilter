@@ -130,13 +130,13 @@ ItemDisplay[glw]:%ORANGE%Flawless Diamond%NL%ooo%PX-0A%//
 ItemDisplay[skl]:%ORANGE%Flawless Skull%NL%ooo%PX-0A%//
 
 ///// Perfect Gems /////
-ItemDisplay[gpv]:%ORANGE%Perfect Amethyst%NL%ooo%PX-0A%//
-ItemDisplay[gpy]:%ORANGE%Perfect Topaz%NL%ooo%PX-0A%//
-ItemDisplay[gpb]:%ORANGE%Perfect Sapphire%NL%ooo%PX-0A%//
-ItemDisplay[gpg]:%ORANGE%Perfect Emerald%NL%ooo%PX-0A%//
-ItemDisplay[gpr]:%ORANGE%Perfect Ruby%NL%ooo%PX-0A%//
-ItemDisplay[gpw]:%ORANGE%Perfect Diamond%NL%ooo%PX-0A%//
-ItemDisplay[skz]:%ORANGE%Perfect Skull%NL%ooo%PX-0A%//
+ItemDisplay[gpv]:%RED%Perfect Amethyst%NL%ooo%DOT-0A%//
+ItemDisplay[gpy]:%RED%Perfect Topaz%NL%ooo%DOT-0A%//
+ItemDisplay[gpb]:%RED%Perfect Sapphire%NL%ooo%DOT-0A%//
+ItemDisplay[gpg]:%RED%Perfect Emerald%NL%ooo%DOT-0A%//
+ItemDisplay[gpr]:%RED%Perfect Ruby%NL%ooo%DOT-0A%//
+ItemDisplay[gpw]:%RED%Perfect Diamond%NL%ooo%DOT-0A%//
+ItemDisplay[skz]:%RED%Perfect Skull%NL%ooo%DOT-0A%//
 
 ///// Normal Runes /////
 ItemDisplay[r01]:%ORANGE%El Rune%NL%ooo{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
