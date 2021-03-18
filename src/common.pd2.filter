@@ -1,20 +1,20 @@
 ///// Flawless Gems /////
-ItemDisplay[gzvs]:%ORANGE%Flawless Amethyst Stack%NL%ooo%PX-0A%//
-ItemDisplay[glys]:%ORANGE%Flawless Topaz Stack%NL%ooo%PX-0A%//
-ItemDisplay[glbs]:%ORANGE%Flawless Sapphire Stack%NL%ooo%PX-0A%//
-ItemDisplay[glgs]:%ORANGE%Flawless Emerald Stack%NL%ooo%PX-0A%//
-ItemDisplay[glrs]:%ORANGE%Flawless Ruby Stack%NL%ooo%PX-0A%//
-ItemDisplay[glws]:%ORANGE%Flawless Diamond Stack%NL%ooo%PX-0A%//
-ItemDisplay[skls]:%ORANGE%Flawless Skull Stack%NL%ooo%PX-0A%//
+ItemDisplay[gzvs]:%ORANGE%Flawless Amethyst Stack%NL%ooo{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%PX-0A%//
+ItemDisplay[glys]:%ORANGE%Flawless Topaz Stack%NL%ooo{%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
+ItemDisplay[glbs]:%ORANGE%Flawless Sapphire Stack%NL%ooo{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%PX-0A%//
+ItemDisplay[glgs]:%ORANGE%Flawless Emerald Stack%NL%ooo{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%PX-0A%//
+ItemDisplay[glrs]:%ORANGE%Flawless Ruby Stack%NL%ooo{%ORANGE%Blood Crafting}%PX-0A%//
+ItemDisplay[glws]:%ORANGE%Flawless Diamond Stack%NL%ooo{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
+ItemDisplay[skls]:%ORANGE%Flawless Skull Stack%NL%ooo{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%PX-0A%//
 
 ///// Perfect Gems /////
-ItemDisplay[gpvs]:%RED%Perfect Amethyst Stack%NL%ooo%DOT-0A%//
-ItemDisplay[gpys]:%RED%Perfect Topaz Stack%NL%ooo%DOT-0A%//
-ItemDisplay[gpbs]:%RED%Perfect Sapphire Stack%NL%ooo%DOT-0A%//
-ItemDisplay[gpgs]:%RED%Perfect Emerald Stack%NL%ooo%DOT-0A%//
-ItemDisplay[gprs]:%RED%Perfect Ruby Stack%NL%ooo%DOT-0A%//
-ItemDisplay[gpws]:%RED%Perfect Diamond Stack%NL%ooo%DOT-0A%//
-ItemDisplay[skzs]:%RED%Perfect Skull Stack%NL%ooo%DOT-0A%//
+ItemDisplay[gpvs]:%RED%Perfect Amethyst Stack%NL%ooo{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
+ItemDisplay[gpys]:%RED%Perfect Topaz Stack%NL%ooo{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[gpbs]:%RED%Perfect Sapphire Stack%NL%ooo{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
+ItemDisplay[gpgs]:%RED%Perfect Emerald Stack%NL%ooo{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
+ItemDisplay[gprs]:%RED%Perfect Ruby Stack%NL%ooo{%ORANGE%Blood Crafting}%DOT-0A%//
+ItemDisplay[gpws]:%RED%Perfect Diamond Stack%NL%ooo{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[skzs]:%RED%Perfect Skull Stack%NL%ooo{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
 
 ///// Normal Runes /////
 ItemDisplay[r01s]:%ORANGE%[01] El Stack%NL%ooo{%NAME%%TAN%Rune Number:  1}%DOT-0A%//

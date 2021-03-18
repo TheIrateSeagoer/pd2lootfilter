@@ -37,4 +37,3 @@ ItemDisplay[MAG BELT]:%NAME%{%NAME%%ORANGE%Blood: Tal Caster: Ith Power: Tal Saf
 ItemDisplay[MAG BOOTS]:%NAME%{%NAME%%ORANGE%Blood: Eth Caster: Thul Power: Ral Safety: Ort%NL%}%CONTINUE%//
 ItemDisplay[MAG amu]:%NAME%{%NAME%%ORANGE%Blood: Amn Caster: Ral Power: Thul Safety: Thul}%CONTINUE%//
 ItemDisplay[MAG rin]:%NAME%{%NAME%%ORANGE%Blood: Sol Caster: Amn Power: Amn Safety: Amn}%CONTINUE%//
-ItemDisplay[MAG jew]:%NAME%{%ORANGE%Crafting%TAN%: (Blood: Ruby/Caster: Amethyst/Power: Sapphire/Safety: Emerald)}%CONTINUE%//

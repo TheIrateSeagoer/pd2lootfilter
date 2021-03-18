@@ -105,7 +105,7 @@ ItemDisplay[tsc DIFF>0]:TP//
 ItemDisplay[tsc]:Town//
 ItemDisplay[isc DIFF>0]:ID//
 ItemDisplay[isc]:Ident//
-ItemDisplay[key]:Key{%TAN%See Magic Item for Rune%NL%%TAN%See Jewel for Gem%NL%%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Nef-Sol)%GRAY%+%BLUE%Item%GRAY%)}//
+ItemDisplay[key]:Key{%TAN%See Gem for uses%NL%See %BLUE%Item%TAN% for Rune%NL%%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Nef-Sol)%GRAY%+%BLUE%Item%GRAY%)}//
 ItemDisplay[gcv DIFF>0]://
 ItemDisplay[gcy DIFF>0]://
 ItemDisplay[gcb DIFF>0]://
@@ -141,20 +141,20 @@ ItemDisplay[gsg]:%DARK_GREEN%Emerald%WHITE%//
 ItemDisplay[gsr]:%DARK_GREEN%Ruby%WHITE%//
 ItemDisplay[gsw]:%DARK_GREEN%Diamond%WHITE%//
 ItemDisplay[sku]:%DARK_GREEN%Skull%WHITE%//
-ItemDisplay[gzv]:%ORANGE%Flawless Amethyst%NL%ooo%PX-0A%//
-ItemDisplay[gly]:%ORANGE%Flawless Topaz%NL%ooo%PX-0A%//
-ItemDisplay[glb]:%ORANGE%Flawless Sapphire%NL%ooo%PX-0A%//
-ItemDisplay[glg]:%ORANGE%Flawless Emerald%NL%ooo%PX-0A%//
-ItemDisplay[glr]:%ORANGE%Flawless Ruby%NL%ooo%PX-0A%//
-ItemDisplay[glw]:%ORANGE%Flawless Diamond%NL%ooo%PX-0A%//
-ItemDisplay[skl]:%ORANGE%Flawless Skull%NL%ooo%PX-0A%//
-ItemDisplay[gpv]:%RED%Perfect Amethyst%NL%ooo%DOT-0A%//
-ItemDisplay[gpy]:%RED%Perfect Topaz%NL%ooo%DOT-0A%//
-ItemDisplay[gpb]:%RED%Perfect Sapphire%NL%ooo%DOT-0A%//
-ItemDisplay[gpg]:%RED%Perfect Emerald%NL%ooo%DOT-0A%//
-ItemDisplay[gpr]:%RED%Perfect Ruby%NL%ooo%DOT-0A%//
-ItemDisplay[gpw]:%RED%Perfect Diamond%NL%ooo%DOT-0A%//
-ItemDisplay[skz]:%RED%Perfect Skull%NL%ooo%PX-0A%//
+ItemDisplay[gzv]:%ORANGE%Flawless Amethyst%NL%ooo{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%PX-0A%//
+ItemDisplay[gly]:%ORANGE%Flawless Topaz%NL%ooo{%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
+ItemDisplay[glb]:%ORANGE%Flawless Sapphire%NL%ooo{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%PX-0A%//
+ItemDisplay[glg]:%ORANGE%Flawless Emerald%NL%ooo{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%PX-0A%//
+ItemDisplay[glr]:%ORANGE%Flawless Ruby%NL%ooo{%ORANGE%Blood Crafting}%PX-0A%//
+ItemDisplay[glw]:%ORANGE%Flawless Diamond%NL%ooo{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
+ItemDisplay[skl]:%ORANGE%Flawless Skull%NL%ooo{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%PX-0A%//
+ItemDisplay[gpv]:%RED%Perfect Amethyst%NL%ooo{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
+ItemDisplay[gpy]:%RED%Perfect Topaz%NL%ooo{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[gpb]:%RED%Perfect Sapphire%NL%ooo{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
+ItemDisplay[gpg]:%RED%Perfect Emerald%NL%ooo{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
+ItemDisplay[gpr]:%RED%Perfect Ruby%NL%ooo{%ORANGE%Blood Crafting}%DOT-0A%//
+ItemDisplay[gpw]:%RED%Perfect Diamond%NL%ooo{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[skz]:%RED%Perfect Skull%NL%ooo{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
 ItemDisplay[r01]:%ORANGE%[01] El Rune%NL%ooo{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
 ItemDisplay[r02]:%ORANGE%[02] Eld Rune%NL%ooo{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
 ItemDisplay[r03]:%ORANGE%[03] Tir Rune%NL%ooo{%NAME%%TAN%Rune Number:  3}%DOT-0A%//
@@ -188,20 +188,20 @@ ItemDisplay[r30]:%PURPLE%[30] Ber Rune%NL%ooo{%NAME%%TAN%Rune Number: 30}%BORDER
 ItemDisplay[r31]:%PURPLE%[31] Jah Rune%NL%ooo{%NAME%%TAN%Rune Number: 31}%BORDER-0A%//
 ItemDisplay[r32]:%PURPLE%[32] Cham Rune%NL%ooo{%NAME%%TAN%Rune Number: 32}%BORDER-0A%//
 ItemDisplay[r33]:%PURPLE%[33] Zod Rune%NL%ooo{%NAME%%TAN%Rune Number: 33}%BORDER-0A%//
-ItemDisplay[gzvs]:%ORANGE%Flawless Amethyst Stack%NL%ooo%PX-0A%//
-ItemDisplay[glys]:%ORANGE%Flawless Topaz Stack%NL%ooo%PX-0A%//
-ItemDisplay[glbs]:%ORANGE%Flawless Sapphire Stack%NL%ooo%PX-0A%//
-ItemDisplay[glgs]:%ORANGE%Flawless Emerald Stack%NL%ooo%PX-0A%//
-ItemDisplay[glrs]:%ORANGE%Flawless Ruby Stack%NL%ooo%PX-0A%//
-ItemDisplay[glws]:%ORANGE%Flawless Diamond Stack%NL%ooo%PX-0A%//
-ItemDisplay[skls]:%ORANGE%Flawless Skull Stack%NL%ooo%PX-0A%//
-ItemDisplay[gpvs]:%RED%Perfect Amethyst Stack%NL%ooo%DOT-0A%//
-ItemDisplay[gpys]:%RED%Perfect Topaz Stack%NL%ooo%DOT-0A%//
-ItemDisplay[gpbs]:%RED%Perfect Sapphire Stack%NL%ooo%DOT-0A%//
-ItemDisplay[gpgs]:%RED%Perfect Emerald Stack%NL%ooo%DOT-0A%//
-ItemDisplay[gprs]:%RED%Perfect Ruby Stack%NL%ooo%DOT-0A%//
-ItemDisplay[gpws]:%RED%Perfect Diamond Stack%NL%ooo%DOT-0A%//
-ItemDisplay[skzs]:%RED%Perfect Skull Stack%NL%ooo%DOT-0A%//
+ItemDisplay[gzvs]:%ORANGE%Flawless Amethyst Stack%NL%ooo{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%PX-0A%//
+ItemDisplay[glys]:%ORANGE%Flawless Topaz Stack%NL%ooo{%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
+ItemDisplay[glbs]:%ORANGE%Flawless Sapphire Stack%NL%ooo{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%PX-0A%//
+ItemDisplay[glgs]:%ORANGE%Flawless Emerald Stack%NL%ooo{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%PX-0A%//
+ItemDisplay[glrs]:%ORANGE%Flawless Ruby Stack%NL%ooo{%ORANGE%Blood Crafting}%PX-0A%//
+ItemDisplay[glws]:%ORANGE%Flawless Diamond Stack%NL%ooo{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
+ItemDisplay[skls]:%ORANGE%Flawless Skull Stack%NL%ooo{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%PX-0A%//
+ItemDisplay[gpvs]:%RED%Perfect Amethyst Stack%NL%ooo{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
+ItemDisplay[gpys]:%RED%Perfect Topaz Stack%NL%ooo{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[gpbs]:%RED%Perfect Sapphire Stack%NL%ooo{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
+ItemDisplay[gpgs]:%RED%Perfect Emerald Stack%NL%ooo{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
+ItemDisplay[gprs]:%RED%Perfect Ruby Stack%NL%ooo{%ORANGE%Blood Crafting}%DOT-0A%//
+ItemDisplay[gpws]:%RED%Perfect Diamond Stack%NL%ooo{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[skzs]:%RED%Perfect Skull Stack%NL%ooo{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
 ItemDisplay[r01s]:%ORANGE%[01] El Stack%NL%ooo{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
 ItemDisplay[r02s]:%ORANGE%[02] Eld Stack%NL%ooo{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
 ItemDisplay[r03s]:%ORANGE%[03] Tir Stack%NL%ooo{%NAME%%ORANGE%Caster: Weapon%NL%Hit Power: Weapon%NL%%TAN%Rune Number:  3}%DOT-0A%//
@@ -11329,7 +11329,6 @@ ItemDisplay[MAG BELT]:%NAME%{%NAME%%ORANGE%Blood: Tal Caster: Ith Power: Tal Saf
 ItemDisplay[MAG BOOTS]:%NAME%{%NAME%%ORANGE%Blood: Eth Caster: Thul Power: Ral Safety: Ort%NL%}%CONTINUE%//
 ItemDisplay[MAG amu]:%NAME%{%NAME%%ORANGE%Blood: Amn Caster: Ral Power: Thul Safety: Thul}%CONTINUE%//
 ItemDisplay[MAG rin]:%NAME%{%NAME%%ORANGE%Blood: Sol Caster: Amn Power: Amn Safety: Amn}%CONTINUE%//
-ItemDisplay[MAG jew]:%NAME%{%ORANGE%Crafting%TAN%: (Blood: Ruby/Caster: Amethyst/Power: Sapphire/Safety: Emerald)}%CONTINUE%//
 ItemDisplay[ci0 ILVL<26]:%NAME%{%NAME%%TAN% Defense: 20-30 Durability: 35 Sockets: 1}%CONTINUE%//
 ItemDisplay[ci0 ILVL>25]:%NAME%{%NAME%%TAN% Defense: 20-30 Durability: 35 Sockets: 2}%CONTINUE%//
 ItemDisplay[ci1 ILVL<26]:%NAME%{%NAME%%TAN% Defense: 30-40 Durability: 30 Sockets: 1}%CONTINUE%//
