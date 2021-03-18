@@ -4,7 +4,7 @@ ItemDisplay[SET !ID]:%CODE%:%NAME%%PX-0A%//
 
 ////// Fix Shop Sell colors with the re-color at the end of the item name /////
 ItemDisplay[MAG !ID cm1]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
-ItemDisplay[MAG !ID cm2]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
+ItemDisplay[MAG !ID cm2]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%//
 ItemDisplay[MAG !ID cm3]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
 ItemDisplay[MAG !ID rin]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%//
 ItemDisplay[MAG !ID amu]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//

@@ -12680,7 +12680,7 @@ ItemDisplay[!RW NMAG (bsh OR xsh or ush) SOCK=3 CLVL<50]:%NAME%%NL%%PURPLE%Rhyme
 ItemDisplay[UNI !ID]:%CODE%:%NAME%%PX-0A%//
 ItemDisplay[SET !ID]:%CODE%:%NAME%%PX-0A%//
 ItemDisplay[MAG !ID cm1]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
-ItemDisplay[MAG !ID cm2]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
+ItemDisplay[MAG !ID cm2]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%//
 ItemDisplay[MAG !ID cm3]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
 ItemDisplay[MAG !ID rin]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%//
 ItemDisplay[MAG !ID amu]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
