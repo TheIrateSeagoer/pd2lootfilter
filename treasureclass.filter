@@ -11345,8 +11345,8 @@ ItemDisplay[SK280=1]:%NAME% +1 Phoenix Strike%CONTINUE%//
 ItemDisplay[SK366=3]:%NAME% +3 Lightning Sentry%CONTINUE%//
 ItemDisplay[SK366=2]:%NAME% +2 Lightning Sentry%CONTINUE%//
 ItemDisplay[SK366=1]:%NAME% +1 Lightning Sentry%CONTINUE%//
-ItemDisplay[GLOVES IAS=20]:%NAME%%RED% +20 IAS%CONTINUE%//
-ItemDisplay[GLOVES IAS=10]:%NAME%%GREEN% +10 IAS%CONTINUE%//
+ItemDisplay[GLOVES !SET !UNI IAS=20]:%NAME%%RED% +20 IAS%CONTINUE%//
+ItemDisplay[GLOVES !SET !UNI IAS=10]:%NAME%%GREEN% +10 IAS%CONTINUE%//
 ItemDisplay[RW]:%NAME%%GOLD%%CONTINUE%//
 ItemDisplay[NMAG SOCK=0]:%NAME%%WHITE%%CONTINUE%//
 ItemDisplay[NMAG SOCK>0 !RW]:%NAME%%GRAY%%CONTINUE%//
