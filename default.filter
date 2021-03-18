@@ -10417,109 +10417,109 @@ ItemDisplay[DIN AR=119]:%NAME%%RED%119%GRAY%]%CONTINUE%//
 ItemDisplay[DIN AR=120]:%NAME%%RED%120%GRAY%]%CONTINUE%//
 ItemDisplay[DIN AR=121]:%NAME%%PURPLE%121%GRAY%]%CONTINUE%//
 ItemDisplay[uui ED=0 DEF>420 DEF<467]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF>423 DEF<470]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF>426 DEF<474]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF>432 DEF<481]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF>440 DEF<489]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF>446 DEF<496]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF>450 DEF<501]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF>454 DEF<505]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF>465 DEF<517]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[uea ED=0 DEF>423 DEF<470]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ula ED=0 DEF>426 DEF<474]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[utu ED=0 DEF>432 DEF<481]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ung ED=0 DEF>440 DEF<489]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ucl ED=0 DEF>446 DEF<496]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[urs ED=0 DEF>450 DEF<501]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[uhn ED=0 DEF>454 DEF<505]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[upl ED=0 DEF>465 DEF<517]:%NAME% %RED%Good%CONTINUE%//
 ItemDisplay[utp ED=0 DEF>471 DEF<524]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF>470 DEF<523]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF>477 DEF<530]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF>486 DEF<541]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF>501 DEF<557]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
+ItemDisplay[uld ED=0 DEF>470 DEF<523]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ult ED=0 DEF>477 DEF<530]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[uth ED=0 DEF>486 DEF<541]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[uul ED=0 DEF>501 DEF<557]:%NAME% %RED%Good%CONTINUE%//
 ItemDisplay[uar ED=0 DEF>540 DEF<600]:%NAME% %RED%Good%DOT-0A%%CONTINUE%//
 ItemDisplay[SUP uui DEF=538]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP uea DEF=541]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP ula DEF=546]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP utu DEF=554]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP ung DEF=563]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP ucl DEF=571]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP urs DEF=577]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP uhn DEF=581]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP upl DEF=595]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[SUP uea DEF=541]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[SUP ula DEF=546]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[SUP utu DEF=554]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[SUP ung DEF=563]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[SUP ucl DEF=571]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[SUP urs DEF=577]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[SUP uhn DEF=581]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[SUP upl DEF=595]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
 ItemDisplay[SUP utp DEF=603]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP uld DEF=602]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP ult DEF=610]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP uth DEF=623]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP uul DEF=641]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[SUP uld DEF=602]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[SUP ult DEF=610]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[SUP uth DEF=623]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[SUP uul DEF=641]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
 ItemDisplay[SUP uar DEF=691]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
 ItemDisplay[SUP uui DEF>484 DEF<538]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP uea DEF>486 DEF<541]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP ula DEF>491 DEF<546]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP utu DEF>498 DEF<554]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP ung DEF>506 DEF<563]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP ucl DEF>513 DEF<571]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP urs DEF>519 DEF<577]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP uhn DEF>522 DEF<581]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP upl DEF>535 DEF<595]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
+ItemDisplay[SUP uea DEF>486 DEF<541]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[SUP ula DEF>491 DEF<546]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[SUP utu DEF>498 DEF<554]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[SUP ung DEF>506 DEF<563]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[SUP ucl DEF>513 DEF<571]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[SUP urs DEF>519 DEF<577]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[SUP uhn DEF>522 DEF<581]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[SUP upl DEF>535 DEF<595]:%NAME% %RED%Good%CONTINUE%//
 ItemDisplay[SUP utp DEF>542 DEF<603]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP uld DEF>541 DEF<602]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP ult DEF>549 DEF<610]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP uth DEF>560 DEF<623]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[SUP uul DEF>576 DEF<641]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
+ItemDisplay[SUP uld DEF>541 DEF<602]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[SUP ult DEF>549 DEF<610]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[SUP uth DEF>560 DEF<623]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[SUP uul DEF>576 DEF<641]:%NAME% %RED%Good%CONTINUE%//
 ItemDisplay[SUP uar DEF>621 DEF<691]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
 ItemDisplay[ETH uui ED=0 DEF>699]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH uea ED=0 DEF>704]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH ula ED=0 DEF>710]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH utu ED=0 DEF>720]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH ung ED=0 DEF>732]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH ucl ED=0 DEF>743]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH urs ED=0 DEF>750]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH uhn ED=0 DEF>756]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH upl ED=0 DEF>774]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH uea ED=0 DEF>704]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH ula ED=0 DEF>710]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH utu ED=0 DEF>720]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH ung ED=0 DEF>732]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH ucl ED=0 DEF>743]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH urs ED=0 DEF>750]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH uhn ED=0 DEF>756]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH upl ED=0 DEF>774]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
 ItemDisplay[ETH utp ED=0 DEF>785]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH uld ED=0 DEF>783]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH ult ED=0 DEF>794]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH uth ED=0 DEF>810]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH uul ED=0 DEF>834]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH uld ED=0 DEF>783]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH ult ED=0 DEF>794]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH uth ED=0 DEF>810]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH uul ED=0 DEF>834]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
 ItemDisplay[ETH uar ED=0 DEF>899]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
 ItemDisplay[ETH uui ED=0 DEF>630 DEF<699]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH uea ED=0 DEF>634 DEF<704]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH ula ED=0 DEF>639 DEF<710]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH utu ED=0 DEF>648 DEF<720]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH ung ED=0 DEF>659 DEF<732]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH ucl ED=0 DEF>669 DEF<743]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH urs ED=0 DEF>675 DEF<750]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH uhn ED=0 DEF>681 DEF<756]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH upl ED=0 DEF>697 DEF<774]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH uea ED=0 DEF>634 DEF<704]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH ula ED=0 DEF>639 DEF<710]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH utu ED=0 DEF>648 DEF<720]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH ung ED=0 DEF>659 DEF<732]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH ucl ED=0 DEF>669 DEF<743]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH urs ED=0 DEF>675 DEF<750]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH uhn ED=0 DEF>681 DEF<756]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH upl ED=0 DEF>697 DEF<774]:%NAME% %RED%Good%CONTINUE%//
 ItemDisplay[ETH utp ED=0 DEF>707 DEF<785]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH uld ED=0 DEF>705 DEF<783]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH ult ED=0 DEF>715 DEF<794]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH uth ED=0 DEF>729 DEF<810]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH uul ED=0 DEF>751 DEF<834]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH uld ED=0 DEF>705 DEF<783]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH ult ED=0 DEF>715 DEF<794]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH uth ED=0 DEF>729 DEF<810]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH uul ED=0 DEF>751 DEF<834]:%NAME% %RED%Good%CONTINUE%//
 ItemDisplay[ETH uar ED=0 DEF>810 DEF<899]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
 ItemDisplay[ETH SUP uui DEF=807]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP uea DEF=811]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP ula DEF=818]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP utu DEF=831]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP ung DEF=845]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP ucl DEF=856]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP urs DEF=865]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP uhn DEF=872]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP upl DEF=893]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH SUP uea DEF=811]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH SUP ula DEF=818]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH SUP utu DEF=831]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH SUP ung DEF=845]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH SUP ucl DEF=856]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH SUP urs DEF=865]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH SUP uhn DEF=872]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH SUP upl DEF=893]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
 ItemDisplay[ETH SUP utp DEF=905]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP uld DEF=903]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP ult DEF=915]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP uth DEF=934]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP uul DEF=962]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH SUP uld DEF=903]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH SUP ult DEF=915]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH SUP uth DEF=934]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
+ItemDisplay[ETH SUP uul DEF=962]:%NAME% %PURPLE%Perfect%DOT-0A%%CONTINUE%//
 ItemDisplay[ETH SUP uar DEF=1036]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
 ItemDisplay[ETH SUP uui DEF>726 DEF<807]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP uea DEF>729 DEF<811]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP ula DEF>736 DEF<818]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP utu DEF>747 DEF<831]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP ung DEF>760 DEF<845]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP ucl DEF>770 DEF<856]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP urs DEF>778 DEF<865]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP uhn DEF>784 DEF<872]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP upl DEF>803 DEF<893]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH SUP uea DEF>729 DEF<811]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH SUP ula DEF>736 DEF<818]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH SUP utu DEF>747 DEF<831]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH SUP ung DEF>760 DEF<845]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH SUP ucl DEF>770 DEF<856]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH SUP urs DEF>778 DEF<865]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH SUP uhn DEF>784 DEF<872]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH SUP upl DEF>803 DEF<893]:%NAME% %RED%Good%CONTINUE%//
 ItemDisplay[ETH SUP utp DEF>814 DEF<905]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP uld DEF>812 DEF<903]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP ult DEF>823 DEF<915]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP uth DEF>840 DEF<934]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
-ItemDisplay[ETH SUP uul DEF>865 DEF<962]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
+ItemDisplay[ETH SUP uld DEF>812 DEF<903]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH SUP ult DEF>823 DEF<915]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH SUP uth DEF>840 DEF<934]:%NAME% %RED%Good%CONTINUE%//
+ItemDisplay[ETH SUP uul DEF>865 DEF<962]:%NAME% %RED%Good%CONTINUE%//
 ItemDisplay[ETH SUP uar DEF>932 DEF<1036]:%NAME% %RED%Good%MAP-0A%%CONTINUE%//
 ItemDisplay[!RW !UNI PRICE>4999]:%NAME% %DARK_GREEN%$%CONTINUE%//
 ItemDisplay[!RW !UNI PRICE>9999]:%NAME%$%CONTINUE%//
