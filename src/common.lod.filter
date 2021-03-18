@@ -77,7 +77,7 @@ ItemDisplay[tsc DIFF>0]:TP//
 ItemDisplay[tsc]:Town//
 ItemDisplay[isc DIFF>0]:ID//
 ItemDisplay[isc]:Ident//
-ItemDisplay[key]:Key{%TAN%See Gem for uses%NL%See %BLUE%Item%TAN% for Rune%NL%%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Nef-Sol)%GRAY%+%BLUE%Item%GRAY%)}//
+ItemDisplay[key]:Key{%TAN%See Gem for uses%NL%See Rune/Item for uses%NL%%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Nef-Sol)%GRAY%+%BLUE%Item%GRAY%)}//
 
 ///// Chipped Gems /////
 ItemDisplay[gcv DIFF>0]://
