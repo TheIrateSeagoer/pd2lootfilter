@@ -838,7 +838,7 @@ ItemDisplay[SK366=1]:%NAME% +1 Lightning Sentry%CONTINUE%//
 
 
 ////// IAS /////
-ItemDisplay[IAS=20]:%NAME%%NL%%RED%+20 IAS%CONTINUE%//
-ItemDisplay[IAS=10]:%NAME%%NL%%GREEN%+10 IAS%CONTINUE%//
+ItemDisplay[GLOVES IAS=20]:%NAME%%RED% +20 IAS%CONTINUE%//
+ItemDisplay[GLOVES IAS=10]:%NAME%%GREEN% +10 IAS%CONTINUE%//
 
 
