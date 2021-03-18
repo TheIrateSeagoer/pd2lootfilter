@@ -1,15 +1,15 @@
 ////// Amazon /////
 ItemDisplay[TABSK0=3]:%NAME%%NL%%PURPLE%+3 Bow and Crossbow%CONTINUE%//
-ItemDisplay[TABSK0=2]:%NAME%%NL%%RED%+2 Bow and Crossbow%CONTINUE%//
-ItemDisplay[TABSK0=1]:%NAME%%NL%%GREEN%+1 Bow and Crossbow%CONTINUE%//
+ItemDisplay[TABSK0=2 CLVL<71]:%NAME%%NL%%RED%+2 Bow and Crossbow%CONTINUE%//
+ItemDisplay[TABSK0=1 CLVL<51]:%NAME%%NL%%GREEN%+1 Bow and Crossbow%CONTINUE%//
 
 ItemDisplay[TABSK1=3]:%NAME%%NL%%PURPLE%+3 Passive and Magic%CONTINUE%//
 ItemDisplay[TABSK1=2]:%NAME%%NL%%RED%+2 Passive and Magic%CONTINUE%//
 ItemDisplay[TABSK1=1]:%NAME%%NL%%GREEN%+1 Passive and Magic%CONTINUE%//
 
 ItemDisplay[TABSK2=3]:%NAME%%NL%%PURPLE%+3 Javelin and Spear%CONTINUE%//
-ItemDisplay[TABSK2=2]:%NAME%%NL%%RED%+2 Javelin and Spear%CONTINUE%//
-ItemDisplay[TABSK2=1]:%NAME%%NL%%GREEN%+1 Javelin and Spear%CONTINUE%//
+ItemDisplay[TABSK2=2 CLVL<71]:%NAME%%NL%%RED%+2 Javelin and Spear%CONTINUE%//
+ItemDisplay[TABSK2=1 CLVL<51]:%NAME%%NL%%GREEN%+1 Javelin and Spear%CONTINUE%//
 
 ////// Sorceress /////
 ItemDisplay[TABSK8=3]:%NAME%%NL%%PURPLE%+3 Fire%CONTINUE%//
