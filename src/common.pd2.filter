@@ -8,13 +8,13 @@ ItemDisplay[glws]:%ORANGE%Flawless Diamond Stack%NL%ooo{%TAN%Upgrade %GREEN%Armo
 ItemDisplay[skls]:%ORANGE%Flawless Skull Stack%NL%ooo{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%PX-0A%//
 
 ///// Perfect Gems /////
-ItemDisplay[gpvs]:%RED%Perfect Amethyst Stack%NL%ooo{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
-ItemDisplay[gpys]:%RED%Perfect Topaz Stack%NL%ooo{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
-ItemDisplay[gpbs]:%RED%Perfect Sapphire Stack%NL%ooo{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
-ItemDisplay[gpgs]:%RED%Perfect Emerald Stack%NL%ooo{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
-ItemDisplay[gprs]:%RED%Perfect Ruby Stack%NL%ooo{%ORANGE%Blood Crafting}%DOT-0A%//
-ItemDisplay[gpws]:%RED%Perfect Diamond Stack%NL%ooo{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
-ItemDisplay[skzs]:%RED%Perfect Skull Stack%NL%ooo{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
+ItemDisplay[gpvs]:%RED%Perfect Amethyst Stack%NL%oooo{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
+ItemDisplay[gpys]:%RED%Perfect Topaz Stack%NL%oooo{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[gpbs]:%RED%Perfect Sapphire Stack%NL%oooo{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
+ItemDisplay[gpgs]:%RED%Perfect Emerald Stack%NL%oooo{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
+ItemDisplay[gprs]:%RED%Perfect Ruby Stack%NL%oooo{%ORANGE%Blood Crafting}%DOT-0A%//
+ItemDisplay[gpws]:%RED%Perfect Diamond Stack%NL%oooo{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[skzs]:%RED%Perfect Skull Stack%NL%oooo{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
 
 ///// Normal Runes /////
 ItemDisplay[r01s]:%ORANGE%[01] El Stack%NL%ooo{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
@@ -33,24 +33,24 @@ ItemDisplay[r13s]:%ORANGE%[13] Shael Stack%NL%ooo{%NAME%%TAN%Rune Number: 13}%DO
 ItemDisplay[r14s]:%ORANGE%[14] Dol Stack%NL%ooo{%NAME%%TAN%Rune Number: 14}%DOT-0A%//
 
 ///// Nightmare Runes /////
-ItemDisplay[r15s]:%RED%[15] Hel Stack%NL%ooo{%NAME%%TAN%Rune Number: 15}%MAP-0A%//
-ItemDisplay[r16s]:%RED%[16] Io Stack%NL%ooo{%NAME%%TAN%Rune Number: 16}%MAP-0A%//
-ItemDisplay[r17s]:%RED%[17] Lum Stack%NL%ooo{%NAME%%TAN%Rune Number: 17}%MAP-0A%//
-ItemDisplay[r18s]:%RED%[18] Ko Stack%NL%ooo{%NAME%%TAN%Rune Number: 18}%MAP-0A%//
-ItemDisplay[r19s]:%RED%[19] Fal Stack%NL%ooo{%NAME%%TAN%Rune Number: 19}%MAP-0A%//
-ItemDisplay[r20s]:%RED%[20] Lem Stack%NL%ooo{%NAME%%TAN%Rune Number: 20}%MAP-0A%//
-ItemDisplay[r21s]:%RED%[21] Pul Stack%NL%ooo{%NAME%%TAN%Rune Number: 21}%MAP-0A%//
-ItemDisplay[r22s]:%RED%[22] Um Stack%NL%ooo{%NAME%%TAN%Rune Number: 22}%MAP-0A%//
-ItemDisplay[r23s]:%RED%[23] Mal Stack%NL%ooo{%NAME%%TAN%Rune Number: 23}%MAP-0A%//
-ItemDisplay[r24s]:%RED%[24] Ist Stack%NL%ooo{%NAME%%TAN%Rune Number: 24}%MAP-0A%//
+ItemDisplay[r15s]:%RED%[15] Hel Stack%NL%oooo{%NAME%%TAN%Rune Number: 15}%MAP-0A%//
+ItemDisplay[r16s]:%RED%[16] Io Stack%NL%oooo{%NAME%%TAN%Rune Number: 16}%MAP-0A%//
+ItemDisplay[r17s]:%RED%[17] Lum Stack%NL%oooo{%NAME%%TAN%Rune Number: 17}%MAP-0A%//
+ItemDisplay[r18s]:%RED%[18] Ko Stack%NL%oooo{%NAME%%TAN%Rune Number: 18}%MAP-0A%//
+ItemDisplay[r19s]:%RED%[19] Fal Stack%NL%oooo{%NAME%%TAN%Rune Number: 19}%MAP-0A%//
+ItemDisplay[r20s]:%RED%[20] Lem Stack%NL%oooo{%NAME%%TAN%Rune Number: 20}%MAP-0A%//
+ItemDisplay[r21s]:%RED%[21] Pul Stack%NL%oooo{%NAME%%TAN%Rune Number: 21}%MAP-0A%//
+ItemDisplay[r22s]:%RED%[22] Um Stack%NL%oooo{%NAME%%TAN%Rune Number: 22}%MAP-0A%//
+ItemDisplay[r23s]:%RED%[23] Mal Stack%NL%oooo{%NAME%%TAN%Rune Number: 23}%MAP-0A%//
+ItemDisplay[r24s]:%RED%[24] Ist Stack%NL%oooo{%NAME%%TAN%Rune Number: 24}%MAP-0A%//
 
 ///// Hell Runes /////
-ItemDisplay[r25s]:%PURPLE%[25] Gul Stack%NL%ooo{%NAME%%TAN%Rune Number: 25}%BORDER-0A%//
-ItemDisplay[r26s]:%PURPLE%[26] Vex Stack%NL%ooo{%NAME%%TAN%Rune Number: 26}%BORDER-0A%//
-ItemDisplay[r27s]:%PURPLE%[27] Ohm Stack%NL%ooo{%NAME%%TAN%Rune Number: 27}%BORDER-0A%//
-ItemDisplay[r28s]:%PURPLE%[28] Lo Stack%NL%ooo{%NAME%%TAN%Rune Number: 28}%BORDER-0A%//
-ItemDisplay[r29s]:%PURPLE%[29] Sur Stack%NL%ooo{%NAME%%TAN%Rune Number: 29}%BORDER-0A%//
-ItemDisplay[r30s]:%PURPLE%[30] Ber Stack%NL%ooo{%NAME%%TAN%Rune Number: 30}%BORDER-0A%//
-ItemDisplay[r31s]:%PURPLE%[31] Jah Stack%NL%ooo{%NAME%%TAN%Rune Number: 31}%BORDER-0A%//
-ItemDisplay[r32s]:%PURPLE%[32] Cham Stack%NL%ooo{%NAME%%TAN%Rune Number: 32}%BORDER-0A%//
-ItemDisplay[r33s]:%PURPLE%[33] Zod Stack%NL%ooo{%NAME%%TAN%Rune Number: 33}%BORDER-0A%//
+ItemDisplay[r25s]:%PURPLE%[25] Gul Stack%NL%ooooo{%NAME%%TAN%Rune Number: 25}%BORDER-0A%//
+ItemDisplay[r26s]:%PURPLE%[26] Vex Stack%NL%ooooo{%NAME%%TAN%Rune Number: 26}%BORDER-0A%//
+ItemDisplay[r27s]:%PURPLE%[27] Ohm Stack%NL%ooooo{%NAME%%TAN%Rune Number: 27}%BORDER-0A%//
+ItemDisplay[r28s]:%PURPLE%[28] Lo Stack%NL%ooooo{%NAME%%TAN%Rune Number: 28}%BORDER-0A%//
+ItemDisplay[r29s]:%PURPLE%[29] Sur Stack%NL%ooooo{%NAME%%TAN%Rune Number: 29}%BORDER-0A%//
+ItemDisplay[r30s]:%PURPLE%[30] Ber Stack%NL%ooooo{%NAME%%TAN%Rune Number: 30}%BORDER-0A%//
+ItemDisplay[r31s]:%PURPLE%[31] Jah Stack%NL%ooooo{%NAME%%TAN%Rune Number: 31}%BORDER-0A%//
+ItemDisplay[r32s]:%PURPLE%[32] Cham Stack%NL%ooooo{%NAME%%TAN%Rune Number: 32}%BORDER-0A%//
+ItemDisplay[r33s]:%PURPLE%[33] Zod Stack%NL%ooooo{%NAME%%TAN%Rune Number: 33}%BORDER-0A%//

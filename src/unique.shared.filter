@@ -1,8 +1,8 @@
 ///// Rings /////
-ItemDisplay[UNI !ID rin]:%NAME%//
+ItemDisplay[UNI !ID rin]:ooooo%NL%Unique Ring%NL%ooooo//
 
 ///// Amulets /////
-ItemDisplay[UNI !ID amu]:%NAME%//
+ItemDisplay[UNI !ID amu]:ooooo%NL%Unique Amulet%NL%ooooo//
 
 ///// Charms /////
 ItemDisplay[UNI !ID cm1]:%GOLD%Annihilus%MAP-0A%//

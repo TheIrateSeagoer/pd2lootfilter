@@ -130,13 +130,13 @@ ItemDisplay[glw]:%ORANGE%Flawless Diamond%NL%ooo{%TAN%Upgrade %GREEN%Armor/%GOLD
 ItemDisplay[skl]:%ORANGE%Flawless Skull%NL%ooo{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%PX-0A%//
 
 ///// Perfect Gems /////
-ItemDisplay[gpv]:%RED%Perfect Amethyst%NL%ooo{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
-ItemDisplay[gpy]:%RED%Perfect Topaz%NL%ooo{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
-ItemDisplay[gpb]:%RED%Perfect Sapphire%NL%ooo{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
-ItemDisplay[gpg]:%RED%Perfect Emerald%NL%ooo{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
-ItemDisplay[gpr]:%RED%Perfect Ruby%NL%ooo{%ORANGE%Blood Crafting}%DOT-0A%//
-ItemDisplay[gpw]:%RED%Perfect Diamond%NL%ooo{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
-ItemDisplay[skz]:%RED%Perfect Skull%NL%ooo{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
+ItemDisplay[gpv]:%RED%Perfect Amethyst%NL%oooo{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
+ItemDisplay[gpy]:%RED%Perfect Topaz%NL%oooo{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[gpb]:%RED%Perfect Sapphire%NL%oooo{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
+ItemDisplay[gpg]:%RED%Perfect Emerald%NL%oooo{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
+ItemDisplay[gpr]:%RED%Perfect Ruby%NL%oooo{%ORANGE%Blood Crafting}%DOT-0A%//
+ItemDisplay[gpw]:%RED%Perfect Diamond%NL%oooo{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[skz]:%RED%Perfect Skull%NL%oooo{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
 
 ///// Normal Runes /////
 ItemDisplay[r01]:%ORANGE%[01] El Rune%NL%ooo{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
@@ -155,24 +155,24 @@ ItemDisplay[r13]:%ORANGE%[13] Shael Rune%NL%ooo{%NAME%%TAN%Rune Number: 13}%DOT-
 ItemDisplay[r14]:%ORANGE%[14] Dol Rune%NL%ooo{%NAME%%TAN%Rune Number: 14}%DOT-0A%//
 
 ///// Nightmare Runes /////
-ItemDisplay[r15]:%RED%[15] Hel Rune%NL%ooo{%NAME%%TAN%Rune Number: 15}%MAP-0A%//
-ItemDisplay[r16]:%RED%[16] Io Rune%NL%ooo{%NAME%%TAN%Rune Number: 16}%MAP-0A%//
-ItemDisplay[r17]:%RED%[17] Lum Rune%NL%ooo{%NAME%%TAN%Rune Number: 17}%MAP-0A%//
-ItemDisplay[r18]:%RED%[18] Ko Rune%NL%ooo{%NAME%%TAN%Rune Number: 18}%MAP-0A%//
-ItemDisplay[r19]:%RED%[19] Fal Rune%NL%ooo{%NAME%%TAN%Rune Number: 19}%MAP-0A%//
-ItemDisplay[r20]:%RED%[20] Lem Rune%NL%ooo{%NAME%%TAN%Rune Number: 20}%MAP-0A%//
-ItemDisplay[r21]:%RED%[21] Pul Rune%NL%ooo{%NAME%%TAN%Rune Number: 21}%MAP-0A%//
-ItemDisplay[r22]:%RED%[22] Um Rune%NL%ooo{%NAME%%TAN%Rune Number: 22}%MAP-0A%//
-ItemDisplay[r23]:%RED%[23] Mal Rune%NL%ooo{%NAME%%TAN%Rune Number: 23}%MAP-0A%//
-ItemDisplay[r24]:%RED%[24] Ist Rune%NL%ooo{%NAME%%TAN%Rune Number: 24}%MAP-0A%//
+ItemDisplay[r15]:%RED%[15] Hel Rune%NL%oooo{%NAME%%TAN%Rune Number: 15}%MAP-0A%//
+ItemDisplay[r16]:%RED%[16] Io Rune%NL%oooo{%NAME%%TAN%Rune Number: 16}%MAP-0A%//
+ItemDisplay[r17]:%RED%[17] Lum Rune%NL%oooo{%NAME%%TAN%Rune Number: 17}%MAP-0A%//
+ItemDisplay[r18]:%RED%[18] Ko Rune%NL%oooo{%NAME%%TAN%Rune Number: 18}%MAP-0A%//
+ItemDisplay[r19]:%RED%[19] Fal Rune%NL%oooo{%NAME%%TAN%Rune Number: 19}%MAP-0A%//
+ItemDisplay[r20]:%RED%[20] Lem Rune%NL%oooo{%NAME%%TAN%Rune Number: 20}%MAP-0A%//
+ItemDisplay[r21]:%RED%[21] Pul Rune%NL%oooo{%NAME%%TAN%Rune Number: 21}%MAP-0A%//
+ItemDisplay[r22]:%RED%[22] Um Rune%NL%oooo{%NAME%%TAN%Rune Number: 22}%MAP-0A%//
+ItemDisplay[r23]:%RED%[23] Mal Rune%NL%oooo{%NAME%%TAN%Rune Number: 23}%MAP-0A%//
+ItemDisplay[r24]:%RED%[24] Ist Rune%NL%oooo{%NAME%%TAN%Rune Number: 24}%MAP-0A%//
 
 ///// Hell Runes /////
-ItemDisplay[r25]:%PURPLE%[25] Gul Rune%NL%ooo{%NAME%%TAN%Rune Number: 25}%BORDER-0A%//
-ItemDisplay[r26]:%PURPLE%[26] Vex Rune%NL%ooo{%NAME%%TAN%Rune Number: 26}%BORDER-0A%//
-ItemDisplay[r27]:%PURPLE%[27] Ohm Rune%NL%ooo{%NAME%%TAN%Rune Number: 27}%BORDER-0A%//
-ItemDisplay[r28]:%PURPLE%[28] Lo Rune%NL%ooo{%NAME%%TAN%Rune Number: 28}%BORDER-0A%//
-ItemDisplay[r29]:%PURPLE%[29] Sur Rune%NL%ooo{%NAME%%TAN%Rune Number: 29}%BORDER-0A%//
-ItemDisplay[r30]:%PURPLE%[30] Ber Rune%NL%ooo{%NAME%%TAN%Rune Number: 30}%BORDER-0A%//
-ItemDisplay[r31]:%PURPLE%[31] Jah Rune%NL%ooo{%NAME%%TAN%Rune Number: 31}%BORDER-0A%//
-ItemDisplay[r32]:%PURPLE%[32] Cham Rune%NL%ooo{%NAME%%TAN%Rune Number: 32}%BORDER-0A%//
-ItemDisplay[r33]:%PURPLE%[33] Zod Rune%NL%ooo{%NAME%%TAN%Rune Number: 33}%BORDER-0A%//
+ItemDisplay[r25]:%PURPLE%[25] Gul Rune%NL%ooooo{%NAME%%TAN%Rune Number: 25}%BORDER-0A%//
+ItemDisplay[r26]:%PURPLE%[26] Vex Rune%NL%ooooo{%NAME%%TAN%Rune Number: 26}%BORDER-0A%//
+ItemDisplay[r27]:%PURPLE%[27] Ohm Rune%NL%ooooo{%NAME%%TAN%Rune Number: 27}%BORDER-0A%//
+ItemDisplay[r28]:%PURPLE%[28] Lo Rune%NL%ooooo{%NAME%%TAN%Rune Number: 28}%BORDER-0A%//
+ItemDisplay[r29]:%PURPLE%[29] Sur Rune%NL%ooooo{%NAME%%TAN%Rune Number: 29}%BORDER-0A%//
+ItemDisplay[r30]:%PURPLE%[30] Ber Rune%NL%ooooo{%NAME%%TAN%Rune Number: 30}%BORDER-0A%//
+ItemDisplay[r31]:%PURPLE%[31] Jah Rune%NL%ooooo{%NAME%%TAN%Rune Number: 31}%BORDER-0A%//
+ItemDisplay[r32]:%PURPLE%[32] Cham Rune%NL%ooooo{%NAME%%TAN%Rune Number: 32}%BORDER-0A%//
+ItemDisplay[r33]:%PURPLE%[33] Zod Rune%NL%ooooo{%NAME%%TAN%Rune Number: 33}%BORDER-0A%//
