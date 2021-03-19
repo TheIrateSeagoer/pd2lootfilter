@@ -73,8 +73,10 @@ ItemDisplay[gps CLVL<20]:%GRAY%@%WHITE%Rancid//
 ///// Scrolls+Tome+Key /////
 ItemDisplay[tbk]:%NAME%//
 ItemDisplay[ibk]:%NAME%//
+ItemDisplay[tsc (CLVL>59 OR DIFF>0)]://
 ItemDisplay[tsc DIFF>0]:TP//
 ItemDisplay[tsc]:Town//
+ItemDisplay[isc (CLVL>59 OR DIFF>0)]://
 ItemDisplay[isc DIFF>0]:ID//
 ItemDisplay[isc]:Ident//
 ItemDisplay[key]:Key{%TAN%See Gem for uses%NL%See Rune/Item for uses%NL%%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Nef-Sol)%GRAY%+%BLUE%Item%GRAY%)}//
