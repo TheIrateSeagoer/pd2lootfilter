@@ -1,11 +1,11 @@
 ///// Prefix /////
-ItemDisplay[(t11 OR t12 OR t13)]:[T1] %NAME%%NL%ooo%CONTINUE%//
-ItemDisplay[(t21 OR t22 OR t23 OR t24)]:[T2] %NAME%%NL%ooo%CONTINUE%//
+ItemDisplay[(t11 OR t12 OR t13)]:[T1] %NAME%%NL%o%CONTINUE%//
+ItemDisplay[(t21 OR t22 OR t23 OR t24)]:[T2] %NAME%%NL%oo%CONTINUE%//
 ItemDisplay[(t31 OR t32 OR t33 OR t34 OR t35 OR t36)]:[T3] %NAME%%NL%ooo%CONTINUE%//
-ItemDisplay[t41]:[T4] %NAME%%NL%ooo%CONTINUE%//
+ItemDisplay[t41]:[T4] %NAME%%NL%oooo%CONTINUE%//
 
 ///// Corruptions /////
-ItemDisplay[lbox]:%NAME%%NL%ooo{%TAN%One-Handed: 1-2 Two-Handed: 1-4%NL%Helmet: 1-2 Chest: 1-2 Shield: 1-2}%BORDER-0A%//
+ItemDisplay[lbox]:%NAME%%NL%ooooo{%TAN%One-Handed: 1-2 Two-Handed: 1-4%NL%Helmet: 1-2 Chest: 1-2 Shield: 1-2}%BORDER-0A%//
 ItemDisplay[wss]:%NAME%%NL%ooo{%TAN%Item: (Modifier: 50% Sockets: 25% Brick: 25%)%NL%Socketed Item: (Modifier: 75% Brick: 25%)%NL%Maps: (Modifier: 70% Brick: 30%)}%BORDER-0A%//
 
 ///// Maps /////
