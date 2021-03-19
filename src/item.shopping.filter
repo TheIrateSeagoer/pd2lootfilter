@@ -90,9 +90,9 @@ ItemDisplay[!UNI !RARE TABSK50=2]:%NAME%%NL%%RED%+2 Martial Arts%CONTINUE%//
 ItemDisplay[!UNI !RARE TABSK50=1]:%NAME%%NL%%GREEN%+1 Martial Arts%CONTINUE%//
 
 ////// All Skills  /////
-ItemDisplay[ALLSK=3]:%NAME%%NL%%PURPLE%+3 All Skills%CONTINUE%//
-ItemDisplay[ALLSK=2]:%NAME%%NL%%RED%+2 All Skills%CONTINUE%//
-ItemDisplay[ALLSK=1]:%NAME%%NL%%GREEN%+1 All Skills%CONTINUE%//
+ItemDisplay[!UNI !RARE ALLSK=3]:%NAME%%NL%%PURPLE%+3 All Skills%CONTINUE%//
+ItemDisplay[!UNI !RARE ALLSK=2]:%NAME%%NL%%RED%+2 All Skills%CONTINUE%//
+ItemDisplay[!UNI !RARE ALLSK=1]:%NAME%%NL%%GREEN%+1 All Skills%CONTINUE%//
 
 ItemDisplay[!UNI !RARE CLSK0=3]:%NAME%%NL%%PURPLE%+3 Amazon%CONTINUE%//
 ItemDisplay[!UNI !RARE CLSK0=2]:%NAME%%NL%%RED%+2 Amazon%CONTINUE%//
