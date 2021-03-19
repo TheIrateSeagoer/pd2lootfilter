@@ -94,33 +94,33 @@ ItemDisplay[ALLSK=3]:%NAME%%NL%%PURPLE%+3 All Skills%CONTINUE%//
 ItemDisplay[ALLSK=2]:%NAME%%NL%%RED%+2 All Skills%CONTINUE%//
 ItemDisplay[ALLSK=1]:%NAME%%NL%%GREEN%+1 All Skills%CONTINUE%//
 
-ItemDisplay[CLSK0=3]:%NAME%%NL%%PURPLE%+3 Amazon Skills%CONTINUE%//
-ItemDisplay[CLSK0=2]:%NAME%%NL%%RED%+2 Amazon Skills%CONTINUE%//
-ItemDisplay[CLSK0=1]:%NAME%%NL%%GREEN%+1 Amazon Skills%CONTINUE%//
+ItemDisplay[CLSK0=3]:%NAME%%NL%%PURPLE%+3 Amazon%CONTINUE%//
+ItemDisplay[CLSK0=2]:%NAME%%NL%%RED%+2 Amazon%CONTINUE%//
+ItemDisplay[CLSK0=1]:%NAME%%NL%%GREEN%+1 Amazon%CONTINUE%//
 
-ItemDisplay[CLSK1=3]:%NAME%%NL%%PURPLE%+3 Sorceress Skills%CONTINUE%//
-ItemDisplay[CLSK1=2]:%NAME%%NL%%RED%+2 Sorceress Skills%CONTINUE%//
-ItemDisplay[CLSK1=1]:%NAME%%NL%%GREEN%+1 Sorceress Skills%CONTINUE%//
+ItemDisplay[CLSK1=3]:%NAME%%NL%%PURPLE%+3 Sorceress%CONTINUE%//
+ItemDisplay[CLSK1=2]:%NAME%%NL%%RED%+2 Sorceress%CONTINUE%//
+ItemDisplay[CLSK1=1]:%NAME%%NL%%GREEN%+1 Sorceress%CONTINUE%//
 
-ItemDisplay[CLSK2=3]:%NAME%%NL%%PURPLE%+3 Necromancer Skills%CONTINUE%//
-ItemDisplay[CLSK2=2]:%NAME%%NL%%RED%+2 Necromancer Skills%CONTINUE%//
-ItemDisplay[CLSK2=1]:%NAME%%NL%%GREEN%+1 Necromancer Skills%CONTINUE%//
+ItemDisplay[CLSK2=3]:%NAME%%NL%%PURPLE%+3 Necromancer%CONTINUE%//
+ItemDisplay[CLSK2=2]:%NAME%%NL%%RED%+2 Necromancer%CONTINUE%//
+ItemDisplay[CLSK2=1]:%NAME%%NL%%GREEN%+1 Necromancer%CONTINUE%//
 
-ItemDisplay[CLSK3=3]:%NAME%%NL%%PURPLE%+3 Paladin Skills%CONTINUE%//
-ItemDisplay[CLSK3=2]:%NAME%%NL%%RED%+2 Paladin Skills%CONTINUE%//
-ItemDisplay[CLSK3=1]:%NAME%%NL%%GREEN%+1 Paladin Skills%CONTINUE%//
+ItemDisplay[CLSK3=3]:%NAME%%NL%%PURPLE%+3 Paladin%CONTINUE%//
+ItemDisplay[CLSK3=2]:%NAME%%NL%%RED%+2 Paladin%CONTINUE%//
+ItemDisplay[CLSK3=1]:%NAME%%NL%%GREEN%+1 Paladin%CONTINUE%//
 
-ItemDisplay[CLSK4=3]:%NAME%%NL%%PURPLE%+3 Barbarian Skills%CONTINUE%//
-ItemDisplay[CLSK4=2]:%NAME%%NL%%RED%+2 Barbarian Skills%CONTINUE%//
-ItemDisplay[CLSK4=1]:%NAME%%NL%%GREEN%+1 Barbarian Skills%CONTINUE%//
+ItemDisplay[CLSK4=3]:%NAME%%NL%%PURPLE%+3 Barbarian%CONTINUE%//
+ItemDisplay[CLSK4=2]:%NAME%%NL%%RED%+2 Barbarian%CONTINUE%//
+ItemDisplay[CLSK4=1]:%NAME%%NL%%GREEN%+1 Barbarian%CONTINUE%//
 
-ItemDisplay[CLSK5=3]:%NAME%%NL%%PURPLE%+3 Druid Skills%CONTINUE%//
-ItemDisplay[CLSK5=2]:%NAME%%NL%%RED%+2 Druid Skills%CONTINUE%//
-ItemDisplay[CLSK5=1]:%NAME%%NL%%GREEN%+1 Druid Skills%CONTINUE%//
+ItemDisplay[CLSK5=3]:%NAME%%NL%%PURPLE%+3 Druid%CONTINUE%//
+ItemDisplay[CLSK5=2]:%NAME%%NL%%RED%+2 Druid%CONTINUE%//
+ItemDisplay[CLSK5=1]:%NAME%%NL%%GREEN%+1 Druid%CONTINUE%//
 
-ItemDisplay[CLSK6=3]:%NAME%%NL%%PURPLE%+3 Assassin Skills%CONTINUE%//
-ItemDisplay[CLSK6=2]:%NAME%%NL%%RED%+2 Assassin Skills%CONTINUE%//
-ItemDisplay[CLSK6=1]:%NAME%%NL%%GREEN%+1 Assassin Skills%CONTINUE%//
+ItemDisplay[CLSK6=3]:%NAME%%NL%%PURPLE%+3 Assassin%CONTINUE%//
+ItemDisplay[CLSK6=2]:%NAME%%NL%%RED%+2 Assassin%CONTINUE%//
+ItemDisplay[CLSK6=1]:%NAME%%NL%%GREEN%+1 Assassin%CONTINUE%//
 
 
 ///// Newlines Individual Skills /////
