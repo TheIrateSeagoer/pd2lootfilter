@@ -351,383 +351,397 @@ ItemDisplay[DIN AR=120]:%NAME%%RED%120%GRAY%]%CONTINUE%//
 ItemDisplay[DIN AR=121]:%NAME%%PURPLE%121%GRAY%]%CONTINUE%//
 
 ///// Extended Armor Bases /////
-ItemDisplay[uui ED=0 DEF=466]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=465]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=464]:%DOT-0A%%NAME% %RED%99.4%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=463]:%DOT-0A%%NAME% %RED%99.1%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=462]:%DOT-0A%%NAME% %RED%98.9%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=461]:%DOT-0A%%NAME% %RED%98.7%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=460]:%DOT-0A%%NAME% %RED%98.5%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=459]:%DOT-0A%%NAME% %RED%98.3%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=458]:%DOT-0A%%NAME% %RED%98.1%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=457]:%DOT-0A%%NAME% %RED%97.9%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=456]:%DOT-0A%%NAME% %RED%97.6%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=455]:%DOT-0A%%NAME% %RED%97.4%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=454]:%DOT-0A%%NAME% %RED%97.2%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=453]:%DOT-0A%%NAME% %RED%97.0%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=452]:%DOT-0A%%NAME% %RED%96.8%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=451]:%DOT-0A%%NAME% %RED%96.6%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=450]:%DOT-0A%%NAME% %RED%96.4%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=449]:%DOT-0A%%NAME% %RED%96.1%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=448]:%DOT-0A%%NAME% %RED%95.9%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=447]:%DOT-0A%%NAME% %RED%95.7%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=446]:%DOT-0A%%NAME% %RED%95.5%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=445]:%DOT-0A%%NAME% %RED%95.3%%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=444]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=469]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=468]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=467]:%DOT-0A%%NAME% %RED%99.4%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=466]:%DOT-0A%%NAME% %RED%99.1%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=465]:%DOT-0A%%NAME% %RED%98.9%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=464]:%DOT-0A%%NAME% %RED%98.7%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=463]:%DOT-0A%%NAME% %RED%98.5%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=462]:%DOT-0A%%NAME% %RED%98.3%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=461]:%DOT-0A%%NAME% %RED%98.1%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=460]:%DOT-0A%%NAME% %RED%97.9%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=459]:%DOT-0A%%NAME% %RED%97.7%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=458]:%DOT-0A%%NAME% %RED%97.4%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=457]:%DOT-0A%%NAME% %RED%97.2%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=456]:%DOT-0A%%NAME% %RED%97.0%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=455]:%DOT-0A%%NAME% %RED%96.8%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=454]:%DOT-0A%%NAME% %RED%96.6%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=453]:%DOT-0A%%NAME% %RED%96.4%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=452]:%DOT-0A%%NAME% %RED%96.2%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=451]:%DOT-0A%%NAME% %RED%96.0%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=450]:%DOT-0A%%NAME% %RED%95.7%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=449]:%DOT-0A%%NAME% %RED%95.5%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=448]:%DOT-0A%%NAME% %RED%95.3%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=447]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=473]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=472]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=471]:%DOT-0A%%NAME% %RED%99.4%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=470]:%DOT-0A%%NAME% %RED%99.2%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=469]:%DOT-0A%%NAME% %RED%98.9%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=468]:%DOT-0A%%NAME% %RED%98.7%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=467]:%DOT-0A%%NAME% %RED%98.5%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=466]:%DOT-0A%%NAME% %RED%98.3%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=465]:%DOT-0A%%NAME% %RED%98.1%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=464]:%DOT-0A%%NAME% %RED%97.9%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=463]:%DOT-0A%%NAME% %RED%97.7%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=462]:%DOT-0A%%NAME% %RED%97.5%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=461]:%DOT-0A%%NAME% %RED%97.3%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=460]:%DOT-0A%%NAME% %RED%97.0%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=459]:%DOT-0A%%NAME% %RED%96.8%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=458]:%DOT-0A%%NAME% %RED%96.6%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=457]:%DOT-0A%%NAME% %RED%96.4%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=456]:%DOT-0A%%NAME% %RED%96.2%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=455]:%DOT-0A%%NAME% %RED%96.0%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=454]:%DOT-0A%%NAME% %RED%95.8%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=453]:%DOT-0A%%NAME% %RED%95.6%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=452]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=451]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=480]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=479]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=478]:%DOT-0A%%NAME% %RED%99.4%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=477]:%DOT-0A%%NAME% %RED%99.2%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=476]:%DOT-0A%%NAME% %RED%99.0%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=475]:%DOT-0A%%NAME% %RED%98.8%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=474]:%DOT-0A%%NAME% %RED%98.5%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=473]:%DOT-0A%%NAME% %RED%98.3%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=472]:%DOT-0A%%NAME% %RED%98.1%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=471]:%DOT-0A%%NAME% %RED%97.9%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=470]:%DOT-0A%%NAME% %RED%97.7%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=469]:%DOT-0A%%NAME% %RED%97.5%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=468]:%DOT-0A%%NAME% %RED%97.3%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=467]:%DOT-0A%%NAME% %RED%97.1%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=466]:%DOT-0A%%NAME% %RED%96.9%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=465]:%DOT-0A%%NAME% %RED%96.7%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=464]:%DOT-0A%%NAME% %RED%96.5%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=463]:%DOT-0A%%NAME% %RED%96.3%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=462]:%DOT-0A%%NAME% %RED%96.0%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=461]:%DOT-0A%%NAME% %RED%95.8%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=460]:%DOT-0A%%NAME% %RED%95.6%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=459]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=458]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=457]:%DOT-0A%%NAME% %RED%95.0%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=488]:%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=487]:%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=486]:%NAME% %RED%99.4%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=485]:%NAME% %RED%99.2%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=484]:%NAME% %RED%99.0%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=483]:%NAME% %RED%98.8%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=482]:%NAME% %RED%98.6%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=481]:%NAME% %RED%98.4%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=480]:%NAME% %RED%98.2%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=479]:%NAME% %RED%98.0%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=478]:%NAME% %RED%97.8%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=477]:%NAME% %RED%97.5%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=476]:%NAME% %RED%97.3%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=475]:%NAME% %RED%97.1%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=474]:%NAME% %RED%96.9%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=473]:%NAME% %RED%96.7%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=472]:%NAME% %RED%96.5%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=471]:%NAME% %RED%96.3%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=470]:%NAME% %RED%96.1%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=469]:%NAME% %RED%95.9%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=468]:%NAME% %RED%95.7%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=467]:%NAME% %RED%95.5%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=466]:%NAME% %RED%95.3%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=465]:%NAME% %RED%95.1%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=495]:%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=494]:%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=493]:%NAME% %RED%99.4%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=492]:%NAME% %RED%99.2%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=491]:%NAME% %RED%99.0%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=490]:%NAME% %RED%98.8%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=489]:%NAME% %RED%98.6%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=488]:%NAME% %RED%98.4%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=487]:%NAME% %RED%98.2%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=486]:%NAME% %RED%98.0%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=485]:%NAME% %RED%97.8%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=484]:%NAME% %RED%97.6%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=483]:%NAME% %RED%97.4%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=482]:%NAME% %RED%97.2%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=481]:%NAME% %RED%97.0%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=480]:%NAME% %RED%96.8%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=479]:%NAME% %RED%96.6%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=478]:%NAME% %RED%96.4%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=477]:%NAME% %RED%96.2%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=476]:%NAME% %RED%96.0%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=475]:%NAME% %RED%95.8%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=474]:%NAME% %RED%95.6%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=473]:%NAME% %RED%95.4%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=472]:%NAME% %RED%95.2%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=500]:%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=499]:%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=498]:%NAME% %RED%99.4%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=497]:%NAME% %RED%99.2%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=496]:%NAME% %RED%99.0%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=495]:%NAME% %RED%98.8%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=494]:%NAME% %RED%98.6%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=493]:%NAME% %RED%98.4%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=492]:%NAME% %RED%98.2%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=491]:%NAME% %RED%98.0%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=490]:%NAME% %RED%97.8%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=489]:%NAME% %RED%97.6%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=488]:%NAME% %RED%97.4%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=487]:%NAME% %RED%97.2%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=486]:%NAME% %RED%97.0%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=485]:%NAME% %RED%96.8%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=484]:%NAME% %RED%96.6%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=483]:%NAME% %RED%96.4%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=482]:%NAME% %RED%96.2%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=481]:%NAME% %RED%96.0%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=480]:%NAME% %RED%95.8%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=479]:%NAME% %RED%95.6%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=478]:%NAME% %RED%95.4%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=477]:%NAME% %RED%95.2%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=476]:%NAME% %RED%95.0%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=504]:%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=503]:%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=502]:%NAME% %RED%99.4%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=501]:%NAME% %RED%99.2%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=500]:%NAME% %RED%99.0%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=499]:%NAME% %RED%98.8%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=498]:%NAME% %RED%98.6%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=497]:%NAME% %RED%98.4%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=496]:%NAME% %RED%98.2%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=495]:%NAME% %RED%98.0%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=494]:%NAME% %RED%97.8%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=493]:%NAME% %RED%97.6%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=492]:%NAME% %RED%97.4%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=491]:%NAME% %RED%97.2%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=490]:%NAME% %RED%97.0%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=489]:%NAME% %RED%96.8%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=488]:%NAME% %RED%96.6%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=487]:%NAME% %RED%96.4%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=486]:%NAME% %RED%96.2%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=485]:%NAME% %RED%96.0%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=484]:%NAME% %RED%95.8%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=483]:%NAME% %RED%95.6%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=482]:%NAME% %RED%95.4%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=481]:%NAME% %RED%95.2%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=480]:%NAME% %RED%95.0%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=516]:%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=515]:%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=514]:%NAME% %RED%99.4%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=513]:%NAME% %RED%99.2%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=512]:%NAME% %RED%99.0%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=511]:%NAME% %RED%98.8%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=510]:%NAME% %RED%98.6%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=509]:%NAME% %RED%98.5%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=508]:%NAME% %RED%98.3%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=507]:%NAME% %RED%98.1%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=506]:%NAME% %RED%97.9%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=505]:%NAME% %RED%97.7%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=504]:%NAME% %RED%97.5%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=503]:%NAME% %RED%97.3%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=502]:%NAME% %RED%97.1%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=501]:%NAME% %RED%96.9%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=500]:%NAME% %RED%96.7%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=499]:%NAME% %RED%96.5%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=498]:%NAME% %RED%96.3%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=497]:%NAME% %RED%96.1%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=496]:%NAME% %RED%95.9%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=495]:%NAME% %RED%95.7%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=494]:%NAME% %RED%95.6%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=493]:%NAME% %RED%95.4%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=492]:%NAME% %RED%95.2%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=523]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=522]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=521]:%DOT-0A%%NAME% %RED%99.4%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=520]:%DOT-0A%%NAME% %RED%99.2%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=519]:%DOT-0A%%NAME% %RED%99.0%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=518]:%DOT-0A%%NAME% %RED%98.9%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=517]:%DOT-0A%%NAME% %RED%98.7%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=516]:%DOT-0A%%NAME% %RED%98.5%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=515]:%DOT-0A%%NAME% %RED%98.3%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=514]:%DOT-0A%%NAME% %RED%98.1%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=513]:%DOT-0A%%NAME% %RED%97.9%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=512]:%DOT-0A%%NAME% %RED%97.7%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=511]:%DOT-0A%%NAME% %RED%97.5%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=510]:%DOT-0A%%NAME% %RED%97.3%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=509]:%DOT-0A%%NAME% %RED%97.1%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=508]:%DOT-0A%%NAME% %RED%96.9%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=507]:%DOT-0A%%NAME% %RED%96.8%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=506]:%DOT-0A%%NAME% %RED%96.6%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=505]:%DOT-0A%%NAME% %RED%96.4%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=504]:%DOT-0A%%NAME% %RED%96.2%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=503]:%DOT-0A%%NAME% %RED%96.0%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=502]:%DOT-0A%%NAME% %RED%95.8%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=501]:%DOT-0A%%NAME% %RED%95.6%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=500]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=499]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=498]:%DOT-0A%%NAME% %RED%95.0%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=522]:%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=521]:%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=520]:%NAME% %RED%99.4%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=519]:%NAME% %RED%99.2%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=518]:%NAME% %RED%99.0%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=517]:%NAME% %RED%98.9%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=516]:%NAME% %RED%98.7%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=515]:%NAME% %RED%98.5%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=514]:%NAME% %RED%98.3%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=513]:%NAME% %RED%98.1%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=512]:%NAME% %RED%97.9%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=511]:%NAME% %RED%97.7%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=510]:%NAME% %RED%97.5%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=509]:%NAME% %RED%97.3%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=508]:%NAME% %RED%97.1%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=507]:%NAME% %RED%96.9%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=506]:%NAME% %RED%96.7%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=505]:%NAME% %RED%96.6%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=504]:%NAME% %RED%96.4%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=503]:%NAME% %RED%96.2%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=502]:%NAME% %RED%96.0%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=501]:%NAME% %RED%95.8%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=500]:%NAME% %RED%95.6%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=499]:%NAME% %RED%95.4%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=498]:%NAME% %RED%95.2%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=497]:%NAME% %RED%95.0%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=529]:%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=528]:%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=527]:%NAME% %RED%99.4%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=526]:%NAME% %RED%99.2%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=525]:%NAME% %RED%99.1%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=524]:%NAME% %RED%98.9%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=523]:%NAME% %RED%98.7%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=522]:%NAME% %RED%98.5%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=521]:%NAME% %RED%98.3%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=520]:%NAME% %RED%98.1%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=519]:%NAME% %RED%97.9%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=518]:%NAME% %RED%97.7%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=517]:%NAME% %RED%97.5%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=516]:%NAME% %RED%97.4%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=515]:%NAME% %RED%97.2%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=514]:%NAME% %RED%97.0%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=513]:%NAME% %RED%96.8%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=512]:%NAME% %RED%96.6%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=511]:%NAME% %RED%96.4%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=510]:%NAME% %RED%96.2%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=509]:%NAME% %RED%96.0%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=508]:%NAME% %RED%95.8%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=507]:%NAME% %RED%95.7%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=506]:%NAME% %RED%95.5%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=505]:%NAME% %RED%95.3%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=504]:%NAME% %RED%95.1%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=540]:%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=539]:%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=538]:%NAME% %RED%99.4%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=537]:%NAME% %RED%99.3%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=536]:%NAME% %RED%99.1%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=535]:%NAME% %RED%98.9%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=534]:%NAME% %RED%98.7%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=533]:%NAME% %RED%98.5%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=532]:%NAME% %RED%98.3%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=531]:%NAME% %RED%98.2%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=530]:%NAME% %RED%98.0%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=529]:%NAME% %RED%97.8%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=528]:%NAME% %RED%97.6%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=527]:%NAME% %RED%97.4%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=526]:%NAME% %RED%97.2%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=525]:%NAME% %RED%97.0%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=524]:%NAME% %RED%96.9%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=523]:%NAME% %RED%96.7%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=522]:%NAME% %RED%96.5%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=521]:%NAME% %RED%96.3%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=520]:%NAME% %RED%96.1%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=519]:%NAME% %RED%95.9%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=518]:%NAME% %RED%95.7%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=517]:%NAME% %RED%95.6%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=516]:%NAME% %RED%95.4%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=515]:%NAME% %RED%95.2%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=514]:%NAME% %RED%95.0%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=556]:%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=555]:%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=554]:%NAME% %RED%99.5%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=553]:%NAME% %RED%99.3%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=552]:%NAME% %RED%99.1%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=551]:%NAME% %RED%98.9%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=550]:%NAME% %RED%98.7%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=549]:%NAME% %RED%98.6%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=548]:%NAME% %RED%98.4%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=547]:%NAME% %RED%98.2%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=546]:%NAME% %RED%98.0%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=545]:%NAME% %RED%97.8%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=544]:%NAME% %RED%97.7%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=543]:%NAME% %RED%97.5%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=542]:%NAME% %RED%97.3%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=541]:%NAME% %RED%97.1%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=540]:%NAME% %RED%96.9%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=539]:%NAME% %RED%96.8%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=538]:%NAME% %RED%96.6%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=537]:%NAME% %RED%96.4%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=536]:%NAME% %RED%96.2%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=535]:%NAME% %RED%96.1%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=534]:%NAME% %RED%95.9%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=533]:%NAME% %RED%95.7%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=532]:%NAME% %RED%95.5%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=531]:%NAME% %RED%95.3%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=530]:%NAME% %RED%95.2%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=599]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=598]:%DOT-0A%%NAME% %RED%99.7%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=597]:%DOT-0A%%NAME% %RED%99.5%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=596]:%DOT-0A%%NAME% %RED%99.3%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=595]:%DOT-0A%%NAME% %RED%99.2%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=594]:%DOT-0A%%NAME% %RED%99.0%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=593]:%DOT-0A%%NAME% %RED%98.8%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=592]:%DOT-0A%%NAME% %RED%98.7%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=591]:%DOT-0A%%NAME% %RED%98.5%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=590]:%DOT-0A%%NAME% %RED%98.3%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=589]:%DOT-0A%%NAME% %RED%98.2%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=588]:%DOT-0A%%NAME% %RED%98.0%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=587]:%DOT-0A%%NAME% %RED%97.8%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=586]:%DOT-0A%%NAME% %RED%97.7%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=585]:%DOT-0A%%NAME% %RED%97.5%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=584]:%DOT-0A%%NAME% %RED%97.3%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=583]:%DOT-0A%%NAME% %RED%97.2%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=582]:%DOT-0A%%NAME% %RED%97.0%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=581]:%DOT-0A%%NAME% %RED%96.8%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=580]:%DOT-0A%%NAME% %RED%96.7%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=579]:%DOT-0A%%NAME% %RED%96.5%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=578]:%DOT-0A%%NAME% %RED%96.3%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=577]:%DOT-0A%%NAME% %RED%96.2%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=576]:%DOT-0A%%NAME% %RED%96.0%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=575]:%DOT-0A%%NAME% %RED%95.8%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=574]:%DOT-0A%%NAME% %RED%95.7%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=573]:%DOT-0A%%NAME% %RED%95.5%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=572]:%DOT-0A%%NAME% %RED%95.3%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=571]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=466]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=465]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=464]:%DOT-0A%%NAME% %RED%99.4%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=463]:%DOT-0A%%NAME% %RED%99.1%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=462]:%DOT-0A%%NAME% %RED%98.9%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=461]:%DOT-0A%%NAME% %RED%98.7%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=460]:%DOT-0A%%NAME% %RED%98.5%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=459]:%DOT-0A%%NAME% %RED%98.3%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=458]:%DOT-0A%%NAME% %RED%98.1%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=457]:%DOT-0A%%NAME% %RED%97.9%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=456]:%DOT-0A%%NAME% %RED%97.6%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=455]:%DOT-0A%%NAME% %RED%97.4%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=454]:%DOT-0A%%NAME% %RED%97.2%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=453]:%DOT-0A%%NAME% %RED%97.0%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=452]:%DOT-0A%%NAME% %RED%96.8%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=451]:%DOT-0A%%NAME% %RED%96.6%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=450]:%DOT-0A%%NAME% %RED%96.4%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=449]:%DOT-0A%%NAME% %RED%96.1%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=448]:%DOT-0A%%NAME% %RED%95.9%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=447]:%DOT-0A%%NAME% %RED%95.7%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=446]:%DOT-0A%%NAME% %RED%95.5%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=445]:%DOT-0A%%NAME% %RED%95.3%%CONTINUE%//
+ItemDisplay[NMAG uui ED=0 DEF=444]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
+
+ItemDisplay[NMAG uea ED=0 DEF=469]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=468]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=467]:%DOT-0A%%NAME% %RED%99.4%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=466]:%DOT-0A%%NAME% %RED%99.1%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=465]:%DOT-0A%%NAME% %RED%98.9%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=464]:%DOT-0A%%NAME% %RED%98.7%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=463]:%DOT-0A%%NAME% %RED%98.5%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=462]:%DOT-0A%%NAME% %RED%98.3%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=461]:%DOT-0A%%NAME% %RED%98.1%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=460]:%DOT-0A%%NAME% %RED%97.9%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=459]:%DOT-0A%%NAME% %RED%97.7%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=458]:%DOT-0A%%NAME% %RED%97.4%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=457]:%DOT-0A%%NAME% %RED%97.2%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=456]:%DOT-0A%%NAME% %RED%97.0%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=455]:%DOT-0A%%NAME% %RED%96.8%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=454]:%DOT-0A%%NAME% %RED%96.6%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=453]:%DOT-0A%%NAME% %RED%96.4%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=452]:%DOT-0A%%NAME% %RED%96.2%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=451]:%DOT-0A%%NAME% %RED%96.0%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=450]:%DOT-0A%%NAME% %RED%95.7%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=449]:%DOT-0A%%NAME% %RED%95.5%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=448]:%DOT-0A%%NAME% %RED%95.3%%CONTINUE%//
+ItemDisplay[NMAG uea ED=0 DEF=447]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
+
+ItemDisplay[NMAG ula ED=0 DEF=473]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=472]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=471]:%DOT-0A%%NAME% %RED%99.4%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=470]:%DOT-0A%%NAME% %RED%99.2%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=469]:%DOT-0A%%NAME% %RED%98.9%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=468]:%DOT-0A%%NAME% %RED%98.7%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=467]:%DOT-0A%%NAME% %RED%98.5%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=466]:%DOT-0A%%NAME% %RED%98.3%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=465]:%DOT-0A%%NAME% %RED%98.1%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=464]:%DOT-0A%%NAME% %RED%97.9%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=463]:%DOT-0A%%NAME% %RED%97.7%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=462]:%DOT-0A%%NAME% %RED%97.5%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=461]:%DOT-0A%%NAME% %RED%97.3%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=460]:%DOT-0A%%NAME% %RED%97.0%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=459]:%DOT-0A%%NAME% %RED%96.8%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=458]:%DOT-0A%%NAME% %RED%96.6%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=457]:%DOT-0A%%NAME% %RED%96.4%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=456]:%DOT-0A%%NAME% %RED%96.2%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=455]:%DOT-0A%%NAME% %RED%96.0%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=454]:%DOT-0A%%NAME% %RED%95.8%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=453]:%DOT-0A%%NAME% %RED%95.6%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=452]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
+ItemDisplay[NMAG ula ED=0 DEF=451]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
+
+ItemDisplay[NMAG utu ED=0 DEF=480]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=479]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=478]:%DOT-0A%%NAME% %RED%99.4%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=477]:%DOT-0A%%NAME% %RED%99.2%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=476]:%DOT-0A%%NAME% %RED%99.0%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=475]:%DOT-0A%%NAME% %RED%98.8%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=474]:%DOT-0A%%NAME% %RED%98.5%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=473]:%DOT-0A%%NAME% %RED%98.3%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=472]:%DOT-0A%%NAME% %RED%98.1%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=471]:%DOT-0A%%NAME% %RED%97.9%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=470]:%DOT-0A%%NAME% %RED%97.7%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=469]:%DOT-0A%%NAME% %RED%97.5%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=468]:%DOT-0A%%NAME% %RED%97.3%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=467]:%DOT-0A%%NAME% %RED%97.1%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=466]:%DOT-0A%%NAME% %RED%96.9%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=465]:%DOT-0A%%NAME% %RED%96.7%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=464]:%DOT-0A%%NAME% %RED%96.5%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=463]:%DOT-0A%%NAME% %RED%96.3%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=462]:%DOT-0A%%NAME% %RED%96.0%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=461]:%DOT-0A%%NAME% %RED%95.8%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=460]:%DOT-0A%%NAME% %RED%95.6%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=459]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=458]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
+ItemDisplay[NMAG utu ED=0 DEF=457]:%DOT-0A%%NAME% %RED%95.0%%CONTINUE%//
+
+ItemDisplay[NMAG ung ED=0 DEF=488]:%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=487]:%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=486]:%NAME% %RED%99.4%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=485]:%NAME% %RED%99.2%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=484]:%NAME% %RED%99.0%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=483]:%NAME% %RED%98.8%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=482]:%NAME% %RED%98.6%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=481]:%NAME% %RED%98.4%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=480]:%NAME% %RED%98.2%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=479]:%NAME% %RED%98.0%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=478]:%NAME% %RED%97.8%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=477]:%NAME% %RED%97.5%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=476]:%NAME% %RED%97.3%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=475]:%NAME% %RED%97.1%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=474]:%NAME% %RED%96.9%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=473]:%NAME% %RED%96.7%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=472]:%NAME% %RED%96.5%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=471]:%NAME% %RED%96.3%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=470]:%NAME% %RED%96.1%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=469]:%NAME% %RED%95.9%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=468]:%NAME% %RED%95.7%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=467]:%NAME% %RED%95.5%%CONTINUE%//
+ItemDisplay[NMAG ung ED=0 DEF=466]:%NAME% %RED%95.3%%CONTINUE%//
+
+ItemDisplay[NMAG ung ED=0 DEF=465]:%NAME% %RED%95.1%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=495]:%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=494]:%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=493]:%NAME% %RED%99.4%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=492]:%NAME% %RED%99.2%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=491]:%NAME% %RED%99.0%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=490]:%NAME% %RED%98.8%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=489]:%NAME% %RED%98.6%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=488]:%NAME% %RED%98.4%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=487]:%NAME% %RED%98.2%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=486]:%NAME% %RED%98.0%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=485]:%NAME% %RED%97.8%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=484]:%NAME% %RED%97.6%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=483]:%NAME% %RED%97.4%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=482]:%NAME% %RED%97.2%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=481]:%NAME% %RED%97.0%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=480]:%NAME% %RED%96.8%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=479]:%NAME% %RED%96.6%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=478]:%NAME% %RED%96.4%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=477]:%NAME% %RED%96.2%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=476]:%NAME% %RED%96.0%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=475]:%NAME% %RED%95.8%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=474]:%NAME% %RED%95.6%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=473]:%NAME% %RED%95.4%%CONTINUE%//
+ItemDisplay[NMAG ucl ED=0 DEF=472]:%NAME% %RED%95.2%%CONTINUE%//
+
+ItemDisplay[NMAG urs ED=0 DEF=500]:%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=499]:%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=498]:%NAME% %RED%99.4%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=497]:%NAME% %RED%99.2%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=496]:%NAME% %RED%99.0%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=495]:%NAME% %RED%98.8%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=494]:%NAME% %RED%98.6%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=493]:%NAME% %RED%98.4%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=492]:%NAME% %RED%98.2%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=491]:%NAME% %RED%98.0%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=490]:%NAME% %RED%97.8%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=489]:%NAME% %RED%97.6%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=488]:%NAME% %RED%97.4%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=487]:%NAME% %RED%97.2%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=486]:%NAME% %RED%97.0%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=485]:%NAME% %RED%96.8%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=484]:%NAME% %RED%96.6%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=483]:%NAME% %RED%96.4%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=482]:%NAME% %RED%96.2%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=481]:%NAME% %RED%96.0%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=480]:%NAME% %RED%95.8%%CONTINUE%//
+
+ItemDisplay[NMAG urs ED=0 DEF=479]:%NAME% %RED%95.6%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=478]:%NAME% %RED%95.4%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=477]:%NAME% %RED%95.2%%CONTINUE%//
+ItemDisplay[NMAG urs ED=0 DEF=476]:%NAME% %RED%95.0%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=504]:%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=503]:%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=502]:%NAME% %RED%99.4%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=501]:%NAME% %RED%99.2%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=500]:%NAME% %RED%99.0%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=499]:%NAME% %RED%98.8%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=498]:%NAME% %RED%98.6%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=497]:%NAME% %RED%98.4%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=496]:%NAME% %RED%98.2%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=495]:%NAME% %RED%98.0%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=494]:%NAME% %RED%97.8%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=493]:%NAME% %RED%97.6%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=492]:%NAME% %RED%97.4%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=491]:%NAME% %RED%97.2%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=490]:%NAME% %RED%97.0%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=489]:%NAME% %RED%96.8%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=488]:%NAME% %RED%96.6%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=487]:%NAME% %RED%96.4%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=486]:%NAME% %RED%96.2%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=485]:%NAME% %RED%96.0%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=484]:%NAME% %RED%95.8%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=483]:%NAME% %RED%95.6%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=482]:%NAME% %RED%95.4%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=481]:%NAME% %RED%95.2%%CONTINUE%//
+ItemDisplay[NMAG uhn ED=0 DEF=480]:%NAME% %RED%95.0%%CONTINUE%//
+
+ItemDisplay[NMAG upl ED=0 DEF=516]:%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=515]:%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=514]:%NAME% %RED%99.4%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=513]:%NAME% %RED%99.2%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=512]:%NAME% %RED%99.0%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=511]:%NAME% %RED%98.8%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=510]:%NAME% %RED%98.6%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=509]:%NAME% %RED%98.5%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=508]:%NAME% %RED%98.3%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=507]:%NAME% %RED%98.1%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=506]:%NAME% %RED%97.9%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=505]:%NAME% %RED%97.7%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=504]:%NAME% %RED%97.5%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=503]:%NAME% %RED%97.3%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=502]:%NAME% %RED%97.1%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=501]:%NAME% %RED%96.9%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=500]:%NAME% %RED%96.7%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=499]:%NAME% %RED%96.5%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=498]:%NAME% %RED%96.3%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=497]:%NAME% %RED%96.1%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=496]:%NAME% %RED%95.9%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=495]:%NAME% %RED%95.7%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=494]:%NAME% %RED%95.6%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=493]:%NAME% %RED%95.4%%CONTINUE%//
+ItemDisplay[NMAG upl ED=0 DEF=492]:%NAME% %RED%95.2%%CONTINUE%//
+
+ItemDisplay[NMAG utp ED=0 DEF=523]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=522]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=521]:%DOT-0A%%NAME% %RED%99.4%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=520]:%DOT-0A%%NAME% %RED%99.2%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=519]:%DOT-0A%%NAME% %RED%99.0%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=518]:%DOT-0A%%NAME% %RED%98.9%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=517]:%DOT-0A%%NAME% %RED%98.7%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=516]:%DOT-0A%%NAME% %RED%98.5%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=515]:%DOT-0A%%NAME% %RED%98.3%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=514]:%DOT-0A%%NAME% %RED%98.1%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=513]:%DOT-0A%%NAME% %RED%97.9%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=512]:%DOT-0A%%NAME% %RED%97.7%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=511]:%DOT-0A%%NAME% %RED%97.5%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=510]:%DOT-0A%%NAME% %RED%97.3%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=509]:%DOT-0A%%NAME% %RED%97.1%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=508]:%DOT-0A%%NAME% %RED%96.9%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=507]:%DOT-0A%%NAME% %RED%96.8%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=506]:%DOT-0A%%NAME% %RED%96.6%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=505]:%DOT-0A%%NAME% %RED%96.4%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=504]:%DOT-0A%%NAME% %RED%96.2%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=503]:%DOT-0A%%NAME% %RED%96.0%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=502]:%DOT-0A%%NAME% %RED%95.8%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=501]:%DOT-0A%%NAME% %RED%95.6%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=500]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=499]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
+ItemDisplay[NMAG utp ED=0 DEF=498]:%DOT-0A%%NAME% %RED%95.0%%CONTINUE%//
+
+ItemDisplay[NMAG uld ED=0 DEF=522]:%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=521]:%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=520]:%NAME% %RED%99.4%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=519]:%NAME% %RED%99.2%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=518]:%NAME% %RED%99.0%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=517]:%NAME% %RED%98.9%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=516]:%NAME% %RED%98.7%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=515]:%NAME% %RED%98.5%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=514]:%NAME% %RED%98.3%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=513]:%NAME% %RED%98.1%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=512]:%NAME% %RED%97.9%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=511]:%NAME% %RED%97.7%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=510]:%NAME% %RED%97.5%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=509]:%NAME% %RED%97.3%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=508]:%NAME% %RED%97.1%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=507]:%NAME% %RED%96.9%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=506]:%NAME% %RED%96.7%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=505]:%NAME% %RED%96.6%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=504]:%NAME% %RED%96.4%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=503]:%NAME% %RED%96.2%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=502]:%NAME% %RED%96.0%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=501]:%NAME% %RED%95.8%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=500]:%NAME% %RED%95.6%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=499]:%NAME% %RED%95.4%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=498]:%NAME% %RED%95.2%%CONTINUE%//
+ItemDisplay[NMAG uld ED=0 DEF=497]:%NAME% %RED%95.0%%CONTINUE%//
+
+ItemDisplay[NMAG ult ED=0 DEF=529]:%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=528]:%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=527]:%NAME% %RED%99.4%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=526]:%NAME% %RED%99.2%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=525]:%NAME% %RED%99.1%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=524]:%NAME% %RED%98.9%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=523]:%NAME% %RED%98.7%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=522]:%NAME% %RED%98.5%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=521]:%NAME% %RED%98.3%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=520]:%NAME% %RED%98.1%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=519]:%NAME% %RED%97.9%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=518]:%NAME% %RED%97.7%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=517]:%NAME% %RED%97.5%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=516]:%NAME% %RED%97.4%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=515]:%NAME% %RED%97.2%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=514]:%NAME% %RED%97.0%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=513]:%NAME% %RED%96.8%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=512]:%NAME% %RED%96.6%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=511]:%NAME% %RED%96.4%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=510]:%NAME% %RED%96.2%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=509]:%NAME% %RED%96.0%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=508]:%NAME% %RED%95.8%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=507]:%NAME% %RED%95.7%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=506]:%NAME% %RED%95.5%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=505]:%NAME% %RED%95.3%%CONTINUE%//
+ItemDisplay[NMAG ult ED=0 DEF=504]:%NAME% %RED%95.1%%CONTINUE%//
+
+ItemDisplay[NMAG uth ED=0 DEF=540]:%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=539]:%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=538]:%NAME% %RED%99.4%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=537]:%NAME% %RED%99.3%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=536]:%NAME% %RED%99.1%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=535]:%NAME% %RED%98.9%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=534]:%NAME% %RED%98.7%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=533]:%NAME% %RED%98.5%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=532]:%NAME% %RED%98.3%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=531]:%NAME% %RED%98.2%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=530]:%NAME% %RED%98.0%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=529]:%NAME% %RED%97.8%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=528]:%NAME% %RED%97.6%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=527]:%NAME% %RED%97.4%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=526]:%NAME% %RED%97.2%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=525]:%NAME% %RED%97.0%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=524]:%NAME% %RED%96.9%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=523]:%NAME% %RED%96.7%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=522]:%NAME% %RED%96.5%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=521]:%NAME% %RED%96.3%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=520]:%NAME% %RED%96.1%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=519]:%NAME% %RED%95.9%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=518]:%NAME% %RED%95.7%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=517]:%NAME% %RED%95.6%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=516]:%NAME% %RED%95.4%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=515]:%NAME% %RED%95.2%%CONTINUE%//
+ItemDisplay[NMAG uth ED=0 DEF=514]:%NAME% %RED%95.0%%CONTINUE%//
+
+ItemDisplay[NMAG uul ED=0 DEF=556]:%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=555]:%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=554]:%NAME% %RED%99.5%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=553]:%NAME% %RED%99.3%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=552]:%NAME% %RED%99.1%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=551]:%NAME% %RED%98.9%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=550]:%NAME% %RED%98.7%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=549]:%NAME% %RED%98.6%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=548]:%NAME% %RED%98.4%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=547]:%NAME% %RED%98.2%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=546]:%NAME% %RED%98.0%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=545]:%NAME% %RED%97.8%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=544]:%NAME% %RED%97.7%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=543]:%NAME% %RED%97.5%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=542]:%NAME% %RED%97.3%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=541]:%NAME% %RED%97.1%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=540]:%NAME% %RED%96.9%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=539]:%NAME% %RED%96.8%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=538]:%NAME% %RED%96.6%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=537]:%NAME% %RED%96.4%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=536]:%NAME% %RED%96.2%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=535]:%NAME% %RED%96.1%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=534]:%NAME% %RED%95.9%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=533]:%NAME% %RED%95.7%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=532]:%NAME% %RED%95.5%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=531]:%NAME% %RED%95.3%%CONTINUE%//
+ItemDisplay[NMAG uul ED=0 DEF=530]:%NAME% %RED%95.2%%CONTINUE%//
+
+ItemDisplay[NMAG uar ED=0 DEF=599]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=598]:%DOT-0A%%NAME% %RED%99.7%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=597]:%DOT-0A%%NAME% %RED%99.5%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=596]:%DOT-0A%%NAME% %RED%99.3%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=595]:%DOT-0A%%NAME% %RED%99.2%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=594]:%DOT-0A%%NAME% %RED%99.0%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=593]:%DOT-0A%%NAME% %RED%98.8%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=592]:%DOT-0A%%NAME% %RED%98.7%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=591]:%DOT-0A%%NAME% %RED%98.5%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=590]:%DOT-0A%%NAME% %RED%98.3%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=589]:%DOT-0A%%NAME% %RED%98.2%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=588]:%DOT-0A%%NAME% %RED%98.0%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=587]:%DOT-0A%%NAME% %RED%97.8%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=586]:%DOT-0A%%NAME% %RED%97.7%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=585]:%DOT-0A%%NAME% %RED%97.5%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=584]:%DOT-0A%%NAME% %RED%97.3%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=583]:%DOT-0A%%NAME% %RED%97.2%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=582]:%DOT-0A%%NAME% %RED%97.0%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=581]:%DOT-0A%%NAME% %RED%96.8%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=580]:%DOT-0A%%NAME% %RED%96.7%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=579]:%DOT-0A%%NAME% %RED%96.5%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=578]:%DOT-0A%%NAME% %RED%96.3%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=577]:%DOT-0A%%NAME% %RED%96.2%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=576]:%DOT-0A%%NAME% %RED%96.0%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=575]:%DOT-0A%%NAME% %RED%95.8%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=574]:%DOT-0A%%NAME% %RED%95.7%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=573]:%DOT-0A%%NAME% %RED%95.5%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=572]:%DOT-0A%%NAME% %RED%95.3%%CONTINUE%//
+ItemDisplay[NMAG uar ED=0 DEF=571]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
 
 ItemDisplay[SUP uui DEF=537]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP uui DEF=536]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
@@ -755,6 +769,7 @@ ItemDisplay[SUP uui DEF=515]:%DOT-0A%%NAME% %RED%95.7%%CONTINUE%//
 ItemDisplay[SUP uui DEF=514]:%DOT-0A%%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[SUP uui DEF=513]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[SUP uui DEF=512]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
+
 ItemDisplay[SUP uea DEF=540]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP uea DEF=539]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
 ItemDisplay[SUP uea DEF=538]:%DOT-0A%%NAME% %RED%99.4%%CONTINUE%//
@@ -782,6 +797,7 @@ ItemDisplay[SUP uea DEF=517]:%DOT-0A%%NAME% %RED%95.6%%CONTINUE%//
 ItemDisplay[SUP uea DEF=516]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[SUP uea DEF=515]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[SUP uea DEF=514]:%DOT-0A%%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[SUP ula DEF=545]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP ula DEF=544]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
 ItemDisplay[SUP ula DEF=543]:%DOT-0A%%NAME% %RED%99.5%%CONTINUE%//
@@ -809,6 +825,7 @@ ItemDisplay[SUP ula DEF=522]:%DOT-0A%%NAME% %RED%95.6%%CONTINUE%//
 ItemDisplay[SUP ula DEF=521]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[SUP ula DEF=520]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[SUP ula DEF=519]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[SUP utu DEF=553]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP utu DEF=552]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
 ItemDisplay[SUP utu DEF=551]:%DOT-0A%%NAME% %RED%99.5%%CONTINUE%//
@@ -836,6 +853,7 @@ ItemDisplay[SUP utu DEF=530]:%DOT-0A%%NAME% %RED%95.7%%CONTINUE%//
 ItemDisplay[SUP utu DEF=529]:%DOT-0A%%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[SUP utu DEF=528]:%DOT-0A%%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[SUP utu DEF=527]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[SUP ung DEF=562]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP ung DEF=561]:%NAME% %RED%99.6%%CONTINUE%//
 ItemDisplay[SUP ung DEF=560]:%NAME% %RED%99.5%%CONTINUE%//
@@ -864,6 +882,7 @@ ItemDisplay[SUP ung DEF=538]:%NAME% %RED%95.6%%CONTINUE%//
 ItemDisplay[SUP ung DEF=537]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[SUP ung DEF=536]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[SUP ung DEF=535]:%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[SUP ucl DEF=570]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP ucl DEF=569]:%NAME% %RED%99.6%%CONTINUE%//
 ItemDisplay[SUP ucl DEF=568]:%NAME% %RED%99.5%%CONTINUE%//
@@ -892,6 +911,7 @@ ItemDisplay[SUP ucl DEF=546]:%NAME% %RED%95.6%%CONTINUE%//
 ItemDisplay[SUP ucl DEF=545]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[SUP ucl DEF=544]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[SUP ucl DEF=543]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[SUP urs DEF=576]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP urs DEF=575]:%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[SUP urs DEF=574]:%NAME% %RED%99.5%%CONTINUE%//
@@ -920,6 +940,7 @@ ItemDisplay[SUP urs DEF=552]:%NAME% %RED%95.7%%CONTINUE%//
 ItemDisplay[SUP urs DEF=551]:%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[SUP urs DEF=550]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[SUP urs DEF=549]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[SUP uhn DEF=580]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP uhn DEF=579]:%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[SUP uhn DEF=578]:%NAME% %RED%99.5%%CONTINUE%//
@@ -949,6 +970,7 @@ ItemDisplay[SUP uhn DEF=555]:%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[SUP uhn DEF=554]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[SUP uhn DEF=553]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[SUP uhn DEF=552]:%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[SUP upl DEF=594]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP upl DEF=593]:%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[SUP upl DEF=592]:%NAME% %RED%99.5%%CONTINUE%//
@@ -978,6 +1000,7 @@ ItemDisplay[SUP upl DEF=569]:%NAME% %RED%95.6%%CONTINUE%//
 ItemDisplay[SUP upl DEF=568]:%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[SUP upl DEF=567]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[SUP upl DEF=566]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[SUP utp DEF=602]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP utp DEF=601]:%DOT-0A%%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[SUP utp DEF=600]:%DOT-0A%%NAME% %RED%99.5%%CONTINUE%//
@@ -1008,6 +1031,7 @@ ItemDisplay[SUP utp DEF=576]:%DOT-0A%%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[SUP utp DEF=575]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[SUP utp DEF=574]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[SUP utp DEF=573]:%DOT-0A%%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[SUP uld DEF=601]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP uld DEF=600]:%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[SUP uld DEF=599]:%NAME% %RED%99.5%%CONTINUE%//
@@ -1038,6 +1062,7 @@ ItemDisplay[SUP uld DEF=575]:%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[SUP uld DEF=574]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[SUP uld DEF=573]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[SUP uld DEF=572]:%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[SUP ult DEF=609]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP ult DEF=608]:%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[SUP ult DEF=607]:%NAME% %RED%99.5%%CONTINUE%//
@@ -1068,6 +1093,7 @@ ItemDisplay[SUP ult DEF=583]:%NAME% %RED%95.6%%CONTINUE%//
 ItemDisplay[SUP ult DEF=582]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[SUP ult DEF=581]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[SUP ult DEF=580]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[SUP uth DEF=622]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP uth DEF=621]:%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[SUP uth DEF=620]:%NAME% %RED%99.5%%CONTINUE%//
@@ -1099,6 +1125,7 @@ ItemDisplay[SUP uth DEF=595]:%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[SUP uth DEF=594]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[SUP uth DEF=593]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[SUP uth DEF=592]:%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[SUP uul DEF=640]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP uul DEF=639]:%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[SUP uul DEF=638]:%NAME% %RED%99.5%%CONTINUE%//
@@ -1131,6 +1158,7 @@ ItemDisplay[SUP uul DEF=612]:%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[SUP uul DEF=611]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[SUP uul DEF=610]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[SUP uul DEF=609]:%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[SUP uar DEF=690]:%DOT-0A%%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[SUP uar DEF=689]:%DOT-0A%%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[SUP uar DEF=688]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
@@ -1200,6 +1228,7 @@ ItemDisplay[ETH uui ED=0 DEF=668]:%DOT-0A%%NAME% %RED%95.6%%CONTINUE%//
 ItemDisplay[ETH uui ED=0 DEF=667]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH uui ED=0 DEF=666]:%DOT-0A%%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH uui ED=0 DEF=665]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH uea ED=0 DEF=703]:%DOT-0A%%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH uea ED=0 DEF=702]:%DOT-0A%%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[ETH uea ED=0 DEF=701]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
@@ -1235,6 +1264,7 @@ ItemDisplay[ETH uea ED=0 DEF=672]:%DOT-0A%%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[ETH uea ED=0 DEF=671]:%DOT-0A%%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH uea ED=0 DEF=670]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH uea ED=0 DEF=669]:%DOT-0A%%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[ETH ula ED=0 DEF=709]:%DOT-0A%%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH ula ED=0 DEF=708]:%DOT-0A%%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[ETH ula ED=0 DEF=707]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
@@ -1270,6 +1300,7 @@ ItemDisplay[ETH ula ED=0 DEF=678]:%DOT-0A%%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[ETH ula ED=0 DEF=677]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH ula ED=0 DEF=676]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH ula ED=0 DEF=675]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH utu ED=0 DEF=719]:%DOT-0A%%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH utu ED=0 DEF=718]:%DOT-0A%%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[ETH utu ED=0 DEF=717]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
@@ -1305,6 +1336,7 @@ ItemDisplay[ETH utu ED=0 DEF=688]:%DOT-0A%%NAME% %RED%95.6%%CONTINUE%//
 ItemDisplay[ETH utu ED=0 DEF=687]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH utu ED=0 DEF=686]:%DOT-0A%%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH utu ED=0 DEF=685]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH ung ED=0 DEF=731]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH ung ED=0 DEF=730]:%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[ETH ung ED=0 DEF=729]:%NAME% %RED%99.6%%CONTINUE%//
@@ -1341,6 +1373,7 @@ ItemDisplay[ETH ung ED=0 DEF=699]:%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[ETH ung ED=0 DEF=698]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH ung ED=0 DEF=697]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH ung ED=0 DEF=696]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH ucl ED=0 DEF=742]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH ucl ED=0 DEF=741]:%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[ETH ucl ED=0 DEF=740]:%NAME% %RED%99.6%%CONTINUE%//
@@ -1415,6 +1448,7 @@ ItemDisplay[ETH urs ED=0 DEF=716]:%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[ETH urs ED=0 DEF=715]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH urs ED=0 DEF=714]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH urs ED=0 DEF=713]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH uhn ED=0 DEF=755]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH uhn ED=0 DEF=754]:%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[ETH uhn ED=0 DEF=753]:%NAME% %RED%99.6%%CONTINUE%//
@@ -1452,6 +1486,7 @@ ItemDisplay[ETH uhn ED=0 DEF=722]:%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[ETH uhn ED=0 DEF=721]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH uhn ED=0 DEF=720]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH uhn ED=0 DEF=719]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH upl ED=0 DEF=773]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH upl ED=0 DEF=772]:%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[ETH upl ED=0 DEF=771]:%NAME% %RED%99.6%%CONTINUE%//
@@ -1490,6 +1525,7 @@ ItemDisplay[ETH upl ED=0 DEF=739]:%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[ETH upl ED=0 DEF=738]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH upl ED=0 DEF=737]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH upl ED=0 DEF=736]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH utp ED=0 DEF=784]:%DOT-0A%%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH utp ED=0 DEF=783]:%DOT-0A%%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[ETH utp ED=0 DEF=782]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
@@ -1529,6 +1565,7 @@ ItemDisplay[ETH utp ED=0 DEF=749]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH utp ED=0 DEF=748]:%DOT-0A%%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH utp ED=0 DEF=747]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH utp ED=0 DEF=746]:%DOT-0A%%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[ETH uld ED=0 DEF=782]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH uld ED=0 DEF=781]:%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[ETH uld ED=0 DEF=780]:%NAME% %RED%99.6%%CONTINUE%//
@@ -1568,6 +1605,7 @@ ItemDisplay[ETH uld ED=0 DEF=747]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH uld ED=0 DEF=746]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH uld ED=0 DEF=745]:%NAME% %RED%95.1%%CONTINUE%//
 ItemDisplay[ETH uld ED=0 DEF=744]:%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[ETH ult ED=0 DEF=793]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH ult ED=0 DEF=792]:%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[ETH ult ED=0 DEF=791]:%NAME% %RED%99.6%%CONTINUE%//
@@ -1607,6 +1645,7 @@ ItemDisplay[ETH ult ED=0 DEF=758]:%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[ETH ult ED=0 DEF=757]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH ult ED=0 DEF=756]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH ult ED=0 DEF=755]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH uth ED=0 DEF=809]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH uth ED=0 DEF=808]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH uth ED=0 DEF=807]:%NAME% %RED%99.6%%CONTINUE%//
@@ -1647,6 +1686,7 @@ ItemDisplay[ETH uth ED=0 DEF=773]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH uth ED=0 DEF=772]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH uth ED=0 DEF=771]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH uth ED=0 DEF=770]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH uul ED=0 DEF=833]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH uul ED=0 DEF=832]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH uul ED=0 DEF=831]:%NAME% %RED%99.6%%CONTINUE%//
@@ -1688,6 +1728,7 @@ ItemDisplay[ETH uul ED=0 DEF=796]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH uul ED=0 DEF=795]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH uul ED=0 DEF=794]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH uul ED=0 DEF=793]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH uar ED=0 DEF=898]:%DOT-0A%%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH uar ED=0 DEF=897]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH uar ED=0 DEF=896]:%DOT-0A%%NAME% %RED%99.7%%CONTINUE%//
@@ -1773,6 +1814,7 @@ ItemDisplay[ETH SUP uui DEF=770]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH SUP uui DEF=769]:%DOT-0A%%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH SUP uui DEF=768]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH SUP uui DEF=767]:%DOT-0A%%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[ETH SUP uea DEF=810]:%DOT-0A%%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP uea DEF=809]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP uea DEF=808]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
@@ -1813,6 +1855,7 @@ ItemDisplay[ETH SUP uea DEF=774]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH SUP uea DEF=773]:%DOT-0A%%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH SUP uea DEF=772]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH SUP uea DEF=771]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH SUP ula DEF=817]:%DOT-0A%%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP ula DEF=816]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP ula DEF=815]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
@@ -1853,6 +1896,7 @@ ItemDisplay[ETH SUP ula DEF=781]:%DOT-0A%%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[ETH SUP ula DEF=780]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH SUP ula DEF=779]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH SUP ula DEF=778]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH SUP utu DEF=830]:%DOT-0A%%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP utu DEF=829]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP utu DEF=828]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
@@ -1894,6 +1938,7 @@ ItemDisplay[ETH SUP utu DEF=793]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH SUP utu DEF=792]:%DOT-0A%%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH SUP utu DEF=791]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH SUP utu DEF=790]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH SUP ung DEF=844]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP ung DEF=843]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP ung DEF=842]:%NAME% %RED%99.6%%CONTINUE%//
@@ -1936,6 +1981,7 @@ ItemDisplay[ETH SUP ung DEF=806]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH SUP ung DEF=805]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH SUP ung DEF=804]:%NAME% %RED%95.1%%CONTINUE%//
 ItemDisplay[ETH SUP ung DEF=803]:%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[ETH SUP ucl DEF=855]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP ucl DEF=854]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP ucl DEF=853]:%NAME% %RED%99.6%%CONTINUE%//
@@ -1978,6 +2024,7 @@ ItemDisplay[ETH SUP ucl DEF=817]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH SUP ucl DEF=816]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH SUP ucl DEF=815]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH SUP ucl DEF=814]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH SUP urs DEF=864]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP urs DEF=863]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP urs DEF=862]:%NAME% %RED%99.7%%CONTINUE%//
@@ -2021,6 +2068,7 @@ ItemDisplay[ETH SUP urs DEF=825]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH SUP urs DEF=824]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH SUP urs DEF=823]:%NAME% %RED%95.1%%CONTINUE%//
 ItemDisplay[ETH SUP urs DEF=822]:%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[ETH SUP uhn DEF=871]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP uhn DEF=870]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP uhn DEF=869]:%NAME% %RED%99.7%%CONTINUE%//
@@ -2064,6 +2112,7 @@ ItemDisplay[ETH SUP uhn DEF=832]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH SUP uhn DEF=831]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH SUP uhn DEF=830]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH SUP uhn DEF=829]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH SUP upl DEF=892]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP upl DEF=891]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP upl DEF=890]:%NAME% %RED%99.7%%CONTINUE%//
@@ -2108,6 +2157,7 @@ ItemDisplay[ETH SUP upl DEF=852]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH SUP upl DEF=851]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH SUP upl DEF=850]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH SUP upl DEF=849]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH SUP utp DEF=904]:%DOT-0A%%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP utp DEF=903]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP utp DEF=902]:%DOT-0A%%NAME% %RED%99.7%%CONTINUE%//
@@ -2153,6 +2203,7 @@ ItemDisplay[ETH SUP utp DEF=863]:%DOT-0A%%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH SUP utp DEF=862]:%DOT-0A%%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH SUP utp DEF=861]:%DOT-0A%%NAME% %RED%95.1%%CONTINUE%//
 ItemDisplay[ETH SUP utp DEF=860]:%DOT-0A%%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[ETH SUP uld DEF=902]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP uld DEF=901]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP uld DEF=900]:%NAME% %RED%99.7%%CONTINUE%//
@@ -2198,6 +2249,7 @@ ItemDisplay[ETH SUP uld DEF=861]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH SUP uld DEF=860]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH SUP uld DEF=859]:%NAME% %RED%95.1%%CONTINUE%//
 ItemDisplay[ETH SUP uld DEF=858]:%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[ETH SUP ult DEF=914]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP ult DEF=913]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP ult DEF=912]:%NAME% %RED%99.7%%CONTINUE%//
@@ -2243,6 +2295,7 @@ ItemDisplay[ETH SUP ult DEF=873]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH SUP ult DEF=872]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH SUP ult DEF=871]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH SUP ult DEF=870]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH SUP uth DEF=933]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP uth DEF=932]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP uth DEF=931]:%NAME% %RED%99.7%%CONTINUE%//
@@ -2289,6 +2342,7 @@ ItemDisplay[ETH SUP uth DEF=891]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH SUP uth DEF=890]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH SUP uth DEF=889]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH SUP uth DEF=888]:%NAME% %RED%95.1%%CONTINUE%//
+
 ItemDisplay[ETH SUP uul DEF=961]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP uul DEF=960]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP uul DEF=959]:%NAME% %RED%99.7%%CONTINUE%//
@@ -2337,6 +2391,7 @@ ItemDisplay[ETH SUP uul DEF=917]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH SUP uul DEF=916]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH SUP uul DEF=915]:%NAME% %RED%95.1%%CONTINUE%//
 ItemDisplay[ETH SUP uul DEF=914]:%NAME% %RED%95.0%%CONTINUE%//
+
 ItemDisplay[ETH SUP uar DEF=1035]:%DOT-0A%%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP uar DEF=1034]:%DOT-0A%%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP uar DEF=1033]:%DOT-0A%%NAME% %RED%99.7%%CONTINUE%//
@@ -2437,18 +2492,6 @@ ItemDisplay[ETH SUP uth DEF=934]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
 ItemDisplay[ETH SUP uul DEF=962]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
 ItemDisplay[ETH SUP uar DEF=1036]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
 
-
-
-
-
-
-
-
-
-
-
-
-
 ////////// Price ///////////
 ItemDisplay[!RW !UNI PRICE>4999 PRICE<10000]:%NAME% %DARK_GREEN% $5k%CONTINUE%//
 ItemDisplay[!RW !UNI PRICE>9999 PRICE<15000]:%NAME% %DARK_GREEN%$10k%CONTINUE%//
@@ -2461,3 +2504,4 @@ ItemDisplay[!RW !UNI PRICE>34999]:%NAME% %DARK_GREEN%$35k%CONTINUE%//
 ///// Sleepy Gamer Reminder /////
 ItemDisplay[MAG SOCK>1]:%NAME%%NL%%RED%NOT A RUNEWORD CANDIDATE%BLUE%%CONTINUE%//
 ItemDisplay[RARE SOCK>1]:%NAME%%NL%%RED%NOT A RUNEWORD CANDIDATE%YELLOW%%CONTINUE%//
+W
