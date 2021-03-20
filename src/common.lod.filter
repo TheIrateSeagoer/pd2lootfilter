@@ -123,13 +123,13 @@ ItemDisplay[gsw]:%DARK_GREEN%Diamond%WHITE%//
 ItemDisplay[sku]:%DARK_GREEN%Skull%WHITE%//
 
 ///// Flawless Gems /////
-ItemDisplay[gzv]:%ORANGE%Flawless Amethyst{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%PX-0A%//
-ItemDisplay[gly]:%ORANGE%Flawless Topaz{%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
-ItemDisplay[glb]:%ORANGE%Flawless Sapphire{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%PX-0A%//
-ItemDisplay[glg]:%ORANGE%Flawless Emerald{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%PX-0A%//
-ItemDisplay[glr]:%ORANGE%Flawless Ruby{%ORANGE%Blood Crafting}%PX-0A%//
-ItemDisplay[glw]:%ORANGE%Flawless Diamond{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
-ItemDisplay[skl]:%ORANGE%Flawless Skull{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%PX-0A%//
+ItemDisplay[gzv]:%ORANGE%Flawless Amethyst{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
+ItemDisplay[gly]:%ORANGE%Flawless Topaz{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[glb]:%ORANGE%Flawless Sapphire{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
+ItemDisplay[glg]:%ORANGE%Flawless Emerald{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
+ItemDisplay[glr]:%ORANGE%Flawless Ruby{%ORANGE%Blood Crafting}%DOT-0A%//
+ItemDisplay[glw]:%ORANGE%Flawless Diamond{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[skl]:%ORANGE%Flawless Skull{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
 
 ///// Perfect Gems /////
 ItemDisplay[gpv]:%RED%Perfect Amethyst{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//

@@ -143,13 +143,13 @@ ItemDisplay[gsg]:%DARK_GREEN%Emerald%WHITE%//
 ItemDisplay[gsr]:%DARK_GREEN%Ruby%WHITE%//
 ItemDisplay[gsw]:%DARK_GREEN%Diamond%WHITE%//
 ItemDisplay[sku]:%DARK_GREEN%Skull%WHITE%//
-ItemDisplay[gzv]:%ORANGE%Flawless Amethyst{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%PX-0A%//
-ItemDisplay[gly]:%ORANGE%Flawless Topaz{%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
-ItemDisplay[glb]:%ORANGE%Flawless Sapphire{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%PX-0A%//
-ItemDisplay[glg]:%ORANGE%Flawless Emerald{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%PX-0A%//
-ItemDisplay[glr]:%ORANGE%Flawless Ruby{%ORANGE%Blood Crafting}%PX-0A%//
-ItemDisplay[glw]:%ORANGE%Flawless Diamond{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
-ItemDisplay[skl]:%ORANGE%Flawless Skull{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%PX-0A%//
+ItemDisplay[gzv]:%ORANGE%Flawless Amethyst{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
+ItemDisplay[gly]:%ORANGE%Flawless Topaz{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[glb]:%ORANGE%Flawless Sapphire{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
+ItemDisplay[glg]:%ORANGE%Flawless Emerald{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
+ItemDisplay[glr]:%ORANGE%Flawless Ruby{%ORANGE%Blood Crafting}%DOT-0A%//
+ItemDisplay[glw]:%ORANGE%Flawless Diamond{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[skl]:%ORANGE%Flawless Skull{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
 ItemDisplay[gpv]:%RED%Perfect Amethyst{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
 ItemDisplay[gpy]:%RED%Perfect Topaz{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
 ItemDisplay[gpb]:%RED%Perfect Sapphire{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
@@ -190,20 +190,20 @@ ItemDisplay[r30]:%PURPLE%[30] Ber Rune%NL%ooooo{%NAME%%TAN%Rune Number: 30}%BORD
 ItemDisplay[r31]:%PURPLE%[31] Jah Rune%NL%ooooo{%NAME%%TAN%Rune Number: 31}%BORDER-0A%//
 ItemDisplay[r32]:%PURPLE%[32] Cham Rune%NL%ooooo{%NAME%%TAN%Rune Number: 32}%BORDER-0A%//
 ItemDisplay[r33]:%PURPLE%[33] Zod Rune%NL%ooooo{%NAME%%TAN%Rune Number: 33}%BORDER-0A%//
-ItemDisplay[gzvs QTY>1]:%ORANGE%Flawless Amethyst Stack{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%PX-0A%//
-ItemDisplay[glys QTY>1]:%ORANGE%Flawless Topaz Stack{%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
-ItemDisplay[glbs QTY>1]:%ORANGE%Flawless Sapphire Stack{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%PX-0A%//
-ItemDisplay[glgs QTY>1]:%ORANGE%Flawless Emerald Stack{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%PX-0A%//
-ItemDisplay[glrs QTY>1]:%ORANGE%Flawless Ruby Stack{%ORANGE%Blood Crafting}%PX-0A%//
-ItemDisplay[glws QTY>1]:%ORANGE%Flawless Diamond Stack{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
-ItemDisplay[skls QTY>1]:%ORANGE%Flawless Skull Stack{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%PX-0A%//
-ItemDisplay[gzvs QTY=1]:%ORANGE%Flawless Amethyst{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%PX-0A%//
-ItemDisplay[glys QTY=1]:%ORANGE%Flawless Topaz{%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
-ItemDisplay[glbs QTY=1]:%ORANGE%Flawless Sapphire{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%PX-0A%//
-ItemDisplay[glgs QTY=1]:%ORANGE%Flawless Emerald{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%PX-0A%//
-ItemDisplay[glrs QTY=1]:%ORANGE%Flawless Ruby{%ORANGE%Blood Crafting}%PX-0A%//
-ItemDisplay[glws QTY=1]:%ORANGE%Flawless Diamond{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
-ItemDisplay[skls QTY=1]:%ORANGE%Flawless Skull{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%PX-0A%//
+ItemDisplay[gzvs QTY>1]:%ORANGE%Flawless Amethyst Stack{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
+ItemDisplay[glys QTY>1]:%ORANGE%Flawless Topaz Stack{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[glbs QTY>1]:%ORANGE%Flawless Sapphire Stack{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
+ItemDisplay[glgs QTY>1]:%ORANGE%Flawless Emerald Stack{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
+ItemDisplay[glrs QTY>1]:%ORANGE%Flawless Ruby Stack{%ORANGE%Blood Crafting}%DOT-0A%//
+ItemDisplay[glws QTY>1]:%ORANGE%Flawless Diamond Stack{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[skls QTY>1]:%ORANGE%Flawless Skull Stack{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
+ItemDisplay[gzvs QTY=1]:%ORANGE%Flawless Amethyst{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
+ItemDisplay[glys QTY=1]:%ORANGE%Flawless Topaz{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[glbs QTY=1]:%ORANGE%Flawless Sapphire{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
+ItemDisplay[glgs QTY=1]:%ORANGE%Flawless Emerald{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
+ItemDisplay[glrs QTY=1]:%ORANGE%Flawless Ruby{%ORANGE%Blood Crafting}%DOT-0A%//
+ItemDisplay[glws QTY=1]:%ORANGE%Flawless Diamond{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[skls QTY=1]:%ORANGE%Flawless Skull{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
 ItemDisplay[gpvs QTY>1]:%RED%Perfect Amethyst Stack{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
 ItemDisplay[gpys QTY>1]:%RED%Perfect Topaz Stack{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
 ItemDisplay[gpbs QTY>1]:%RED%Perfect Sapphire Stack{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
@@ -12553,7 +12553,6 @@ ItemDisplay[!RW !UNI PRICE>29999 PRICE<35000]:%NAME% %DARK_GREEN%$30k%CONTINUE%/
 ItemDisplay[!RW !UNI PRICE>34999]:%NAME% %DARK_GREEN%$35k%CONTINUE%//
 ItemDisplay[MAG SOCK>1]:%NAME%%NL%%RED%NOT A RUNEWORD CANDIDATE%BLUE%%CONTINUE%//
 ItemDisplay[RARE SOCK>1]:%NAME%%NL%%RED%NOT A RUNEWORD CANDIDATE%YELLOW%%CONTINUE%//
-W
 ItemDisplay[!UNI !RARE TABSK0=3]:%NAME%%NL%%PURPLE%+3 Bow and Crossbow%CONTINUE%//
 ItemDisplay[!UNI !RARE TABSK0=2 CLVL<71]:%NAME%%NL%%RED%+2 Bow and Crossbow%CONTINUE%//
 ItemDisplay[!UNI !RARE TABSK0=1 CLVL<51]:%NAME%%NL%%GREEN%+1 Bow and Crossbow%CONTINUE%//
@@ -14735,34 +14734,34 @@ ItemDisplay[UNI !ID 7ta]:%GOLD%Gimmershred%MAP-0A%//
 ItemDisplay[UNI !ID 7b8]:%GOLD%Lacerator%MAP-0A%//
 ItemDisplay[UNI !ID 7bw]:%GOLD%Boneshade%MAP-0A%//
 ItemDisplay[UNI !ID 7gw]:%GOLD%Death's Web%MAP-0A%//
-ItemDisplay[!RW ETH NMAG (7br OR 7s8 OR 7wc OR 7h7 OR 7pa) SOCK=4]:%NAME%%NL%%PURPLE%Infinity Base%MAP-0A%%CONTINUE%//
-ItemDisplay[!RW ETH NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4]:%NAME%%NL%%PURPLE%Insight Base%MAP-0A%%CONTINUE%//
-ItemDisplay[!RW ETH NMAG (scy OR wsc OR hal OR pax) SOCK=4 CLVL<50]:%NAME%%NL%%PURPLE%Insight Base%MAP-0A%%CONTINUE%//
-ItemDisplay[!RW ETH NMAG (scy OR wsc OR hal OR pax) SOCK=3 CLVL<30]:%NAME%%NL%%PURPLE%Malice Base%MAP-0A%%CONTINUE%//
-ItemDisplay[!RW NMAG (7br OR 7s8 OR 7wc OR 7h7 OR 7pa) SOCK=4]:%NAME%%NL%%RED%Swap Infinity Base%DOT-0A%//
-ItemDisplay[!RW NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4 CLVL<50]:%NAME%%NL%%RED%Insight Base%DOT-0A%//
-ItemDisplay[!RW NMAG (scy OR wsc OR hal OR pax) SOCK=4 CLVL<50]:%NAME%%NL%%RED%Insight Base%DOT-0A%//
-ItemDisplay[!RW NMAG (scy OR wsc OR hal OR pax) SOCK=3 CLVL<30]:%NAME%%NL%%RED%Malice Base%DOT-0A%//
-ItemDisplay[!RW NMAG fla SOCK=4]:%NAME%%NL%%PURPLE%Heart of the Oak Base%MAP-0A%%CONTINUE%//
-ItemDisplay[!RW NMAG crs SOCK=4]:%NAME%%NL%%PURPLE%Spirit Base%MAP-0A%%CONTINUE%//
-ItemDisplay[!RW NMAG fla ILVL>25 ILVL<41 SOCK=0 CLVL<33]:%NAME%%NL%%RED%Possible Heart of the Oak%DOT-0A%//
-ItemDisplay[!RW NMAG crs ILVL>25 ILVL<41 SOCK=0 CLVL<50]:%NAME%%NL%%RED%Possible Spirit Base%DOT-0A%//
-ItemDisplay[!RW NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=0 ILVL>25 CLVL<50]:%NAME%%NL%%RED%Possible Insight Base%MAP-0A%%CONTINUE%//
-ItemDisplay[!RW NMAG (scy OR wsc OR hal OR pax) SOCK=0 ILVL>25 CLVL<30]:%NAME%%NL%%RED%Possible Insight Base%DOT-0A%//
-ItemDisplay[!RW NMAG (bsh OR xsh or ush) SOCK=0]:%NAME%%NL%%RED%Shield Runeword Base%DOT-0A%//
-ItemDisplay[!RW NMAG (bsh OR xsh or ush) SOCK=3 CLVL<50]:%NAME%%NL%%PURPLE%Ancients Pledge Base%MAP-0A%%CONTINUE%//
-ItemDisplay[!RW NMAG (bsh OR xsh or ush) SOCK=3 CLVL<50]:%NAME%%NL%%PURPLE%Rhyme Base%MAP-0A%%CONTINUE%//
-ItemDisplay[UNI !ID]:%CODE%:%NAME%%PX-0A%//
-ItemDisplay[SET !ID]:%CODE%:%NAME%%PX-0A%//
-ItemDisplay[MAG !ID cm1]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
-ItemDisplay[MAG !ID cm2]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%//
-ItemDisplay[MAG !ID cm3]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
-ItemDisplay[MAG !ID rin]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%//
-ItemDisplay[MAG !ID amu]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
-ItemDisplay[MAG !ID jew]:%PX-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
-ItemDisplay[RARE !ID rin]:%PX-0A%%TAN%Lv%ILVL% %YELLOW%%NAME%%NL%oooo//
-ItemDisplay[RARE !ID amu]:%PX-0A%%TAN%Lv%ILVL% %YELLOW%%NAME%%NL%oooo//
-ItemDisplay[RARE !ID jew]:%PX-0A%%TAN%Lv%ILVL% %YELLOW%%NAME%%NL%oooo//
+ItemDisplay[!RW NMAG crs SOCK=4]:%NAME% %TAN%Spirit//
+ItemDisplay[!RW NMAG fla SOCK=4]:%NAME% %TAN%Heart of the Oak//
+ItemDisplay[!RW NMAG (bsh OR xsh or ush) SOCK=3]:%NAME% %TAN%Ancients Pledge//
+ItemDisplay[!RW NMAG (bsh OR xsh or ush) SOCK=2]:%NAME% %TAN%Rhyme//
+ItemDisplay[!RW NMAG (bsh OR xsh or ush) SOCK=0]:%NAME% %TAN%Shield Runeword//
+ItemDisplay[!RW NMAG (scy OR wsc OR hal OR pax) SOCK=3]:%NAME% %TAN%Malice//
+ItemDisplay[!RW NMAG (scy OR wsc OR hal OR pax) SOCK=4]:%NAME% %TAN%Insight//
+ItemDisplay[!RW NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4]:%NAME% %TAN%Insight//
+ItemDisplay[!RW NMAG (7br OR 7s8 OR 7wc OR 7h7 OR 7pa OR 7vo) SOCK=4]:%NAME% %TAN%Infinity//
+ItemDisplay[!RW ETH NMAG (scy OR wsc OR hal OR pax) SOCK=3]:%NAME%%NL%%TAN%Malice%MAP-0A%//
+ItemDisplay[!RW ETH NMAG (scy OR wsc OR hal OR pax) SOCK=4]:%NAME%%NL%%TAN%Insight%MAP-0A%//
+ItemDisplay[!RW ETH NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4]:%NAME%%NL%%RED%Insight%MAP-0A%//
+ItemDisplay[!RW ETH NMAG (7br OR 7s8 OR 7wc OR 7h7 OR 7pa OR 7vo) SOCK=4]:%NAME%%NL%%PURPLE%Infinity%MAP-0A%//
+ItemDisplay[!RW NMAG fla ILVL>25 ILVL<41 SOCK=0 CLVL<33]:%NAME% %RED%Heart of the Oak%DOT-0A%//
+ItemDisplay[!RW NMAG crs ILVL>25 ILVL<41 SOCK=0 CLVL<50]:%NAME% %RED%Spirit%DOT-0A%//
+ItemDisplay[!RW NMAG (scy OR wsc OR hal OR pax) SOCK=0 ILVL>25 CLVL<30]:%NAME% %RED%Insight%DOT-0A%//
+ItemDisplay[!RW NMAG (9s8 OR 9wc OR 9h9 OR 9pa) SOCK=0 ILVL>25 CLVL<50]:%NAME% %RED%Insight%MAP-0A%//
+ItemDisplay[UNI !ID]:%CODE%:%NAME%%DOT-0A%//
+ItemDisplay[SET !ID]:%CODE%:%NAME%%DOT-0A%//
+ItemDisplay[MAG !ID cm1]:%DOT-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
+ItemDisplay[MAG !ID cm2]:%DOT-0A%%TAN%Lv%ILVL% %BLUE%%NAME%//
+ItemDisplay[MAG !ID cm3]:%DOT-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
+ItemDisplay[MAG !ID rin]:%DOT-0A%%TAN%Lv%ILVL% %BLUE%%NAME%//
+ItemDisplay[MAG !ID amu]:%DOT-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
+ItemDisplay[MAG !ID jew]:%DOT-0A%%TAN%Lv%ILVL% %BLUE%%NAME%%NL%ooo//
+ItemDisplay[RARE !ID rin]:%DOT-0A%%TAN%Lv%ILVL% %YELLOW%%NAME%%NL%oooo//
+ItemDisplay[RARE !ID amu]:%DOT-0A%%TAN%Lv%ILVL% %YELLOW%%NAME%%NL%oooo//
+ItemDisplay[RARE !ID jew]:%DOT-0A%%TAN%Lv%ILVL% %YELLOW%%NAME%%NL%oooo//
 ItemDisplay[NMAG uui ED=0 DEF<444 SOCK=0]://
 ItemDisplay[NMAG uea ED=0 DEF<447 SOCK=0]://
 ItemDisplay[NMAG ula ED=0 DEF<451 SOCK=0]://

@@ -1,19 +1,19 @@
 ///// Flawless Gems /////
-ItemDisplay[gzvs QTY>1]:%ORANGE%Flawless Amethyst Stack{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%PX-0A%//
-ItemDisplay[glys QTY>1]:%ORANGE%Flawless Topaz Stack{%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
-ItemDisplay[glbs QTY>1]:%ORANGE%Flawless Sapphire Stack{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%PX-0A%//
-ItemDisplay[glgs QTY>1]:%ORANGE%Flawless Emerald Stack{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%PX-0A%//
-ItemDisplay[glrs QTY>1]:%ORANGE%Flawless Ruby Stack{%ORANGE%Blood Crafting}%PX-0A%//
-ItemDisplay[glws QTY>1]:%ORANGE%Flawless Diamond Stack{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
-ItemDisplay[skls QTY>1]:%ORANGE%Flawless Skull Stack{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%PX-0A%//
+ItemDisplay[gzvs QTY>1]:%ORANGE%Flawless Amethyst Stack{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
+ItemDisplay[glys QTY>1]:%ORANGE%Flawless Topaz Stack{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[glbs QTY>1]:%ORANGE%Flawless Sapphire Stack{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
+ItemDisplay[glgs QTY>1]:%ORANGE%Flawless Emerald Stack{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
+ItemDisplay[glrs QTY>1]:%ORANGE%Flawless Ruby Stack{%ORANGE%Blood Crafting}%DOT-0A%//
+ItemDisplay[glws QTY>1]:%ORANGE%Flawless Diamond Stack{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[skls QTY>1]:%ORANGE%Flawless Skull Stack{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
 
-ItemDisplay[gzvs QTY=1]:%ORANGE%Flawless Amethyst{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%PX-0A%//
-ItemDisplay[glys QTY=1]:%ORANGE%Flawless Topaz{%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
-ItemDisplay[glbs QTY=1]:%ORANGE%Flawless Sapphire{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%PX-0A%//
-ItemDisplay[glgs QTY=1]:%ORANGE%Flawless Emerald{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%PX-0A%//
-ItemDisplay[glrs QTY=1]:%ORANGE%Flawless Ruby{%ORANGE%Blood Crafting}%PX-0A%//
-ItemDisplay[glws QTY=1]:%ORANGE%Flawless Diamond{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%PX-0A%//
-ItemDisplay[skls QTY=1]:%ORANGE%Flawless Skull{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%PX-0A%//
+ItemDisplay[gzvs QTY=1]:%ORANGE%Flawless Amethyst{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
+ItemDisplay[glys QTY=1]:%ORANGE%Flawless Topaz{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[glbs QTY=1]:%ORANGE%Flawless Sapphire{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
+ItemDisplay[glgs QTY=1]:%ORANGE%Flawless Emerald{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
+ItemDisplay[glrs QTY=1]:%ORANGE%Flawless Ruby{%ORANGE%Blood Crafting}%DOT-0A%//
+ItemDisplay[glws QTY=1]:%ORANGE%Flawless Diamond{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
+ItemDisplay[skls QTY=1]:%ORANGE%Flawless Skull{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
 
 ///// Perfect Gems /////
 ItemDisplay[gpvs QTY>1]:%RED%Perfect Amethyst Stack{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
