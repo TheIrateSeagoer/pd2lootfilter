@@ -36,7 +36,7 @@ ItemDisplay[SET !ID bsd]:%GREEN%Isenhart's Lightbrand%DOT-0A%//
 ItemDisplay[SET !ID gts]:%GREEN%Isenhart's Parry%DOT-0A%//
 
 ItemDisplay[SET !ID kit]:%GREEN%Milabrega's Orb%DOT-0A%//
-ItemDisplay[SET !ID aar]:%GREEN%Milabrega's Robe%DOT-0A%//
+ItemDisplay[SET !ID aar]:%GREEN%o Milabrega's Robe o%DOT-0A%//
 ItemDisplay[SET !ID wsp]:%GREEN%Milabrega's Rod%DOT-0A%//
 
 ItemDisplay[SET !ID hgl]:%GREEN%Sigon's Gage%DOT-0A%//

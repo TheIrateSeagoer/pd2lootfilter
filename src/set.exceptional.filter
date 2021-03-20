@@ -1,32 +1,32 @@
-ItemDisplay[SET !ID 7ma]:%GREEN%Dangoon's Teaching%MAP-0A%//
-ItemDisplay[SET !ID xrs]:%GREEN%Haemosu's Adament%MAP-0A%//
-ItemDisplay[SET !ID uhm]:%GREEN%Ondal's Almighty%MAP-0A%//
-ItemDisplay[SET !ID uts]:%GREEN%Taebaek'sGlory%MAP-0A%//
+ItemDisplay[SET !ID 7ma]:%GREEN%o Dangoon's Teaching o%MAP-0A%//
+ItemDisplay[SET !ID xrs]:%GREEN%o Haemosu's Adament o%MAP-0A%//
+ItemDisplay[SET !ID uhm]:%GREEN%oo Ondal's Almighty oo%MAP-0A%//
+ItemDisplay[SET !ID uts]:%GREEN%oo Taebaek's Glory oo%MAP-0A%//
 
-ItemDisplay[SET !ID umc]:%GREEN%Credendum%MAP-0A%//
-ItemDisplay[SET !ID uui]:%GREEN%Dark Adherent%MAP-0A%//
-ItemDisplay[SET !ID ulg]:%GREEN%Laying of Hands%MAP-0A%//
+ItemDisplay[SET !ID umc]:%GREEN%oo Credendum oo%MAP-0A%//
+ItemDisplay[SET !ID uui]:%GREEN%o Dark Adherent o%MAP-0A%//
+ItemDisplay[SET !ID ulg]:%GREEN%o Laying of Hands o%MAP-0A%//
 ItemDisplay[SET !ID xlb]:%GREEN%Rite of Passage%MAP-0A%//
 
 ItemDisplay[SET !ID 9vo]:%GREEN%Hwanin's Justice%MAP-0A%//
-ItemDisplay[SET !ID xcl]:%GREEN%Hwanin's Refuge%MAP-0A%//
-ItemDisplay[SET !ID xrn]:%GREEN%Hwanin's Splendor%MAP-0A%//
+ItemDisplay[SET !ID xcl]:%GREEN%o Hwanin's Refuge o%MAP-0A%//
+ItemDisplay[SET !ID xrn]:%GREEN%o Hwanin's Splendor o%MAP-0A%//
 
 ItemDisplay[SET !ID stu]:%GREEN%Cow King's Hide%MAP-0A%//
 ItemDisplay[SET !ID xap]:%GREEN%Cow King's Horns%MAP-0A%//
 
 ItemDisplay[SET !ID ci0]:%GREEN%Naj's Circlet%MAP-0A%//
-ItemDisplay[SET !ID ult]:%GREEN%Naj's Light Plate%MAP-0A%//
-ItemDisplay[SET !ID 6cs]:%GREEN%Naj's Puzzler%MAP-0A%//
+ItemDisplay[SET !ID ult]:%GREEN%oo Naj's Light Plate oo%MAP-0A%//
+ItemDisplay[SET !ID 6cs]:%GREEN%oo Naj's Puzzler oo%MAP-0A%//
 
 ItemDisplay[SET !ID bwn]:%GREEN%Sander's Superstition%MAP-0A%//
 ItemDisplay[SET !ID vgl]:%GREEN%Sander's Taboo%MAP-0A%//
 
-ItemDisplay[SET !ID 7ls]:%GREEN%Sazabi's Cobalt Redeemer%MAP-0A%//
-ItemDisplay[SET !ID upl]:%GREEN%Sazabi's Ghost Liberator%MAP-0A%//
-ItemDisplay[SET !ID xhl]:%GREEN%Sazabi's Sazabi's Mental Sheath%MAP-0A%//
+ItemDisplay[SET !ID 7ls]:%GREEN%oo Sazabi's Cobalt Redeemer oo%MAP-0A%//
+ItemDisplay[SET !ID upl]:%GREEN%oo Sazabi's Ghost Liberator oo%MAP-0A%//
+ItemDisplay[SET !ID xhl]:%GREEN%o Sazabi's Sazabi's Mental Sheath o%MAP-0A%//
 
-ItemDisplay[SET !ID xhm]:%GREEN%Guillaume's Face%MAP-0A%//
+ItemDisplay[SET !ID xhm]:%GREEN%o Guillaume's Face o%MAP-0A%//
 ItemDisplay[SET !ID xvg]:%GREEN%Magnus's Skin%MAP-0A%//
 ItemDisplay[SET !ID xml]:%GREEN%Whitstan's Guard%MAP-0A%//
-ItemDisplay[SET !ID ztb]:%GREEN%Wilhelm's Pride%MAP-0A%//
+ItemDisplay[SET !ID ztb]:%GREEN%o Wilhelm's Pride o%MAP-0A%//

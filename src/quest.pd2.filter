@@ -1,12 +1,12 @@
 ///// Prefix /////
-ItemDisplay[(t11 OR t12 OR t13)]:[T1] %NAME%%NL%o%CONTINUE%//
-ItemDisplay[(t21 OR t22 OR t23 OR t24)]:[T2] %NAME%%NL%oo%CONTINUE%//
-ItemDisplay[(t31 OR t32 OR t33 OR t34 OR t35 OR t36)]:[T3] %NAME%%NL%ooo%CONTINUE%//
-ItemDisplay[t41]:[T4] %NAME%%NL%oooo%CONTINUE%//
+ItemDisplay[(t11 OR t12 OR t13)]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[(t21 OR t22 OR t23 OR t24)]:[T2] %NAME%%CONTINUE%//
+ItemDisplay[(t31 OR t32 OR t33 OR t34 OR t35 OR t36)]:[T3] %NAME%%CONTINUE%//
+ItemDisplay[t41]:[T4] %NAME%%CONTINUE%//
 
 ///// Corruptions /////
-ItemDisplay[lbox]:%NAME%%NL%ooooo{%TAN%One-Handed: 1-2 Two-Handed: 1-4%NL%Helmet: 1-2 Chest: 1-2 Shield: 1-2}%BORDER-0A%//
-ItemDisplay[wss]:%NAME%%NL%ooo{%TAN%Item: (Modifier: 50% Sockets: 25% Brick: 25%)%NL%Socketed Item: (Modifier: 75% Brick: 25%)%NL%Maps: (Modifier: 70% Brick: 30%)}%BORDER-0A%//
+ItemDisplay[lbox]:%NL%%PURPLE%ooo %NAME% %PURPLE%ooo%NL%{%TAN%One-Handed: 1-2 Two-Handed: 1-4%NL%Helmet: 1-2 Chest: 1-2 Shield: 1-2}%BORDER-0A%//
+ItemDisplay[wss]:%NL%%RED%ooo %NAME% %RED%ooo%NL%%PURPLE%{%TAN%Item: (Modifier: 50% Sockets: 25% Brick: 25%)%NL%Socketed Item: (Modifier: 75% Brick: 25%)%NL%Maps: (Modifier: 70% Brick: 30%)}%BORDER-0A%//
 
 ///// Maps /////
 ItemDisplay[imra]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Zakarum Orb%GRAY%+%BLUE%Jewel%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%WHITE%Map%GRAY%)}//
@@ -15,12 +15,12 @@ ItemDisplay[upma]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Angelic Orb%GRAY%+%ORANGE%Run
 ItemDisplay[rera]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Horadrim Orb%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%YELLOW%Map%GRAY%)}//
 ItemDisplay[scou]:%NAME%{%WHITE%Map%GRAY%: (%GOLD%Orb of Destruction%GRAY%+%ORANGE%Hel%GRAY%+%BLUE%MAP%GRAY%)%NL%%WHITE%Map%GRAY%: %GRAY%(%GOLD%Orb of Destruction%GRAY%+%ORANGE%Hel%GRAY%+%YELLOW%MAP%GRAY%)}//
 ItemDisplay[upmp]:%NAME%{%WHITE%Map%GRAY%: (%GOLD%Cartographer's Orb%GRAY%+%WHITE%Map%GRAY%+%WHITE%Map%GRAY%+%WHITE%Map%GRAY%)%NL%%TAN%Use 3 maps of the same tier to get a higher tier}//
-ItemDisplay[NMAG (t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42)]:%NAME%{%BLUE%Map%GRAY%: (%WHITE%Map%GRAY%+%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%)}%BORDER-0A%// 
-ItemDisplay[MAG (t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42)]:%NAME%{%BLUE%Map%WHITE%%GRAY%: (%BLUE%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%)}%BORDER-0A%//
-ItemDisplay[RARE (t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42)]:%NAME%{%YELLOW%Map%WHITE%%GRAY%: (%YELLOW%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%GOLD%Horadrim Orb%GRAY%)}%BORDER-0A%//
+ItemDisplay[NMAG (t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42)]:%RED%ooo %WHITE%%NAME%{%BLUE%Map%GRAY%: (%WHITE%Map%GRAY%+%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%)}%BORDER-0A%// 
+ItemDisplay[MAG (t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42)]:%RED%ooo %BLUE%%NAME%{%BLUE%Map%WHITE%%GRAY%: (%BLUE%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%)}%BORDER-0A%//
+ItemDisplay[RARE (t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42)]:%RED%ooo %YELLOW%%NAME%{%YELLOW%Map%WHITE%%GRAY%: (%YELLOW%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%GOLD%Horadrim Orb%GRAY%)}%BORDER-0A%//
 
 ///// Diablo Clone /////
-ItemDisplay[dcho]:%NAME%%NL%ooo{%RED%Vision of Terror%GRAY%: (%ORANGE%Black Soulstone%GRAY%+%ORANGE%Prime Evil Soul%GRAY%+%ORANGE%Pure Demonic Essence%GRAY%)%NL%%TAN%Complete an Uber}//
-ItemDisplay[dcso]:%NAME%%NL%ooo{%RED%Vision of Terror%GRAY%: (%ORANGE%Prime Evil Soul%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Pure Demonic Essence%GRAY%)%NL%%TAN%Hell Diablo / Hell Baal}//
-ItemDisplay[dcbl]:%NAME%%NL%ooo{%RED%Vision of Terror%GRAY%: (%ORANGE%Pure Demonic Essence%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Prime Evil Soul%GRAY%)%NL%%TAN%Map Bosses}//
+ItemDisplay[dcho]:%NL%%RED%oooo %ORANGE%%NAME% %RED%oooo%NL%%ORANGE%{%RED%Vision of Terror%GRAY%: (%ORANGE%Black Soulstone%GRAY%+%ORANGE%Prime Evil Soul%GRAY%+%ORANGE%Pure Demonic Essence%GRAY%)%NL%%TAN%Complete an Uber}//
+ItemDisplay[dcso]:%NL%%RED%oooo %ORANGE%%NAME% %RED%oooo%NL%%ORANGE%{%RED%Vision of Terror%GRAY%: (%ORANGE%Prime Evil Soul%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Pure Demonic Essence%GRAY%)%NL%%TAN%Hell Diablo / Hell Baal}//
+ItemDisplay[dcbl]:%NL%%RED%oooo %ORANGE%%NAME% %RED%oooo%NL%%ORANGE%{%RED%Vision of Terror%GRAY%: (%ORANGE%Pure Demonic Essence%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Prime Evil Soul%GRAY%)%NL%%TAN%Map Bosses}//
 ItemDisplay[dcma]:%NAME%%NL%ooo//

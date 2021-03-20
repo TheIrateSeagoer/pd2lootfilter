@@ -1,58 +1,58 @@
 ///// Rings /////
-ItemDisplay[UNI !ID rin]:ooooo%NL%Unique Ring%NL%ooooo//
+ItemDisplay[UNI !ID rin]:%RED%ooooo %GOLD%%NAME% %RED%ooooo//
 
 ///// Amulets /////
-ItemDisplay[UNI !ID amu]:ooooo%NL%Unique Amulet%NL%ooooo//
+ItemDisplay[UNI !ID amu]:%RED%ooooo %GOLD%%NAME% %RED%ooooo//
 
 ///// Charms /////
-ItemDisplay[UNI !ID cm1]:%GOLD%Annihilus%MAP-0A%//
-ItemDisplay[UNI !ID cm2]:%GOLD%Hellfire Torch%MAP-0A%//
-ItemDisplay[UNI !ID cm3]:%GOLD%Gheed's Fortune%MAP-0A%//
+ItemDisplay[UNI !ID cm1]:%GOLD%ooo Annihilus ooo%MAP-0A%//
+ItemDisplay[UNI !ID cm2]:%GOLD%ooo Hellfire Torch ooo%MAP-0A%//
+ItemDisplay[UNI !ID cm3]:%GOLD%oo Gheed's Fortune oo%MAP-0A%//
 
 ///// Jewels /////
-ItemDisplay[UNI !ID jew]:%GOLD%Rainbow Facet%MAP-0A%//
+ItemDisplay[UNI !ID jew]:%GOLD%oo Rainbow Facet oo%MAP-0A%//
 
 ///// Circlets /////
-ItemDisplay[UNI !ID ci2]:%GOLD%Kira's Guardian%MAP-0A%//
-ItemDisplay[UNI !ID ci3]:%GOLD%Griffon's Eye%MAP-0A%//
+ItemDisplay[UNI !ID ci2]:%GOLD%oo Kira's Guardian oo%MAP-0A%//
+ItemDisplay[UNI !ID ci3]:%GOLD%oo Griffon's Eye oo%MAP-0A%//
 
 ///// Amazon /////
-ItemDisplay[UNI !ID amd]:%GOLD%Stoneraven%MAP-0A%//
-ItemDisplay[UNI !ID am9]:%GOLD%Lycander's Flank%MAP-0A%//
-ItemDisplay[UNI !ID am7]:%GOLD%Lycander's Aim%MAP-0A%//
-ItemDisplay[UNI !ID ama]:%GOLD%Titan's Revenge%MAP-0A%//
-ItemDisplay[UNI !ID amf]:%GOLD%Thunderstroke%MAP-0A%//
-ItemDisplay[UNI !ID amb]:%GOLD%Blood Raven's Charge%MAP-0A%//
+ItemDisplay[UNI !ID amd]:%GOLD%oo Stoneraven oo%MAP-0A%//
+ItemDisplay[UNI !ID am9]:%GOLD%o Lycander's Flank o%MAP-0A%//
+ItemDisplay[UNI !ID am7]:%GOLD%o Lycander's Aim o%MAP-0A%//
+ItemDisplay[UNI !ID ama]:%GOLD%o Titan's Revenge o%MAP-0A%//
+ItemDisplay[UNI !ID amf]:%GOLD%oo Thunderstroke oo%MAP-0A%//
+ItemDisplay[UNI !ID amb]:%GOLD%oo Blood Raven's Charge oo%MAP-0A%//
 
 ///// Assassin /////
-ItemDisplay[UNI !ID 7cs]:%GOLD%Shadow Killer%MAP-0A%//
-ItemDisplay[UNI !ID 9tw]:%GOLD%Bartuc's Cut-Throat%MAP-0A%//
-ItemDisplay[UNI !ID 7wb]:%GOLD%Jade Talon%MAP-0A%//
-ItemDisplay[UNI !ID 7lw]:%GOLD%Firelizard's Talons%MAP-0A%//
+ItemDisplay[UNI !ID 7cs]:%GOLD%oo Shadow Killer oo%MAP-0A%//
+ItemDisplay[UNI !ID 9tw]:%GOLD%o Bartuc's Cut-Throat o%MAP-0A%//
+ItemDisplay[UNI !ID 7wb]:%GOLD%oo Jade Talon oo%MAP-0A%//
+ItemDisplay[UNI !ID 7lw]:%GOLD%oo Firelizard's Talons oo%MAP-0A%//
 
 /////Necromancer /////
-ItemDisplay[UNI !ID nea]:%GOLD%Homunculus%MAP-0A%//
-ItemDisplay[UNI !ID nef]:%GOLD%Darkforce Spawn%MAP-0A%//
-ItemDisplay[UNI !ID nee]:%GOLD%Boneflame%MAP-0A%//
+ItemDisplay[UNI !ID nea]:%GOLD%o Homunculus o%MAP-0A%//
+ItemDisplay[UNI !ID nef]:%GOLD%oo Darkforce Spawn oo%MAP-0A%//
+ItemDisplay[UNI !ID nee]:%GOLD%oo Boneflame oo%MAP-0A%//
 
 ///// Barbarian /////
-ItemDisplay[UNI !ID baa]:%GOLD%Arreat's Face%MAP-0A%//
-ItemDisplay[UNI !ID bac]:%GOLD%Wolfhowl%MAP-0A%//
-ItemDisplay[UNI !ID bad]:%GOLD%Demonhorn's Edge%MAP-0A%//
-ItemDisplay[UNI !ID bae]:%GOLD%Halaberd's Reign%MAP-0A%//
+ItemDisplay[UNI !ID baa]:%GOLD%o Arreat's Face o%MAP-0A%//
+ItemDisplay[UNI !ID bac]:%GOLD%oo Wolfhowl oo%MAP-0A%//
+ItemDisplay[UNI !ID bad]:%GOLD%oo Demonhorn's Edge oo%MAP-0A%//
+ItemDisplay[UNI !ID bae]:%GOLD%oo Halaberd's Reign oo%MAP-0A%//
 
 ///// Sorceress /////
-ItemDisplay[UNI !ID oba]:%GOLD%The Oculus%MAP-0A%//
-ItemDisplay[UNI !ID obc]:%GOLD%Eschuta's Temper%MAP-0A%//
-ItemDisplay[UNI !ID obf]:%GOLD%Death's Fathom%MAP-0A%//
+ItemDisplay[UNI !ID oba]:%GOLD%o The Oculus o%MAP-0A%//
+ItemDisplay[UNI !ID obc]:%GOLD%oo Eschuta's Temper oo%MAP-0A%//
+ItemDisplay[UNI !ID obf]:%GOLD%oo Death's Fathom oo%MAP-0A%//
 
 ///// Druid /////
-ItemDisplay[UNI !ID dra]:%GOLD%Jalal's Mane%MAP-0A%//
-ItemDisplay[UNI !ID drb]:%GOLD%Cerebus' Bite%MAP-0A%//
-ItemDisplay[UNI !ID dre]:%GOLD%Ravenlore%MAP-0A%//
-ItemDisplay[UNI !ID drd]:%GOLD%Spirit Keeper%MAP-0A%//
+ItemDisplay[UNI !ID dra]:%GOLD%o Jalal's Mane o%MAP-0A%//
+ItemDisplay[UNI !ID drb]:%GOLD%oo Cerebus' Bite oo%MAP-0A%//
+ItemDisplay[UNI !ID dre]:%GOLD%oo Ravenlore oo%MAP-0A%//
+ItemDisplay[UNI !ID drd]:%GOLD%oo Spirit Keeper oo%MAP-0A%//
 
 ///// Paladin /////
-ItemDisplay[UNI !ID pac]:%GOLD%Alma Negra%MAP-0A%//
-ItemDisplay[UNI !ID pa9]:%GOLD%Herald of Zakarum%MAP-0A%//
-ItemDisplay[UNI !ID pae]:%GOLD%Dragonscale%MAP-0A%//
+ItemDisplay[UNI !ID pac]:%GOLD%oo Alma Negra oo%MAP-0A%//
+ItemDisplay[UNI !ID pa9]:%GOLD%o Herald of Zakarum o%MAP-0A%//
+ItemDisplay[UNI !ID pae]:%GOLD%oo Dragonscale oo%MAP-0A%//

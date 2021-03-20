@@ -1,154 +1,154 @@
 ///// Helms /////
 ItemDisplay[UNI !ID xap]:%GOLD%Peasant Crown%MAP-0A%//
 ItemDisplay[UNI !ID xkp]:%GOLD%Rockstopper%MAP-0A%//
-ItemDisplay[UNI !ID xlm]:%GOLD%Stealskull%MAP-0A%//
-ItemDisplay[UNI !ID xhl]:%GOLD%Darksight Helm%MAP-0A%//
-ItemDisplay[UNI !ID xhm]:%GOLD%Valkyrie Wing%MAP-0A%//
-ItemDisplay[UNI !ID xsk]:%GOLD%Blackhorn's Face%MAP-0A%//
-ItemDisplay[UNI !ID xrn]:%GOLD%Crown of Thieves%MAP-0A%//
-ItemDisplay[UNI !ID xh9]:%GOLD%Vampire Gaze%MAP-0A%//
+ItemDisplay[UNI !ID xlm]:%GOLD%o Stealskull o%MAP-0A%//
+ItemDisplay[UNI !ID xhl]:%GOLD%o Darksight Helm o%MAP-0A%//
+ItemDisplay[UNI !ID xhm]:%GOLD%o Valkyrie Wing o%MAP-0A%//
+ItemDisplay[UNI !ID xsk]:%GOLD%o Blackhorn's Face o%MAP-0A%//
+ItemDisplay[UNI !ID xrn]:%GOLD%o Crown of Thieves o%MAP-0A%//
+ItemDisplay[UNI !ID xh9]:%GOLD%o Vampire Gaze o%MAP-0A%//
 
 ///// Armors /////
 ItemDisplay[UNI !ID xui]:%GOLD%The Spirit Shroud%MAP-0A%//
 ItemDisplay[UNI !ID xea]:%GOLD%Skin of the Vipermagi%MAP-0A%//
 ItemDisplay[UNI !ID xla]:%GOLD%Skin of the Flayed One%MAP-0A%//
-ItemDisplay[UNI !ID xtu]:%GOLD%Iron Pelt%MAP-0A%//
-ItemDisplay[UNI !ID xcl]:%GOLD%Crow Caw%MAP-0A%//
-ItemDisplay[UNI !ID xng]:%GOLD%Spirit Forge%MAP-0A%//
-ItemDisplay[UNI !ID xrs]:%GOLD%Duriel's Shell%MAP-0A%//
-ItemDisplay[UNI !ID xhn]:%GOLD%Shaftstop%MAP-0A%//
-ItemDisplay[UNI !ID xpl]:%GOLD%Skullder's Ire%MAP-0A%//
-ItemDisplay[UNI !ID xtp]:%GOLD%Que-Hegan's Wisdom%MAP-0A%//
-ItemDisplay[UNI !ID xld]:%GOLD%Toothrow%MAP-0A%//
-ItemDisplay[UNI !ID xlt]:%GOLD%Guardian Angel%MAP-0A%//
-ItemDisplay[UNI !ID xth]:%GOLD%Atma's Wail%MAP-0A%//
-ItemDisplay[UNI !ID xul]:%GOLD%Black Hades%MAP-0A%//
-ItemDisplay[UNI !ID xar]:%GOLD%Corpsemourn%MAP-0A%//
+ItemDisplay[UNI !ID xtu]:%GOLD%o Iron Pelt o%MAP-0A%//
+ItemDisplay[UNI !ID xcl]:%GOLD%o Crow Caw o%MAP-0A%//
+ItemDisplay[UNI !ID xng]:%GOLD%o Spirit Forge o%MAP-0A%//
+ItemDisplay[UNI !ID xrs]:%GOLD%o Duriel's Shell o%MAP-0A%//
+ItemDisplay[UNI !ID xhn]:%GOLD%o Shaftstop o%MAP-0A%//
+ItemDisplay[UNI !ID xpl]:%GOLD%o Skullder's Ire o%MAP-0A%//
+ItemDisplay[UNI !ID xtp]:%GOLD%o Que-Hegan's Wisdom o%MAP-0A%//
+ItemDisplay[UNI !ID xld]:%GOLD%o Toothrow o%MAP-0A%//
+ItemDisplay[UNI !ID xlt]:%GOLD%o Guardian Angel o%MAP-0A%//
+ItemDisplay[UNI !ID xth]:%GOLD%o Atma's Wail o%MAP-0A%//
+ItemDisplay[UNI !ID xul]:%GOLD%o Black Hades o%MAP-0A%//
+ItemDisplay[UNI !ID xar]:%GOLD%o Corpsemourn o%MAP-0A%//
 
 ///// Shields /////
 ItemDisplay[UNI !ID xuc]:%GOLD%Visceratuant%MAP-0A%//
 ItemDisplay[UNI !ID xml]:%GOLD%Moser's Blessed Circle%MAP-0A%//
-ItemDisplay[UNI !ID xrg]:%GOLD%Stormchaser%MAP-0A%//
-ItemDisplay[UNI !ID xit]:%GOLD%Tiamat's Rebuke%MAP-0A%//
-ItemDisplay[UNI !ID xpk]:%GOLD%Lance Guard%MAP-0A%//
-ItemDisplay[UNI !ID xow]:%GOLD%Gerke's Sanctuary%MAP-0A%//
-ItemDisplay[UNI !ID xsh]:%GOLD%Lidless Wall%MAP-0A%//
-ItemDisplay[UNI !ID xts]:%GOLD%Radament's Sphere%MAP-0A%//
+ItemDisplay[UNI !ID xrg]:%GOLD%o Stormchaser o%MAP-0A%//
+ItemDisplay[UNI !ID xit]:%GOLD%o Tiamat's Rebuke o%MAP-0A%//
+ItemDisplay[UNI !ID xpk]:%GOLD%o Lance Guard o%MAP-0A%//
+ItemDisplay[UNI !ID xow]:%GOLD%o Gerke's Sanctuary o%MAP-0A%//
+ItemDisplay[UNI !ID xsh]:%GOLD%o Lidless Wall o%MAP-0A%//
+ItemDisplay[UNI !ID xts]:%GOLD%o Radament's Sphere o%MAP-0A%//
 
 ///// Gloves /////
 ItemDisplay[UNI !ID xlg]:%GOLD%Venom Grip%MAP-0A%//
 ItemDisplay[UNI !ID xvg]:%GOLD%Gravepalm%MAP-0A%//
-ItemDisplay[UNI !ID xmg]:%GOLD%Ghoulhide%MAP-0A%//
-ItemDisplay[UNI !ID xtg]:%GOLD%Lava Gout%MAP-0A%//
-ItemDisplay[UNI !ID xhg]:%GOLD%Hellmouth%MAP-0A%//
+ItemDisplay[UNI !ID xmg]:%GOLD%o Ghoulhide o%MAP-0A%//
+ItemDisplay[UNI !ID xtg]:%GOLD%o Lava Gout o%MAP-0A%//
+ItemDisplay[UNI !ID xhg]:%GOLD%o Hellmouth o%MAP-0A%//
 
 ///// Boots /////
 ItemDisplay[UNI !ID xlb]:%GOLD%Infernostride%MAP-0A%//
 ItemDisplay[UNI !ID xvb]:%GOLD%Waterwalk%MAP-0A%//
-ItemDisplay[UNI !ID xmb]:%GOLD%Silkweave%MAP-0A%//
-ItemDisplay[UNI !ID xtb]:%GOLD%War Traveler%MAP-0A%//
-ItemDisplay[UNI !ID xhb]:%GOLD%Gore Rider%MAP-0A%//
+ItemDisplay[UNI !ID xmb]:%GOLD%o Silkweave o%MAP-0A%//
+ItemDisplay[UNI !ID xtb]:%GOLD%o War Traveler o%MAP-0A%//
+ItemDisplay[UNI !ID xhb]:%GOLD%o Gore Rider o%MAP-0A%//
 
 ///// Belts /////
 ItemDisplay[UNI !ID zlb]:%GOLD%String of Ears%MAP-0A%//
 ItemDisplay[UNI !ID zvb]:%GOLD%Razortail%MAP-0A%//
-ItemDisplay[UNI !ID zmb]:%GOLD%Gloom's Trap%MAP-0A%//
-ItemDisplay[UNI !ID ztb]:%GOLD%Snowclash%MAP-0A%//
-ItemDisplay[UNI !ID zhb]:%GOLD%Thundergod's Vigor%MAP-0A%//
+ItemDisplay[UNI !ID zmb]:%GOLD%o Gloom's Trap o%MAP-0A%//
+ItemDisplay[UNI !ID ztb]:%GOLD%o Snowclash o%MAP-0A%//
+ItemDisplay[UNI !ID zhb]:%GOLD%o Thundergod's Vigor o%MAP-0A%//
 
 ///// Axes /////
-ItemDisplay[UNI !ID 9ha]:%GOLD%Coldkill%MAP-0A%//
-ItemDisplay[UNI !ID 9ax]:%GOLD%Butcher's Pupil%MAP-0A%//
-ItemDisplay[UNI !ID 92a]:%GOLD%Islestrike%MAP-0A%//
-ItemDisplay[UNI !ID 9mp]:%GOLD%Pompeii's Wrath%MAP-0A%//
-ItemDisplay[UNI !ID 9wa]:%GOLD%Guardian Naga%MAP-0A%//
+ItemDisplay[UNI !ID 9ha]:%GOLD%o Coldkill o%MAP-0A%//
+ItemDisplay[UNI !ID 9ax]:%GOLD%o Butcher's Pupil o%MAP-0A%//
+ItemDisplay[UNI !ID 92a]:%GOLD%o Islestrike o%MAP-0A%//
+ItemDisplay[UNI !ID 9mp]:%GOLD%o Pompeii's Wrath o%MAP-0A%//
+ItemDisplay[UNI !ID 9wa]:%GOLD%o Guardian Naga o%MAP-0A%//
 ItemDisplay[UNI !ID 9la]:%GOLD%Warlord's Trust%MAP-0A%//
-ItemDisplay[UNI !ID 9ba]:%GOLD%Spellsteel%MAP-0A%//
-ItemDisplay[UNI !ID 9bt]:%GOLD%Stormrider%MAP-0A%//
-ItemDisplay[UNI !ID 9ga]:%GOLD%Boneslayer Blade%MAP-0A%//
-ItemDisplay[UNI !ID 9gi]:%GOLD%The Minotaur%MAP-0A%//
+ItemDisplay[UNI !ID 9ba]:%GOLD%o Spellsteel o%MAP-0A%//
+ItemDisplay[UNI !ID 9bt]:%GOLD%o Stormrider o%MAP-0A%//
+ItemDisplay[UNI !ID 9ga]:%GOLD%o Boneslayer Blade o%MAP-0A%//
+ItemDisplay[UNI !ID 9gi]:%GOLD%o The Minotaur o%MAP-0A%//
 
 ///// Bows /////
 ItemDisplay[UNI !ID 8sb]:%GOLD%Skystrike%MAP-0A%//
 ItemDisplay[UNI !ID 8hb]:%GOLD%Riphook%MAP-0A%//
 ItemDisplay[UNI !ID 8lb]:%GOLD%Kuko Shakaku%MAP-0A%//
 ItemDisplay[UNI !ID 8cb]:%GOLD%Endlesshail%MAP-0A%//
-ItemDisplay[UNI !ID 8s8]:%GOLD%Witchwild String%MAP-0A%//
-ItemDisplay[UNI !ID 8l8]:%GOLD%Cliffkiller%MAP-0A%//
-ItemDisplay[UNI !ID 8sw]:%GOLD%Magewrath%MAP-0A%//
-ItemDisplay[UNI !ID 8lw]:%GOLD%Goldstrike Arch%MAP-0A%//
+ItemDisplay[UNI !ID 8s8]:%GOLD%o Witchwild String o%MAP-0A%//
+ItemDisplay[UNI !ID 8l8]:%GOLD%o Cliffkiller o%MAP-0A%//
+ItemDisplay[UNI !ID 8sw]:%GOLD%o Magewrath o%MAP-0A%//
+ItemDisplay[UNI !ID 8lw]:%GOLD%o Goldstrike Arch o%MAP-0A%//
 
 ///// Crossbows /////
 ItemDisplay[UNI !ID 8lx]:%GOLD%Langer Briser%MAP-0A%//
-ItemDisplay[UNI !ID 8mx]:%GOLD%Pus Spitter%MAP-0A%//
-ItemDisplay[UNI !ID 8hx]:%GOLD%Buriza-Do Kyanon%MAP-0A%//
-ItemDisplay[UNI !ID 8rx]:%GOLD%Demon Machine%MAP-0A%//
+ItemDisplay[UNI !ID 8mx]:%GOLD%o Pus Spitter o%MAP-0A%//
+ItemDisplay[UNI !ID 8hx]:%GOLD%o Buriza-Do Kyanon o%MAP-0A%//
+ItemDisplay[UNI !ID 8rx]:%GOLD%o Demon Machine o%MAP-0A%//
 
 ///// Daggers /////
 ItemDisplay[UNI !ID 9dg]:%GOLD%Spineripper%MAP-0A%//
-ItemDisplay[UNI !ID 9di]:%GOLD%Heart Carver%MAP-0A%//
-ItemDisplay[UNI !ID 9kr]:%GOLD%Blackbog's Sharp%MAP-0A%//
-ItemDisplay[UNI !ID 9bl]:%GOLD%Stormspike%MAP-0A%//
+ItemDisplay[UNI !ID 9di]:%GOLD%o Heart Carver o%MAP-0A%//
+ItemDisplay[UNI !ID 9kr]:%GOLD%o Blackbog's Sharp o%MAP-0A%//
+ItemDisplay[UNI !ID 9bl]:%GOLD%o Stormspike o%MAP-0A%//
 
 ///// Maces /////
 ItemDisplay[UNI !ID 9cl]:%GOLD%Dark Clan Crusher%MAP-0A%//
-ItemDisplay[UNI !ID 9sp]:%GOLD%Fleshrender%MAP-0A%//
-ItemDisplay[UNI !ID 9ma]:%GOLD%Sureshrill Frost%MAP-0A%//
-ItemDisplay[UNI !ID 9mt]:%GOLD%Moonfall%MAP-0A%//
-ItemDisplay[UNI !ID 9fl]:%GOLD%Baezil's Vortex%MAP-0A%//
-ItemDisplay[UNI !ID 9wh]:%GOLD%Earthshaker%MAP-0A%//
-ItemDisplay[UNI !ID 9m9]:%GOLD%Bloodtree Stump%MAP-0A%//
-ItemDisplay[UNI !ID 9gm]:%GOLD%The Gavel Of Pain%MAP-0A%//
+ItemDisplay[UNI !ID 9sp]:%GOLD%o Fleshrender o%MAP-0A%//
+ItemDisplay[UNI !ID 9ma]:%GOLD%o Sureshrill Frost o%MAP-0A%//
+ItemDisplay[UNI !ID 9mt]:%GOLD%o Moonfall o%MAP-0A%//
+ItemDisplay[UNI !ID 9fl]:%GOLD%o Baezil's Vortex o%MAP-0A%//
+ItemDisplay[UNI !ID 9wh]:%GOLD%o Earthshaker o%MAP-0A%//
+ItemDisplay[UNI !ID 9m9]:%GOLD%o Bloodtree Stump o%MAP-0A%//
+ItemDisplay[UNI !ID 9gm]:%GOLD%o The Gavel Of Pain o%MAP-0A%//
 
 ///// Polearms /////
-ItemDisplay[UNI !ID 9b7]:%GOLD%The Meat Scraper%MAP-0A%//
-ItemDisplay[UNI !ID 9vo]:%GOLD%Blackleach Blade%MAP-0A%//
-ItemDisplay[UNI !ID 9s8]:%GOLD%Athena's Wrath%MAP-0A%//
-ItemDisplay[UNI !ID 9pa]:%GOLD%Pierre Tombale Couant%MAP-0A%//
-ItemDisplay[UNI !ID 9h9]:%GOLD%Husoldal Evo%MAP-0A%//
-ItemDisplay[UNI !ID 9wc]:%GOLD%Grim's Burning Dead%MAP-0A%//
+ItemDisplay[UNI !ID 9b7]:%GOLD%o The Meat Scraper o%MAP-0A%//
+ItemDisplay[UNI !ID 9vo]:%GOLD%o Blackleach Blade o%MAP-0A%//
+ItemDisplay[UNI !ID 9s8]:%GOLD%o Athena's Wrath o%MAP-0A%//
+ItemDisplay[UNI !ID 9pa]:%GOLD%o Pierre Tombale Couant o%MAP-0A%//
+ItemDisplay[UNI !ID 9h9]:%GOLD%o Husoldal Evo o%MAP-0A%//
+ItemDisplay[UNI !ID 9wc]:%GOLD%o Grim's Burning Dead o%MAP-0A%//
 
 ///// Scepters /////
-ItemDisplay[UNI !ID 9sc]:%GOLD%Zakarum's Hand%MAP-0A%//
-ItemDisplay[UNI !ID 9qs]:%GOLD%The Fetid Sprinkler%MAP-0A%//
-ItemDisplay[UNI !ID 9ws]:%GOLD%Hand of Blessed Light%MAP-0A%//
+ItemDisplay[UNI !ID 9sc]:%GOLD%o Zakarum's Hand o%MAP-0A%//
+ItemDisplay[UNI !ID 9qs]:%GOLD%o The Fetid Sprinkler o%MAP-0A%//
+ItemDisplay[UNI !ID 9ws]:%GOLD%o Hand of Blessed Light o%MAP-0A%//
 
 ///// Spears /////
 ItemDisplay[UNI !ID 9sr]:%GOLD%The Impaler%MAP-0A%//
 ItemDisplay[UNI !ID 9tr]:%GOLD%Kelpie Snare%MAP-0A%//
-ItemDisplay[UNI !ID 9br]:%GOLD%Soulfeast Tine%MAP-0A%//
-ItemDisplay[UNI !ID 9st]:%GOLD%Hone Sundan%MAP-0A%//
-ItemDisplay[UNI !ID 9p9]:%GOLD%Spire of Honor%MAP-0A%//
+ItemDisplay[UNI !ID 9br]:%GOLD%o Soulfeast Tine o%MAP-0A%//
+ItemDisplay[UNI !ID 9st]:%GOLD%o Hone Sundan o%MAP-0A%//
+ItemDisplay[UNI !ID 9p9]:%GOLD%o Spire of Honor o%MAP-0A%//
 
 ///// Staves /////
 ItemDisplay[UNI !ID 8ss]:%GOLD%Razorswitch%MAP-0A%//
 ItemDisplay[UNI !ID 8ls]:%GOLD%Ribcracker%MAP-0A%//
 ItemDisplay[UNI !ID 8cs]:%GOLD%Chromatic Ire%MAP-0A%//
-ItemDisplay[UNI !ID 8bs]:%GOLD%Warpspear%MAP-0A%//
-ItemDisplay[UNI !ID 8ws]:%GOLD%Skull Collector%MAP-0A%//
+ItemDisplay[UNI !ID 8bs]:%GOLD%o Warpspear o%MAP-0A%//
+ItemDisplay[UNI !ID 8ws]:%GOLD%o Skull Collector o%MAP-0A%//
 
 ///// Swords /////
 ItemDisplay[UNI !ID 9ss]:%GOLD%Bloodletter%MAP-0A%//
-ItemDisplay[UNI !ID 9sm]:%GOLD%Coldsteel Eye%MAP-0A%//
+ItemDisplay[UNI !ID 9sm]:%GOLD%o Coldsteel Eye o%MAP-0A%//
 ItemDisplay[UNI !ID 9sb]:%GOLD%Hexfire%MAP-0A%//
 ItemDisplay[UNI !ID 9fc]:%GOLD%Blade of Ali Baba%MAP-0A%//
 ItemDisplay[UNI !ID 9cr]:%GOLD%Ginther's Rift%MAP-0A%//
-ItemDisplay[UNI !ID 9bs]:%GOLD%Headstriker%MAP-0A%//
-ItemDisplay[UNI !ID 9ls]:%GOLD%Plague Bearer%MAP-0A%//
-ItemDisplay[UNI !ID 9wd]:%GOLD%The Atlantean%MAP-0A%//
-ItemDisplay[UNI !ID 92h]:%GOLD%Crainte Vomir%MAP-0A%//
-ItemDisplay[UNI !ID 9cm]:%GOLD%Bing Sz Wang%MAP-0A%//
-ItemDisplay[UNI !ID 9gs]:%GOLD%The Vile Husk%MAP-0A%//
-ItemDisplay[UNI !ID 9b9]:%GOLD%Cloudcrack%MAP-0A%//
-ItemDisplay[UNI !ID 9fb]:%GOLD%Todesfaelle Flamme%MAP-0A%//
-ItemDisplay[UNI !ID 9gd]:%GOLD%Swordguard%MAP-0A%//
+ItemDisplay[UNI !ID 9bs]:%GOLD%o Headstriker o%MAP-0A%//
+ItemDisplay[UNI !ID 9ls]:%GOLD%o Plague Bearer o%MAP-0A%//
+ItemDisplay[UNI !ID 9wd]:%GOLD%o The Atlantean o%MAP-0A%//
+ItemDisplay[UNI !ID 92h]:%GOLD%o Crainte Vomir o%MAP-0A%//
+ItemDisplay[UNI !ID 9cm]:%GOLD%o Bing Sz Wang o%MAP-0A%//
+ItemDisplay[UNI !ID 9gs]:%GOLD%o The Vile Husk o%MAP-0A%//
+ItemDisplay[UNI !ID 9b9]:%GOLD%o Cloudcrack o%MAP-0A%//
+ItemDisplay[UNI !ID 9fb]:%GOLD%o Todesfaelle Flamme o%MAP-0A%//
+ItemDisplay[UNI !ID 9gd]:%GOLD%o Swordguard o%MAP-0A%//
 
 ///// Throwing Weapons /////
-ItemDisplay[UNI !ID 9tk]:%GOLD%Deathbit%MAP-0A%//
-ItemDisplay[UNI !ID 9ta]:%GOLD%The Scalper%MAP-0A%//
+ItemDisplay[UNI !ID 9tk]:%GOLD%o Deathbit o%MAP-0A%//
+ItemDisplay[UNI !ID 9ta]:%GOLD%o The Scalper o%MAP-0A%//
 
 ///// Wands /////
 ItemDisplay[UNI !ID 9wn]:%GOLD%Suicide Branch%MAP-0A%//
 ItemDisplay[UNI !ID 9yw]:%GOLD%Carin Shard%MAP-0A%//
-ItemDisplay[UNI !ID 9bw]:%GOLD%Arm of King Leoric%MAP-0A%//
-ItemDisplay[UNI !ID 9gw]:%GOLD%Blackhand Key%MAP-0A%//
+ItemDisplay[UNI !ID 9bw]:%GOLD%o Arm of King Leoric o%MAP-0A%//
+ItemDisplay[UNI !ID 9gw]:%GOLD%o Blackhand Key o%MAP-0A%//
