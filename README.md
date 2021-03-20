@@ -1,23 +1,37 @@
 # pd2lootfilter
 TheIrateSeagoer's Project Diablo 2 Loot Filter
 
-This filter is setup to cut down on a lot of the noise that occurs with drops during general gameplay, and increases quality of life while farming something like cows. As well as preserves the Sale color while in the trade window.
-
-###
-Upcoming changes include:
-- Add prominent marking for early runeword bases for the upcoming season 2, until then 2+ socket items will show up past level 30
-- Add things for late game shopping.
-
+This filter is setup to cut down on a lot of the noise that occurs with drops during general gameplay, and increases quality of life while farming something like cows. All while preserving the Sale color while in the trade window.
 
 # Preview
-![Staffmod](https://i.imgur.com/pn4rRJG.png)
-![Vendor](https://i.imgur.com/6jAOh85.png)
-![Crafting](https://i.imgur.com/Z4dd4LY.png)
-![Recipe](https://i.imgur.com/x9FOL7k.png)
-![Items](https://i.imgur.com/3yCaMdV.png)
-![Runewords](https://cdn.discordapp.com/attachments/771820538502971402/816863404601901096/unknown.png)
-![Runeword](https://i.imgur.com/Buge5Yu.png)
+## Crafting
+![Crafting](https://i.imgur.com/I9zzRdO.png)
+- Crafting materials are marked with an orange circle.
+- All magic items will have the level of the craft next to their name. (Based on your current character level)
 
+## Value Items
+![Valuables](https://i.imgur.com/7WYnZgy.png)
+- Valuable items will get their own markings
+
+## Arreat Summit Values / Recipes
+![Recipe](https://i.imgur.com/x9FOL7k.png)
+  - All Items have their Arreat Summit Values as a description line. (This is setup to be dynamic, so you know exactly how many sockets on Larzuk you would receive at the maximum)
+
+## Set/Unique Items
+These items are marked with following styles.
+- ```ooo Ultra Rare Item Name ooo```
+- ```oo Hell Item Name oo```
+- ```o Nightmare Item Name o```
+- ```Normal Item Name```
+
+## Staffmods
+![Staffmod](https://i.imgur.com/pn4rRJG.png)
+- Items with staffmods will have them marked so shopping is easier
+- Items on the ground will also benefit from you not having to pick them up to see the value.
+
+## Armor Values
+![Armor](https://i.imgur.com/H7o2Wnm.png)
+- Armors with high value will show up with their % of maximum armor
 
 # Quest Items
 The only major change to quest items was including Wirt's Leg as a quest item in terms of style. It behaves like a quest item but drops with regular item qualities, so it gets specified within the quest items to prevent conflicts with other filter lines.
@@ -56,7 +70,6 @@ This is the largest source of noise while playing the game.
 - Level 30 hides Normal Quality Items and Superior Items with no enchanced Defense/Damage
 
 ## Enchancements
-  - All Items have their Arreat Summit Values as a description line. (This is setup to be dynamic, so you know exactly how many sockets on Larzuk you would receive at the maximum)
   - Ethereal Items are prefixed with [Eth]
   - Socketed Items are prefixed with [2os]
   - Ethereal+Socketed Items are prefixed with [Eth,3os]
@@ -65,8 +78,3 @@ This is the largest source of noise while playing the game.
   - For every $5000 of vendor value the item is suffixed with a $ (Example a 15,358 value item will be suffixed with $$$)
   - Magic / Rare that rolled sockets have a "NOT A RUNEWORD CANDIATE" warning attached" for the sleepy gamers
   - Upgrade Recipies for Rare/Unique Armors
-
-### Unique Items
-All unique items have notifications enabled by default.
-### Set Items
-All set items have notifications enabled by default.
