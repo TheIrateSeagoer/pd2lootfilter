@@ -6,8 +6,8 @@ This filter is setup to cut down on a lot of the noise that occurs with drops du
 # Preview
 ## Crafting
 ![Crafting](https://i.imgur.com/I9zzRdO.png)
-Crafting materials are marked with an orange circle.
-
+- Crafting materials are marked with an orange circle.
+- All magic items will have the level of the craft next to their name. (Based on your current character level)
 
 
 
