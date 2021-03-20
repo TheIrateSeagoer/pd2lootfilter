@@ -28,7 +28,8 @@ ItemDisplay[hp3 CLVL<50]:%RED%@%WHITE%Healing//
 ItemDisplay[hp4 (CLVL>79 OR DIFF>1)]://
 ItemDisplay[hp4 CLVL<80]:%RED%@%WHITE%Greater//
 
-ItemDisplay[hp5]:%RED%@%WHITE%Super//
+ItemDisplay[hp5 DIFF<2]:%RED%@%WHITE%Super//
+ItemDisplay[hp5 DIFF=2]:%RED%@%WHITE%HP//
 
 ItemDisplay[mp1 CLVL>29]://
 ItemDisplay[mp1 CLVL<30]:%BLUE%@%WHITE%Minor//
@@ -42,12 +43,16 @@ ItemDisplay[mp3 CLVL<50]:%BLUE%@%WHITE%Mana//
 ItemDisplay[mp4 (CLVL>79 OR DIFF>1)]://
 ItemDisplay[mp4 CLVL<80]:%BLUE%@%WHITE%Greater//
 
-ItemDisplay[mp5]:%BLUE%@%WHITE%Super//
+ItemDisplay[mp5 DIFF<2]:%BLUE%@%WHITE%Super//
+ItemDisplay[mp5 DIFF=2]:%BLUE%@%WHITE%MP//
 
-ItemDisplay[rvs]:%PURPLE%@%WHITE%Rejuv//
+ItemDisplay[rvs DIFF<2]:%PURPLE%@%WHITE%Rejuv//
+ItemDisplay[rvs DIFF=2]:%PURPLE%@%WHITE%35//
+
 ItemDisplay[rvl]:%PURPLE%@%WHITE%Full//
 ItemDisplay[yps]:%GREEN%@%WHITE%Anti//
-ItemDisplay[wms]:%GREEN%@%WHITE%Thaw//
+ItemDisplay[wms DIFF>0]://
+ItemDisplay[wms DIFF=0]:%GREEN%@%WHITE%Thaw//
 
 ItemDisplay[vps CLVL>19]://
 ItemDisplay[vps CLVL<20]:%WHITE%@%WHITE%Stamina//
