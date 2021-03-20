@@ -9,6 +9,15 @@ This filter is setup to cut down on a lot of the noise that occurs with drops du
 - Crafting materials are marked with an orange circle.
 - All magic items will have the level of the craft next to their name. (Based on your current character level)
 
+## Arreat Summit Values / Recipes
+![Recipe](https://i.imgur.com/x9FOL7k.png)
+  - All Items have their Arreat Summit Values as a description line. (This is setup to be dynamic, so you know exactly how many sockets on Larzuk you would receive at the maximum)
+
+## Staffmods
+![Staffmod](https://i.imgur.com/pn4rRJG.png)
+- Items with staffmods will have them marked so shopping is easier
+- Items on the ground will also benefit from you not having to pick them up to see the value.
+
 
 # Quest Items
 The only major change to quest items was including Wirt's Leg as a quest item in terms of style. It behaves like a quest item but drops with regular item qualities, so it gets specified within the quest items to prevent conflicts with other filter lines.
@@ -47,7 +56,6 @@ This is the largest source of noise while playing the game.
 - Level 30 hides Normal Quality Items and Superior Items with no enchanced Defense/Damage
 
 ## Enchancements
-  - All Items have their Arreat Summit Values as a description line. (This is setup to be dynamic, so you know exactly how many sockets on Larzuk you would receive at the maximum)
   - Ethereal Items are prefixed with [Eth]
   - Socketed Items are prefixed with [2os]
   - Ethereal+Socketed Items are prefixed with [Eth,3os]
