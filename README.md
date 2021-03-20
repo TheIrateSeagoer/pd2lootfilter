@@ -1,15 +1,18 @@
 # pd2lootfilter
 TheIrateSeagoer's Project Diablo 2 Loot Filter
 
-This filter is setup to cut down on a lot of the noise that occurs with drops during general gameplay, and increases quality of life while farming something like cows. As well as preserves the Sale color while in the trade window.
-
-###
-Upcoming changes include:
-- Add prominent marking for early runeword bases for the upcoming season 2, until then 2+ socket items will show up past level 30
-- Add things for late game shopping.
-
+This filter is setup to cut down on a lot of the noise that occurs with drops during general gameplay, and increases quality of life while farming something like cows. All while preserving the Sale color while in the trade window. 
 
 # Preview
+## Crafting
+![Crafting](https://i.imgur.com/I9zzRdO.png)
+Crafting materials are marked with an orange circle.
+
+
+
+
+
+
 ![Staffmod](https://i.imgur.com/pn4rRJG.png)
 ![Vendor](https://i.imgur.com/6jAOh85.png)
 ![Crafting](https://i.imgur.com/Z4dd4LY.png)
