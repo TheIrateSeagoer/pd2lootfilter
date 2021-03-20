@@ -10,18 +10,6 @@ This filter is setup to cut down on a lot of the noise that occurs with drops du
 - All magic items will have the level of the craft next to their name. (Based on your current character level)
 
 
-
-
-
-![Staffmod](https://i.imgur.com/pn4rRJG.png)
-![Vendor](https://i.imgur.com/6jAOh85.png)
-![Crafting](https://i.imgur.com/Z4dd4LY.png)
-![Recipe](https://i.imgur.com/x9FOL7k.png)
-![Items](https://i.imgur.com/3yCaMdV.png)
-![Runewords](https://cdn.discordapp.com/attachments/771820538502971402/816863404601901096/unknown.png)
-![Runeword](https://i.imgur.com/Buge5Yu.png)
-
-
 # Quest Items
 The only major change to quest items was including Wirt's Leg as a quest item in terms of style. It behaves like a quest item but drops with regular item qualities, so it gets specified within the quest items to prevent conflicts with other filter lines.
 
