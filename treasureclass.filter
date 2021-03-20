@@ -13491,13 +13491,14 @@ ItemDisplay[!RW !UNI !SET ETH !SUP 7vo SOCK=0]:%NAME%%NL%%RED%Larzuk Infinity%MA
 ItemDisplay[!RW !UNI !SET ETH !SUP (7br OR 7s8 OR 7wc OR 7h7 OR 7pa) SOCK=0 ILVL>40]:%NAME%%NL%%RED%Cube Socket%DOT-0A%%CONTINUE%//
 ItemDisplay[!RW !UNI !SET ETH !SUP (7br OR 7s8 OR 7wc OR 7h7 OR 7pa) SOCK=0 ILVL>25 ILVL<41]:%NAME%%NL%%PURPLE%Larzuk Infinity%MAP-0A%%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !ETH NMAG 7vo SOCK=0]:%NAME%%NL%%TAN%Larzuk Infinity%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !UNI !SET !ETH NMAG (7br OR 7s8 OR 7wc OR 7h7 OR 7pa) SOCK=0 ILVL>40]:%NAME% %TAN%Cube Socket%DOT-0A%%CONTINUE%//
+ItemDisplay[!RW !UNI !SET !ETH NMAG (7br OR 7s8 OR 7wc OR 7h7 OR 7pa) SOCK=0 ILVL>40]:%NAME%%NL%%TAN%Cube Socket%DOT-0A%%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !ETH NMAG (7br OR 7s8 OR 7wc OR 7h7 OR 7pa) SOCK=0 ILVL>25 ILVL<41]:%NAME%%NL%%PURPLE%Larzuk Infinity%DOT-0A%%CONTINUE%//
 ItemDisplay[!RW !UNI !SET ETH SUP (7br OR 9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4]:%NAME%%NL%%PURPLE%Infinity%DOT-0A%%CONTINUE%//
 ItemDisplay[!RW !UNI !SET ETH !SUP (7br OR 9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4]:%NAME%%NL%%RED%Infinity%DOT-0A%%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !ETH NMAG (7br OR 9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4]:%NAME%%NL%%TAN%Infinity%DOT-0A%%CONTINUE%//
 ItemDisplay[!RW !UNI !SET NMAG (scy OR wsc OR hal OR pax) SOCK=4]:%NAME% %TAN%Insight%CONTINUE%//
 ItemDisplay[!RW !UNI !SET NMAG (scy OR wsc OR hal OR pax) SOCK=3]:%NAME% %TAN%Malice%CONTINUE%//
+ItemDisplay[!RW !UNI !SET NMAG ELT WAND SOCK=2]:%NAME% %TAN%White%CONTINUE%//
 ItemDisplay[!RW !UNI !SET NMAG crs SOCK=4]:%NAME% %TAN%Spirit%CONTINUE%//
 ItemDisplay[!RW !UNI !SET NMAG fla SOCK=4]:%NAME% %TAN%Heart of the Oak%CONTINUE%//
 ItemDisplay[!RW !UNI !SET NMAG (bsh OR xsh or ush) SOCK=3]:%NAME% %TAN%Ancients Pledge%CONTINUE%//
@@ -14954,6 +14955,7 @@ ItemDisplay[ETH SUP ult DEF<870 SOCK>0 CLVL>79]://
 ItemDisplay[ETH SUP uth DEF<888 SOCK>0 CLVL>79]://
 ItemDisplay[ETH SUP uul DEF<914 SOCK>0 CLVL>79]://
 ItemDisplay[ETH SUP uar DEF<985 SOCK>0 CLVL>79]://
+ItemDisplay[DIN RES<25 CLVL>79]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG CHEST NORM DIFF>0]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG CHEST EXC DIFF>1]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG !BAR !DRU HELM NORM DIFF>0]://

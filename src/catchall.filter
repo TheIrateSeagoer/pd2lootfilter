@@ -149,6 +149,10 @@ ItemDisplay[ETH SUP uth DEF<888 SOCK>0 CLVL>79]://
 ItemDisplay[ETH SUP uul DEF<914 SOCK>0 CLVL>79]://
 ItemDisplay[ETH SUP uar DEF<985 SOCK>0 CLVL>79]://
 
+
+////// Junk Reduction /////
+ItemDisplay[DIN RES<25 CLVL>79]://
+
 ////// Junk Reduction /////
 ItemDisplay[!SUP !ETH SOCK=0 NMAG CHEST NORM DIFF>0]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG CHEST EXC DIFF>1]://
@@ -158,8 +162,6 @@ ItemDisplay[!SUP !ETH SOCK=0 NMAG !DIN !NEC SHIELD NORM DIFF>0]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG !DIN !NEC SHIELD EXC DIFF>1]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG !WAND !STAFF !SCEPTER !ZON !SIN !SOR WEAPON NORM DIFF>0]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG !WAND !STAFF !SCEPTER !ZON !SIN !SOR WEAPON EXC DIFF>1]://
-
 ItemDisplay[SUP SOCK=0 ED=0 CLVL>19]://
-
 ItemDisplay[NMAG SOCK=1]://
 ItemDisplay[INF]://
