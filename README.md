@@ -1,7 +1,7 @@
 # pd2lootfilter
 TheIrateSeagoer's Project Diablo 2 Loot Filter
 
-This filter is setup to cut down on a lot of the noise that occurs with drops during general gameplay, and increases quality of life while farming something like cows. All while preserving the Sale color while in the trade window. 
+This filter is setup to cut down on a lot of the noise that occurs with drops during general gameplay, and increases quality of life while farming something like cows. All while preserving the Sale color while in the trade window.
 
 # Preview
 ## Crafting
@@ -17,11 +17,21 @@ This filter is setup to cut down on a lot of the noise that occurs with drops du
 ![Recipe](https://i.imgur.com/x9FOL7k.png)
   - All Items have their Arreat Summit Values as a description line. (This is setup to be dynamic, so you know exactly how many sockets on Larzuk you would receive at the maximum)
 
+## Set/Unique Items
+These items are marked with following styles.
+- ```ooo Ultra Rare Item Name ooo```
+- ```oo Hell Item Name oo```
+- ```o Nightmare Item Name o```
+- ```Normal Item Name```
+
 ## Staffmods
 ![Staffmod](https://i.imgur.com/pn4rRJG.png)
 - Items with staffmods will have them marked so shopping is easier
 - Items on the ground will also benefit from you not having to pick them up to see the value.
 
+## Armor Values
+![Armor](https://i.imgur.com/H7o2Wnm.png)
+- Armors with high value will show up with their % of maximum armor
 
 # Quest Items
 The only major change to quest items was including Wirt's Leg as a quest item in terms of style. It behaves like a quest item but drops with regular item qualities, so it gets specified within the quest items to prevent conflicts with other filter lines.
@@ -68,8 +78,3 @@ This is the largest source of noise while playing the game.
   - For every $5000 of vendor value the item is suffixed with a $ (Example a 15,358 value item will be suffixed with $$$)
   - Magic / Rare that rolled sockets have a "NOT A RUNEWORD CANDIATE" warning attached" for the sleepy gamers
   - Upgrade Recipies for Rare/Unique Armors
-
-### Unique Items
-All unique items have notifications enabled by default.
-### Set Items
-All set items have notifications enabled by default.
