@@ -87,6 +87,14 @@ $find = 'Stack{%NAME%%TAN%'
 $replace = 'Stack%NL%{%NAME%%TAN%'
 (Get-Content $file).replace($find, $replace) | Set-Content $file
 
+$file = '.\obj\catchall.filter'
+$find = 'ItemDisplay[MAG !ID cm1]:%DOT-0A%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//'
+$replace = 'ItemDisplay[MAG !ID cm1]:%DOT-0A%%NL%%RED%ooo %BLUE%%NAME% %RED%ooo%NL%%BLUE%//'
+(Get-Content $file).replace($find, $replace) | Set-Content $file
+$find = 'ItemDisplay[MAG !ID cm3]:%DOT-0A%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//'
+$replace = 'ItemDisplay[MAG !ID cm3]:%DOT-0A%%NL%%RED%ooo %BLUE%%NAME% %RED%ooo%NL%%BLUE%//'
+(Get-Content $file).replace($find, $replace) | Set-Content $file
+
 Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter', 
 '.\obj\common.lod.filter', '.\obj\common.pd2.filter', 
 '.\obj\item.prefix.filter', '.\obj\item.suffix.filter', '.\obj\item.shopping.filter', '.\obj\item.colorfix.filter', 
