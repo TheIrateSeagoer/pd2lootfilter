@@ -97,6 +97,12 @@ $replace = 'ItemDisplay[MAG !ID cm1]:%DOT-0A%%NL%%RED%ooo %BLUE%%NAME% %RED%ooo%
 $find = 'ItemDisplay[MAG !ID cm3]:%DOT-0A%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//'
 $replace = 'ItemDisplay[MAG !ID cm3]:%DOT-0A%%NL%%RED%ooo %BLUE%%NAME% %RED%ooo%NL%%BLUE%//'
 (Get-Content $file).replace($find, $replace) | Set-Content $file
+$find = 'ItemDisplay[MAG !ID jew]:%DOT-0A%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//'
+$replace = 'ItemDisplay[MAG !ID jew]:%DOT-0A%%NL%%RED%ooo %BLUE%%NAME% %RED%ooo%NL%%BLUE%//'
+(Get-Content $file).replace($find, $replace) | Set-Content $file
+$find = 'ItemDisplay[RARE !ID jew]:%DOT-0A%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//'
+$replace = 'ItemDisplay[RARE !ID jew]:%DOT-0A%%NL%%RED%oooo %YELLOW%%NAME% %RED%oooo%NL%%YELLOW%//'
+(Get-Content $file).replace($find, $replace) | Set-Content $file
 
 Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter', 
 '.\obj\common.lod.filter', '.\obj\common.pd2.filter', 
