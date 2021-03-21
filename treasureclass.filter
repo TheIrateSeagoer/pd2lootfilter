@@ -14091,7 +14091,7 @@ ItemDisplay[ob6]:%NAME%{%NAME%%TAN% Damage: 8-21 Durability: 20 Sockets: 2}%CONT
 ItemDisplay[ob7]:%NAME%{%NAME%%TAN% Damage: 10-26 Durability: 30 Sockets: 2}%CONTINUE%//
 ItemDisplay[ob8]:%NAME%{%NAME%%TAN% Damage: 11-29 Durability: 35 Sockets: 2}%CONTINUE%//
 ItemDisplay[ob9]:%NAME%{%NAME%%TAN% Damage: 13-32 Durability: 40 Sockets: 2}%CONTINUE%//
-ItemDisplay[oba ILVL>26]:%NAME%{%NAME%%TAN% Damage: 18-42 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[oba ILVL<26]:%NAME%{%NAME%%TAN% Damage: 18-42 Durability: 50 Sockets: 2}%CONTINUE%//
 ItemDisplay[oba ILVL>25]:%NAME%{%NAME%%TAN% Damage: 18-42 Durability: 50 Sockets: 3}%CONTINUE%//
 ItemDisplay[ci3 ILVL<26]:%NAME%{%NAME%%TAN% Defense: 50-60 Durability: 20 Sockets: 1}%CONTINUE%//
 ItemDisplay[ci3 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Defense: 50-60 Durability: 20 Sockets: 2}%CONTINUE%//
