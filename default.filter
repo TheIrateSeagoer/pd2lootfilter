@@ -14709,7 +14709,7 @@ ItemDisplay[UNI !ID uld]:%GOLD%oo Leviathan oo%MAP-0A%//
 ItemDisplay[UNI !ID uul]:%GOLD%oo Steel Carapace oo%MAP-0A%//
 ItemDisplay[UNI !ID uar]:%GOLD%oo Templar's Might oo%NL%ooo Tyrael's Might ooo%MAP-0A%//
 ItemDisplay[UNI !ID uml]:%GOLD%oo Blackoak Shield oo%MAP-0A%//
-ItemDisplay[UNI !ID uit]:%GOLD%oo Stormshield oo%MAP-0A%//
+ItemDisplay[UNI !ID uit]:%NL%%NL%%RED%ooooo %GOLD%oo Stormshield oo %RED%ooooo%NL%%NL%%GOLD%%MAP-0A%//
 ItemDisplay[UNI !ID upk]:%GOLD%oo Spike Thorn oo%MAP-0A%//
 ItemDisplay[UNI !ID uow]:%GOLD%oo Medusa's Gaze oo%MAP-0A%//
 ItemDisplay[UNI !ID ush]:%GOLD%oo Head Hunter's Glory oo%MAP-0A%//

@@ -106,7 +106,9 @@ $replace = 'ItemDisplay[RARE !ID jew]:%DOT-0A%%NL%%RED%oooo %YELLOW%%NAME% %RED%
 
 Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter', 
 '.\obj\common.lod.filter', '.\obj\common.pd2.filter', 
-'.\obj\item.prefix.filter', '.\obj\item.suffix.filter', '.\obj\item.shopping.filter', '.\obj\item.colorfix.filter', 
+'.\obj\item.prefix.filter','.\obj\item.suffix.filter', 
+'.\obj\item.shopping.filter', 
+'.\obj\item.colorfix.filter', 
 '.\obj\bases.filter', 
 '.\obj\item.colorfix.filter', 
 '.\obj\item.description.filter', 
