@@ -77,14 +77,17 @@ $file = '.\obj\common.lod.filter'
 $find = ']:%ORANGE%'
 $replace = ']:%NL%%ORANGE%'
 (Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'o%WHITE%{'
-$replace = 'o%NL%%WHITE%{'
+$find = 'Rune o{%NAME%'
+$replace = 'Rune o%NL%{%NAME%'
 (Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'Rune{%NAME%%TAN%'
-$replace = 'Rune%NL%{%NAME%%TAN%'
+$find = 'Rune{%NAME%'
+$replace = 'Rune%NL%{%NAME%'
 (Get-Content $file).replace($find, $replace) | Set-Content $file
 $find = 'Stack{%NAME%%TAN%'
 $replace = 'Stack%NL%{%NAME%%TAN%'
+(Get-Content $file).replace($find, $replace) | Set-Content $file
+$find = 'Stack o{%NAME%'
+$replace = 'Stack o%NL%{%NAME%'
 (Get-Content $file).replace($find, $replace) | Set-Content $file
 
 $file = '.\obj\catchall.filter'
