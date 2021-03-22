@@ -13509,13 +13509,13 @@ ItemDisplay[!RW !RARE !UNI !SET NMAG (scy OR wsc OR hal OR pax) SOCK=3]:%NAME% %
 ItemDisplay[!RW !RARE !UNI !SET NMAG ELT WAND SOCK=2]:%NAME% %TAN%White%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET NMAG crs SOCK=4]:%NAME% %TAN%Spirit%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET NMAG fla SOCK=4]:%NAME% %TAN%Heart of the Oak%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh or ush) SOCK=3]:%NAME% %TAN%Ancients Pledge%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh or ush) SOCK=2]:%NAME% %TAN%Rhyme%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh or ush) SOCK=0]:%NAME% %TAN%Socket%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh OR ush) SOCK=3]:%NAME% %TAN%Ancients Pledge%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh OR ush) SOCK=2]:%NAME% %TAN%Rhyme%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh OR ush) SOCK=0]:%NAME% %TAN%Socket%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET NMAG fla ILVL>25 ILVL<41 SOCK=0 CLVL<30]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET NMAG crs ILVL>25 ILVL<41 SOCK=0 CLVL<50]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (scy OR wsc OR hal OR pax or vou) SOCK=0 ILVL>25 ILVL<41 CLVL<30]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (9s8 OR 9wc OR 9h9 OR 9pa or 9vo) SOCK=0 ILVL>25 ILVL<41 CLVL<50]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET NMAG (scy OR wsc OR hal OR pax OR vou) SOCK=0 ILVL>25 ILVL<41 CLVL<30]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET NMAG (9s8 OR 9wc OR 9h9 OR 9pa OR 9vo) SOCK=0 ILVL>25 ILVL<41 CLVL<50]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
 ItemDisplay[RW]:%NAME%%GOLD%%CONTINUE%//
 ItemDisplay[NMAG SOCK=0]:%NAME%%WHITE%%CONTINUE%//
 ItemDisplay[NMAG SOCK>0 !RW]:%NAME%%GRAY%%CONTINUE%//
@@ -14485,7 +14485,7 @@ ItemDisplay[UNI !ID rin]:%RED%ooooo %GOLD%%NAME% %RED%ooooo//
 ItemDisplay[UNI !ID amu]:%RED%ooooo %GOLD%%NAME% %RED%ooooo//
 ItemDisplay[UNI !ID cm1]:%GOLD%ooo Annihilus ooo%MAP-0A%//
 ItemDisplay[UNI !ID cm2]:%GOLD%ooo Hellfire Torch ooo%MAP-0A%//
-ItemDisplay[UNI !ID cm3]:%GOLD%oo Gheed's Fortune oo%MAP-0A%//
+ItemDisplay[UNI !ID cm3]:%NL%%RED%ooooo %GOLD%oo Gheed's Fortune oo %RED%ooooo%NL%%MAP-0A%//
 ItemDisplay[UNI !ID jew]:%GOLD%oo Rainbow Facet oo%MAP-0A%//
 ItemDisplay[UNI !ID ci2]:%GOLD%oo Kira's Guardian oo%MAP-0A%//
 ItemDisplay[UNI !ID ci3]:%GOLD%oo Griffon's Eye oo%MAP-0A%//
@@ -14963,7 +14963,7 @@ ItemDisplay[ETH SUP ult DEF<870 SOCK>0 CLVL>79]://
 ItemDisplay[ETH SUP uth DEF<888 SOCK>0 CLVL>79]://
 ItemDisplay[ETH SUP uul DEF<914 SOCK>0 CLVL>79]://
 ItemDisplay[ETH SUP uar DEF<985 SOCK>0 CLVL>79]://
-ItemDisplay[DIN RES<25 CLVL>79]://
+ItemDisplay[NMAG DIN RES<25 CLVL>79]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG CHEST NORM DIFF>0]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG CHEST EXC DIFF>1]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG !BAR !DRU HELM NORM DIFF>0]://
@@ -14972,6 +14972,6 @@ ItemDisplay[!SUP !ETH SOCK=0 NMAG !DIN !NEC SHIELD NORM DIFF>0]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG !DIN !NEC SHIELD EXC DIFF>1]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG !WAND !STAFF !SCEPTER !ZON !SIN !SOR WEAPON NORM DIFF>0]://
 ItemDisplay[!SUP !ETH SOCK=0 NMAG !WAND !STAFF !SCEPTER !ZON !SIN !SOR WEAPON EXC DIFF>1]://
-// ItemDisplay[SUP SOCK=0 ED=0 CLVL>19]://
+ItemDisplay[SUP SOCK=0 ED=0 CLVL>19]://
 ItemDisplay[NMAG SOCK=1]://
 ItemDisplay[INF]://

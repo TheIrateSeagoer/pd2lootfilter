@@ -7,7 +7,7 @@ ItemDisplay[UNI !ID amu]:%RED%ooooo %GOLD%%NAME% %RED%ooooo//
 ///// Charms /////
 ItemDisplay[UNI !ID cm1]:%GOLD%ooo Annihilus ooo%MAP-0A%//
 ItemDisplay[UNI !ID cm2]:%GOLD%ooo Hellfire Torch ooo%MAP-0A%//
-ItemDisplay[UNI !ID cm3]:%GOLD%oo Gheed's Fortune oo%MAP-0A%//
+ItemDisplay[UNI !ID cm3]:%NL%%RED%ooooo %GOLD%oo Gheed's Fortune oo %RED%ooooo%NL%%MAP-0A%//
 
 ///// Jewels /////
 ItemDisplay[UNI !ID jew]:%GOLD%oo Rainbow Facet oo%MAP-0A%//

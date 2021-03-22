@@ -27,12 +27,12 @@ ItemDisplay[!RW !RARE !UNI !SET NMAG crs SOCK=4]:%NAME% %TAN%Spirit%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET NMAG fla SOCK=4]:%NAME% %TAN%Heart of the Oak%CONTINUE%//
 
 ///// Shields /////
-ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh or ush) SOCK=3]:%NAME% %TAN%Ancients Pledge%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh or ush) SOCK=2]:%NAME% %TAN%Rhyme%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh or ush) SOCK=0]:%NAME% %TAN%Socket%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh OR ush) SOCK=3]:%NAME% %TAN%Ancients Pledge%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh OR ush) SOCK=2]:%NAME% %TAN%Rhyme%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh OR ush) SOCK=0]:%NAME% %TAN%Socket%CONTINUE%//
 
 ///// Leveling /////
 ItemDisplay[!RW !RARE !UNI !SET NMAG fla ILVL>25 ILVL<41 SOCK=0 CLVL<30]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET NMAG crs ILVL>25 ILVL<41 SOCK=0 CLVL<50]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (scy OR wsc OR hal OR pax or vou) SOCK=0 ILVL>25 ILVL<41 CLVL<30]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (9s8 OR 9wc OR 9h9 OR 9pa or 9vo) SOCK=0 ILVL>25 ILVL<41 CLVL<50]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET NMAG (scy OR wsc OR hal OR pax OR vou) SOCK=0 ILVL>25 ILVL<41 CLVL<30]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET NMAG (9s8 OR 9wc OR 9h9 OR 9pa OR 9vo) SOCK=0 ILVL>25 ILVL<41 CLVL<50]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
