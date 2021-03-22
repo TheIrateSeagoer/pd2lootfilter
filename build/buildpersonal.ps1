@@ -84,5 +84,3 @@ Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter',
 
 if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2') { Copy-Item '.\bin\default.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2\loot.filter' }
 if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg') { Copy-Item '.\bin\default.filter' -Destination 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg' }
-
-Copy-Item '.\bin\default.filter' -Destination '..\default.filter'
