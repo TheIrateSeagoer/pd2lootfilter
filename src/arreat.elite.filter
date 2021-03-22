@@ -155,7 +155,7 @@ ItemDisplay[paf ILVL>25]:%NAME%{%NAME%%TAN% Defense: 182-225 Durability: 55 Sock
 
 ///// Necromancer Shrunken Heads /////
 ItemDisplay[neb]:%NAME%{%NAME%%TAN% Defense: 95-139 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[nec]:%NAME%{%NAME%%TAN% Defense: 96-141 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[neg]:%NAME%{%NAME%%TAN% Defense: 96-141 Durability: 20 Sockets: 2}%CONTINUE%//
 ItemDisplay[ned]:%NAME%{%NAME%%TAN% Defense: 98-142 Durability: 20 Sockets: 2}%CONTINUE%//
 ItemDisplay[nee]:%NAME%{%NAME%%TAN% Defense: 100-146 Durability: 20 Sockets: 2}%CONTINUE%//
 ItemDisplay[nef]:%NAME%{%NAME%%TAN% Defense: 103-148 Durability: 20 Sockets: 2}%CONTINUE%//
