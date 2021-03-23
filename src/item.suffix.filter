@@ -15,14 +15,22 @@ ItemDisplay[xhm ED=0 DEF=98 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xsk ED=0 DEF=86 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xrn ED=0 DEF=113]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xh9 ED=0 DEF=125]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[uap ED=0 DEF=141]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[ukp ED=0 DEF=145]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[ulm ED=0 DEF=149]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[uhl ED=0 DEF=154]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[uhm ED=0 DEF=159]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[usk ED=0 DEF=154]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[urn ED=0 DEF=165]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[uh9 ED=0 DEF=157]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[NMAG uap ED=0 DEF=141 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[NMAG ukp ED=0 DEF=145 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[NMAG ulm ED=0 DEF=149 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[NMAG uhl ED=0 DEF=154 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[NMAG uhm ED=0 DEF=159 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[NMAG usk ED=0 DEF=154 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[NMAG urn ED=0 DEF=165 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[NMAG uh9 ED=0 DEF=157 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[NMAG uap ED=0 DEF=141 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[NMAG ukp ED=0 DEF=145 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[NMAG ulm ED=0 DEF=149 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[NMAG uhl ED=0 DEF=154 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[NMAG uhm ED=0 DEF=159 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[NMAG usk ED=0 DEF=154 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[NMAG urn ED=0 DEF=165 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[NMAG uh9 ED=0 DEF=157 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
 
 ///// Armors /////
 ItemDisplay[qui ED=0 DEF=11 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -55,21 +63,36 @@ ItemDisplay[xlt ED=0 DEF=274]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xth ED=0 DEF=303]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xul ED=0 DEF=342]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xar ED=0 DEF=450]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=467]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=470]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=474]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=481]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=489]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=496]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=501]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=505]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=517]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=524]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=523]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=530]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=541]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=557]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=600]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uui ED=0 DEF=467 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uea ED=0 DEF=470 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[ula ED=0 DEF=474 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[utu ED=0 DEF=481 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[ung ED=0 DEF=489 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[ucl ED=0 DEF=496 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[urs ED=0 DEF=501 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uhn ED=0 DEF=505 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[upl ED=0 DEF=517 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[utp ED=0 DEF=524 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uld ED=0 DEF=523 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[ult ED=0 DEF=530 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uth ED=0 DEF=541 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uul ED=0 DEF=557 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uar ED=0 DEF=600 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uui ED=0 DEF=467 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[uea ED=0 DEF=470 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[ula ED=0 DEF=474 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[utu ED=0 DEF=481 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[ung ED=0 DEF=489 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[ucl ED=0 DEF=496 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[urs ED=0 DEF=501 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[uhn ED=0 DEF=505 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[upl ED=0 DEF=517 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[utp ED=0 DEF=524 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[uld ED=0 DEF=523 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[ult ED=0 DEF=530 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[uth ED=0 DEF=541 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[uul ED=0 DEF=557 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[uar ED=0 DEF=600 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
 
 ///// Shields /////
 ItemDisplay[buc ED=0 DEF=6  ]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -88,14 +111,22 @@ ItemDisplay[xit ED=0 DEF=67 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xsh ED=0 DEF=150]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xow ED=0 DEF=78 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xts ED=0 DEF=93 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[uuc ED=0 DEF=110]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[uml ED=0 DEF=123]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[urg ED=0 DEF=135]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[uit ED=0 DEF=148]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[upk ED=0 DEF=163]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[uow ED=0 DEF=161]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[ush ED=0 DEF=173]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
-ItemDisplay[uts ED=0 DEF=170]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uuc ED=0 DEF=110 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uml ED=0 DEF=123 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[urg ED=0 DEF=135 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uit ED=0 DEF=148 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[upk ED=0 DEF=163 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uow ED=0 DEF=161 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[ush ED=0 DEF=173 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uts ED=0 DEF=170 CLVL<80]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uuc ED=0 DEF=110 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[uml ED=0 DEF=123 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[urg ED=0 DEF=135 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[uit ED=0 DEF=148 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[upk ED=0 DEF=163 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[uow ED=0 DEF=161 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[ush ED=0 DEF=173 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
+ItemDisplay[uts ED=0 DEF=170 CLVL>79]:%NAME% %PURPLE%Perfect%CONTINUE%//
 
 ///// Gloves /////
 ItemDisplay[lgl ED=0 DEF=3 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
