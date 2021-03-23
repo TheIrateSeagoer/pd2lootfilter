@@ -13540,31 +13540,7 @@ ItemDisplay[cm3 LIFE=48]:%NAME%%NL%%RED%48 Life%CONTINUE%//
 ItemDisplay[cm3 LIFE=47]:%NAME%%NL%%RED%47 Life%CONTINUE%//
 ItemDisplay[cm3 LIFE=46]:%NAME%%NL%%RED%46 Life%CONTINUE%//
 ItemDisplay[cm3 LIFE=45]:%NAME%%NL%%RED%45 Life%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7vo SOCK=0]:%NAME%%NL%%PURPLE%Larzuk Infinity%MAP-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP (7br OR 7s8 OR 7wc OR 7h7 OR 7pa) SOCK=0 ILVL>40]:%NAME%%NL%%PURPLE%Cube Socket%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP (7br OR 7s8 OR 7wc OR 7h7 OR 7pa) SOCK=0 ILVL>25 ILVL<41]:%NAME%%NL%%PURPLE%Larzuk Infinity%BORDER-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7vo SOCK=0]:%NAME%%NL%%RED%Larzuk Infinity%MAP-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG (7br OR 7s8 OR 7wc OR 7h7 OR 7pa) SOCK=0 ILVL>40]:%NAME%%NL%%RED%Cube Socket%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG (7br OR 7s8 OR 7wc OR 7h7 OR 7pa) SOCK=0 ILVL>25 ILVL<41]:%NAME%%NL%%PURPLE%Larzuk Infinity%MAP-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG 7vo SOCK=0 CLVL<80]:%NAME%%NL%%TAN%Larzuk Infinity%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG 7br SOCK=0 ILVL>40 CLVL<80]:%NAME%%NL%%TAN%Cube Socket%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG (7s8 OR 7wc OR 7h7 OR 7pa) SOCK=0 ILVL>40 CLVL<80]:%NAME% %TAN%Cube Socket%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG (7br OR 7s8 OR 7wc OR 7h7 OR 7pa) SOCK=0 ILVL>25 ILVL<41 CLVL<80]:%NAME%%NL%%PURPLE%Larzuk Infinity%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP (7br OR 9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4]:%NAME%%NL%%PURPLE%Infinity%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG (7br OR 9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4]:%NAME%%NL%%RED%Infinity%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG (7br OR 9s8 OR 9wc OR 9h9 OR 9pa) SOCK=4 CLVL<80]:%NAME%%NL%%TAN%Infinity%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (scy OR wsc OR hal OR pax) SOCK=4]:%NAME% %TAN%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (scy OR wsc OR hal OR pax) SOCK=3]:%NAME% %TAN%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG ELT WAND SOCK=2]:%NAME% %TAN%White%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG crs SOCK=4]:%NAME% %TAN%Spirit%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG fla SOCK=4]:%NAME% %TAN%Heart of the Oak%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh OR ush) SOCK=3]:%NAME% %TAN%Ancients Pledge%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh OR ush) SOCK=2]:%NAME% %TAN%Rhyme%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (bsh OR xsh OR ush) SOCK=0]:%NAME% %TAN%Socket%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG fla ILVL>25 ILVL<41 SOCK=0 CLVL<30]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG crs ILVL>25 ILVL<41 SOCK=0 CLVL<50]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (scy OR wsc OR hal OR pax OR vou) SOCK=0 ILVL>25 ILVL<41 CLVL<30]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET NMAG (9s8 OR 9wc OR 9h9 OR 9pa OR 9vo) SOCK=0 ILVL>25 ILVL<41 CLVL<50]:%NAME% %RED%Larzuk%DOT-0A%%CONTINUE%//
+///// Polearms /////
 ItemDisplay[RW]:%NAME%%GOLD%%CONTINUE%//
 ItemDisplay[NMAG SOCK=0]:%NAME%%WHITE%%CONTINUE%//
 ItemDisplay[NMAG SOCK>0 !RW]:%NAME%%GRAY%%CONTINUE%//
