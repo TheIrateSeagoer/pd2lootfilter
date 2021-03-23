@@ -153,7 +153,7 @@ ItemDisplay[ETH SUP uar DEF<985 SOCK>0 CLVL>79]://
 
 
 ////// Junk Reduction /////
-ItemDisplay[NMAG DIN RES<25 CLVL>79]://
+ItemDisplay[NMAG DIN RES<15 CLVL>79]://
 
 ////// Junk Reduction /////
 ItemDisplay[!SUP !ETH SOCK=0 NMAG CHEST NORM DIFF>0]://
