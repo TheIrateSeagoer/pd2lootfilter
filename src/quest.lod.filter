@@ -35,17 +35,17 @@ ItemDisplay[tr2]:%NAME%//
 ItemDisplay[leg]:%GOLD%%NAME%{%RED%Cows%GRAY%: (%GOLD%Wirt's Leg%GRAY%+%WHITE%Town%GRAY%)}//
 
 ///// Pandemonium /////
-ItemDisplay[pk1]:%NL%%RED%ooo %ORANGE%%NAME% %RED%ooo%ORANGE%%NL%{%RED%Pandemonium%GRAY%: (%ORANGE%Terror%GRAY%+%ORANGE%Hate%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Countess}//
-ItemDisplay[pk2]:%NL%%RED%ooo %ORANGE%%NAME% %RED%ooo%ORANGE%%NL%{%RED%Pandemonium%GRAY%: (%ORANGE%Hate%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%The Summoner}//
-ItemDisplay[pk3]:%NL%%RED%ooo %ORANGE%%NAME% %RED%ooo%ORANGE%%NL%{%RED%Pandemonium%GRAY%: (%ORANGE%Destruction%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Hate%GRAY%)%NL%%TAN%Nihlathak}//
-ItemDisplay[dhn]:%NL%%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%NL%{%RED%Uber Tristram%GRAY%: (%ORANGE%Diablo's Horn%GRAY%+%ORANGE%Baal's Eye%GRAY%+%ORANGE%Mephisto's Brain%GRAY%)%NL%%TAN%Uber Andariel}//
-ItemDisplay[bey]:%NL%%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%NL%{%RED%Uber Tristram%GRAY%: (%ORANGE%Baal's Eye%GRAY%+%ORANGE%Diablo's Horn%GRAY%+%ORANGE%Mephisto's Brain%GRAY%)%NL%%TAN%Uber Duriel}//
-ItemDisplay[mbr]:%NL%%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%NL%{%RED%Uber Tristram%GRAY%: (%ORANGE%Mephisto's Brain%GRAY%+%ORANGE%Baal's Eye%GRAY%+%ORANGE%Diablo's Horn%GRAY%)%NL%%TAN%Uber Izual}//
-ItemDisplay[std]:%NL%%RED%ooooo %ORANGE%%NAME% %RED%ooooo%ORANGE%%NL%{%WHITE%Magic and Gold Find: %BLUE%+20%%NL%%WHITE%Monster Density: %BLUE%+20%%NL%%WHITE%Experience: %BLUE%+10%%NL%%DARK_GREEN%Heroic %NL%%TAN%Map: (Map+Standard of Heroes)}//
+ItemDisplay[pk1]:%RED%ooo %ORANGE%%NAME% %RED%ooo%ORANGE%{%RED%Pandemonium%GRAY%: (%ORANGE%Terror%GRAY%+%ORANGE%Hate%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Countess}//
+ItemDisplay[pk2]:%RED%ooo %ORANGE%%NAME% %RED%ooo%ORANGE%{%RED%Pandemonium%GRAY%: (%ORANGE%Hate%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%The Summoner}//
+ItemDisplay[pk3]:%RED%ooo %ORANGE%%NAME% %RED%ooo%ORANGE%{%RED%Pandemonium%GRAY%: (%ORANGE%Destruction%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Hate%GRAY%)%NL%%TAN%Nihlathak}//
+ItemDisplay[dhn]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%{%RED%Uber Tristram%GRAY%: (%ORANGE%Diablo's Horn%GRAY%+%ORANGE%Baal's Eye%GRAY%+%ORANGE%Mephisto's Brain%GRAY%)%NL%%TAN%Uber Andariel}//
+ItemDisplay[bey]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%{%RED%Uber Tristram%GRAY%: (%ORANGE%Baal's Eye%GRAY%+%ORANGE%Diablo's Horn%GRAY%+%ORANGE%Mephisto's Brain%GRAY%)%NL%%TAN%Uber Duriel}//
+ItemDisplay[mbr]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%{%RED%Uber Tristram%GRAY%: (%ORANGE%Mephisto's Brain%GRAY%+%ORANGE%Baal's Eye%GRAY%+%ORANGE%Diablo's Horn%GRAY%)%NL%%TAN%Uber Izual}//
+ItemDisplay[std]:%RED%ooooo %ORANGE%%NAME% %RED%ooooo%ORANGE%{%WHITE%Magic and Gold Find: %BLUE%+20%%NL%%WHITE%Monster Density: %BLUE%+20%%NL%%WHITE%Experience: %BLUE%+10%%NL%%DARK_GREEN%Heroic %NL%%TAN%Map: (Map+Standard of Heroes)}//
 
 ///// Respec 1.13 /////
-ItemDisplay[tes]:%NL%%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%NL%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Suffering%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Hell Andarial and Hell Durial}//
-ItemDisplay[ceh]:%NL%%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%NL%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Hatred%GRAY%+%ORANGE%Suffering%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Hell Mephisto}//
-ItemDisplay[bet]:%NL%%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%NL%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Terror%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Suffering%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Hell Diablo}//
-ItemDisplay[fed]:%NL%%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%NL%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Destruction%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Suffering%GRAY%)%NL%%TAN%Hell Baal}//
-ItemDisplay[toa]:%NL%%RED%ooooo %ORANGE%%NAME% %RED%ooooo%ORANGE%%NL%%NAME%//
+ItemDisplay[tes]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Suffering%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Hell Andarial and Hell Durial}//
+ItemDisplay[ceh]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Hatred%GRAY%+%ORANGE%Suffering%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Hell Mephisto}//
+ItemDisplay[bet]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Terror%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Suffering%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Hell Diablo}//
+ItemDisplay[fed]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Destruction%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Suffering%GRAY%)%NL%%TAN%Hell Baal}//
+ItemDisplay[toa]:%RED%ooooo %ORANGE%%NAME% %RED%ooooo%ORANGE%//

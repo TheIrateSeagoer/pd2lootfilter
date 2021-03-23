@@ -26,68 +26,13 @@ ForEach-Object{
     (Get-Content -Path $outputPath).replace("`t","").replace("    ]","]").replace(" ]","]").replace(" ]","]")| Set-Content -Path $outputPath 
 }
 
-
-$file = '.\obj\common.pd2.filter'
-$find = ']:%ORANGE%'
-$replace = ']:%NL%%ORANGE%'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'o%WHITE%{'
-$replace = 'o%NL%%WHITE%{'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'Rune{%NAME%%TAN%'
-$replace = 'Rune%NL%{%NAME%%TAN%'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'Stack{%NAME%%TAN%'
-$replace = 'Stack%NL%{%NAME%%TAN%'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'Stack o{%NAME%'
-$replace = 'Stack o%NL%{%NAME%'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'Rune o{%NAME%'
-$replace = 'Rune o%NL%{%NAME%'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-
-$file = '.\obj\common.lod.filter'
-$find = ']:%ORANGE%'
-$replace = ']:%NL%%ORANGE%'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'Rune o{%NAME%'
-$replace = 'Rune o%NL%{%NAME%'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'Rune{%NAME%'
-$replace = 'Rune%NL%{%NAME%'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'Stack{%NAME%%TAN%'
-$replace = 'Stack%NL%{%NAME%%TAN%'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'Stack o{%NAME%'
-$replace = 'Stack o%NL%{%NAME%'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-
-$file = '.\obj\catchall.filter'
-$find = 'ItemDisplay[MAG !ID cm1]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//'
-$replace = 'ItemDisplay[MAG !ID cm1]:%DOT-97%%NL%%RED%ooo %BLUE%%NAME% %RED%ooo%NL%%BLUE%//'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'ItemDisplay[MAG !ID cm3]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//'
-$replace = 'ItemDisplay[MAG !ID cm3]:%DOT-97%%NL%%RED%ooo %BLUE%%NAME% %RED%ooo%NL%%BLUE%//'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'ItemDisplay[MAG !ID jew]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//'
-$replace = 'ItemDisplay[MAG !ID jew]:%DOT-97%%NL%%RED%ooo %BLUE%%NAME% %RED%ooo%NL%%BLUE%//'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'ItemDisplay[RARE !ID jew]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//'
-$replace = 'ItemDisplay[RARE !ID jew]:%MAP-6F%%NL%%RED%oooo %YELLOW%%NAME% %RED%oooo%NL%%YELLOW%//'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'ItemDisplay[RARE !ID rin]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//'
-$replace = 'ItemDisplay[RARE !ID rin]:%MAP-6F%%NL%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%NL%%YELLOW%////'
-(Get-Content $file).replace($find, $replace) | Set-Content $file
-
 Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter', 
 '.\obj\common.lod.filter', '.\obj\common.pd2.filter', 
 '.\obj\item.prefix.filter', 
 #'.\obj\item.treasureclass.filter', 
 '.\obj\item.crafting.filter', 
 '.\obj\item.suffix.filter', '.\obj\item.shopping.filter', '.\obj\item.colorfix.filter', 
-'.\obj\bases.filter', 
+'.\obj\bases.filter', '.\obj\bases.larzuk.filter', 
 '.\obj\item.colorfix.filter', 
 '.\obj\item.description.filter', 
 '.\obj\arreat.normal.filter', '.\obj\arreat.exceptional.filter', '.\obj\arreat.elite.filter', 

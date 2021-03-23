@@ -1,8 +1,8 @@
 ///// Rings /////
-ItemDisplay[SET !ID rin]:%GREEN%Cathan/Angelic%NL%o PD2 Bul-kathos o%DOT-81%//
+ItemDisplay[SET !ID rin]:%RED%ooooo %GREEN%%NAME% %RED%ooooo%DOT-81%//
 
 ///// Amulets /////
-ItemDisplay[SET !ID amu]:%GREEN%Arcanna/Cathan/Civerb%NL%Angelic/Iratha/Tancred/Vidala%NL%The Disciple/Tal Rasha%DOT-81%//
+ItemDisplay[SET !ID amu]:%RED%ooooo %GREEN%%NAME% %RED%ooooo%DOT-81%//
 
 ///// Gloves /////
 ItemDisplay[SET !ID tgl]:%GREEN%Arctic/Iratha%DOT-81%//
