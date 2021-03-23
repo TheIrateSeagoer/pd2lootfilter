@@ -10,9 +10,9 @@ ItemDisplay[MAG !ID jew]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
 ItemDisplay[MAG !ID rin]:%DOT-97%%ORANGE%o %TAN%Lvl%ILVL% %BLUE%%NAME% %ORANGE%o%BLUE%//
 ItemDisplay[MAG !ID amu]:%DOT-97%%ORANGE%o %TAN%Lvl%ILVL% %BLUE%%NAME% %ORANGE%o%BLUE%//
 
-ItemDisplay[RARE !ID jew]:%DOT-0A%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
-ItemDisplay[RARE !ID rin]:%DOT-0A%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
-ItemDisplay[RARE !ID amu]:%DOT-0A%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
+ItemDisplay[RARE !ID jew]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
+ItemDisplay[RARE !ID rin]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
+ItemDisplay[RARE !ID amu]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
 
 
 ////// Elite Armor Cleanup Low Armor Bases/////

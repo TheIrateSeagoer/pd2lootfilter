@@ -65,20 +65,20 @@ $replace = 'Stack o%NL%{%NAME%'
 (Get-Content $file).replace($find, $replace) | Set-Content $file
 
 $file = '.\obj\catchall.filter'
-$find = 'ItemDisplay[MAG !ID cm1]:%DOT-0A%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//'
-$replace = 'ItemDisplay[MAG !ID cm1]:%DOT-0A%%NL%%RED%ooo %BLUE%%NAME% %RED%ooo%NL%%BLUE%//'
+$find = 'ItemDisplay[MAG !ID cm1]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//'
+$replace = 'ItemDisplay[MAG !ID cm1]:%DOT-97%%NL%%RED%ooo %BLUE%%NAME% %RED%ooo%NL%%BLUE%//'
 (Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'ItemDisplay[MAG !ID cm3]:%DOT-0A%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//'
-$replace = 'ItemDisplay[MAG !ID cm3]:%DOT-0A%%NL%%RED%ooo %BLUE%%NAME% %RED%ooo%NL%%BLUE%//'
+$find = 'ItemDisplay[MAG !ID cm3]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//'
+$replace = 'ItemDisplay[MAG !ID cm3]:%DOT-97%%NL%%RED%ooo %BLUE%%NAME% %RED%ooo%NL%%BLUE%//'
 (Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'ItemDisplay[MAG !ID jew]:%DOT-0A%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//'
-$replace = 'ItemDisplay[MAG !ID jew]:%DOT-0A%%NL%%RED%ooo %BLUE%%NAME% %RED%ooo%NL%%BLUE%//'
+$find = 'ItemDisplay[MAG !ID jew]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//'
+$replace = 'ItemDisplay[MAG !ID jew]:%DOT-97%%NL%%RED%ooo %BLUE%%NAME% %RED%ooo%NL%%BLUE%//'
 (Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'ItemDisplay[RARE !ID jew]:%DOT-0A%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//'
-$replace = 'ItemDisplay[RARE !ID jew]:%DOT-0A%%NL%%RED%oooo %YELLOW%%NAME% %RED%oooo%NL%%YELLOW%//'
+$find = 'ItemDisplay[RARE !ID jew]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//'
+$replace = 'ItemDisplay[RARE !ID jew]:%MAP-6F%%NL%%RED%oooo %YELLOW%%NAME% %RED%oooo%NL%%YELLOW%//'
 (Get-Content $file).replace($find, $replace) | Set-Content $file
-$find = 'ItemDisplay[RARE !ID rin]:%DOT-0A%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//'
-$replace = 'ItemDisplay[RARE !ID rin]:%DOT-0A%%NL%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%NL%%YELLOW%////'
+$find = 'ItemDisplay[RARE !ID rin]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//'
+$replace = 'ItemDisplay[RARE !ID rin]:%MAP-6F%%NL%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%NL%%YELLOW%////'
 (Get-Content $file).replace($find, $replace) | Set-Content $file
 
 Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter', 
