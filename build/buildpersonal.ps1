@@ -1,5 +1,14 @@
+Write-Host -NoNewline "TC ... "
 .\pd2treasureclass.ps1
+Write-Host "Done"
+
+Write-Host -NoNewline "Default ... "
 .\pd2default.ps1
+Write-Host "Done"
+
+
+
+Write-Host -NoNewline "Personal ... "
 
 if (Test-Path -Path '.\obj') { Remove-Item '.\obj' -Recurse }
 if (Test-Path -Path '.\bin') { Remove-Item '.\bin' -Recurse }
@@ -88,3 +97,5 @@ Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter',
 
 if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2') { Copy-Item '.\bin\default.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2\loot.filter' }
 if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg') { Copy-Item '.\bin\default.filter' -Destination 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg' }
+
+Write-Host "Done"

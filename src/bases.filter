@@ -1,1 +1,179 @@
-///// Polearms /////
+///// TC 90 ///// Giant Thresher
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7wc SOCK=5]:%NAME% %PURPLE%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7wc SOCK=4]:%NAME% %PURPLE%Infinity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7wc SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7wc SOCK=5]:%NAME% %RED%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7wc SOCK=4]:%NAME% %RED%Infinity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7wc SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+///// TC 87 ///// Berserker Axe, Colossus Blade
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7wa SOCK=6]:%NAME% %PURPLE%Breath of the Dying%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7wa SOCK=5]:%NAME% %PURPLE%Death/Eternity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7wa SOCK=4]:%NAME% %PURPLE%Oath%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7wa SOCK=6]:%NAME% %RED%Breath of the Dying%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7wa SOCK=5]:%NAME% %RED%Death/Eternity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7wa SOCK=4]:%NAME% %RED%Oath%BORDER-0A%%CONTINUE%//
+
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7gd SOCK=6]:%NAME% %PURPLE%Breath of the Dying%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7gd SOCK=5]:%NAME% %PURPLE%Death/Eternity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7gd SOCK=6]:%NAME% %RED%Breath of the Dying%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7gd SOCK=5]:%NAME% %RED%Death/Eternity%BORDER-0A%%CONTINUE%//
+///// TC 84 ///// Great Poleaxe
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7h7 SOCK=5]:%NAME% %PURPLE%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7h7 SOCK=4]:%NAME% %PURPLE%Infinity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7h7 SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7h7 SOCK=5]:%NAME% %RED%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7h7 SOCK=4]:%NAME% %RED%Infinity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7h7 SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+///// TC 81 ///// Cryptic Axe
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7pa SOCK=5]:%NAME% %PURPLE%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7pa SOCK=4]:%NAME% %PURPLE%Infinity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7pa SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7pa SOCK=5]:%NAME% %RED%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7pa SOCK=4]:%NAME% %RED%Infinity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7pa SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+///// TC 78 ///// Troll Nest
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP ush SOCK=3]:%NAME% %TAN%Ancients Pledge/Sanctuary%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP ush SOCK=2]:%NAME% %TAN%Rhyme/Splendor%BORDER-0A%%CONTINUE%//
+///// TC 75 ///// Mancatcher, Phase Blade
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7br SOCK=5]:%NAME% %PURPLE%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7br SOCK=4]:%NAME% %PURPLE%Infinity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7br SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7br SOCK=5]:%NAME% %RED%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7br SOCK=4]:%NAME% %RED%Infinity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7br SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7cr SOCK=6]:%NAME% %PURPLE%Breath of the Dying%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7cr SOCK=5]:%NAME% %PURPLE%Death/Eternity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7cr SOCK=4]:%NAME% %PURPLE%Oath%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7cr SOCK=6]:%NAME% %RED%Breath of the Dying%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7cr SOCK=5]:%NAME% %RED%Death/Eternity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7cr SOCK=4]:%NAME% %RED%Oath%BORDER-0A%%CONTINUE%//
+///// TC 75 /////
+
+///// TC 72 ///// Monarch, Thresher
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP uit SOCK=4]:%NAME% %RED%Spirit%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP uit SOCK=3]:%NAME% %RED%Ancient's Pledge%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP uit SOCK=2]:%NAME% %RED%Rhyme%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG uit SOCK=4]:%NAME% %TAN%Spirit%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG uit SOCK=3]:%NAME% %TAN%Ancient's Pledge%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG uit SOCK=2]:%NAME% %TAN%Rhyme%BORDER-0A%%CONTINUE%//
+
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7s8 SOCK=5]:%NAME% %PURPLE%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7s8 SOCK=4]:%NAME% %PURPLE%Infinity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7s8 SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7s8 SOCK=5]:%NAME% %RED%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7s8 SOCK=4]:%NAME% %RED%Infinity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7s8 SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+///// TC 69 /////
+
+///// TC 66 ///// Colossus Voulge
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7vo SOCK=4]:%NAME% %PURPLE%Infinity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 7vo SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7vo SOCK=4]:%NAME% %RED%Infinity%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 7vo SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+///// TC 63 /////
+
+///// TC 60 /////
+
+///// TC 57 ///// Grim Scythe
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9wc SOCK=5]:%NAME% %PURPLE%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9wc SOCK=4]:%NAME% %PURPLE%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9wc SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9wc SOCK=5]:%NAME% %RED%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9wc SOCK=4]:%NAME% %RED%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9wc SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+///// TC 54 /////
+
+///// TC 51 ///// Bec-de-Corbin
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9h9 SOCK=5]:%NAME% %PURPLE%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9h9 SOCK=4]:%NAME% %PURPLE%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9h9 SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9h9 SOCK=5]:%NAME% %RED%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9h9 SOCK=4]:%NAME% %RED%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9h9 SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+///// TC 48 ///// Grim Shield
+ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG xsh SOCK=2]:%NAME% %TAN%Rhyme/Splendor%DOT-0A%%CONTINUE%//
+///// TC 45 ///// Yari
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9st SOCK=5]:%NAME% %PURPLE%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9st SOCK=4]:%NAME% %PURPLE%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9st SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9st SOCK=5]:%NAME% %RED%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9st SOCK=4]:%NAME% %RED%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9st SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+///// TC 42 ///// Battle Scythe
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9s8 SOCK=5]:%NAME% %PURPLE%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9s8 SOCK=4]:%NAME% %PURPLE%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9s8 SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9s8 SOCK=5]:%NAME% %RED%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9s8 SOCK=4]:%NAME% %RED%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9s8 SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+///// TC 39 ///// Bill
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9vo SOCK=4]:%NAME% %PURPLE%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9vo SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9vo SOCK=4]:%NAME% %RED%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9vo SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+///// TC 36 ///// Partizan, War Scythe
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9pa SOCK=5]:%NAME% %PURPLE%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9pa SOCK=4]:%NAME% %PURPLE%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP 9pa SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9pa SOCK=5]:%NAME% %RED%Obedience%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9pa SOCK=4]:%NAME% %RED%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG 9pa SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP wsc SOCK=4]:%NAME% %PURPLE%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP wsc SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG wsc SOCK=4]:%NAME% %RED%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG wsc SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+///// TC 33 /////
+
+///// TC 30 ///// Halbred
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP hal SOCK=4]:%NAME% %PURPLE%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP hal SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG hal SOCK=4]:%NAME% %RED%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG hal SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+///// TC 27 ///// 
+
+///// TC 24 /////
+
+///// TC 21 ///// Poleaxe, Spetum, Flail, Bone Shield
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP pax SOCK=4]:%NAME% %PURPLE%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP pax SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG pax SOCK=4]:%NAME% %RED%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG pax SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP spt SOCK=4]:%NAME% %PURPLE%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP spt SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG spt SOCK=4]:%NAME% %RED%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG spt SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG fla SOCK=5]:%NAME% %RED%Heart of the Oak%MAP-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG fla SOCK=5]:%NAME% %TAN%Heart of the Oak%DOT-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG fla SOCK=4]:%NAME% %RED%Spirit%MAP-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG fla SOCK=4]:%NAME% %TAN%Spirit%DOT-0A%%CONTINUE%//
+
+ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG bsh SOCK=2]:%NAME% %TAN%Rhyme/Splendor%DOT-0A%%CONTINUE%//
+///// TC 18 /////
+
+///// TC 15 ///// Scythe
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP scy SOCK=4]:%NAME% %PURPLE%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP scy SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG scy SOCK=4]:%NAME% %RED%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG scy SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+
+///// TC 12 ///// Voulge, Cystal Sword
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP vou SOCK=4]:%NAME% %PURPLE%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP vou SOCK=3]:%NAME% %PURPLE%Malice%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG vou SOCK=4]:%NAME% %RED%Insight%BORDER-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG vou SOCK=3]:%NAME% %RED%Malice%BORDER-0A%%CONTINUE%//
+
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG crs SOCK=6]:%NAME% %RED%6x Ist Sword%MAP-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG crs SOCK=6]:%NAME% %TAN%6x Ist Sword%DOT-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG crs SOCK=5]:%NAME% %RED%Call to Arms%MAP-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG crs SOCK=5]:%NAME% %TAN%Call to Arms%DOT-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH NMAG crs SOCK=4]:%NAME% %RED%Spirit%MAP-0A%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH NMAG crs SOCK=4]:%NAME% %TAN%Spirit%DOT-0A%%CONTINUE%//
+///// TC 9 /////
+
+///// TC 6 /////
+
+///// TC 3 /////
