@@ -13,7 +13,8 @@ ForEach-Object{
     $inputPath = '..\src\' + $_.Name
     
     Get-Content -Path $inputPath | Where-Object {$_.trim() -ne "" } | Set-Content -Path $outputPath 
-    (Get-Content -Path $outputPath | Select-String -pattern '/////' -notmatch) | Set-Content -Path $outputPath 
+    (Get-Content -Path $outputPath | Select-String -pattern '/////' -notmatch) | Set-Content -Path $outputPath
+    (Get-Content -Path $outputPath).replace("`t","").replace("    ]","]").replace(" ]","]").replace(" ]","]")| Set-Content -Path $outputPath 
 }
 
 
