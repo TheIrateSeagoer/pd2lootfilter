@@ -14,7 +14,6 @@ ItemDisplay[RARE !ID jew]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID rin]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID amu]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
 
-
 ////// Elite Armor Cleanup Low Armor Bases/////
 ItemDisplay[NMAG uui ED=0 DEF<444 SOCK=0]://
 ItemDisplay[NMAG uea ED=0 DEF<447 SOCK=0]://

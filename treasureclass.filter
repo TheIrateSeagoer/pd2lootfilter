@@ -14868,7 +14868,7 @@ ItemDisplay[SET !ID uul]:%GREEN%oo Aldur's Deception oo%MAP-81%//
 ItemDisplay[SET !ID 9mt]:%GREEN%Aldur's Rhythm%MAP-81%//
 ItemDisplay[SET !ID dr8]:%GREEN%o Aldur's Stony Gaze o%MAP-81%//
 ItemDisplay[SET !ID 7gd]:%GREEN%oo Bul-kathos' Sacred Charge oo%MAP-81%//
-ItemDisplay[SET !ID 7wd]:%GREEN%oo Bul-kathos' Tribal Guardian oo%MAP-81%//
+ItemDisplay[SET !ID 7fb]:%GREEN%oo Bul-kathos' Tribal Guardian oo%MAP-81%//
 ItemDisplay[SET !ID xar]:%GREEN%o Griswold's Heart o%MAP-81%//
 ItemDisplay[SET !ID paf]:%GREEN%oo Griswold's Honor oo%MAP-81%//
 ItemDisplay[SET !ID 7ws]:%GREEN%oo Griswold's Redemption oo%MAP-81%//
