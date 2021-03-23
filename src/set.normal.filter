@@ -1,60 +1,60 @@
-ItemDisplay[SET !ID wst]:%GREEN%Arcanna's Deathwand%DOT-0A%//
-ItemDisplay[SET !ID ltp]:%GREEN%Arcanna's Flesh%DOT-0A%//
-ItemDisplay[SET !ID skp]:%GREEN%Arcanna's Head%DOT-0A%//
-ItemDisplay[SET !ID vbl]:%GREEN%Arctic Binding%DOT-0A%//
+ItemDisplay[SET !ID wst]:%GREEN%Arcanna's Deathwand%DOT-81%//
+ItemDisplay[SET !ID ltp]:%GREEN%Arcanna's Flesh%DOT-81%//
+ItemDisplay[SET !ID skp]:%GREEN%Arcanna's Head%DOT-81%//
+ItemDisplay[SET !ID vbl]:%GREEN%Arctic Binding%DOT-81%//
 
-ItemDisplay[SET !ID qui]:%GREEN%Arctic Furs%DOT-0A%//
-ItemDisplay[SET !ID swb]:%GREEN%Arctic Horn%DOT-0A%//
+ItemDisplay[SET !ID qui]:%GREEN%Arctic Furs%DOT-81%//
+ItemDisplay[SET !ID swb]:%GREEN%Arctic Horn%DOT-81%//
 
-ItemDisplay[SET !ID 2ax]:%GREEN%Berserker's Hatchet%DOT-0A%//
-ItemDisplay[SET !ID spl]:%GREEN%Berserker's Hauberk%DOT-0A%//
-ItemDisplay[SET !ID hlm]:%GREEN%Berserker's Headgear%DOT-0A%//
+ItemDisplay[SET !ID 2ax]:%GREEN%Berserker's Hatchet%DOT-81%//
+ItemDisplay[SET !ID spl]:%GREEN%Berserker's Hauberk%DOT-81%//
+ItemDisplay[SET !ID hlm]:%GREEN%Berserker's Headgear%DOT-81%//
 
-ItemDisplay[SET !ID msk]:%GREEN%Cathan's Visage%DOT-0A%//
-ItemDisplay[SET !ID chn]:%GREEN%Cathan's Mesh%DOT-0A%//
-ItemDisplay[SET !ID bst]:%GREEN%Cathan's Rule%DOT-0A%//
+ItemDisplay[SET !ID msk]:%GREEN%Cathan's Visage%DOT-81%//
+ItemDisplay[SET !ID chn]:%GREEN%Cathan's Mesh%DOT-81%//
+ItemDisplay[SET !ID bst]:%GREEN%Cathan's Rule%DOT-81%//
 
-ItemDisplay[SET !ID gsc]:%GREEN%Civerb's Cudgel%DOT-0A%//
-ItemDisplay[SET !ID lrg]:%GREEN%Civerb's Ward%DOT-0A%//
+ItemDisplay[SET !ID gsc]:%GREEN%Civerb's Cudgel%DOT-81%//
+ItemDisplay[SET !ID lrg]:%GREEN%Civerb's Ward%DOT-81%//
 
-ItemDisplay[SET !ID sml]:%GREEN%Cleglaw's Claw%DOT-0A%//
-ItemDisplay[SET !ID mgl]:%GREEN%Cleglaw's Pincers%DOT-0A%//
-ItemDisplay[SET !ID lsd]:%GREEN%Cleglaw's Tooth%DOT-0A%//
+ItemDisplay[SET !ID sml]:%GREEN%Cleglaw's Claw%DOT-81%//
+ItemDisplay[SET !ID mgl]:%GREEN%Cleglaw's Pincers%DOT-81%//
+ItemDisplay[SET !ID lsd]:%GREEN%Cleglaw's Tooth%DOT-81%//
 
-ItemDisplay[SET !ID rng]:%GREEN%Angelic Mantle%DOT-0A%//
-ItemDisplay[SET !ID sbr]:%GREEN%Angelic Sickle%DOT-0A%//
+ItemDisplay[SET !ID rng]:%GREEN%Angelic Mantle%DOT-81%//
+ItemDisplay[SET !ID sbr]:%GREEN%Angelic Sickle%DOT-81%//
 
-ItemDisplay[SET !ID buc]:%GREEN%Hsaru's Iron Fist%DOT-0A%//
-ItemDisplay[SET !ID mbt]:%GREEN%Hsaru's Iron Heel%DOT-0A%//
+ItemDisplay[SET !ID buc]:%GREEN%Hsaru's Iron Fist%DOT-81%//
+ItemDisplay[SET !ID mbt]:%GREEN%Hsaru's Iron Heel%DOT-81%//
 
-ItemDisplay[SET !ID dgr]:%GREEN%Infernal Spine%DOT-0A%//
-ItemDisplay[SET !ID gwn]:%GREEN%Infernal Torch%DOT-0A%//
+ItemDisplay[SET !ID dgr]:%GREEN%Infernal Spine%DOT-81%//
+ItemDisplay[SET !ID gwn]:%GREEN%Infernal Torch%DOT-81%//
 
-ItemDisplay[SET !ID fhl]:%GREEN%Isenhart's Horns%DOT-0A%//
-ItemDisplay[SET !ID brs]:%GREEN%Isenhart's Case%DOT-0A%//
-ItemDisplay[SET !ID bsd]:%GREEN%Isenhart's Lightbrand%DOT-0A%//
-ItemDisplay[SET !ID gts]:%GREEN%Isenhart's Parry%DOT-0A%//
+ItemDisplay[SET !ID fhl]:%GREEN%Isenhart's Horns%DOT-81%//
+ItemDisplay[SET !ID brs]:%GREEN%Isenhart's Case%DOT-81%//
+ItemDisplay[SET !ID bsd]:%GREEN%Isenhart's Lightbrand%DOT-81%//
+ItemDisplay[SET !ID gts]:%GREEN%Isenhart's Parry%DOT-81%//
 
-ItemDisplay[SET !ID kit]:%GREEN%Milabrega's Orb%DOT-0A%//
-ItemDisplay[SET !ID aar]:%GREEN%o Milabrega's Robe o%DOT-0A%//
-ItemDisplay[SET !ID wsp]:%GREEN%Milabrega's Rod%DOT-0A%//
+ItemDisplay[SET !ID kit]:%GREEN%Milabrega's Orb%DOT-81%//
+ItemDisplay[SET !ID aar]:%GREEN%o Milabrega's Robe o%DOT-81%//
+ItemDisplay[SET !ID wsp]:%GREEN%Milabrega's Rod%DOT-81%//
 
-ItemDisplay[SET !ID hgl]:%GREEN%Sigon's Gage%DOT-0A%//
-ItemDisplay[SET !ID tow]:%GREEN%Sigon's Guard%DOT-0A%//
-ItemDisplay[SET !ID hbt]:%GREEN%Sigon's Sabot%DOT-0A%//
-ItemDisplay[SET !ID gth]:%GREEN%Sigon's Shelter%DOT-0A%//
-ItemDisplay[SET !ID ghm]:%GREEN%Sigon's Visor%DOT-0A%//
-ItemDisplay[SET !ID hbl]:%GREEN%Sigon's Wrap%DOT-0A%//
+ItemDisplay[SET !ID hgl]:%GREEN%Sigon's Gage%DOT-81%//
+ItemDisplay[SET !ID tow]:%GREEN%Sigon's Guard%DOT-81%//
+ItemDisplay[SET !ID hbt]:%GREEN%Sigon's Sabot%DOT-81%//
+ItemDisplay[SET !ID gth]:%GREEN%Sigon's Shelter%DOT-81%//
+ItemDisplay[SET !ID ghm]:%GREEN%Sigon's Visor%DOT-81%//
+ItemDisplay[SET !ID hbl]:%GREEN%Sigon's Wrap%DOT-81%//
 
-ItemDisplay[SET !ID mpi]:%GREEN%Tancred's Crowbill%DOT-0A%//
-ItemDisplay[SET !ID lbt]:%GREEN%Tancred's Hobnails%DOT-0A%//
-ItemDisplay[SET !ID bhm]:%GREEN%Tancred's Skull%DOT-0A%//
-ItemDisplay[SET !ID ful]:%GREEN%Tancred's Spine%DOT-0A%//
+ItemDisplay[SET !ID mpi]:%GREEN%Tancred's Crowbill%DOT-81%//
+ItemDisplay[SET !ID lbt]:%GREEN%Tancred's Hobnails%DOT-81%//
+ItemDisplay[SET !ID bhm]:%GREEN%Tancred's Skull%DOT-81%//
+ItemDisplay[SET !ID ful]:%GREEN%Tancred's Spine%DOT-81%//
 
-ItemDisplay[SET !ID lbl]:%GREEN%Death's Guard%DOT-0A%//
-ItemDisplay[SET !ID lgl]:%GREEN%Death's Hand%DOT-0A%//
-ItemDisplay[SET !ID wsd]:%GREEN%Death's Touch%DOT-0A%//
+ItemDisplay[SET !ID lbl]:%GREEN%Death's Guard%DOT-81%//
+ItemDisplay[SET !ID lgl]:%GREEN%Death's Hand%DOT-81%//
+ItemDisplay[SET !ID wsd]:%GREEN%Death's Touch%DOT-81%//
 
-ItemDisplay[SET !ID lea]:%GREEN%Vidala's Ambush%DOT-0A%//
-ItemDisplay[SET !ID lbb]:%GREEN%Vidala's Barb%DOT-0A%//
-ItemDisplay[SET !ID tbt]:%GREEN%Vidala's Fetlock%DOT-0A%//
+ItemDisplay[SET !ID lea]:%GREEN%Vidala's Ambush%DOT-81%//
+ItemDisplay[SET !ID lbb]:%GREEN%Vidala's Barb%DOT-81%//
+ItemDisplay[SET !ID tbt]:%GREEN%Vidala's Fetlock%DOT-81%//

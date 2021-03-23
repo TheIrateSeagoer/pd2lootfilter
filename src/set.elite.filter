@@ -1,41 +1,41 @@
-ItemDisplay[SET !ID xtb]:%GREEN%o Aldur's Advance o%MAP-0A%//
-ItemDisplay[SET !ID uul]:%GREEN%oo Aldur's Deception oo%MAP-0A%//
-ItemDisplay[SET !ID 9mt]:%GREEN%Aldur's Rhythm%MAP-0A%//
-ItemDisplay[SET !ID dr8]:%GREEN%o Aldur's Stony Gaze o%MAP-0A%//
+ItemDisplay[SET !ID xtb]:%GREEN%o Aldur's Advance o%MAP-81%//
+ItemDisplay[SET !ID uul]:%GREEN%oo Aldur's Deception oo%MAP-81%//
+ItemDisplay[SET !ID 9mt]:%GREEN%Aldur's Rhythm%MAP-81%//
+ItemDisplay[SET !ID dr8]:%GREEN%o Aldur's Stony Gaze o%MAP-81%//
 
-ItemDisplay[SET !ID 7gd]:%GREEN%oo Bul-kathos' Sacred Charge oo%MAP-0A%//
-ItemDisplay[SET !ID 7wd]:%GREEN%oo Bul-kathos' Tribal Guardian oo%MAP-0A%//
+ItemDisplay[SET !ID 7gd]:%GREEN%oo Bul-kathos' Sacred Charge oo%MAP-81%//
+ItemDisplay[SET !ID 7wd]:%GREEN%oo Bul-kathos' Tribal Guardian oo%MAP-81%//
 
-ItemDisplay[SET !ID xar]:%GREEN%o Griswold's Heart o%MAP-0A%//
-ItemDisplay[SET !ID paf]:%GREEN%oo Griswold's Honor oo%MAP-0A%//
-ItemDisplay[SET !ID 7ws]:%GREEN%oo Griswold's Redemption oo%MAP-0A%//
-ItemDisplay[SET !ID urn]:%GREEN%oo Griswold's Valor oo%MAP-0A%//
+ItemDisplay[SET !ID xar]:%GREEN%o Griswold's Heart o%MAP-81%//
+ItemDisplay[SET !ID paf]:%GREEN%oo Griswold's Honor oo%MAP-81%//
+ItemDisplay[SET !ID 7ws]:%GREEN%oo Griswold's Redemption oo%MAP-81%//
+ItemDisplay[SET !ID urn]:%GREEN%oo Griswold's Valor oo%MAP-81%//
 
-ItemDisplay[SET !ID amc]:%GREEN%oo M'avina's Caster oo%MAP-0A%//
-ItemDisplay[SET !ID uld]:%GREEN%oo M'avina's Embrace oo%MAP-0A%//
-ItemDisplay[SET !ID xtg]:%GREEN%o M'avina's Icy Clutch o%MAP-0A%//
-ItemDisplay[SET !ID zvb]:%GREEN%M'avina's Tenet%MAP-0A%//
-ItemDisplay[SET !ID ci3]:%GREEN%oo M'avina's True Sight oo%MAP-0A%//
+ItemDisplay[SET !ID amc]:%GREEN%oo M'avina's Caster oo%MAP-81%//
+ItemDisplay[SET !ID uld]:%GREEN%oo M'avina's Embrace oo%MAP-81%//
+ItemDisplay[SET !ID xtg]:%GREEN%o M'avina's Icy Clutch o%MAP-81%//
+ItemDisplay[SET !ID zvb]:%GREEN%M'avina's Tenet%MAP-81%//
+ItemDisplay[SET !ID ci3]:%GREEN%oo M'avina's True Sight oo%MAP-81%//
 
-ItemDisplay[SET !ID 7qr]:%GREEN%oo Natalya's Mark oo%MAP-0A%//
-ItemDisplay[SET !ID ucl]:%GREEN%oo Natalya's Shadow oo%MAP-0A%//
-ItemDisplay[SET !ID xmb]:%GREEN%o Natalya's Soul o%MAP-0A%//
-ItemDisplay[SET !ID xh9]:%GREEN%o Natalya's Totem o%MAP-0A%//
+ItemDisplay[SET !ID 7qr]:%GREEN%oo Natalya's Mark oo%MAP-81%//
+ItemDisplay[SET !ID ucl]:%GREEN%oo Natalya's Shadow oo%MAP-81%//
+ItemDisplay[SET !ID xmb]:%GREEN%o Natalya's Soul o%MAP-81%//
+ItemDisplay[SET !ID xh9]:%GREEN%o Natalya's Totem o%MAP-81%//
 
-ItemDisplay[SET !ID zmb]:%GREEN%o Tal Rasha's Fine-Spun Cloth o%MAP-0A%//
-ItemDisplay[SET !ID uth]:%GREEN%oo Tal Rasha's Guardianship oo%MAP-0A%//
-ItemDisplay[SET !ID xsk]:%GREEN%o Tal Rasha's Horadric Crest o%MAP-0A%//
-ItemDisplay[SET !ID oba]:%GREEN%o Tal Rasha's Lidless Eye o%MAP-0A%//
+ItemDisplay[SET !ID zmb]:%GREEN%o Tal Rasha's Fine-Spun Cloth o%MAP-81%//
+ItemDisplay[SET !ID uth]:%GREEN%oo Tal Rasha's Guardianship oo%MAP-81%//
+ItemDisplay[SET !ID xsk]:%GREEN%o Tal Rasha's Horadric Crest o%MAP-81%//
+ItemDisplay[SET !ID oba]:%GREEN%o Tal Rasha's Lidless Eye o%MAP-81%//
 
-ItemDisplay[SET !ID xmg]:%GREEN%o Trang-Oul's Claws o%MAP-0A%//
-ItemDisplay[SET !ID utc]:%GREEN%oo Trang-Oul's Girth oo%MAP-0A%//
-ItemDisplay[SET !ID uh9]:%GREEN%oo Trang-Oul's Guise oo%MAP-0A%//
-ItemDisplay[SET !ID xul]:%GREEN%o Trang-Oul's Scales o%MAP-0A%//
-ItemDisplay[SET !ID ne9]:%GREEN%o Trang-Oul's Wing o%MAP-0A%//
+ItemDisplay[SET !ID xmg]:%GREEN%o Trang-Oul's Claws o%MAP-81%//
+ItemDisplay[SET !ID utc]:%GREEN%oo Trang-Oul's Girth oo%MAP-81%//
+ItemDisplay[SET !ID uh9]:%GREEN%oo Trang-Oul's Guise oo%MAP-81%//
+ItemDisplay[SET !ID xul]:%GREEN%o Trang-Oul's Scales o%MAP-81%//
+ItemDisplay[SET !ID ne9]:%GREEN%o Trang-Oul's Wing o%MAP-81%//
 
-ItemDisplay[SET !ID zhb]:%GREEN%o Immortal King's Detail o%MAP-0A%//
-ItemDisplay[SET !ID xhg]:%GREEN%o Immortal King's Forge o%MAP-0A%//
-ItemDisplay[SET !ID xhb]:%GREEN%o Immortal King's Pillar o%MAP-0A%//
-ItemDisplay[SET !ID uar]:%GREEN%oo Immortal King's Soul Cage oo%MAP-0A%//
-ItemDisplay[SET !ID 7m7]:%GREEN%oo Immortal King's Stone Crusher oo%MAP-0A%//
-ItemDisplay[SET !ID ba5]:%GREEN%Immortal King's Will%MAP-0A%//
+ItemDisplay[SET !ID zhb]:%GREEN%o Immortal King's Detail o%MAP-81%//
+ItemDisplay[SET !ID xhg]:%GREEN%o Immortal King's Forge o%MAP-81%//
+ItemDisplay[SET !ID xhb]:%GREEN%o Immortal King's Pillar o%MAP-81%//
+ItemDisplay[SET !ID uar]:%GREEN%oo Immortal King's Soul Cage oo%MAP-81%//
+ItemDisplay[SET !ID 7m7]:%GREEN%oo Immortal King's Stone Crusher oo%MAP-81%//
+ItemDisplay[SET !ID ba5]:%GREEN%Immortal King's Will%MAP-81%//

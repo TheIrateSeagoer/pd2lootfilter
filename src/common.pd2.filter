@@ -1,19 +1,19 @@
 ///// Flawless Gems /////
-ItemDisplay[gzvs QTY>1]:%ORANGE%o Flawless Amethyst Stack o%WHITE%{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
-ItemDisplay[glys QTY>1]:%ORANGE%o Flawless Topaz Stack o%WHITE%{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
-ItemDisplay[glbs QTY>1]:%ORANGE%o Flawless Sapphire Stack o%WHITE%{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
-ItemDisplay[glgs QTY>1]:%ORANGE%o Flawless Emerald Stack o%WHITE%{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
-ItemDisplay[glrs QTY>1]:%ORANGE%o Flawless Ruby Stack o%WHITE%{%ORANGE%Blood Crafting}%DOT-0A%//
-ItemDisplay[glws QTY>1]:%ORANGE%o Flawless Diamond Stack o%WHITE%{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
-ItemDisplay[skls QTY>1]:%ORANGE%o Flawless Skull Stack o%WHITE%{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
+ItemDisplay[gzvs QTY>1]:%ORANGE%o Flawless Amethyst Stack o%WHITE%{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-60%//
+ItemDisplay[glys QTY>1]:%ORANGE%o Flawless Topaz Stack o%WHITE%{%TAN%Reroll %BLUE%Grand Charm}%DOT-60%//
+ItemDisplay[glbs QTY>1]:%ORANGE%o Flawless Sapphire Stack o%WHITE%{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-60%//
+ItemDisplay[glgs QTY>1]:%ORANGE%o Flawless Emerald Stack o%WHITE%{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-60%//
+ItemDisplay[glrs QTY>1]:%ORANGE%o Flawless Ruby Stack o%WHITE%{%ORANGE%Blood Crafting}%DOT-60%//
+ItemDisplay[glws QTY>1]:%ORANGE%o Flawless Diamond Stack o%WHITE%{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-60%//
+ItemDisplay[skls QTY>1]:%ORANGE%o Flawless Skull Stack o%WHITE%{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-60%//
 
-ItemDisplay[gzvs QTY=1]:%ORANGE%o Flawless Amethyst o%WHITE%{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
-ItemDisplay[glys QTY=1]:%ORANGE%o Flawless Topaz o%WHITE%{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
-ItemDisplay[glbs QTY=1]:%ORANGE%o Flawless Sapphire o%WHITE%{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-0A%//
-ItemDisplay[glgs QTY=1]:%ORANGE%o Flawless Emerald o%WHITE%{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-0A%//
-ItemDisplay[glrs QTY=1]:%ORANGE%o Flawless Ruby o%WHITE%{%ORANGE%Blood Crafting}%DOT-0A%//
-ItemDisplay[glws QTY=1]:%ORANGE%o Flawless Diamond o%WHITE%{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
-ItemDisplay[skls QTY=1]:%ORANGE%o Flawless Skull o%WHITE%{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
+ItemDisplay[gzvs QTY=1]:%ORANGE%o Flawless Amethyst o%WHITE%{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-60%//
+ItemDisplay[glys QTY=1]:%ORANGE%o Flawless Topaz o%WHITE%{%TAN%Reroll %BLUE%Grand Charm}%DOT-60%//
+ItemDisplay[glbs QTY=1]:%ORANGE%o Flawless Sapphire o%WHITE%{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%DOT-60%//
+ItemDisplay[glgs QTY=1]:%ORANGE%o Flawless Emerald o%WHITE%{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%DOT-60%//
+ItemDisplay[glrs QTY=1]:%ORANGE%o Flawless Ruby o%WHITE%{%ORANGE%Blood Crafting}%DOT-60%//
+ItemDisplay[glws QTY=1]:%ORANGE%o Flawless Diamond o%WHITE%{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-60%//
+ItemDisplay[skls QTY=1]:%ORANGE%o Flawless Skull o%WHITE%{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-60%//
 
 ///// Perfect Gems /////
 ItemDisplay[gpvs QTY>1]:%ORANGE%o %RED%Perfect Amethyst Stack %ORANGE%o%WHITE%{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%DOT-0A%//
@@ -33,35 +33,35 @@ ItemDisplay[gpws QTY=1]:%ORANGE%o %RED%Perfect Diamond %ORANGE%o%WHITE%{%TAN%Upg
 ItemDisplay[skzs QTY=1]:%ORANGE%o %RED%Perfect Skull %ORANGE%o%WHITE%{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
 
 ///// Normal Runes /////
-ItemDisplay[r01s QTY>1]:%ORANGE%[01] El Stack{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
-ItemDisplay[r02s QTY>1]:%ORANGE%[02] Eld Stack{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
-ItemDisplay[r03s QTY>1]:%ORANGE%o [03] Tir Stack o{%NAME%%ORANGE%Caster: Weapon%NL%Hit Power: Weapon%NL%%TAN%Rune Number:  3}%DOT-0A%//
-ItemDisplay[r04s QTY>1]:%ORANGE%o [04] Nef Stack o{%NAME%%ORANGE%Blood: Gloves%NL%Caster: Helm%NL%Hit Power: Body%NL%Safety: Shield%NL%%TAN%Rune Number:  4}%DOT-0A%//
-ItemDisplay[r05s QTY>1]:%ORANGE%o [05] Eth Stack o{%NAME%%ORANGE%Blood: Boots%NL%Caster: Shield%NL%Hit Power: Shield%NL%Safety: Body%NL%%TAN%Rune Number:  5}%DOT-0A%//
-ItemDisplay[r06s QTY>1]:%ORANGE%o [06] Ith Stack o{%NAME%%ORANGE%Blood: Shield%NL%Caster: Belt%NL%Hit Power: Helm%NL%Safety: Helm%NL%%TAN%Rune Number:  6}%DOT-0A%//
-ItemDisplay[r07s QTY>1]:%ORANGE%o [07] Tal Stack o{%NAME%%ORANGE%Blood: Belt%NL%Caster: Body%NL%Safety: Belt%NL%%TAN%Rune Number:  7}%DOT-0A%//
-ItemDisplay[r08s QTY>1]:%ORANGE%o [08] Ral Stack o{%NAME%%ORANGE%Blood: Helm%NL%Caster: Amulet%NL%Hit Power: Boots%NL%Safety: Gloves%NL%%TAN%Rune Number:  8}%DOT-0A%//
-ItemDisplay[r09s QTY>1]:%ORANGE%o [09] Ort Stack o{%NAME%%ORANGE%Blood: Weapon%NL%Caster: Gloves%NL%Hit Power: Gloves%NL%Safety: Boots%NL%%TAN%Rune Number:  9}%DOT-0A%//
-ItemDisplay[r10s QTY>1]:%ORANGE%o [10] Thul Stack o{%NAME%%ORANGE%Blood: Body%NL%Caster: Boots%NL%Hit Power: Amulet%NL%Safety: Amulet%NL%%TAN%Rune Number: 10}%DOT-0A%//
-ItemDisplay[r11s QTY>1]:%ORANGE%o [11] Amn Stack o{%NAME%%ORANGE%Blood: Amulet%NL%Caster: Ring%NL%Hit Power: Ring%NL%Safety: Ring%NL%%TAN%Rune Number: 11}%DOT-0A%//
-ItemDisplay[r12s QTY>1]:%ORANGE%o [12] Sol Stack o{%NAME%%ORANGE%Blood: Ring%NL%Safety: Crossbow/Bow%NL%%TAN%Rune Number: 12}%DOT-0A%//
-ItemDisplay[r13s QTY>1]:%ORANGE%[13] Shael Stack{%NAME%%TAN%Rune Number: 13}%DOT-0A%//
-ItemDisplay[r14s QTY>1]:%ORANGE%[14] Dol Stack{%NAME%%TAN%Rune Number: 14}%DOT-0A%//
+ItemDisplay[r01s QTY>1]:%ORANGE%[01] El Stack{%NAME%%TAN%Rune Number:  1}%DOT-60%//
+ItemDisplay[r02s QTY>1]:%ORANGE%[02] Eld Stack{%NAME%%TAN%Rune Number:  2}%DOT-60%//
+ItemDisplay[r03s QTY>1]:%ORANGE%o [03] Tir Stack o{%NAME%%ORANGE%Caster: Weapon%NL%Hit Power: Weapon%NL%%TAN%Rune Number:  3}%DOT-60%//
+ItemDisplay[r04s QTY>1]:%ORANGE%o [04] Nef Stack o{%NAME%%ORANGE%Blood: Gloves%NL%Caster: Helm%NL%Hit Power: Body%NL%Safety: Shield%NL%%TAN%Rune Number:  4}%DOT-60%//
+ItemDisplay[r05s QTY>1]:%ORANGE%o [05] Eth Stack o{%NAME%%ORANGE%Blood: Boots%NL%Caster: Shield%NL%Hit Power: Shield%NL%Safety: Body%NL%%TAN%Rune Number:  5}%DOT-60%//
+ItemDisplay[r06s QTY>1]:%ORANGE%o [06] Ith Stack o{%NAME%%ORANGE%Blood: Shield%NL%Caster: Belt%NL%Hit Power: Helm%NL%Safety: Helm%NL%%TAN%Rune Number:  6}%DOT-60%//
+ItemDisplay[r07s QTY>1]:%ORANGE%o [07] Tal Stack o{%NAME%%ORANGE%Blood: Belt%NL%Caster: Body%NL%Safety: Belt%NL%%TAN%Rune Number:  7}%DOT-60%//
+ItemDisplay[r08s QTY>1]:%ORANGE%o [08] Ral Stack o{%NAME%%ORANGE%Blood: Helm%NL%Caster: Amulet%NL%Hit Power: Boots%NL%Safety: Gloves%NL%%TAN%Rune Number:  8}%DOT-60%//
+ItemDisplay[r09s QTY>1]:%ORANGE%o [09] Ort Stack o{%NAME%%ORANGE%Blood: Weapon%NL%Caster: Gloves%NL%Hit Power: Gloves%NL%Safety: Boots%NL%%TAN%Rune Number:  9}%DOT-60%//
+ItemDisplay[r10s QTY>1]:%ORANGE%o [10] Thul Stack o{%NAME%%ORANGE%Blood: Body%NL%Caster: Boots%NL%Hit Power: Amulet%NL%Safety: Amulet%NL%%TAN%Rune Number: 10}%DOT-60%//
+ItemDisplay[r11s QTY>1]:%ORANGE%o [11] Amn Stack o{%NAME%%ORANGE%Blood: Amulet%NL%Caster: Ring%NL%Hit Power: Ring%NL%Safety: Ring%NL%%TAN%Rune Number: 11}%DOT-60%//
+ItemDisplay[r12s QTY>1]:%ORANGE%o [12] Sol Stack o{%NAME%%ORANGE%Blood: Ring%NL%Safety: Crossbow/Bow%NL%%TAN%Rune Number: 12}%DOT-60%//
+ItemDisplay[r13s QTY>1]:%ORANGE%[13] Shael Stack{%NAME%%TAN%Rune Number: 13}%DOT-60%//
+ItemDisplay[r14s QTY>1]:%ORANGE%[14] Dol Stack{%NAME%%TAN%Rune Number: 14}%DOT-60%//
 
-ItemDisplay[r01s QTY=1]:%ORANGE%[01] El Rune{%NAME%%TAN%Rune Number:  1}%DOT-0A%//
-ItemDisplay[r02s QTY=1]:%ORANGE%[02] Eld Rune{%NAME%%TAN%Rune Number:  2}%DOT-0A%//
-ItemDisplay[r03s QTY=1]:%ORANGE%o [03] Tir Rune o{%NAME%%ORANGE%Caster: Weapon%NL%Hit Power: Weapon%NL%%TAN%Rune Number:  3}%DOT-0A%//
-ItemDisplay[r04s QTY=1]:%ORANGE%o [04] Nef Rune o{%NAME%%ORANGE%Blood: Gloves%NL%Caster: Helm%NL%Hit Power: Body%NL%Safety: Shield%NL%%TAN%Rune Number:  4}%DOT-0A%//
-ItemDisplay[r05s QTY=1]:%ORANGE%o [05] Eth Rune o{%NAME%%ORANGE%Blood: Boots%NL%Caster: Shield%NL%Hit Power: Shield%NL%Safety: Body%NL%%TAN%Rune Number:  5}%DOT-0A%//
-ItemDisplay[r06s QTY=1]:%ORANGE%o [06] Ith Rune o{%NAME%%ORANGE%Blood: Shield%NL%Caster: Belt%NL%Hit Power: Helm%NL%Safety: Helm%NL%%TAN%Rune Number:  6}%DOT-0A%//
-ItemDisplay[r07s QTY=1]:%ORANGE%o [07] Tal Rune o{%NAME%%ORANGE%Blood: Belt%NL%Caster: Body%NL%Safety: Belt%NL%%TAN%Rune Number:  7}%DOT-0A%//
-ItemDisplay[r08s QTY=1]:%ORANGE%o [08] Ral Rune o{%NAME%%ORANGE%Blood: Helm%NL%Caster: Amulet%NL%Hit Power: Boots%NL%Safety: Gloves%NL%%TAN%Rune Number:  8}%DOT-0A%//
-ItemDisplay[r09s QTY=1]:%ORANGE%o [09] Ort Rune o{%NAME%%ORANGE%Blood: Weapon%NL%Caster: Gloves%NL%Hit Power: Gloves%NL%Safety: Boots%NL%%TAN%Rune Number:  9}%DOT-0A%//
-ItemDisplay[r10s QTY=1]:%ORANGE%o [10] Thul Rune o{%NAME%%ORANGE%Blood: Body%NL%Caster: Boots%NL%Hit Power: Amulet%NL%Safety: Amulet%NL%%TAN%Rune Number: 10}%DOT-0A%//
-ItemDisplay[r11s QTY=1]:%ORANGE%o [11] Amn Rune o{%NAME%%ORANGE%Blood: Amulet%NL%Caster: Ring%NL%Hit Power: Ring%NL%Safety: Ring%NL%%TAN%Rune Number: 11}%DOT-0A%//
-ItemDisplay[r12s QTY=1]:%ORANGE%o [12] Sol Rune o{%NAME%%ORANGE%Blood: Ring%NL%Safety: Crossbow/Bow%NL%%TAN%Rune Number: 12}%DOT-0A%//
-ItemDisplay[r13s QTY=1]:%ORANGE%[13] Shael Rune{%NAME%%TAN%Rune Number: 13}%DOT-0A%//
-ItemDisplay[r14s QTY=1]:%ORANGE%[14] Dol Rune{%NAME%%TAN%Rune Number: 14}%DOT-0A%//
+ItemDisplay[r01s QTY=1]:%ORANGE%[01] El Rune{%NAME%%TAN%Rune Number:  1}%DOT-60%//
+ItemDisplay[r02s QTY=1]:%ORANGE%[02] Eld Rune{%NAME%%TAN%Rune Number:  2}%DOT-60%//
+ItemDisplay[r03s QTY=1]:%ORANGE%o [03] Tir Rune o{%NAME%%ORANGE%Caster: Weapon%NL%Hit Power: Weapon%NL%%TAN%Rune Number:  3}%DOT-60%//
+ItemDisplay[r04s QTY=1]:%ORANGE%o [04] Nef Rune o{%NAME%%ORANGE%Blood: Gloves%NL%Caster: Helm%NL%Hit Power: Body%NL%Safety: Shield%NL%%TAN%Rune Number:  4}%DOT-60%//
+ItemDisplay[r05s QTY=1]:%ORANGE%o [05] Eth Rune o{%NAME%%ORANGE%Blood: Boots%NL%Caster: Shield%NL%Hit Power: Shield%NL%Safety: Body%NL%%TAN%Rune Number:  5}%DOT-60%//
+ItemDisplay[r06s QTY=1]:%ORANGE%o [06] Ith Rune o{%NAME%%ORANGE%Blood: Shield%NL%Caster: Belt%NL%Hit Power: Helm%NL%Safety: Helm%NL%%TAN%Rune Number:  6}%DOT-60%//
+ItemDisplay[r07s QTY=1]:%ORANGE%o [07] Tal Rune o{%NAME%%ORANGE%Blood: Belt%NL%Caster: Body%NL%Safety: Belt%NL%%TAN%Rune Number:  7}%DOT-60%//
+ItemDisplay[r08s QTY=1]:%ORANGE%o [08] Ral Rune o{%NAME%%ORANGE%Blood: Helm%NL%Caster: Amulet%NL%Hit Power: Boots%NL%Safety: Gloves%NL%%TAN%Rune Number:  8}%DOT-60%//
+ItemDisplay[r09s QTY=1]:%ORANGE%o [09] Ort Rune o{%NAME%%ORANGE%Blood: Weapon%NL%Caster: Gloves%NL%Hit Power: Gloves%NL%Safety: Boots%NL%%TAN%Rune Number:  9}%DOT-60%//
+ItemDisplay[r10s QTY=1]:%ORANGE%o [10] Thul Rune o{%NAME%%ORANGE%Blood: Body%NL%Caster: Boots%NL%Hit Power: Amulet%NL%Safety: Amulet%NL%%TAN%Rune Number: 10}%DOT-60%//
+ItemDisplay[r11s QTY=1]:%ORANGE%o [11] Amn Rune o{%NAME%%ORANGE%Blood: Amulet%NL%Caster: Ring%NL%Hit Power: Ring%NL%Safety: Ring%NL%%TAN%Rune Number: 11}%DOT-60%//
+ItemDisplay[r12s QTY=1]:%ORANGE%o [12] Sol Rune o{%NAME%%ORANGE%Blood: Ring%NL%Safety: Crossbow/Bow%NL%%TAN%Rune Number: 12}%DOT-60%//
+ItemDisplay[r13s QTY=1]:%ORANGE%[13] Shael Rune{%NAME%%TAN%Rune Number: 13}%DOT-60%//
+ItemDisplay[r14s QTY=1]:%ORANGE%[14] Dol Rune{%NAME%%TAN%Rune Number: 14}%DOT-60%//
 
 
 ///// Nightmare Runes /////
@@ -88,22 +88,22 @@ ItemDisplay[r23s QTY=1]:%NL%%RED%oooo [23] Mal Rune oooo%NL%%ORANGE%{%NAME%%TAN%
 ItemDisplay[r24s QTY=1]:%NL%%RED%oooo [24] Ist Rune oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 24}%MAP-0A%//
 
 ///// Hell Runes /////
-ItemDisplay[r25s QTY>1]:%NL%%PURPLE%oooo [25] Gul Stack oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 25}%BORDER-0A%//
-ItemDisplay[r26s QTY>1]:%NL%%PURPLE%oooo [26] Vex Stack oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 26}%BORDER-0A%//
-ItemDisplay[r27s QTY>1]:%NL%%PURPLE%oooo [27] Ohm Stack ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 27}%BORDER-0A%//
-ItemDisplay[r28s QTY>1]:%NL%%PURPLE%oooo [28] Lo Stack oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 28}%BORDER-0A%//
-ItemDisplay[r29s QTY>1]:%NL%%PURPLE%oooo [29] Sur Stack oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 29}%BORDER-0A%//
-ItemDisplay[r30s QTY>1]:%NL%%PURPLE%ooooo [30] Ber Stack ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 30}%BORDER-0A%//
-ItemDisplay[r31s QTY>1]:%NL%%PURPLE%ooooo [31] Jah Stack ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 31}%BORDER-0A%//
-ItemDisplay[r32s QTY>1]:%NL%%PURPLE%ooooo [32] Cham Stack ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 32}%BORDER-0A%//
-ItemDisplay[r33s QTY>1]:%NL%%PURPLE%ooooo [33] Zod Stack ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 33}%BORDER-0A%//
+ItemDisplay[r25s QTY>1]:%NL%%PURPLE%oooo [25] Gul Stack oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 25}%BORDER-9B%//
+ItemDisplay[r26s QTY>1]:%NL%%PURPLE%oooo [26] Vex Stack oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 26}%BORDER-9B%//
+ItemDisplay[r27s QTY>1]:%NL%%PURPLE%oooo [27] Ohm Stack ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 27}%BORDER-9B%//
+ItemDisplay[r28s QTY>1]:%NL%%PURPLE%oooo [28] Lo Stack oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 28}%BORDER-9B%//
+ItemDisplay[r29s QTY>1]:%NL%%PURPLE%oooo [29] Sur Stack oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 29}%BORDER-9B%//
+ItemDisplay[r30s QTY>1]:%NL%%PURPLE%ooooo [30] Ber Stack ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 30}%BORDER-9B%//
+ItemDisplay[r31s QTY>1]:%NL%%PURPLE%ooooo [31] Jah Stack ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 31}%BORDER-9B%//
+ItemDisplay[r32s QTY>1]:%NL%%PURPLE%ooooo [32] Cham Stack ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 32}%BORDER-9B%//
+ItemDisplay[r33s QTY>1]:%NL%%PURPLE%ooooo [33] Zod Stack ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 33}%BORDER-9B%//
 
-ItemDisplay[r25s QTY=1]:%NL%%PURPLE%oooo [25] Gul Rune oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 25}%BORDER-0A%//
-ItemDisplay[r26s QTY=1]:%NL%%PURPLE%oooo [26] Vex Rune oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 26}%BORDER-0A%//
-ItemDisplay[r27s QTY=1]:%NL%%PURPLE%oooo [27] Ohm Rune oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 27}%BORDER-0A%//
-ItemDisplay[r28s QTY=1]:%NL%%PURPLE%oooo [28] Lo Rune oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 28}%BORDER-0A%//
-ItemDisplay[r29s QTY=1]:%NL%%PURPLE%oooo [29] Sur Rune oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 29}%BORDER-0A%//
-ItemDisplay[r30s QTY=1]:%NL%%PURPLE%ooooo [30] Ber Rune ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 30}%BORDER-0A%//
-ItemDisplay[r31s QTY=1]:%NL%%PURPLE%ooooo [31] Jah Rune ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 31}%BORDER-0A%//
-ItemDisplay[r32s QTY=1]:%NL%%PURPLE%ooooo [32] Cham Rune ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 32}%BORDER-0A%//
-ItemDisplay[r33s QTY=1]:%NL%%PURPLE%ooooo [33] Zod Rune ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 33}%BORDER-0A%//
+ItemDisplay[r25s QTY=1]:%NL%%PURPLE%oooo [25] Gul Rune oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 25}%BORDER-9B%//
+ItemDisplay[r26s QTY=1]:%NL%%PURPLE%oooo [26] Vex Rune oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 26}%BORDER-9B%//
+ItemDisplay[r27s QTY=1]:%NL%%PURPLE%oooo [27] Ohm Rune oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 27}%BORDER-9B%//
+ItemDisplay[r28s QTY=1]:%NL%%PURPLE%oooo [28] Lo Rune oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 28}%BORDER-9B%//
+ItemDisplay[r29s QTY=1]:%NL%%PURPLE%oooo [29] Sur Rune oooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 29}%BORDER-9B%//
+ItemDisplay[r30s QTY=1]:%NL%%PURPLE%ooooo [30] Ber Rune ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 30}%BORDER-9B%//
+ItemDisplay[r31s QTY=1]:%NL%%PURPLE%ooooo [31] Jah Rune ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 31}%BORDER-9B%//
+ItemDisplay[r32s QTY=1]:%NL%%PURPLE%ooooo [32] Cham Rune ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 32}%BORDER-9B%//
+ItemDisplay[r33s QTY=1]:%NL%%PURPLE%ooooo [33] Zod Rune ooooo%NL%%ORANGE%{%NAME%%TAN%Rune Number: 33}%BORDER-9B%//
