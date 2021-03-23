@@ -10174,14 +10174,14 @@ ItemDisplay[xhm ED=0 DEF=98]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xsk ED=0 DEF=86]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xrn ED=0 DEF=113]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xh9 ED=0 DEF=125]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[uap ED=0 DEF=141]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ukp ED=0 DEF=145]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ulm ED=0 DEF=149]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[uhl ED=0 DEF=154]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[uhm ED=0 DEF=159]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[usk ED=0 DEF=154]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[urn ED=0 DEF=165]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[uh9 ED=0 DEF=157]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[uap ED=0 DEF=141]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[ukp ED=0 DEF=145]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[ulm ED=0 DEF=149]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uhl ED=0 DEF=154]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uhm ED=0 DEF=159]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[usk ED=0 DEF=154]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[urn ED=0 DEF=165]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uh9 ED=0 DEF=157]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
 ItemDisplay[qui ED=0 DEF=11]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[lea ED=0 DEF=17]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[hla ED=0 DEF=24]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -10212,21 +10212,21 @@ ItemDisplay[xlt ED=0 DEF=274]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xth ED=0 DEF=303]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xul ED=0 DEF=342]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xar ED=0 DEF=450]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[uui ED=0 DEF=467]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[uea ED=0 DEF=470]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ula ED=0 DEF=474]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[utu ED=0 DEF=481]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ung ED=0 DEF=489]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ucl ED=0 DEF=496]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[urs ED=0 DEF=501]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[uhn ED=0 DEF=505]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[upl ED=0 DEF=517]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[utp ED=0 DEF=524]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[uld ED=0 DEF=523]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ult ED=0 DEF=530]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[uth ED=0 DEF=541]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[uul ED=0 DEF=557]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[uar ED=0 DEF=600]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[uui ED=0 DEF=467]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uea ED=0 DEF=470]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[ula ED=0 DEF=474]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[utu ED=0 DEF=481]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[ung ED=0 DEF=489]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[ucl ED=0 DEF=496]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[urs ED=0 DEF=501]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uhn ED=0 DEF=505]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[upl ED=0 DEF=517]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[utp ED=0 DEF=524]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uld ED=0 DEF=523]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[ult ED=0 DEF=530]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uth ED=0 DEF=541]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uul ED=0 DEF=557]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uar ED=0 DEF=600]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
 ItemDisplay[buc ED=0 DEF=6]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[sml ED=0 DEF=10]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[lrg ED=0 DEF=14]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -10243,14 +10243,14 @@ ItemDisplay[xit ED=0 DEF=67]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xsh ED=0 DEF=150]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xow ED=0 DEF=78]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[xts ED=0 DEF=93]:%NAME% %PURPLE%Perfect%CONTINUE%//
-ItemDisplay[uuc ED=0 DEF=110]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[uml ED=0 DEF=123]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[urg ED=0 DEF=135]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[uit ED=0 DEF=148]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[upk ED=0 DEF=163]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[uow ED=0 DEF=161]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[ush ED=0 DEF=173]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
-ItemDisplay[uts ED=0 DEF=170]:%NAME% %PURPLE%Perfect%MAP-0A%%CONTINUE%//
+ItemDisplay[uuc ED=0 DEF=110]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uml ED=0 DEF=123]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[urg ED=0 DEF=135]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uit ED=0 DEF=148]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[upk ED=0 DEF=163]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uow ED=0 DEF=161]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[ush ED=0 DEF=173]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
+ItemDisplay[uts ED=0 DEF=170]:%NAME% %PURPLE%Perfect%MAP-20%%CONTINUE%//
 ItemDisplay[lgl ED=0 DEF=3]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[vgl ED=0 DEF=6]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[mgl ED=0 DEF=9]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -14830,12 +14830,12 @@ ItemDisplay[UNI !ID 7bw]:%GOLD%oo Boneshade oo%MAP-0D%//
 ItemDisplay[UNI !ID 7gw]:%GOLD%oo Death's Web oo%MAP-0D%//
 ItemDisplay[UNI !ID]:%CODE%:%NAME%%DOT-0A%//
 ItemDisplay[SET !ID]:%CODE%:%NAME%%DOT-0A%//
-ItemDisplay[MAG !ID cm1]:%DOT-0A%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
-ItemDisplay[MAG !ID cm2]:%DOT-0A%%RED%o %BLUE%%NAME% %RED%o%BLUE%//
-ItemDisplay[MAG !ID cm3]:%DOT-0A%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
-ItemDisplay[MAG !ID jew]:%DOT-0A%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
-ItemDisplay[MAG !ID rin]:%DOT-0A%%ORANGE%o %TAN%Lvl%ILVL% %BLUE%%NAME% %ORANGE%o%BLUE%//
-ItemDisplay[MAG !ID amu]:%DOT-0A%%ORANGE%o %TAN%Lvl%ILVL% %BLUE%%NAME% %ORANGE%o%BLUE%//
+ItemDisplay[MAG !ID cm1]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
+ItemDisplay[MAG !ID cm2]:%DOT-97%%RED%o %BLUE%%NAME% %RED%o%BLUE%//
+ItemDisplay[MAG !ID cm3]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
+ItemDisplay[MAG !ID jew]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
+ItemDisplay[MAG !ID rin]:%DOT-97%%ORANGE%o %TAN%Lvl%ILVL% %BLUE%%NAME% %ORANGE%o%BLUE%//
+ItemDisplay[MAG !ID amu]:%DOT-97%%ORANGE%o %TAN%Lvl%ILVL% %BLUE%%NAME% %ORANGE%o%BLUE%//
 ItemDisplay[RARE !ID jew]:%DOT-0A%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID rin]:%DOT-0A%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID amu]:%DOT-0A%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
