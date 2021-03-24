@@ -1,4 +1,5 @@
 ///// Gold /////
+ItemDisplay[GOLD<5000 CLVL>89]://
 ItemDisplay[GOLD<3000 CLVL>79]://
 ItemDisplay[GOLD<2000 CLVL>39]://
 ItemDisplay[GOLD<1000 CLVL>19]://

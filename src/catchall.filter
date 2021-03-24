@@ -14,7 +14,7 @@ ItemDisplay[RARE !ID jew]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID rin]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID amu]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
 
-////// Elite Armor Cleanup Low Armor Bases/////
+////// Elite Armor /////
 ItemDisplay[NMAG uui ED=0 DEF<444 SOCK=0]://
 ItemDisplay[NMAG uea ED=0 DEF<447 SOCK=0]://
 ItemDisplay[NMAG ula ED=0 DEF<451 SOCK=0]://
@@ -78,77 +78,134 @@ ItemDisplay[ETH SUP uth DEF<888 SOCK=0]://
 ItemDisplay[ETH SUP uul DEF<914 SOCK=0]://
 ItemDisplay[ETH SUP uar DEF<985 SOCK=0]://
 
-////// Leveling /////
-ItemDisplay[NMAG GLOVES CLVL>19]://
-ItemDisplay[NMAG BELT CLVL>19]://
-ItemDisplay[NMAG BOOTS CLVL>19]://
-ItemDisplay[NMAG THROWING CLVL>19]://
-ItemDisplay[NMAG (ktr OR wrb OR axf OR ces OR clw OR btl OR skr) CLVL>19]://
-ItemDisplay[NMAG (9ar OR 9wb OR 9xf) CLVL>19]://
+ItemDisplay[SUP uui DEF>511]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[SUP uea DEF>513]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[SUP ula DEF>518]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[SUP utu DEF>526]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[SUP utp DEF>572]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[SUP uar DEF>656]:%DOT-0A%%NAME%%CONTINUE%//
+
+ItemDisplay[ETH uui ED=0 DEF>664]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[ETH uea ED=0 DEF>668]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[ETH ula ED=0 DEF>674]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[ETH utu ED=0 DEF>684]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[ETH utp ED=0 DEF>746]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[ETH uar ED=0 DEF>854]:%DOT-0A%%NAME%%CONTINUE%//
+
+ItemDisplay[ETH SUP uui DEF>765]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP uea DEF>770]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP ula DEF>777]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP utu DEF>789]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP utp DEF>859]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP uar DEF>984]:%DOT-0A%%NAME%%CONTINUE%//
+
 
 ////// Leveling /////
-ItemDisplay[NMAG uui ED=0 DEF<444 SOCK>0 CLVL>79]://
-ItemDisplay[NMAG uea ED=0 DEF<447 SOCK>0 CLVL>79]://
-ItemDisplay[NMAG ula ED=0 DEF<451 SOCK>0 CLVL>79]://
-ItemDisplay[NMAG utu ED=0 DEF<457 SOCK>0 CLVL>79]://
-ItemDisplay[NMAG ung ED=0 DEF<466 SOCK>0 CLVL>79]://
-ItemDisplay[NMAG ucl ED=0 DEF<472 SOCK>0 CLVL>79]://
-ItemDisplay[NMAG urs ED=0 DEF<480 SOCK>0 CLVL>79]://
-ItemDisplay[NMAG uhn ED=0 DEF<480 SOCK>0 CLVL>79]://
-ItemDisplay[NMAG upl ED=0 DEF<492 SOCK>0 CLVL>79]://
-ItemDisplay[NMAG utp ED=0 DEF<498 SOCK>0 CLVL>79]://
-ItemDisplay[NMAG uld ED=0 DEF<497 SOCK>0 CLVL>79]://
-ItemDisplay[NMAG ult ED=0 DEF<504 SOCK>0 CLVL>79]://
-ItemDisplay[NMAG uth ED=0 DEF<514 SOCK>0 CLVL>79]://
-ItemDisplay[NMAG uul ED=0 DEF<530 SOCK>0 CLVL>79]://
-ItemDisplay[NMAG uar ED=0 DEF<571 SOCK>0 CLVL>79]://
+ItemDisplay[CLVL>19 NMAG GLOVES]://
+ItemDisplay[CLVL>19 NMAG BELT]://
+ItemDisplay[CLVL>19 NMAG BOOTS]://
+ItemDisplay[CLVL>19 NMAG THROWING]://
+ItemDisplay[CLVL>19 NMAG (ktr OR wrb OR axf OR ces OR clw OR btl OR skr)]://
+ItemDisplay[CLVL>19 NMAG (9ar OR 9wb OR 9xf)]://
 
-ItemDisplay[SUP uui DEF<512 SOCK>0 CLVL>79]://
-ItemDisplay[SUP uea DEF<514 SOCK>0 CLVL>79]://
-ItemDisplay[SUP ula DEF<519 SOCK>0 CLVL>79]://
-ItemDisplay[SUP utu DEF<527 SOCK>0 CLVL>79]://
-ItemDisplay[SUP ung DEF<535 SOCK>0 CLVL>79]://
-ItemDisplay[SUP ucl DEF<543 SOCK>0 CLVL>79]://
-ItemDisplay[SUP urs DEF<549 SOCK>0 CLVL>79]://
-ItemDisplay[SUP uhn DEF<552 SOCK>0 CLVL>79]://
-ItemDisplay[SUP upl DEF<566 SOCK>0 CLVL>79]://
-ItemDisplay[SUP utp DEF<573 SOCK>0 CLVL>79]://
-ItemDisplay[SUP uld DEF<572 SOCK>0 CLVL>79]://
-ItemDisplay[SUP ult DEF<580 SOCK>0 CLVL>79]://
-ItemDisplay[SUP uth DEF<592 SOCK>0 CLVL>79]://
-ItemDisplay[SUP uul DEF<609 SOCK>0 CLVL>79]://
-ItemDisplay[SUP uar DEF<657 SOCK>0 CLVL>79]://
+ItemDisplay[CLVL<80 NMAG uui ED=0 DEF>443 DEF<467]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[CLVL<80 NMAG uea ED=0 DEF>446 DEF<470]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[CLVL<80 NMAG ula ED=0 DEF>450 DEF<474]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[CLVL<80 NMAG utu ED=0 DEF>456 DEF<481]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[CLVL<80 NMAG utp ED=0 DEF>497 DEF<524]:%DOT-0A%%NAME%%CONTINUE%//
+ItemDisplay[CLVL<80 NMAG uar ED=0 DEF>570 DEF<600]:%DOT-0A%%NAME%%CONTINUE%//
 
-ItemDisplay[ETH uui ED=0 DEF<665 SOCK>0 CLVL>79]://
-ItemDisplay[ETH uea ED=0 DEF<669 SOCK>0 CLVL>79]://
-ItemDisplay[ETH ula ED=0 DEF<675 SOCK>0 CLVL>79]://
-ItemDisplay[ETH utu ED=0 DEF<685 SOCK>0 CLVL>79]://
-ItemDisplay[ETH ung ED=0 DEF<696 SOCK>0 CLVL>79]://
-ItemDisplay[ETH urs ED=0 DEF<713 SOCK>0 CLVL>79]://
-ItemDisplay[ETH uhn ED=0 DEF<719 SOCK>0 CLVL>79]://
-ItemDisplay[ETH upl ED=0 DEF<736 SOCK>0 CLVL>79]://
-ItemDisplay[ETH utp ED=0 DEF<746 SOCK>0 CLVL>79]://
-ItemDisplay[ETH uld ED=0 DEF<744 SOCK>0 CLVL>79]://
-ItemDisplay[ETH ult ED=0 DEF<755 SOCK>0 CLVL>79]://
-ItemDisplay[ETH uth ED=0 DEF<770 SOCK>0 CLVL>79]://
-ItemDisplay[ETH uul ED=0 DEF<793 SOCK>0 CLVL>79]://
-ItemDisplay[ETH uar ED=0 DEF<855 SOCK>0 CLVL>79]://
+ItemDisplay[CLVL>79 NMAG uui ED=0 DEF<444 SOCK>0]://
+ItemDisplay[CLVL>79 NMAG uea ED=0 DEF<447 SOCK>0]://
+ItemDisplay[CLVL>79 NMAG ula ED=0 DEF<451 SOCK>0]://
+ItemDisplay[CLVL>79 NMAG utu ED=0 DEF<457 SOCK>0]://
+ItemDisplay[CLVL>79 NMAG ung ED=0 DEF<466 SOCK>0]://
+ItemDisplay[CLVL>79 NMAG ucl ED=0 DEF<472 SOCK>0]://
+ItemDisplay[CLVL>79 NMAG urs ED=0 DEF<480 SOCK>0]://
+ItemDisplay[CLVL>79 NMAG uhn ED=0 DEF<480 SOCK>0]://
+ItemDisplay[CLVL>79 NMAG upl ED=0 DEF<492 SOCK>0]://
+ItemDisplay[CLVL>79 NMAG utp ED=0 DEF<498 SOCK>0]://
+ItemDisplay[CLVL>79 NMAG uld ED=0 DEF<497 SOCK>0]://
+ItemDisplay[CLVL>79 NMAG ult ED=0 DEF<504 SOCK>0]://
+ItemDisplay[CLVL>79 NMAG uth ED=0 DEF<514 SOCK>0]://
+ItemDisplay[CLVL>79 NMAG uul ED=0 DEF<530 SOCK>0]://
+ItemDisplay[CLVL>79 NMAG uar ED=0 DEF<571 SOCK>0]://
 
-ItemDisplay[ETH SUP uui DEF<767 SOCK>0 CLVL>79]://
-ItemDisplay[ETH SUP uea DEF<771 SOCK>0 CLVL>79]://
-ItemDisplay[ETH SUP ula DEF<778 SOCK>0 CLVL>79]://
-ItemDisplay[ETH SUP utu DEF<790 SOCK>0 CLVL>79]://
-ItemDisplay[ETH SUP ung DEF<803 SOCK>0 CLVL>79]://
-ItemDisplay[ETH SUP ucl DEF<814 SOCK>0 CLVL>79]://
-ItemDisplay[ETH SUP urs DEF<822 SOCK>0 CLVL>79]://
-ItemDisplay[ETH SUP uhn DEF<829 SOCK>0 CLVL>79]://
-ItemDisplay[ETH SUP upl DEF<849 SOCK>0 CLVL>79]://
-ItemDisplay[ETH SUP utp DEF<860 SOCK>0 CLVL>79]://
-ItemDisplay[ETH SUP uld DEF<858 SOCK>0 CLVL>79]://
-ItemDisplay[ETH SUP ult DEF<870 SOCK>0 CLVL>79]://
-ItemDisplay[ETH SUP uth DEF<888 SOCK>0 CLVL>79]://
-ItemDisplay[ETH SUP uul DEF<914 SOCK>0 CLVL>79]://
-ItemDisplay[ETH SUP uar DEF<985 SOCK>0 CLVL>79]://
+ItemDisplay[CLVL>79 SUP uui DEF<512 SOCK>0]://
+ItemDisplay[CLVL>79 SUP uea DEF<514 SOCK>0]://
+ItemDisplay[CLVL>79 SUP ula DEF<519 SOCK>0]://
+ItemDisplay[CLVL>79 SUP utu DEF<527 SOCK>0]://
+ItemDisplay[CLVL>79 SUP ung DEF<535 SOCK>0]://
+ItemDisplay[CLVL>79 SUP ucl DEF<543 SOCK>0]://
+ItemDisplay[CLVL>79 SUP urs DEF<549 SOCK>0]://
+ItemDisplay[CLVL>79 SUP uhn DEF<552 SOCK>0]://
+ItemDisplay[CLVL>79 SUP upl DEF<566 SOCK>0]://
+ItemDisplay[CLVL>79 SUP utp DEF<573 SOCK>0]://
+ItemDisplay[CLVL>79 SUP uld DEF<572 SOCK>0]://
+ItemDisplay[CLVL>79 SUP ult DEF<580 SOCK>0]://
+ItemDisplay[CLVL>79 SUP uth DEF<592 SOCK>0]://
+ItemDisplay[CLVL>79 SUP uul DEF<609 SOCK>0]://
+ItemDisplay[CLVL>79 SUP uar DEF<657 SOCK>0]://
+
+ItemDisplay[CLVL>79 ETH uui ED=0 DEF<665 SOCK>0]://
+ItemDisplay[CLVL>79 ETH uea ED=0 DEF<669 SOCK>0]://
+ItemDisplay[CLVL>79 ETH ula ED=0 DEF<675 SOCK>0]://
+ItemDisplay[CLVL>79 ETH utu ED=0 DEF<685 SOCK>0]://
+ItemDisplay[CLVL>79 ETH ung ED=0 DEF<696 SOCK>0]://
+ItemDisplay[CLVL>79 ETH urs ED=0 DEF<713 SOCK>0]://
+ItemDisplay[CLVL>79 ETH uhn ED=0 DEF<719 SOCK>0]://
+ItemDisplay[CLVL>79 ETH upl ED=0 DEF<736 SOCK>0]://
+ItemDisplay[CLVL>79 ETH utp ED=0 DEF<746 SOCK>0]://
+ItemDisplay[CLVL>79 ETH uld ED=0 DEF<744 SOCK>0]://
+ItemDisplay[CLVL>79 ETH ult ED=0 DEF<755 SOCK>0]://
+ItemDisplay[CLVL>79 ETH uth ED=0 DEF<770 SOCK>0]://
+ItemDisplay[CLVL>79 ETH uul ED=0 DEF<793 SOCK>0]://
+ItemDisplay[CLVL>79 ETH uar ED=0 DEF<855 SOCK>0]://
+
+ItemDisplay[CLVL>79 ETH SUP uui DEF<767 SOCK>0]://
+ItemDisplay[CLVL>79 ETH SUP uea DEF<771 SOCK>0]://
+ItemDisplay[CLVL>79 ETH SUP ula DEF<778 SOCK>0]://
+ItemDisplay[CLVL>79 ETH SUP utu DEF<790 SOCK>0]://
+ItemDisplay[CLVL>79 ETH SUP ung DEF<803 SOCK>0]://
+ItemDisplay[CLVL>79 ETH SUP ucl DEF<814 SOCK>0]://
+ItemDisplay[CLVL>79 ETH SUP urs DEF<822 SOCK>0]://
+ItemDisplay[CLVL>79 ETH SUP uhn DEF<829 SOCK>0]://
+ItemDisplay[CLVL>79 ETH SUP upl DEF<849 SOCK>0]://
+ItemDisplay[CLVL>79 ETH SUP utp DEF<860 SOCK>0]://
+ItemDisplay[CLVL>79 ETH SUP uld DEF<858 SOCK>0]://
+ItemDisplay[CLVL>79 ETH SUP ult DEF<870 SOCK>0]://
+ItemDisplay[CLVL>79 ETH SUP uth DEF<888 SOCK>0]://
+ItemDisplay[CLVL>79 ETH SUP uul DEF<914 SOCK>0]://
+ItemDisplay[CLVL>79 ETH SUP uar DEF<985 SOCK>0]://
+
+ItemDisplay[CLVL>89 SUP !ETH NMAG CHEST NORM DIFF>0]://
+ItemDisplay[CLVL>89 SUP !ETH NMAG CHEST EXC DIFF>1]://
+ItemDisplay[CLVL>89 SUP !ETH NMAG !BAR !DRU HELM NORM DIFF>0]://
+ItemDisplay[CLVL>89 SUP !ETH NMAG !BAR !DRU HELM EXC DIFF>1]://
+ItemDisplay[CLVL>89 SUP !ETH NMAG !DIN !NEC SHIELD NORM DIFF>0]://
+ItemDisplay[CLVL>89 SUP !ETH NMAG !DIN !NEC SHIELD EXC DIFF>1]://
+ItemDisplay[CLVL>89 SUP !ETH NMAG !WAND !STAFF !SCEPTER !ZON !SIN !SOR WEAPON NORM DIFF>0]://
+ItemDisplay[CLVL>89 SUP !ETH NMAG !WAND !STAFF !SCEPTER !ZON !SIN !SOR WEAPON EXC DIFF>1]://
+ItemDisplay[CLVL>89 !SUP ETH NMAG CHEST NORM DIFF>0]://
+ItemDisplay[CLVL>89 !SUP ETH NMAG CHEST EXC DIFF>1]://
+ItemDisplay[CLVL>89 !SUP ETH NMAG !BAR !DRU HELM NORM DIFF>0]://
+ItemDisplay[CLVL>89 !SUP ETH NMAG !BAR !DRU HELM EXC DIFF>1]://
+ItemDisplay[CLVL>89 !SUP ETH NMAG !DIN !NEC SHIELD NORM DIFF>0]://
+ItemDisplay[CLVL>89 !SUP ETH NMAG !DIN !NEC SHIELD EXC DIFF>1]://
+ItemDisplay[CLVL>89 !SUP ETH NMAG !WAND !STAFF !SCEPTER !ZON !SIN !SOR WEAPON NORM DIFF>0]://
+ItemDisplay[CLVL>89 !SUP ETH NMAG !WAND !STAFF !SCEPTER !ZON !SIN !SOR WEAPON EXC DIFF>1]://
+ItemDisplay[CLVL>89 NMAG CHEST NORM DIFF>0]://
+ItemDisplay[CLVL>89 NMAG CHEST EXC DIFF>1]://
+ItemDisplay[CLVL>89 NMAG !BAR !DRU HELM NORM DIFF>0]://
+ItemDisplay[CLVL>89 NMAG !BAR !DRU HELM EXC DIFF>1]://
+ItemDisplay[CLVL>89 NMAG !DIN !NEC SHIELD NORM DIFF>0]://
+ItemDisplay[CLVL>89 NMAG !DIN !NEC SHIELD EXC DIFF>1]://
+ItemDisplay[CLVL>89 NMAG !WAND !STAFF !SCEPTER !ZON !SIN !SOR WEAPON NORM DIFF>0]://
+ItemDisplay[CLVL>89 NMAG !WAND !STAFF !SCEPTER !ZON !SIN !SOR WEAPON EXC DIFF>1]://
+ItemDisplay[CLVL>89 NMAG !WAND !STAFF !SCEPTER !ZON !SIN !SOR WEAPON ELT DIFF>1]://
+
+
+
 
 
 ////// Junk Reduction /////
