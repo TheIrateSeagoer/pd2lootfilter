@@ -17,9 +17,9 @@
 
 
 ///// Charms  /////
-ItemDisplay[MAG ID cm1]:%BLUE%SC%CONTINUE%//
-ItemDisplay[MAG ID cm2]:%BLUE%LC%CONTINUE%//
-ItemDisplay[MAG ID cm3]:%BLUE%GC%CONTINUE%//
+ItemDisplay[MAG ID cm1]:%BLUE%Small Charm%CONTINUE%//
+ItemDisplay[MAG ID cm2]:%BLUE%Large Charm%CONTINUE%//
+ItemDisplay[MAG ID cm3]:%BLUE%Grand Charm%CONTINUE%//
 
 ///// Prefixes ////////// Prefixes ////////// Prefixes ////////// Prefixes ////////// Prefixes ////////// Prefixes /////
 

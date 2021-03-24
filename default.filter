@@ -12578,9 +12578,9 @@ ItemDisplay[!RW !UNI !SET PRICE>29999 PRICE<35000]:%NAME% %DARK_GREEN%$30k%CONTI
 ItemDisplay[!RW !UNI !SET PRICE>34999]:%NAME% %DARK_GREEN%$35k%CONTINUE%//
 ItemDisplay[MAG SOCK>1]:%NAME% %RED%NOT A RUNEWORD CANDIDATE%BLUE%%CONTINUE%//
 ItemDisplay[RARE SOCK>1]:%NAME% %RED%NOT A RUNEWORD CANDIDATE%YELLOW%%CONTINUE%//
-ItemDisplay[MAG ID cm1]:%BLUE%SC%CONTINUE%//
-ItemDisplay[MAG ID cm2]:%BLUE%LC%CONTINUE%//
-ItemDisplay[MAG ID cm3]:%BLUE%GC%CONTINUE%//
+ItemDisplay[MAG ID cm1]:%BLUE%Small Charm%CONTINUE%//
+ItemDisplay[MAG ID cm2]:%BLUE%Large Charm%CONTINUE%//
+ItemDisplay[MAG ID cm3]:%BLUE%Grand Charm%CONTINUE%//
 ItemDisplay[MAG ID cm3 TABSK0=1]:%NAME% %GOLD%Bow and Crossbow Skills%CONTINUE%//
 ItemDisplay[MAG ID cm3 TABSK1=1]:%NAME% %GOLD%Passive and Magic Skills%CONTINUE%//
 ItemDisplay[MAG ID cm3 TABSK2=1]:%NAME% %GOLD%Javelin and Spear Skills%CONTINUE%//
