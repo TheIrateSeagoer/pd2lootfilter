@@ -5,16 +5,16 @@ ItemDisplay[UNI !ID rin]:%RED%ooooo %GOLD%%NAME% %RED%ooooo%MAP-0D%//
 ItemDisplay[UNI !ID amu]:%RED%ooooo %GOLD%%NAME% %RED%ooooo%MAP-0D%//
 
 ///// Charms /////
-ItemDisplay[UNI !ID cm1]:%GOLD%ooo Annihilus ooo%MAP-0D%//
-ItemDisplay[UNI !ID cm2]:%GOLD%ooo Hellfire Torch ooo%MAP-0D%//
+ItemDisplay[UNI !ID cm1]:%RED%ooooo %GOLD%ooo Annihilus ooo %RED%ooooo%MAP-0D%//
+ItemDisplay[UNI !ID cm2]:%RED%ooooo %GOLD%ooo Hellfire Torch ooo %RED%ooooo%MAP-0D%//
 ItemDisplay[UNI !ID cm3]:%RED%ooooo %GOLD%oo Gheed's Fortune oo %RED%ooooo%MAP-0D%//
 
 ///// Jewels /////
-ItemDisplay[UNI !ID jew]:%GOLD%oo Rainbow Facet oo%MAP-0D%//
+ItemDisplay[UNI !ID jew]:%RED%ooooo %GOLD%oo Rainbow Facet oo %RED%ooooo%MAP-0D%//
 
 ///// Circlets /////
-ItemDisplay[UNI !ID ci2]:%GOLD%oo Kira's Guardian oo%MAP-0D%//
-ItemDisplay[UNI !ID ci3]:%GOLD%oo Griffon's Eye oo%MAP-0D%//
+ItemDisplay[UNI !ID ci2]:%RED%ooooo %GOLD%oo Kira's Guardian oo %RED%ooooo%MAP-0D%//
+ItemDisplay[UNI !ID ci3]:%RED%ooooo %GOLD%oo Griffon's Eye oo %RED%ooooo%MAP-0D%//
 
 ///// Amazon /////
 ItemDisplay[UNI !ID amd]:%GOLD%oo Stoneraven oo%MAP-0D%//
