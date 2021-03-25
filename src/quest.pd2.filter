@@ -48,6 +48,9 @@ ItemDisplay[dcma]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 
 ///// Item Enhancements
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[wss]:%RED%ooo %PURPLE%%NAME% %RED%ooo%PURPLE%%CONTINUE%//
-ItemDisplay[lbox]:%PURPLE%ooooo %GOLD%%NAME% %PURPLE%ooooo%GOLD%%CONTINUE%//
+ItemDisplay[wss QTY=1]:%RED%ooo %PURPLE%Worldstone Shard %RED%ooo%PURPLE%%CONTINUE%//
+ItemDisplay[wss QTY>1]:%RED%ooo %PURPLE%Worldstone Shard Stack %RED%ooo%PURPLE%%CONTINUE%//
+
+ItemDisplay[lbox QTY=1]:%PURPLE%ooooo %GOLD%Larzuk's Puzzlebox %PURPLE%ooooo%GOLD%%CONTINUE%//
+ItemDisplay[lbox QTY>1]:%PURPLE%ooooo %GOLD%Larzuk's Puzzlebox Stack %PURPLE%ooooo%GOLD%%CONTINUE%//
 
