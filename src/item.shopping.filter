@@ -1,29 +1,16 @@
-///// Amazon /////
-
-///// Sorceress /////
-
-///// Necromancer /////
-
-///// Paladin  /////
-
-///// Barbarian  /////
-
-///// Druid  /////
-
-///// Assassin  /////
-
-///// All Skills  /////
-
-
-
-///// Charms  /////
+///// Charms
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG ID cm1]:%CONTINUE%//
 ItemDisplay[MAG ID cm2]:%CONTINUE%//
 ItemDisplay[MAG ID cm3]:%CONTINUE%//
 
-///// Prefixes ////////// Prefixes ////////// Prefixes ////////// Prefixes ////////// Prefixes ////////// Prefixes /////
 
-///// Skiller Charms /////
+////////////////////////////////////////////////////////////////////////////////
+///// Prefixes
+////////////////////////////////////////////////////////////////////////////////
+
+///// Skills
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG ID cm3 TABSK0=1]:%NAME% %GOLD%Bow and Crossbow Skills%CONTINUE%//
 ItemDisplay[MAG ID cm3 TABSK1=1]:%NAME% %GOLD%Passive and Magic Skills%CONTINUE%//
 ItemDisplay[MAG ID cm3 TABSK2=1]:%NAME% %GOLD%Javelin and Spear Skills%CONTINUE%//
@@ -52,7 +39,9 @@ ItemDisplay[MAG ID cm3 TABSK48=1]:%NAME% %GOLD%Traps Skills%CONTINUE%//
 ItemDisplay[MAG ID cm3 TABSK49=1]:%NAME% %GOLD%Shadow Disciplines Skills%CONTINUE%//
 ItemDisplay[MAG ID cm3 TABSK50=1]:%NAME% %GOLD%Martial Arts Skills%CONTINUE%//
 
-///// Fire Resist Charms  /////
+
+///// Fire Resistance
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 STAT39=11 STAT41=0]:%NAME% %PURPLE%Max Fire Res%CONTINUE%//
 ItemDisplay[MAG cm1 STAT39=10 STAT41=0]:%NAME% %RED%10 Fire Res%CONTINUE%//
 ItemDisplay[MAG cm1 STAT39=9 STAT41=0]:%NAME% %RED%9 Fire Res%CONTINUE%//
@@ -69,7 +58,9 @@ ItemDisplay[MAG cm3 STAT39=23 STAT41=0]:%NAME% %RED%23 Fire Res%CONTINUE%//
 ItemDisplay[MAG cm3 STAT39=22 STAT41=0]:%NAME% %RED%22 Fire Res%CONTINUE%//
 ItemDisplay[MAG cm3 STAT39>0 STAT39<22 STAT41=0]:%NAME% %GRAY%:( Fire Res%CONTINUE%//
 
-///// Lightening Resist Charms  /////
+
+///// Lightening Resistance
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 STAT41=11 STAT39=0]:%NAME% %PURPLE%Max Lightning Res%CONTINUE%//
 ItemDisplay[MAG cm1 STAT41=10 STAT39=0]:%NAME% %RED%10 Lightning Res%CONTINUE%//
 ItemDisplay[MAG cm1 STAT41=9 STAT39=0]:%NAME% %RED%9 Lightning Res%CONTINUE%//
@@ -86,7 +77,9 @@ ItemDisplay[MAG cm3 STAT41=23 STAT39=0]:%NAME% %RED%23 Lightning Res%CONTINUE%//
 ItemDisplay[MAG cm3 STAT41=22 STAT39=0]:%NAME% %RED%22 Lightning Res%CONTINUE%//
 ItemDisplay[MAG cm3 STAT41>0 STAT41<22 STAT39=0]:%NAME% %GRAY%:( Lightning Res%CONTINUE%//
 
-///// Cold Resist Charms  /////
+
+///// Cold Resistance
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 STAT43=11 STAT39=0]:%NAME% %PURPLE%Max Cold Res%CONTINUE%//
 ItemDisplay[MAG cm1 STAT43=10 STAT39=0]:%NAME% %RED%10 Cold Res%CONTINUE%//
 ItemDisplay[MAG cm1 STAT43=9 STAT39=0]:%NAME% %RED%9 Cold Res%CONTINUE%//
@@ -103,7 +96,9 @@ ItemDisplay[MAG cm3 STAT43=23 STAT39=0]:%NAME% %RED%23 Cold Res%CONTINUE%//
 ItemDisplay[MAG cm3 STAT43=22 STAT39=0]:%NAME% %RED%22 Cold Res%CONTINUE%//
 ItemDisplay[MAG cm3 STAT43>0 STAT43<22 STAT39=0]:%NAME% %GRAY%:( Cold Res%CONTINUE%//
 
-///// Poison Resist Charms  /////
+
+///// Poison Resistance
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 STAT45=11 STAT39=0]:%NAME% %PURPLE%Max Poison Res%CONTINUE%//
 ItemDisplay[MAG cm1 STAT45=10 STAT39=0]:%NAME% %RED%10 Poison Res%CONTINUE%//
 ItemDisplay[MAG cm1 STAT45=9 STAT39=0]:%NAME% %RED%9 Poison Res%CONTINUE%//
@@ -120,7 +115,9 @@ ItemDisplay[MAG cm3 STAT45=23 STAT39=0]:%NAME% %RED%23 Poison Res%CONTINUE%//
 ItemDisplay[MAG cm3 STAT45=22 STAT39=0]:%NAME% %RED%22 Poison Res%CONTINUE%//
 ItemDisplay[MAG cm3 STAT45>0 STAT45<22 STAT39=0]:%NAME% %GRAY%:( Poison Res%CONTINUE%//
 
-///// All Resist Charms /////
+
+///// All Resistance
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 RES=5]:%NAME% %PURPLE%Max All Res%CONTINUE%//
 ItemDisplay[MAG cm1 RES=4]:%NAME% %RED%4 All Res%CONTINUE%//
 ItemDisplay[MAG cm1 RES=3]:%NAME% %RED%3 All Res%CONTINUE%//
@@ -136,7 +133,9 @@ ItemDisplay[MAG cm3 RES=14]:%NAME% %RED%14 All Res%CONTINUE%//
 ItemDisplay[MAG cm3 RES=13]:%NAME% %RED%13 All Res%CONTINUE%//
 ItemDisplay[MAG cm3 RES>0 RES<13]:%NAME% %GRAY%:( All Res%CONTINUE%//
 
-///// Mana /////
+
+///// Mana
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 MANA=17]:%NAME% %PURPLE%Max Mana%CONTINUE%//
 ItemDisplay[MAG cm1 MANA=16]:%NAME% %RED%16 Mana%CONTINUE%//
 ItemDisplay[MAG cm1 MANA=15]:%NAME% %RED%15 Mana%CONTINUE%//
@@ -158,7 +157,9 @@ ItemDisplay[MAG cm3 MANA=54]:%NAME% %RED%54 Mana%CONTINUE%//
 ItemDisplay[MAG cm3 MANA=53]:%NAME% %RED%53 Mana%CONTINUE%//
 ItemDisplay[MAG cm3 MANA>0 MANA<53]:%NAME% %GRAY%:( Mana%CONTINUE%//
 
-///// Defense /////
+
+///// Defense
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 DEF=30]:%NAME% %RED%Max Defense%CONTINUE%//
 ItemDisplay[MAG cm1 DEF>0 DEF<30]:%NAME% %GRAY%:( Defense%CONTINUE%//
 
@@ -173,7 +174,9 @@ ItemDisplay[MAG cm3 DEF=96]:%NAME% %RED%96 Defense%CONTINUE%//
 ItemDisplay[MAG cm3 DEF=95]:%NAME% %RED%95 Defense%CONTINUE%//
 ItemDisplay[MAG cm3 DEF>0 DEF<95]:%NAME% %GRAY%:( Defense%CONTINUE%//
 
-///// Attack Rating /////
+
+///// Attack Rating
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 STAT19=36]:%NAME% %RED%Max Attack Rating%CONTINUE%//
 ItemDisplay[MAG cm1 STAT19>0 STAT19<36]:%NAME% %GRAY%:( Attack Rating%CONTINUE%//
 
@@ -184,13 +187,17 @@ ItemDisplay[MAG cm3 STAT19=132]:%NAME% %RED%Max Attack Rating%CONTINUE%//
 ItemDisplay[MAG cm3 STAT19>0 STAT19<132]:%NAME% %GRAY%:( Attack Rating%CONTINUE%//
 
 
-///// Suffixes ////////// Suffixes ////////// Suffixes ////////// Suffixes ////////// Suffixes //////
+////////////////////////////////////////////////////////////////////////////////
+///// Suffixes
+////////////////////////////////////////////////////////////////////////////////
+
 ItemDisplay[MAG ID cm1]:%NAME% %BLUE%Small Charm%CONTINUE%//
 ItemDisplay[MAG ID cm2]:%NAME% %BLUE%Large Charm%CONTINUE%//
-ItemDisplay[MAG ID cm3]:%NAME% %BLUE%Grand Charm%CONTINUE%//
-///// Suffixes ////////// Suffixes ////////// Suffixes ////////// Suffixes ////////// Suffixes //////
+ItemDisplay[MAG ID cm3 ILVL<91]:%NAME% %BLUE%Grand Charm%CONTINUE%//
+ItemDisplay[MAG ID cm3 ILVL>90]:%NAME% %YELLOW%(: Reroll Me :)%CONTINUE%//
 
-///// Life /////
+///// Life
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 LIFE=20]:%NAME% %PURPLE%Max Life%CONTINUE%//
 ItemDisplay[MAG cm1 LIFE=19]:%NAME% %RED%19 Life%CONTINUE%//
 ItemDisplay[MAG cm1 LIFE=18]:%NAME% %RED%18 Life%CONTINUE%//
@@ -211,17 +218,23 @@ ItemDisplay[MAG cm3 LIFE=41]:%NAME% %RED%41 Life%CONTINUE%//
 ItemDisplay[MAG cm3 LIFE=40]:%NAME% %RED%40 Life%CONTINUE%//
 ItemDisplay[MAG cm3 LIFE>0 LIFE<40]:%NAME% %GRAY%:( Life%CONTINUE%//
 
-///// FHR /////
+
+///// FHR
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 FHR=5]:%NAME% %PURPLE%FHR%CONTINUE%//
 ItemDisplay[MAG cm2 FHR=8]:%NAME% %GRAY%FHR%CONTINUE%//
 ItemDisplay[MAG cm3 FHR=12]:%NAME% %GRAY%FHR%CONTINUE%//
 
-///// FRW /////
+
+///// FRW
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 FRW=3]:%NAME% %PURPLE%FRW%CONTINUE%//
 ItemDisplay[MAG cm2 FRW=5]:%NAME% %GRAY%FRW%CONTINUE%//
 ItemDisplay[MAG cm3 FRW=7]:%NAME% %GRAY%FRW%CONTINUE%//
 
-///// Gold Find /////
+
+///// Gold Find
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 GFIND=10]:%NAME% %RED%Max GF%CONTINUE%//
 ItemDisplay[MAG cm1 GFIND>0 GFIND<10]:%NAME% %GRAY%:( GF%CONTINUE%//
 
@@ -235,11 +248,9 @@ ItemDisplay[MAG cm3 GFIND=37]:%NAME% %RED%37 GF%CONTINUE%//
 ItemDisplay[MAG cm3 GFIND=36]:%NAME% %RED%36 GF%CONTINUE%//
 ItemDisplay[MAG cm3 GFIND>0 GFIND<36]:%NAME% %GRAY%:( GF%CONTINUE%//
 
-///// Strength /////
-ItemDisplay[MAG cm1 STR=1]:%NAME% %GRAY%Strength%CONTINUE%//
-ItemDisplay[MAG cm1 STR=2]:%NAME% %GRAY%Strength%CONTINUE%//
 
-///// Strength /////
+///// Strength
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 STR=2]:%NAME% %RED%Max Strength%CONTINUE%//
 ItemDisplay[MAG cm1 STR=1]:%NAME% %GRAY%1 Strength%CONTINUE%//
 
@@ -256,7 +267,9 @@ ItemDisplay[MAG cm3 STR=3]:%NAME% %GRAY%3 Strength%CONTINUE%//
 ItemDisplay[MAG cm3 STR=2]:%NAME% %GRAY%2 Strength%CONTINUE%//
 ItemDisplay[MAG cm3 STR=1]:%NAME% %GRAY%1 Strength%CONTINUE%//
 
-///// Dexterity /////
+
+///// Dexterity
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 DEX=2]:%NAME% %RED%Max Dexterity%CONTINUE%//
 ItemDisplay[MAG cm1 DEX=1]:%NAME% %GRAY%1 Dexterity%CONTINUE%//
 
@@ -273,9 +286,14 @@ ItemDisplay[MAG cm3 DEX=3]:%NAME% %GRAY%3 Dexterity%CONTINUE%//
 ItemDisplay[MAG cm3 DEX=2]:%NAME% %GRAY%2 Dexterity%CONTINUE%//
 ItemDisplay[MAG cm3 DEX=1]:%NAME% %GRAY%1 Dexterity%CONTINUE%//
 
-///// Both ////////// Both ////////// Both ////////// Both ////////// Both //////
 
-///// Magic Find /////
+////////////////////////////////////////////////////////////////////////////////
+///// Both
+////////////////////////////////////////////////////////////////////////////////
+
+
+///// Magic Find
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 MFIND=7]:%NAME% %PURPLE%Max MF%CONTINUE%//
 ItemDisplay[MAG cm1 MFIND=6]:%NAME% %RED%6 MF%CONTINUE%//
 ItemDisplay[MAG cm1 MFIND=5]:%NAME% %RED%5 MF%CONTINUE%//
@@ -287,7 +305,9 @@ ItemDisplay[MAG cm2 MFIND>0 MFIND<6]:%NAME% %GRAY%:( MF%CONTINUE%//
 ItemDisplay[MAG cm3 MFIND=12]:%NAME% %RED%Max MF%CONTINUE%//
 ItemDisplay[MAG cm3 MFIND>0 MFIND<12]:%NAME% %GRAY%:( MF%CONTINUE%//
 
-///// Minimum Damage /////
+
+///// Minimum Damage
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 STAT23=1]:%NAME% %PURPLE%1 Min Dmg%CONTINUE%//
 
 ItemDisplay[MAG cm2 STAT23=2]:%NAME% %PURPLE%2 Min Dmg%CONTINUE%//
@@ -297,7 +317,9 @@ ItemDisplay[MAG cm3 STAT23=3]:%NAME% %PURPLE%3 Min Dmg%CONTINUE%//
 ItemDisplay[MAG cm3 STAT23=2]:%NAME% %GRAY%2 Min Dmg%CONTINUE%//
 ItemDisplay[MAG cm3 STAT23=1]:%NAME% %GRAY%1 Min Dmg%CONTINUE%//
 
-///// Maximum Damage /////
+
+///// Maximum Damage
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 STAT19=1]:%NAME% %RED%1 Max Dmg%CONTINUE%//
 
 ItemDisplay[MAG cm2 STAT19=2]:%NAME% %RED%2 Max Dmg%CONTINUE%//
@@ -311,7 +333,8 @@ ItemDisplay[MAG cm3 STAT19=1]:%NAME% %GRAY%1 Max Dmg%CONTINUE%//
 
 
 
-///// Amazon /////
+///// Amazon
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK0=3 ]:%NAME% %PURPLE%+3 Skill%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK0=2 ]:%NAME% %RED%+2 Skill%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK0=1 ]:%NAME% %GREEN%+1 Skill%CONTINUE%//
@@ -324,7 +347,9 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK2=3 ]:%NAME% %PURPLE%+3 Skill%CONTINUE
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK2=2 ]:%NAME% %RED%+2 Skill%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK2=1 ]:%NAME% %GREEN%+1 Skill%CONTINUE%//
 
-///// Sorceress /////
+
+///// Sorceress
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK8=3 ]:%NAME% %PURPLE%+3 Fire%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK8=2 ]:%NAME% %RED%+2 Fire%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK8=1 ]:%NAME% %GREEN%+1 Fire%CONTINUE%//
@@ -337,7 +362,9 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK10=3]:%NAME% %PURPLE%+3 Cold%CONTINUE%
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK10=2]:%NAME% %RED%+2 Cold%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK10=1]:%NAME% %GREEN%+1 Cold%CONTINUE%//
 
-///// Necromancer /////
+
+///// Necromancer
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK16=3]:%NAME% %PURPLE%+3 Curses%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK16=2]:%NAME% %RED%+2 Curses%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK16=1]:%NAME% %GREEN%+1 Curses%CONTINUE%//
@@ -350,7 +377,9 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK18=3]:%NAME% %PURPLE%+3 Summoning%CONT
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK18=2]:%NAME% %RED%+2 Summoning%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK18=1]:%NAME% %GREEN%+1 Summoning%CONTINUE%//
 
-///// Paladin  /////
+
+///// Paladin
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK24=3]:%NAME% %PURPLE%+3 Combat%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK24=2]:%NAME% %RED%+2 Combat%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK24=1]:%NAME% %GREEN%+1 Combat%CONTINUE%//
@@ -363,7 +392,9 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK26=3]:%NAME% %PURPLE%+3 Offensive%CONT
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK26=2]:%NAME% %RED%+2 Offensive%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK26=1]:%NAME% %GREEN%+1 Offensive%CONTINUE%//
 
-///// Barbarian  /////
+
+///// Barbarian
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK32=3]:%NAME% %PURPLE%+3 Combat Skills%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK32=2]:%NAME% %RED%+2 Combat Skills%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK32=1]:%NAME% %GREEN%+1 Combat Skills%CONTINUE%//
@@ -376,7 +407,9 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK34=3]:%NAME% %PURPLE%+3 Warcries%CONTI
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK34=2]:%NAME% %RED%+2 Warcries%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK34=1]:%NAME% %GREEN%+1 Warcries%CONTINUE%//
 
-///// Druid  /////
+
+///// Druid
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK40=3]:%NAME% %PURPLE%+3 Summoning%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK40=2]:%NAME% %RED%+2 Summoning%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK40=1]:%NAME% %GREEN%+1 Summoning%CONTINUE%//
@@ -389,7 +422,9 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK42=3]:%NAME% %PURPLE%+3 Elemental%CONT
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK42=2]:%NAME% %RED%+2 Elemental%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK42=1]:%NAME% %GREEN%+1 Elemental%CONTINUE%//
 
-///// Assassin  /////
+
+///// Assassin
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK48=3]:%NAME% %PURPLE%+3 Traps%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK48=2]:%NAME% %RED%+2 Traps%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK48=1]:%NAME% %GREEN%+1 Traps%CONTINUE%//
@@ -402,7 +437,9 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK50=3]:%NAME% %PURPLE%+3 Martial Arts%C
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK50=2]:%NAME% %RED%+2 Martial Arts%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK50=1]:%NAME% %GREEN%+1 Martial Arts%CONTINUE%//
 
-///// All Skills  /////
+
+///// All Skills
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG ALLSK=3]:%NAME% %PURPLE%+3 All Skills%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG ALLSK=2]:%NAME% %RED%+2 All Skills%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG ALLSK=1]:%NAME% %GREEN%+1 All Skills%CONTINUE%//
@@ -435,7 +472,9 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG CLSK6=3]:%NAME% %PURPLE%+3 Assassin%CONTINU
 ItemDisplay[!RW !UNI !SET !RARE NMAG CLSK6=2]:%NAME% %RED%+2 Assassin%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG CLSK6=1]:%NAME% %GREEN%+1 Assassin%CONTINUE%//
 
-/// Amazon Individual Skills /////
+
+///// Amazon Individual Skills
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK06=3	]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK06=2 ]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK06=1 ]:%NAME% %GREEN%+1%CONTINUE%//
@@ -527,7 +566,9 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG SK35=3	]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK35=2 ]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK35=1 ]:%NAME% %GREEN%+1%CONTINUE%//
 
-/// Sorc Individual Skills /////
+
+///// Sorceress Individual Skills
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK36=3	]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK36=2 ]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK36=1 ]:%NAME% %GREEN%+1%CONTINUE%//
@@ -628,7 +669,9 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG SK376=3]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK376=2]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK376=1]:%NAME% %GREEN%+1%CONTINUE%//
 
-/// Necromancer Individual Skills /////
+
+///// Necromancer Individual Skills
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK66=3	]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK66=2 ]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK66=1 ]:%NAME% %GREEN%+1%CONTINUE%//
@@ -729,7 +772,9 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG SK374=3]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK374=2]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK374=1]:%NAME% %GREEN%+1%CONTINUE%//
 
-/// Paladin Individual Skills /////
+
+///// Paladin Individual Skills
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK96=3	]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK96=2 ]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK96=1 ]:%NAME% %GREEN%+1%CONTINUE%//
@@ -830,7 +875,9 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG SK378=3]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK378=2]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK378=1]:%NAME% %GREEN%+1%CONTINUE%//
 
-/// Barbarian Individual Skills /////
+
+///// Barbarian Individual Skills
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK126=3]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK126=2]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK126=1]:%NAME% %GREEN%+1%CONTINUE%//
@@ -922,7 +969,9 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG SK155=3]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK155=2]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK155=1]:%NAME% %GREEN%+1%CONTINUE%//
 
-/// Druid Individual Skills /////
+
+///// Druid Individual Skills
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK221=3]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK221=2]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK221=1]:%NAME% %GREEN%+1%CONTINUE%//
@@ -1017,7 +1066,9 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG SK370=3]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK370=2]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK370=1]:%NAME% %GREEN%+1%CONTINUE%//
 
-/// Assassin Individual Skills /////
+
+///// Assassin Individual Skills
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK251=3]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK251=2]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK251=1]:%NAME% %GREEN%+1%CONTINUE%//
@@ -1111,3 +1162,4 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG SK280=1]:%NAME% %GREEN%+1%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK366=3]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK366=2]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK366=1]:%NAME% %GREEN%+1%CONTINUE%//
+

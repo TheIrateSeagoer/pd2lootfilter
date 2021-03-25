@@ -2,6 +2,9 @@
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[leg]:%NAME%{%NAME%}//
 
+ItemDisplay[SET !ID (amu OR rin)]:%BORDER-81%%RED%ooo %GREEN%%NAME%{%NAME%} %RED%ooo%GREEN%//
+ItemDisplay[UNI !ID (amu OR rin)]:%BORDER-0D%%RED%ooooo %GOLD%%NAME%{%NAME%} %RED%ooooo%GOLD%//
+
 ItemDisplay[SET !ID]:%DOT-81%%NAME%{%NAME%}//
 ItemDisplay[UNI !ID]:%DOT-0D%%NAME%{%NAME%}//
 
@@ -12,7 +15,7 @@ ItemDisplay[RUNE>24]:%BORDER-9B%%NAME%{%NAME%}//
 ItemDisplay[GEMLEVEL=4]:%DOT-60%%NAME%{%NAME%}//
 ItemDisplay[GEMLEVEL=5]:%MAP-0A%%NAME%{%NAME%}//
 
-ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42)]:%NAME%{%NAME%}%MAP%//
+ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42)]:%MAP%%NAME%{%NAME%}//
 
 ItemDisplay[lbox]:%BORDER-0D%%NAME%{%NAME%}//
 ItemDisplay[wss ]:%BORDER-9B%%NAME%{%NAME%}//
@@ -29,7 +32,8 @@ ItemDisplay[dcma]:%BORDER-0A%%NAME%{%NAME%}//
 
 ItemDisplay[MAG !ID cm1]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
 ItemDisplay[MAG !ID cm2]:%DOT-97%%RED%o %BLUE%%NAME% %RED%o%BLUE%//
-ItemDisplay[MAG !ID cm3]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
+ItemDisplay[MAG !ID cm3 ILVL<91]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
+ItemDisplay[MAG !ID cm3 ILVL>90]:%BORDER-97%%RED%ooo %YELLOW%Reroll Grand Charm %RED%ooo%BLUE%//
 ItemDisplay[MAG !ID jew]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
 ItemDisplay[MAG !ID rin]:%ORANGE%o %BLUE%%NAME% %ORANGE%o%BLUE%//
 ItemDisplay[MAG !ID amu]:%ORANGE%o %BLUE%%NAME% %ORANGE%o%BLUE%//
