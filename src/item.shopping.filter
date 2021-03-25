@@ -53,72 +53,72 @@ ItemDisplay[MAG ID cm3 TABSK49=1]:%NAME% %GOLD%Shadow Disciplines Skills%CONTINU
 ItemDisplay[MAG ID cm3 TABSK50=1]:%NAME% %GOLD%Martial Arts Skills%CONTINUE%//
 
 ///// Fire Resist Charms  /////
-ItemDisplay[MAG cm1 STAT39=11]:%NAME% %PURPLE%Max Fire Res%CONTINUE%//
-ItemDisplay[MAG cm1 STAT39=10]:%NAME% %RED%10 Fire Res%CONTINUE%//
-ItemDisplay[MAG cm1 STAT39=9]:%NAME% %RED%9 Fire Res%CONTINUE%//
-ItemDisplay[MAG cm1 STAT39>0 STAT39<9]:%NAME% %GRAY%:( Fire Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT39=11 STAT41=0]:%NAME% %PURPLE%Max Fire Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT39=10 STAT41=0]:%NAME% %RED%10 Fire Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT39=9 STAT41=0]:%NAME% %RED%9 Fire Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT39>0 STAT39<9 STAT41=0]:%NAME% %GRAY%:( Fire Res%CONTINUE%//
 
-ItemDisplay[MAG cm2 STAT39=15]:%NAME% %PURPLE%Max Fire Res%CONTINUE%//
-ItemDisplay[MAG cm2 STAT39=14]:%NAME% %RED%14 Fire Res%CONTINUE%//
-ItemDisplay[MAG cm2 STAT39=13]:%NAME% %RED%13 Fire Res%CONTINUE%//
-ItemDisplay[MAG cm2 STAT39>0 STAT39<13]:%NAME% %GRAY%:( Fire Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT39=15 STAT41=0]:%NAME% %PURPLE%Max Fire Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT39=14 STAT41=0]:%NAME% %RED%14 Fire Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT39=13 STAT41=0]:%NAME% %RED%13 Fire Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT39>0 STAT39<13 STAT41=0]:%NAME% %GRAY%:( Fire Res%CONTINUE%//
 
-ItemDisplay[MAG cm3 STAT39=25]:%NAME% %PURPLE%Max Fire Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT39=24]:%NAME% %RED%24 Fire Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT39=23]:%NAME% %RED%23 Fire Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT39=22]:%NAME% %RED%22 Fire Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT39>0 STAT39<22]:%NAME% %GRAY%:( Fire Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT39=25 STAT41=0]:%NAME% %PURPLE%Max Fire Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT39=24 STAT41=0]:%NAME% %RED%24 Fire Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT39=23 STAT41=0]:%NAME% %RED%23 Fire Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT39=22 STAT41=0]:%NAME% %RED%22 Fire Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT39>0 STAT39<22 STAT41=0]:%NAME% %GRAY%:( Fire Res%CONTINUE%//
 
 ///// Lightening Resist Charms  /////
-ItemDisplay[MAG cm1 STAT41=11]:%NAME% %PURPLE%Max Lightning Res%CONTINUE%//
-ItemDisplay[MAG cm1 STAT41=10]:%NAME% %RED%10 Lightning Res%CONTINUE%//
-ItemDisplay[MAG cm1 STAT41=9]:%NAME% %RED%9 Lightning Res%CONTINUE%//
-ItemDisplay[MAG cm1 STAT41>0 STAT41<9]:%NAME% %GRAY%:( Lightning Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT41=11 STAT39=0]:%NAME% %PURPLE%Max Lightning Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT41=10 STAT39=0]:%NAME% %RED%10 Lightning Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT41=9 STAT39=0]:%NAME% %RED%9 Lightning Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT41>0 STAT41<9 STAT39=0]:%NAME% %GRAY%:( Lightning Res%CONTINUE%//
 
-ItemDisplay[MAG cm2 STAT41=15]:%NAME% %PURPLE%Max Lightning Res%CONTINUE%//
-ItemDisplay[MAG cm2 STAT41=14]:%NAME% %RED%14 Lightning Res%CONTINUE%//
-ItemDisplay[MAG cm2 STAT41=13]:%NAME% %RED%13 Lightning Res%CONTINUE%//
-ItemDisplay[MAG cm2 STAT41>0 STAT41<13]:%NAME% %GRAY%:( Lightning Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT41=15 STAT39=0]:%NAME% %PURPLE%Max Lightning Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT41=14 STAT39=0]:%NAME% %RED%14 Lightning Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT41=13 STAT39=0]:%NAME% %RED%13 Lightning Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT41>0 STAT41<13 STAT39=0]:%NAME% %GRAY%:( Lightning Res%CONTINUE%//
 
-ItemDisplay[MAG cm3 STAT41=25]:%NAME% %PURPLE%Max Lightning Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT41=24]:%NAME% %RED%24 Lightning Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT41=23]:%NAME% %RED%23 Lightning Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT41=22]:%NAME% %RED%22 Lightning Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT41>0 STAT41<22]:%NAME% %GRAY%:( Lightning Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT41=25 STAT39=0]:%NAME% %PURPLE%Max Lightning Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT41=24 STAT39=0]:%NAME% %RED%24 Lightning Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT41=23 STAT39=0]:%NAME% %RED%23 Lightning Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT41=22 STAT39=0]:%NAME% %RED%22 Lightning Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT41>0 STAT41<22 STAT39=0]:%NAME% %GRAY%:( Lightning Res%CONTINUE%//
 
 ///// Cold Resist Charms  /////
-ItemDisplay[MAG cm1 STAT43=11]:%NAME% %PURPLE%Max Cold Res%CONTINUE%//
-ItemDisplay[MAG cm1 STAT43=10]:%NAME% %RED%10 Cold Res%CONTINUE%//
-ItemDisplay[MAG cm1 STAT43=9]:%NAME% %RED%9 Cold Res%CONTINUE%//
-ItemDisplay[MAG cm1 STAT43>0 STAT43<9]:%NAME% %GRAY%:( Cold Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT43=11 STAT39=0]:%NAME% %PURPLE%Max Cold Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT43=10 STAT39=0]:%NAME% %RED%10 Cold Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT43=9 STAT39=0]:%NAME% %RED%9 Cold Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT43>0 STAT43<9 STAT39=0]:%NAME% %GRAY%:( Cold Res%CONTINUE%//
 
-ItemDisplay[MAG cm2 STAT43=15]:%NAME% %PURPLE%Max Cold Res%CONTINUE%//
-ItemDisplay[MAG cm2 STAT43=14]:%NAME% %RED%14 Cold Res%CONTINUE%//
-ItemDisplay[MAG cm2 STAT43=13]:%NAME% %RED%13 Cold Res%CONTINUE%//
-ItemDisplay[MAG cm2 STAT43>0 STAT43<13]:%NAME% %GRAY%:( Cold Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT43=15 STAT39=0]:%NAME% %PURPLE%Max Cold Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT43=14 STAT39=0]:%NAME% %RED%14 Cold Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT43=13 STAT39=0]:%NAME% %RED%13 Cold Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT43>0 STAT43<13 STAT39=0]:%NAME% %GRAY%:( Cold Res%CONTINUE%//
 
-ItemDisplay[MAG cm3 STAT43=25]:%NAME% %PURPLE%Max Cold Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT43=24]:%NAME% %RED%24 Cold Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT43=23]:%NAME% %RED%23 Cold Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT43=22]:%NAME% %RED%22 Cold Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT43>0 STAT43<22]:%NAME% %GRAY%:( Cold Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT43=25 STAT39=0]:%NAME% %PURPLE%Max Cold Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT43=24 STAT39=0]:%NAME% %RED%24 Cold Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT43=23 STAT39=0]:%NAME% %RED%23 Cold Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT43=22 STAT39=0]:%NAME% %RED%22 Cold Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT43>0 STAT43<22 STAT39=0]:%NAME% %GRAY%:( Cold Res%CONTINUE%//
 
 ///// Poison Resist Charms  /////
-ItemDisplay[MAG cm1 STAT45=11]:%NAME% %PURPLE%Max Poison Res%CONTINUE%//
-ItemDisplay[MAG cm1 STAT45=10]:%NAME% %RED%10 Poison Res%CONTINUE%//
-ItemDisplay[MAG cm1 STAT45=9]:%NAME% %RED%9 Poison Res%CONTINUE%//
-ItemDisplay[MAG cm1 STAT45>0 STAT45<9]:%NAME% %GRAY%:( Poison Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT45=11 STAT39=0]:%NAME% %PURPLE%Max Poison Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT45=10 STAT39=0]:%NAME% %RED%10 Poison Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT45=9 STAT39=0]:%NAME% %RED%9 Poison Res%CONTINUE%//
+ItemDisplay[MAG cm1 STAT45>0 STAT45<9 STAT39=0]:%NAME% %GRAY%:( Poison Res%CONTINUE%//
 
-ItemDisplay[MAG cm2 STAT45=15]:%NAME% %PURPLE%Max Poison Res%CONTINUE%//
-ItemDisplay[MAG cm2 STAT45=14]:%NAME% %RED%14 Poison Res%CONTINUE%//
-ItemDisplay[MAG cm2 STAT45=13]:%NAME% %RED%13 Poison Res%CONTINUE%//
-ItemDisplay[MAG cm2 STAT45>0 STAT45<13]:%NAME% %GRAY%:( Poison Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT45=15 STAT39=0]:%NAME% %PURPLE%Max Poison Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT45=14 STAT39=0]:%NAME% %RED%14 Poison Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT45=13 STAT39=0]:%NAME% %RED%13 Poison Res%CONTINUE%//
+ItemDisplay[MAG cm2 STAT45>0 STAT45<13 STAT39=0]:%NAME% %GRAY%:( Poison Res%CONTINUE%//
 
-ItemDisplay[MAG cm3 STAT45=25]:%NAME% %PURPLE%Max Poison Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT45=24]:%NAME% %RED%24 Poison Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT45=23]:%NAME% %RED%23 Poison Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT45=22]:%NAME% %RED%22 Poison Res%CONTINUE%//
-ItemDisplay[MAG cm3 STAT45>0 STAT45<22]:%NAME% %GRAY%:( Poison Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT45=25 STAT39=0]:%NAME% %PURPLE%Max Poison Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT45=24 STAT39=0]:%NAME% %RED%24 Poison Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT45=23 STAT39=0]:%NAME% %RED%23 Poison Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT45=22 STAT39=0]:%NAME% %RED%22 Poison Res%CONTINUE%//
+ItemDisplay[MAG cm3 STAT45>0 STAT45<22 STAT39=0]:%NAME% %GRAY%:( Poison Res%CONTINUE%//
 
 ///// All Resist Charms /////
 ItemDisplay[MAG cm1 RES=5]:%NAME% %PURPLE%Max All Res%CONTINUE%//
