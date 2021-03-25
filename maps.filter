@@ -15511,9 +15511,9 @@ ItemDisplay[CLVL>1 NMAG ELT SHIELD !DIN !NEC !uit]:{%NAME%}//
 ItemDisplay[CLVL>1 NMAG ELT WEAPON !WAND !STAFF !SCEPTER !ZON !SIN !SOR]:{%NAME%}//
 ItemDisplay[NMAG SOCK=1]:{%NAME%}//
 ItemDisplay[INF]:{%NAME%}//
-ItemDisplay[GOLD<5000 CLVL>89]://
-ItemDisplay[GOLD<3000 CLVL>79]://
+ItemDisplay[GOLD<5000 CLVL>1]://
+ItemDisplay[GOLD<3000 CLVL>1]://
 ItemDisplay[GOLD<2000 CLVL>39]://
-ItemDisplay[GOLD<1000 CLVL>19]://
-ItemDisplay[GOLD<500 CLVL>9]://
+ItemDisplay[GOLD<1000 CLVL>1]://
+ItemDisplay[GOLD<500 CLVL>1]://
 ItemDisplay[GOLD<100]://

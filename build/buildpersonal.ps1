@@ -1,17 +1,6 @@
-Write-Host -NoNewline "Default ... "
-.\pd2default.ps1
-Write-Host "Done"
-
-Write-Host -NoNewline "Maps ... "
-.\pd2maps.ps1
-Write-Host "Done"
-
-Write-Host -NoNewline "Show All ... "
-.\pd2showall.ps1
-Write-Host "Done"
-
-Write-Host -NoNewline "Personal ... "
-
+################################################################################
+Write-Host -NoNewline "Compilation ... "
+################################################################################
 if (Test-Path -Path '.\obj') { Remove-Item '.\obj' -Recurse }
 if (Test-Path -Path '.\bin') { Remove-Item '.\bin' -Recurse }
 
@@ -27,6 +16,46 @@ ForEach-Object{
     (Get-Content -Path $outputPath | Select-String -pattern '/////' -notmatch) | Set-Content -Path $outputPath
     (Get-Content -Path $outputPath).replace("`t","").replace("    ]","]").replace(" ]","]").replace(" ]","]")| Set-Content -Path $outputPath 
 }
+################################################################################
+Write-Host "Done"
+################################################################################
+
+
+################################################################################
+Write-Host -NoNewline "Show All ... "
+################################################################################
+.\pd2showall.ps1
+################################################################################
+Write-Host "Done"
+################################################################################
+
+
+################################################################################
+Write-Host -NoNewline "Default ... "
+################################################################################
+.\pd2default.ps1
+################################################################################
+Write-Host "Done"
+################################################################################
+
+
+################################################################################
+Write-Host -NoNewline "Maps ... "
+################################################################################
+
+$outputPath = '.\obj\catchall.maps.filter'
+$inputPath = '.\obj\catchall.default.filter'
+(Get-Content -Path $inputPath).replace("CLVL>89","CLVL>1").replace("CLVL>80","CLVL>1").replace("CLVL>79","CLVL>1").replace("CLVL>69","CLVL>1").replace("CLVL>49","CLVL>1").replace("CLVL>29","CLVL>1").replace("CLVL>19","CLVL>1").replace("CLVL>9","CLVL>1").replace("CLVL>4","CLVL>1") | Set-Content -Path $outputPath 
+
+.\pd2maps.ps1
+################################################################################
+Write-Host "Done"
+################################################################################
+
+
+################################################################################
+Write-Host -NoNewline "Personal ... "
+################################################################################
 
 Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter', 
 '.\obj\common.lod.filter', '.\obj\common.pd2.filter', 
@@ -45,4 +74,7 @@ Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter',
 if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2') { Copy-Item '.\bin\personal.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2\loot.filter' }
 if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg') { Copy-Item '.\bin\personal.filter' -Destination 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg' }
 
+################################################################################
 Write-Host "Done"
+################################################################################
+
