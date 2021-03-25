@@ -1,58 +1,81 @@
-///// Rings /////
-ItemDisplay[UNI !ID rin]:%RED%ooooo %GOLD%%NAME% %RED%ooooo%MAP-0D%//
+///// Rings
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[UNI !ID rin]:%GOLD%%NAME%%CONTINUE%//
 
-///// Amulets /////
-ItemDisplay[UNI !ID amu]:%RED%ooooo %GOLD%%NAME% %RED%ooooo%MAP-0D%//
 
-///// Charms /////
-ItemDisplay[UNI !ID cm1]:%RED%ooooo %GOLD%ooo Annihilus ooo %RED%ooooo%MAP-0D%//
-ItemDisplay[UNI !ID cm2]:%RED%ooooo %GOLD%ooo Hellfire Torch ooo %RED%ooooo%MAP-0D%//
-ItemDisplay[UNI !ID cm3]:%RED%ooooo %GOLD%oo Gheed's Fortune oo %RED%ooooo%MAP-0D%//
+///// Amulets
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[UNI !ID amu]:%GOLD%%NAME%%CONTINUE%//
 
-///// Jewels /////
-ItemDisplay[UNI !ID jew]:%RED%ooooo %GOLD%oo Rainbow Facet oo %RED%ooooo%MAP-0D%//
 
-///// Circlets /////
-ItemDisplay[UNI !ID ci2]:%RED%ooooo %GOLD%oo Kira's Guardian oo %RED%ooooo%MAP-0D%//
-ItemDisplay[UNI !ID ci3]:%RED%ooooo %GOLD%oo Griffon's Eye oo %RED%ooooo%MAP-0D%//
+///// Charms
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[UNI !ID cm1]:%GOLD%ooo Annihilus ooo%CONTINUE%//
+ItemDisplay[UNI !ID cm2]:%GOLD%ooo Hellfire Torch ooo%CONTINUE%//
+ItemDisplay[UNI !ID cm3]:%GOLD%oo Gheed's Fortune oo%CONTINUE%//
 
-///// Amazon /////
-ItemDisplay[UNI !ID amd]:%GOLD%oo Stoneraven oo%MAP-0D%//
-ItemDisplay[UNI !ID am9]:%GOLD%o Lycander's Flank o%MAP-0D%//
-ItemDisplay[UNI !ID am7]:%GOLD%o Lycander's Aim o%MAP-0D%//
-ItemDisplay[UNI !ID ama]:%GOLD%o Titan's Revenge o%MAP-0D%//
-ItemDisplay[UNI !ID amf]:%GOLD%oo Thunderstroke oo%MAP-0D%//
-ItemDisplay[UNI !ID amb]:%GOLD%oo Blood Raven's Charge oo%MAP-0D%//
 
-///// Assassin /////
-ItemDisplay[UNI !ID 7cs]:%GOLD%oo Shadow Killer oo%MAP-0D%//
-ItemDisplay[UNI !ID 9tw]:%GOLD%o Bartuc's Cut-Throat o%MAP-0D%//
-ItemDisplay[UNI !ID 7wb]:%GOLD%oo Jade Talon oo%MAP-0D%//
-ItemDisplay[UNI !ID 7lw]:%GOLD%oo Firelizard's Talons oo%MAP-0D%//
+///// Jewels
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[UNI !ID jew]:%GOLD%oo Rainbow Facet oo%CONTINUE%//
 
-/////Necromancer /////
-ItemDisplay[UNI !ID nea]:%GOLD%o Homunculus o%MAP-0D%//
-ItemDisplay[UNI !ID nef]:%GOLD%oo Darkforce Spawn oo%MAP-0D%//
-ItemDisplay[UNI !ID nee]:%GOLD%oo Boneflame oo%MAP-0D%//
 
-///// Barbarian /////
-ItemDisplay[UNI !ID baa]:%GOLD%o Arreat's Face o%MAP-0D%//
-ItemDisplay[UNI !ID bac]:%GOLD%oo Wolfhowl oo%MAP-0D%//
-ItemDisplay[UNI !ID bad]:%GOLD%oo Demonhorn's Edge oo%MAP-0D%//
-ItemDisplay[UNI !ID bae]:%GOLD%oo Halaberd's Reign oo%MAP-0D%//
+///// Circlets
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[UNI !ID ci2]:%GOLD%oo Kira's Guardian oo%CONTINUE%//
+ItemDisplay[UNI !ID ci3]:%GOLD%oo Griffon's Eye oo%CONTINUE%//
 
-///// Sorceress /////
-ItemDisplay[UNI !ID oba]:%GOLD%o The Oculus o%MAP-0D%//
-ItemDisplay[UNI !ID obc]:%GOLD%oo Eschuta's Temper oo%MAP-0D%//
-ItemDisplay[UNI !ID obf]:%GOLD%oo Death's Fathom oo%MAP-0D%//
 
-///// Druid /////
-ItemDisplay[UNI !ID dra]:%GOLD%o Jalal's Mane o%MAP-0D%//
-ItemDisplay[UNI !ID drb]:%GOLD%oo Cerebus' Bite oo%MAP-0D%//
-ItemDisplay[UNI !ID dre]:%GOLD%oo Ravenlore oo%MAP-0D%//
-ItemDisplay[UNI !ID drd]:%GOLD%oo Spirit Keeper oo%MAP-0D%//
+///// Amazon
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[UNI !ID amd]:%GOLD%oo Stoneraven oo%CONTINUE%//
+ItemDisplay[UNI !ID am9]:%GOLD%o Lycander's Flank o%CONTINUE%//
+ItemDisplay[UNI !ID am7]:%GOLD%o Lycander's Aim o%CONTINUE%//
+ItemDisplay[UNI !ID ama]:%GOLD%o Titan's Revenge o%CONTINUE%//
+ItemDisplay[UNI !ID amf]:%GOLD%oo Thunderstroke oo%CONTINUE%//
+ItemDisplay[UNI !ID amb]:%GOLD%oo Blood Raven's Charge oo%CONTINUE%//
 
-///// Paladin /////
-ItemDisplay[UNI !ID pac]:%GOLD%oo Alma Negra oo%MAP-0D%//
-ItemDisplay[UNI !ID pa9]:%GOLD%o Herald of Zakarum o%MAP-0D%//
-ItemDisplay[UNI !ID pae]:%GOLD%oo Dragonscale oo%MAP-0D%//
+///// Assassin
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[UNI !ID 7cs]:%GOLD%oo Shadow Killer oo%CONTINUE%//
+ItemDisplay[UNI !ID 9tw]:%GOLD%o Bartuc's Cut-Throat o%CONTINUE%//
+ItemDisplay[UNI !ID 7wb]:%GOLD%oo Jade Talon oo%CONTINUE%//
+ItemDisplay[UNI !ID 7lw]:%GOLD%oo Firelizard's Talons oo%CONTINUE%//
+
+
+/////Necromancer
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[UNI !ID nea]:%GOLD%o Homunculus o%CONTINUE%//
+ItemDisplay[UNI !ID nef]:%GOLD%oo Darkforce Spawn oo%CONTINUE%//
+ItemDisplay[UNI !ID nee]:%GOLD%oo Boneflame oo%CONTINUE%//
+
+
+///// Barbarian
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[UNI !ID baa]:%GOLD%o Arreat's Face o%CONTINUE%//
+ItemDisplay[UNI !ID bac]:%GOLD%oo Wolfhowl oo%CONTINUE%//
+ItemDisplay[UNI !ID bad]:%GOLD%oo Demonhorn's Edge oo%CONTINUE%//
+ItemDisplay[UNI !ID bae]:%GOLD%oo Halaberd's Reign oo%CONTINUE%//
+
+
+///// Sorceress
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[UNI !ID oba]:%GOLD%o The Oculus o%CONTINUE%//
+ItemDisplay[UNI !ID obc]:%GOLD%oo Eschuta's Temper oo%CONTINUE%//
+ItemDisplay[UNI !ID obf]:%GOLD%oo Death's Fathom oo%CONTINUE%//
+
+
+///// Druid
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[UNI !ID dra]:%GOLD%o Jalal's Mane o%CONTINUE%//
+ItemDisplay[UNI !ID drb]:%GOLD%oo Cerebus' Bite oo%CONTINUE%//
+ItemDisplay[UNI !ID dre]:%GOLD%oo Ravenlore oo%CONTINUE%//
+ItemDisplay[UNI !ID drd]:%GOLD%oo Spirit Keeper oo%CONTINUE%//
+
+
+///// Paladin
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[UNI !ID pac]:%GOLD%oo Alma Negra oo%CONTINUE%//
+ItemDisplay[UNI !ID pa9]:%GOLD%o Herald of Zakarum o%CONTINUE%//
+ItemDisplay[UNI !ID pae]:%GOLD%oo Dragonscale oo%CONTINUE%//
+

@@ -1,78 +1,90 @@
-///// Superior Enhanced Defense/Damage /////
-ItemDisplay[!ETH SUP SOCK=0 ED<5 ]: %GRAY%0ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK=0 ED=5 ]: %GRAY%5ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK=0 ED=6 ]: %GRAY%6ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK=0 ED=7 ]: %GRAY%7ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK=0 ED=8 ]: %GRAY%8ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK=0 ED=9 ]: %GRAY%9ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK=0 ED=10]: %ORANGE%10ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK=0 ED=11]: %ORANGE%11ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK=0 ED=12]: %ORANGE%12ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK=0 ED=13]: %RED%13ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK=0 ED=14]: %RED%14ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK=0 ED=15]: %PURPLE%15ed %GRAY%%NAME%%CONTINUE%//
+///// Ethereal Superior
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[ETH SUP SOCK=0 ED<5      ]:[Eth] %GRAY%0ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK=0 ED=5      ]:[Eth] %GRAY%5ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK=0 ED=6      ]:[Eth] %GRAY%6ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK=0 ED=7      ]:[Eth] %GRAY%7ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK=0 ED=8      ]:[Eth] %GRAY%8ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK=0 ED=9      ]:[Eth] %GRAY%9ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK=0 ED=10     ]:[Eth] %ORANGE%10ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK=0 ED=11     ]:[Eth] %ORANGE%11ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK=0 ED=12     ]:[Eth] %ORANGE%12ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK=0 ED=13     ]:[Eth] %RED%13ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK=0 ED=14     ]:[Eth] %RED%14ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK=0 ED=15     ]:[Eth] %PURPLE%15ed %GRAY%%NAME%%CONTINUE%//
 
-ItemDisplay[!ETH SUP SOCK>0 ED<5 ]: %GRAY%0ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK>0 ED=5 ]: %GRAY%5ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK>0 ED=6 ]: %GRAY%6ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK>0 ED=7 ]: %GRAY%7ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK>0 ED=8 ]: %GRAY%8ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK>0 ED=9 ]: %GRAY%9ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK>0 ED=10]: %ORANGE%10ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK>0 ED=11]: %ORANGE%11ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK>0 ED=12]: %ORANGE%12ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK>0 ED=13]: %RED%13ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK>0 ED=14]: %RED%14ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[!ETH SUP SOCK>0 ED=15]: %PURPLE%15ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK>0 ED<5      ]:[Eth] %GRAY%0ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK>0 ED=5      ]:[Eth] %GRAY%5ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK>0 ED=6      ]:[Eth] %GRAY%6ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK>0 ED=7      ]:[Eth] %GRAY%7ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK>0 ED=8      ]:[Eth] %GRAY%8ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK>0 ED=9      ]:[Eth] %GRAY%9ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK>0 ED=10     ]:[Eth] %ORANGE%10ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK>0 ED=11     ]:[Eth] %ORANGE%11ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK>0 ED=12     ]:[Eth] %ORANGE%12ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK>0 ED=13     ]:[Eth] %RED%13ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK>0 ED=14     ]:[Eth] %RED%14ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[ETH SUP SOCK>0 ED=15     ]:[Eth] %PURPLE%15ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
 
-ItemDisplay[ETH SUP SOCK=0 ED<5 ]:[Eth] %GRAY%0ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK=0 ED=5 ]:[Eth] %GRAY%5ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK=0 ED=6 ]:[Eth] %GRAY%6ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK=0 ED=7 ]:[Eth] %GRAY%7ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK=0 ED=8 ]:[Eth] %GRAY%8ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK=0 ED=9 ]:[Eth] %GRAY%9ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK=0 ED=10]:[Eth] %ORANGE%10ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK=0 ED=11]:[Eth] %ORANGE%11ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK=0 ED=12]:[Eth] %ORANGE%12ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK=0 ED=13]:[Eth] %RED%13ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK=0 ED=14]:[Eth] %RED%14ed %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK=0 ED=15]:[Eth] %PURPLE%15ed %GRAY%%NAME%%CONTINUE%//
+///// Ethereal
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[ETH !SUP SOCK=0 NMAG !RW ]:%GRAY%[Eth] %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[ETH !SUP SOCK=0 MAG      ]:%GRAY%[Eth] %BLUE%%NAME%%CONTINUE%//
+ItemDisplay[ETH !SUP SOCK=0 RARE     ]:%GRAY%[Eth] %YELLOW%%NAME%%CONTINUE%//
+ItemDisplay[ETH !SUP SOCK=0 UNI      ]:%GRAY%[Eth] %GOLD%%NAME%%CONTINUE%//
+ItemDisplay[ETH !SUP SOCK=0 SET      ]:%GRAY%[Eth] %GREEN%%NAME%%CONTINUE%//
+ItemDisplay[ETH !SUP SOCK=0 CRAFT    ]:%GRAY%[Eth] %ORANGE%%NAME%%CONTINUE%//
+ItemDisplay[ETH !SUP SOCK=0 RW       ]:[Eth] %NAME%%CONTINUE%//
 
-ItemDisplay[ETH SUP SOCK>0 ED<5 ]:[Eth] %GRAY%0ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK>0 ED=5 ]:[Eth] %GRAY%5ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK>0 ED=6 ]:[Eth] %GRAY%6ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK>0 ED=7 ]:[Eth] %GRAY%7ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK>0 ED=8 ]:[Eth] %GRAY%8ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK>0 ED=9 ]:[Eth] %GRAY%9ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK>0 ED=10]:[Eth] %ORANGE%10ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK>0 ED=11]:[Eth] %ORANGE%11ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK>0 ED=12]:[Eth] %ORANGE%12ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK>0 ED=13]:[Eth] %RED%13ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK>0 ED=14]:[Eth] %RED%14ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
-ItemDisplay[ETH SUP SOCK>0 ED=15]:[Eth] %PURPLE%15ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[ETH !SUP SOCK>0 NMAG !RW ]:%GRAY%[Eth] %SOCKETS%os %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[ETH !SUP SOCK>0 MAG      ]:%GRAY%[Eth] %SOCKETS%os %BLUE%%NAME%%CONTINUE%//
+ItemDisplay[ETH !SUP SOCK>0 RARE     ]:%GRAY%[Eth] %SOCKETS%os %YELLOW%%NAME%%CONTINUE%//
+ItemDisplay[ETH !SUP SOCK>0 UNI      ]:%GRAY%[Eth] %SOCKETS%os %GOLD%%NAME%%CONTINUE%//
+ItemDisplay[ETH !SUP SOCK>0 SET      ]:%GRAY%[Eth] %SOCKETS%os %GREEN%%NAME%%CONTINUE%//
+ItemDisplay[ETH !SUP SOCK>0 CRAFT    ]:%GRAY%[Eth] %SOCKETS%os %ORANGE%%NAME%%CONTINUE%//
+ItemDisplay[ETH !SUP SOCK>0 RW       ]:[Eth] %NAME%%CONTINUE%//
 
-ItemDisplay[ETH !SUP SOCK=0 NMAG !RW]:%GRAY%[Eth] %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[ETH !SUP SOCK=0 MAG]:%GRAY%[Eth] %BLUE%%NAME%%CONTINUE%//
-ItemDisplay[ETH !SUP SOCK=0 RARE]:%GRAY%[Eth] %YELLOW%%NAME%%CONTINUE%//
-ItemDisplay[ETH !SUP SOCK=0 UNI]:%GRAY%[Eth] %GOLD%%NAME%%CONTINUE%//
-ItemDisplay[ETH !SUP SOCK=0 SET]:%GRAY%[Eth] %GREEN%%NAME%%CONTINUE%//
-ItemDisplay[ETH !SUP SOCK=0 CRAFT]:%GRAY%[Eth] %ORANGE%%NAME%%CONTINUE%//
-ItemDisplay[ETH !SUP SOCK=0 RW]:[Eth] %NAME%%CONTINUE%//
 
-ItemDisplay[ETH !SUP SOCK>0 NMAG !RW]:%GRAY%[Eth] %SOCKETS%os %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[ETH !SUP SOCK>0 MAG]:%GRAY%[Eth] %SOCKETS%os %BLUE%%NAME%%CONTINUE%//
-ItemDisplay[ETH !SUP SOCK>0 RARE]:%GRAY%[Eth] %SOCKETS%os %YELLOW%%NAME%%CONTINUE%//
-ItemDisplay[ETH !SUP SOCK>0 UNI]:%GRAY%[Eth] %SOCKETS%os %GOLD%%NAME%%CONTINUE%//
-ItemDisplay[ETH !SUP SOCK>0 SET]:%GRAY%[Eth] %SOCKETS%os %GREEN%%NAME%%CONTINUE%//
-ItemDisplay[ETH !SUP SOCK>0 CRAFT]:%GRAY%[Eth] %SOCKETS%os %ORANGE%%NAME%%CONTINUE%//
-ItemDisplay[ETH !SUP SOCK>0 RW]:[Eth] %NAME%%CONTINUE%//
+///// Superior
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[!ETH SUP SOCK=0 ED<5     ]:%GRAY%0ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK=0 ED=5     ]:%GRAY%5ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK=0 ED=6     ]:%GRAY%6ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK=0 ED=7     ]:%GRAY%7ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK=0 ED=8     ]:%GRAY%8ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK=0 ED=9     ]:%GRAY%9ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK=0 ED=10    ]:%ORANGE%10ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK=0 ED=11    ]:%ORANGE%11ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK=0 ED=12    ]:%ORANGE%12ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK=0 ED=13    ]:%RED%13ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK=0 ED=14    ]:%RED%14ed %GRAY%%NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK=0 ED=15    ]:%PURPLE%15ed %GRAY%%NAME%%CONTINUE%//
 
+ItemDisplay[!ETH SUP SOCK>0 ED<5     ]:%GRAY%0ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK>0 ED=5     ]:%GRAY%5ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK>0 ED=6     ]:%GRAY%6ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK>0 ED=7     ]:%GRAY%7ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK>0 ED=8     ]:%GRAY%8ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK>0 ED=9     ]:%GRAY%9ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK>0 ED=10    ]:%ORANGE%10ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK>0 ED=11    ]:%ORANGE%11ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK>0 ED=12    ]:%ORANGE%12ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK>0 ED=13    ]:%RED%13ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK>0 ED=14    ]:%RED%14ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+ItemDisplay[!ETH SUP SOCK>0 ED=15    ]:%PURPLE%15ed %GRAY%%SOCKETS%os %NAME%%CONTINUE%//
+
+
+///// Normal
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[!ETH !SUP SOCK>0 NMAG !RW]:%GRAY%%SOCKETS%os %GRAY%%NAME%%CONTINUE%//
-ItemDisplay[!ETH !SUP SOCK>0 MAG]:%GRAY%%SOCKETS%os %BLUE%%NAME%%CONTINUE%//
-ItemDisplay[!ETH !SUP SOCK>0 RARE]:%GRAY%%SOCKETS%os %YELLOW%%NAME%%CONTINUE%//
-ItemDisplay[!ETH !SUP SOCK>0 UNI]:%GRAY%%SOCKETS%os %GOLD%%NAME%%CONTINUE%//
-ItemDisplay[!ETH !SUP SOCK>0 SET]:%GRAY%%SOCKETS%os %GREEN%%NAME%%CONTINUE%//
-ItemDisplay[!ETH !SUP SOCK>0 CRAFT]:%GRAY%%SOCKETS%os %ORANGE%%NAME%%CONTINUE%//
+ItemDisplay[!ETH !SUP SOCK>0 MAG     ]:%GRAY%%SOCKETS%os %BLUE%%NAME%%CONTINUE%//
+ItemDisplay[!ETH !SUP SOCK>0 RARE    ]:%GRAY%%SOCKETS%os %YELLOW%%NAME%%CONTINUE%//
+ItemDisplay[!ETH !SUP SOCK>0 UNI     ]:%GRAY%%SOCKETS%os %GOLD%%NAME%%CONTINUE%//
+ItemDisplay[!ETH !SUP SOCK>0 SET     ]:%GRAY%%SOCKETS%os %GREEN%%NAME%%CONTINUE%//
+ItemDisplay[!ETH !SUP SOCK>0 CRAFT   ]:%GRAY%%SOCKETS%os %ORANGE%%NAME%%CONTINUE%//
 
-///// Inferior /////
+
+///// Inferior
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[INF]:%WHITE%[Inf] %NAME%%CONTINUE%//
+

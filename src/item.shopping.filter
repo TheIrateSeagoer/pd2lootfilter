@@ -17,9 +17,9 @@
 
 
 ///// Charms  /////
-ItemDisplay[MAG ID cm1]:%BLUE%Small Charm%CONTINUE%//
-ItemDisplay[MAG ID cm2]:%BLUE%Large Charm%CONTINUE%//
-ItemDisplay[MAG ID cm3]:%BLUE%Grand Charm%CONTINUE%//
+ItemDisplay[MAG ID cm1]:%CONTINUE%//
+ItemDisplay[MAG ID cm2]:%CONTINUE%//
+ItemDisplay[MAG ID cm3]:%CONTINUE%//
 
 ///// Prefixes ////////// Prefixes ////////// Prefixes ////////// Prefixes ////////// Prefixes ////////// Prefixes /////
 
@@ -183,6 +183,11 @@ ItemDisplay[MAG cm2 STAT19>0 STAT19<36]:%NAME% %GRAY%:( Attack Rating%CONTINUE%/
 ItemDisplay[MAG cm3 STAT19=132]:%NAME% %RED%Max Attack Rating%CONTINUE%//
 ItemDisplay[MAG cm3 STAT19>0 STAT19<132]:%NAME% %GRAY%:( Attack Rating%CONTINUE%//
 
+
+///// Suffixes ////////// Suffixes ////////// Suffixes ////////// Suffixes ////////// Suffixes //////
+ItemDisplay[MAG ID cm1]:%NAME% %BLUE%Small Charm%CONTINUE%//
+ItemDisplay[MAG ID cm2]:%NAME% %BLUE%Large Charm%CONTINUE%//
+ItemDisplay[MAG ID cm3]:%NAME% %BLUE%Grand Charm%CONTINUE%//
 ///// Suffixes ////////// Suffixes ////////// Suffixes ////////// Suffixes ////////// Suffixes //////
 
 ///// Life /////

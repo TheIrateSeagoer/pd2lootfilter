@@ -1,19 +1,31 @@
-///// Rings /////
-ItemDisplay[SET !ID rin]:%RED%ooooo %GREEN%%NAME% %RED%ooooo%DOT-81%//
+///// Rings
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[SET !ID rin]:%GREEN%%NAME%%CONTINUE%//
 
-///// Amulets /////
-ItemDisplay[SET !ID amu]:%RED%ooooo %GREEN%%NAME% %RED%ooooo%DOT-81%//
 
-///// Gloves /////
-ItemDisplay[SET !ID tgl]:%GREEN%Arctic/Iratha%DOT-81%//
+///// Amulets
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[SET !ID amu]:%GREEN%%NAME%%CONTINUE%//
 
-///// Helms /////
-ItemDisplay[SET !ID cap]:%GREEN%Infernal/Sander%DOT-81%//
-ItemDisplay[SET !ID crn]:%GREEN%Iratha/Milabrega%DOT-81%//
 
-///// Boots /////
-ItemDisplay[SET !ID vbt]:%GREEN%Cow King/Sander%DOT-81%//
+///// Gloves
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[SET !ID tgl]:%GREEN%Arctic/Iratha%CONTINUE%//
 
-///// Belts /////
-ItemDisplay[SET !ID mbl]:%GREEN%Hsaru/Hwanin%DOT-81%//
-ItemDisplay[SET !ID tbl]:%GREEN%Infernal/Iratha%DOT-81%//
+
+///// Helms
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[SET !ID cap]:%GREEN%Infernal/Sander%CONTINUE%//
+ItemDisplay[SET !ID crn]:%GREEN%Iratha/Milabrega%CONTINUE%//
+
+
+///// Boots
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[SET !ID vbt]:%GREEN%Cow King/Sander%CONTINUE%//
+
+
+///// Belts
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[SET !ID mbl]:%GREEN%Hsaru/Hwanin%CONTINUE%//
+ItemDisplay[SET !ID tbl]:%GREEN%Infernal/Iratha%CONTINUE%//
+

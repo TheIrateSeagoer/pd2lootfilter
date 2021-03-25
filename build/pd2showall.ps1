@@ -16,18 +16,18 @@ ForEach-Object{
 
 Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter', 
 '.\obj\common.lod.filter', '.\obj\common.pd2.filter', 
-'.\obj\item.prefix.filter', '.\obj\item.treasureclass.filter', 
+'.\obj\item.prefix.filter', 
 '.\obj\item.crafting.filter', 
-'.\obj\item.suffix.filter', '.\obj\item.shopping.filter', 
+'.\obj\item.suffix.filter', '.\obj\item.shopping.filter', '.\obj\item.colorfix.filter', 
 '.\obj\bases.filter', '.\obj\bases.larzuk.filter', 
 '.\obj\item.colorfix.filter', 
 '.\obj\item.description.filter', 
 '.\obj\arreat.normal.filter', '.\obj\arreat.exceptional.filter', '.\obj\arreat.elite.filter', 
 '.\obj\set.shared.filter', '.\obj\set.normal.filter', '.\obj\set.exceptional.filter', '.\obj\set.elite.filter', 
 '.\obj\unique.shared.filter', '.\obj\unique.normal.filter', '.\obj\unique.exceptional.filter', '.\obj\unique.elite.filter', 
-'.\obj\catchall.filter' | Set-Content '.\bin\treasureclass.filter'
+'.\obj\catchall.showall.filter' | Set-Content '.\bin\show-all-items.filter'
 
-if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2') { Copy-Item '.\bin\treasureclass.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2\loot.filter' }
-if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg') { Copy-Item '.\bin\treasureclass.filter' -Destination 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg' }
+if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2') { Copy-Item '.\bin\show-all-items.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2\loot.filter' }
+if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg') { Copy-Item '.\bin\show-all-items.filter' -Destination 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg' }
 
-Copy-Item '.\bin\treasureclass.filter' -Destination '..\treasureclass.filter'
+Copy-Item '.\bin\show-all-items.filter' -Destination '..\show-all-items.filter'

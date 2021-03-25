@@ -1,186 +1,143 @@
-///// Gold /////
-ItemDisplay[GOLD<5000 CLVL>89]://
-ItemDisplay[GOLD<3000 CLVL>79]://
-ItemDisplay[GOLD<2000 CLVL>39]://
-ItemDisplay[GOLD<1000 CLVL>19]://
-ItemDisplay[GOLD<500 CLVL>9]://
-ItemDisplay[GOLD<100]://
+///// Ammo
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[aqv]:%NAME%%CONTINUE%//
+ItemDisplay[cqv]:%NAME%%CONTINUE%//
 
-///// Ammo /////
-ItemDisplay[aqv CLVL>4]://
-ItemDisplay[aqv CLVL<5]:%NAME%//
 
-ItemDisplay[cqv CLVL>4]://
-ItemDisplay[cqv CLVL<5]:%NAME%//
+///// Potions
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[hp1]:%RED%@%WHITE%Minor%CONTINUE%//
+ItemDisplay[hp2]:%RED%@%WHITE%Light%CONTINUE%//
+ItemDisplay[hp3]:%RED%@%WHITE%Healing%CONTINUE%//
+ItemDisplay[hp4]:%RED%@%WHITE%Greater%CONTINUE%//
+ItemDisplay[hp5]:%RED%@%WHITE%Super%CONTINUE%//
 
-///// Junk /////
-ItemDisplay[ear]://
+ItemDisplay[mp1]:%BLUE%@%WHITE%Minor%CONTINUE%//
+ItemDisplay[mp2]:%BLUE%@%WHITE%Light%CONTINUE%//
+ItemDisplay[mp3]:%BLUE%@%WHITE%Mana%CONTINUE%//
+ItemDisplay[mp4]:%BLUE%@%WHITE%Greater%CONTINUE%//
+ItemDisplay[mp5]:%BLUE%@%WHITE%Super%CONTINUE%//
 
-///// Potions /////
-ItemDisplay[hp1 CLVL>29]://
-ItemDisplay[hp1 CLVL<30]:%RED%@%WHITE%Minor//
+ItemDisplay[rvs]:%PURPLE%@%WHITE%Rejuv%CONTINUE%//
+ItemDisplay[rvl]:%PURPLE%@%WHITE%Full%CONTINUE%//
 
-ItemDisplay[hp2 CLVL>29]://
-ItemDisplay[hp2 CLVL<30]:%RED%@%WHITE%Light//
+ItemDisplay[yps]:%GREEN%@%WHITE%Anti%CONTINUE%//
+ItemDisplay[wms]:%GREEN%@%WHITE%Thaw%CONTINUE%//
+ItemDisplay[vps]:%WHITE%@%WHITE%Stamina%CONTINUE%//
 
-ItemDisplay[hp3 CLVL>49]://
-ItemDisplay[hp3 CLVL<50]:%RED%@%WHITE%Healing//
+ItemDisplay[opl]:%GRAY%@%WHITE%Fulminating%CONTINUE%//
+ItemDisplay[opm]:%GRAY%@%WHITE%Exploding%CONTINUE%//
+ItemDisplay[ops]:%GRAY%@%WHITE%Oil%CONTINUE%//
+ItemDisplay[gpl]:%GRAY%@%WHITE%Strangling%CONTINUE%//
+ItemDisplay[gpm]:%GRAY%@%WHITE%Choking%CONTINUE%//
+ItemDisplay[gps]:%GRAY%@%WHITE%Rancid%CONTINUE%//
 
-ItemDisplay[hp4 (CLVL>79 OR DIFF>1)]://
-ItemDisplay[hp4 CLVL<80]:%RED%@%WHITE%Greater//
 
-ItemDisplay[hp5 DIFF<2]:%RED%@%WHITE%Super//
-ItemDisplay[hp5 DIFF=2]:%RED%@%WHITE%HP//
+///// Scrolls + Tome + Key
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[tbk]:%NAME%%CONTINUE%//
+ItemDisplay[ibk]:%NAME%%CONTINUE%//
+ItemDisplay[tsc]:%WHITE%Town%CONTINUE%//
+ItemDisplay[isc]:%WHITE%Ident%CONTINUE%//
+ItemDisplay[key]:%NAME%%CONTINUE%//
 
-ItemDisplay[mp1 CLVL>29]://
-ItemDisplay[mp1 CLVL<30]:%BLUE%@%WHITE%Minor//
 
-ItemDisplay[mp2 CLVL>29]://
-ItemDisplay[mp2 CLVL<30]:%BLUE%@%WHITE%Light//
+///// Chipped Gems
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[gcv]:%DARK_GREEN%Chipped Amethyst%WHITE%%CONTINUE%//
+ItemDisplay[gcy]:%DARK_GREEN%Chipped Topaz%WHITE%%CONTINUE%//
+ItemDisplay[gcb]:%DARK_GREEN%Chipped Sapphire%WHITE%%CONTINUE%//
+ItemDisplay[gcg]:%DARK_GREEN%Chipped Emerald%WHITE%%CONTINUE%//
+ItemDisplay[gcr]:%DARK_GREEN%Chipped Ruby%WHITE%%CONTINUE%//
+ItemDisplay[gcw]:%DARK_GREEN%Chipped Diamond%WHITE%%CONTINUE%//
+ItemDisplay[skc]:%DARK_GREEN%Chipped Skull%WHITE%%CONTINUE%//
 
-ItemDisplay[mp3 CLVL>49]://
-ItemDisplay[mp3 CLVL<50]:%BLUE%@%WHITE%Mana//
 
-ItemDisplay[mp4 (CLVL>79 OR DIFF>1)]://
-ItemDisplay[mp4 CLVL<80]:%BLUE%@%WHITE%Greater//
+///// Flawed Gems
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[gfv]:%DARK_GREEN%Flawed Amethyst%WHITE%%CONTINUE%//
+ItemDisplay[gfy]:%DARK_GREEN%Flawed Topaz%WHITE%%CONTINUE%//
+ItemDisplay[gfb]:%DARK_GREEN%Flawed Sapphire%WHITE%%CONTINUE%//
+ItemDisplay[gfg]:%DARK_GREEN%Flawed Emerald%WHITE%%CONTINUE%//
+ItemDisplay[gfr]:%DARK_GREEN%Flawed Ruby%WHITE%%CONTINUE%//
+ItemDisplay[gfw]:%DARK_GREEN%Flawed Diamond%WHITE%%CONTINUE%//
+ItemDisplay[skf]:%DARK_GREEN%Flawed Skull%WHITE%%CONTINUE%//
 
-ItemDisplay[mp5 DIFF<2]:%BLUE%@%WHITE%Super//
-ItemDisplay[mp5 DIFF=2]:%BLUE%@%WHITE%MP//
 
-ItemDisplay[rvs DIFF<2]:%PURPLE%@%WHITE%Rejuv//
-ItemDisplay[rvs DIFF=2]:%PURPLE%@%WHITE%35//
+///// Gems
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[gsv]:%DARK_GREEN%Amethyst%WHITE%%CONTINUE%//
+ItemDisplay[gsy]:%DARK_GREEN%Topaz%WHITE%%CONTINUE%//
+ItemDisplay[gsb]:%DARK_GREEN%Sapphire%WHITE%%CONTINUE%//
+ItemDisplay[gsg]:%DARK_GREEN%Emerald%WHITE%%CONTINUE%//
+ItemDisplay[gsr]:%DARK_GREEN%Ruby%WHITE%%CONTINUE%//
+ItemDisplay[gsw]:%DARK_GREEN%Diamond%WHITE%%CONTINUE%//
+ItemDisplay[sku]:%DARK_GREEN%Skull%WHITE%%CONTINUE%//
 
-ItemDisplay[rvl]:%PURPLE%@%WHITE%Full//
-ItemDisplay[yps]:%GREEN%@%WHITE%Anti//
-ItemDisplay[wms DIFF>0]://
-ItemDisplay[wms DIFF=0]:%GREEN%@%WHITE%Thaw//
 
-ItemDisplay[vps CLVL>19]://
-ItemDisplay[vps CLVL<20]:%WHITE%@%WHITE%Stamina//
+///// Flawless Gems
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[gzv]:%ORANGE%o Flawless Amethyst o%WHITE%%CONTINUE%//
+ItemDisplay[gly]:%ORANGE%o Flawless Topaz o%WHITE%%CONTINUE%//
+ItemDisplay[glb]:%ORANGE%o Flawless Sapphire o%WHITE%%CONTINUE%//
+ItemDisplay[glg]:%ORANGE%o Flawless Emerald o%WHITE%%CONTINUE%//
+ItemDisplay[glr]:%ORANGE%o Flawless Ruby o%WHITE%%CONTINUE%//
+ItemDisplay[glw]:%ORANGE%o Flawless Diamond o%WHITE%%CONTINUE%//
+ItemDisplay[skl]:%ORANGE%o Flawless Skull o%WHITE%%CONTINUE%//
 
-ItemDisplay[opl CLVL>19]://
-ItemDisplay[opl CLVL<20]:%GRAY%@%WHITE%Fulminating//
 
-ItemDisplay[opm CLVL>19]://
-ItemDisplay[opm CLVL<20]:%GRAY%@%WHITE%Exploding//
+///// Perfect Gems
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[gpv]:%ORANGE%o %RED%Perfect Amethyst %ORANGE%o%WHITE%%CONTINUE%//
+ItemDisplay[gpy]:%ORANGE%o %RED%Perfect Topaz %ORANGE%o%WHITE%%CONTINUE%//
+ItemDisplay[gpb]:%ORANGE%o %RED%Perfect Sapphire %ORANGE%o%WHITE%%CONTINUE%//
+ItemDisplay[gpg]:%ORANGE%o %RED%Perfect Emerald %ORANGE%o%WHITE%%CONTINUE%//
+ItemDisplay[gpr]:%ORANGE%o %RED%Perfect Ruby %ORANGE%o%WHITE%%CONTINUE%//
+ItemDisplay[gpw]:%ORANGE%o %RED%Perfect Diamond %ORANGE%o%WHITE%%CONTINUE%//
+ItemDisplay[skz]:%ORANGE%o %RED%Perfect Skull %ORANGE%o%WHITE%%CONTINUE%//
 
-ItemDisplay[ops CLVL>19]://
-ItemDisplay[ops CLVL<20]:%GRAY%@%WHITE%Oil//
 
-ItemDisplay[gpl CLVL>19]://
-ItemDisplay[gpl CLVL<20]:%GRAY%@%WHITE%Strangling//
+///// Normal Runes
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[r01]:%ORANGE%[01] El Rune%ORANGE%%CONTINUE%//
+ItemDisplay[r02]:%ORANGE%[02] Eld Rune%ORANGE%%CONTINUE%//
+ItemDisplay[r03]:%ORANGE%o [03] Tir Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r04]:%ORANGE%o [04] Nef Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r05]:%ORANGE%o [05] Eth Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r06]:%ORANGE%o [06] Ith Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r07]:%ORANGE%o [07] Tal Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r08]:%ORANGE%o [08] Ral Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r09]:%ORANGE%o [09] Ort Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r10]:%ORANGE%o [10] Thul Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r11]:%ORANGE%o [11] Amn Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r12]:%ORANGE%o [12] Sol Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r13]:%ORANGE%[13] Shael Rune%ORANGE%%CONTINUE%//
+ItemDisplay[r14]:%ORANGE%[14] Dol Rune%ORANGE%%CONTINUE%//
 
-ItemDisplay[gpm CLVL>19]://
-ItemDisplay[gpm CLVL<20]:%GRAY%@%WHITE%Choking//
 
-ItemDisplay[gps CLVL>19]://
-ItemDisplay[gps CLVL<20]:%GRAY%@%WHITE%Rancid//
+///// Nightmare Runes
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[r15]:%RED%ooo [15] Hel Rune ooo%ORANGE%%CONTINUE%//
+ItemDisplay[r16]:%RED%ooo [16] Io Rune ooo%ORANGE%%CONTINUE%//
+ItemDisplay[r17]:%RED%ooo [17] Lum Rune ooo%ORANGE%%CONTINUE%//
+ItemDisplay[r18]:%RED%ooo [18] Ko Rune ooo%ORANGE%%CONTINUE%//
+ItemDisplay[r19]:%RED%ooo [19] Fal Rune ooo%ORANGE%%CONTINUE%//
+ItemDisplay[r20]:%RED%ooo [20] Lem Rune ooo%ORANGE%%CONTINUE%//
+ItemDisplay[r21]:%RED%oooO [21] Pul Rune oooo%ORANGE%%CONTINUE%//
+ItemDisplay[r22]:%RED%oooo [22] Um Rune oooo%ORANGE%%CONTINUE%//
+ItemDisplay[r23]:%RED%oooo [23] Mal Rune oooo%ORANGE%%CONTINUE%//
+ItemDisplay[r24]:%RED%oooo [24] Ist Rune oooo%ORANGE%%CONTINUE%//
 
-///// Scrolls+Tome+Key /////
-ItemDisplay[tbk]:%NAME%//
-ItemDisplay[ibk]:%NAME%//
-ItemDisplay[tsc (CLVL>59 OR DIFF>0)]://
-ItemDisplay[tsc DIFF>0]:TP//
-ItemDisplay[tsc]:Town//
-ItemDisplay[isc (CLVL>59 OR DIFF>0)]://
-ItemDisplay[isc DIFF>0]:ID//
-ItemDisplay[isc]:Ident//
-ItemDisplay[key]:Key{%TAN%See Gem for uses%NL%See Rune/Item for uses%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Nef-Sol)%GRAY%+%BLUE%Item%GRAY%)}//
 
-///// Chipped Gems /////
-ItemDisplay[gcv DIFF>0]://
-ItemDisplay[gcy DIFF>0]://
-ItemDisplay[gcb DIFF>0]://
-ItemDisplay[gcg DIFF>0]://
-ItemDisplay[gcr DIFF>0]://
-ItemDisplay[gcw DIFF>0]://
-ItemDisplay[skc DIFF>0]://
-ItemDisplay[gcv]:%DARK_GREEN%Chipped Amethyst%WHITE%//
-ItemDisplay[gcy]:%DARK_GREEN%Chipped Topaz%WHITE%//
-ItemDisplay[gcb]:%DARK_GREEN%Chipped Sapphire%WHITE%//
-ItemDisplay[gcg]:%DARK_GREEN%Chipped Emerald%WHITE%//
-ItemDisplay[gcr]:%DARK_GREEN%Chipped Ruby%WHITE%//
-ItemDisplay[gcw]:%DARK_GREEN%Chipped Diamond%WHITE%//
-ItemDisplay[skc]:%DARK_GREEN%Chipped Skull%WHITE%//
+///// Hell Runes
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[r25]:%PURPLE%oooo [25] Gul Rune oooo%ORANGE%%CONTINUE%//
+ItemDisplay[r26]:%PURPLE%oooo [26] Vex Rune oooo%ORANGE%%CONTINUE%//
+ItemDisplay[r27]:%PURPLE%oooo [27] Ohm Rune oooo%ORANGE%%CONTINUE%//
+ItemDisplay[r28]:%PURPLE%oooo [28] Lo Rune oooo%ORANGE%%CONTINUE%//
+ItemDisplay[r29]:%PURPLE%oooo [29] Sur Rune oooo%ORANGE%%CONTINUE%//
+ItemDisplay[r30]:%PURPLE%ooooo [30] Ber Rune ooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r31]:%PURPLE%ooooo [31] Jah Rune ooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r32]:%PURPLE%ooooo [32] Cham Rune ooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r33]:%PURPLE%ooooo [33] Zod Rune ooooo%ORANGE%%CONTINUE%//
 
-///// Flawed Gems /////
-ItemDisplay[gfv DIFF>0]://
-ItemDisplay[gfy DIFF>0]://
-ItemDisplay[gfb DIFF>0]://
-ItemDisplay[gfg DIFF>0]://
-ItemDisplay[gfr DIFF>0]://
-ItemDisplay[gfw DIFF>0]://
-ItemDisplay[skf DIFF>0]://
-ItemDisplay[gfv]:%DARK_GREEN%Flawed Amethyst%WHITE%//
-ItemDisplay[gfy]:%DARK_GREEN%Flawed Topaz%WHITE%//
-ItemDisplay[gfb]:%DARK_GREEN%Flawed Sapphire%WHITE%//
-ItemDisplay[gfg]:%DARK_GREEN%Flawed Emerald%WHITE%//
-ItemDisplay[gfr]:%DARK_GREEN%Flawed Ruby%WHITE%//
-ItemDisplay[gfw]:%DARK_GREEN%Flawed Diamond%WHITE%//
-ItemDisplay[skf]:%DARK_GREEN%Flawed Skull%WHITE%//
-
-///// Gems /////
-ItemDisplay[gsv]:%DARK_GREEN%Amethyst%WHITE%//
-ItemDisplay[gsy]:%DARK_GREEN%Topaz%WHITE%//
-ItemDisplay[gsb]:%DARK_GREEN%Sapphire%WHITE%//
-ItemDisplay[gsg]:%DARK_GREEN%Emerald%WHITE%//
-ItemDisplay[gsr]:%DARK_GREEN%Ruby%WHITE%//
-ItemDisplay[gsw]:%DARK_GREEN%Diamond%WHITE%//
-ItemDisplay[sku]:%DARK_GREEN%Skull%WHITE%//
-
-///// Flawless Gems /////
-ItemDisplay[gzv]:%ORANGE%o Flawless Amethyst o%WHITE%{%TAN%Upgrade %YELLOW%Armor%ORANGE%Caster Crafting}%DOT-60%//
-ItemDisplay[gly]:%ORANGE%o Flawless Topaz o%WHITE%{%TAN%Reroll %BLUE%Grand Charm}%DOT-60%//
-ItemDisplay[glb]:%ORANGE%o Flawless Sapphire o%WHITE%{%TAN%Upgrade %YELLOW%Weapon%ORANGE%Power Crafting}%DOT-60%//
-ItemDisplay[glg]:%ORANGE%o Flawless Emerald o%WHITE%{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%ORANGE%Safety Crafting}%DOT-60%//
-ItemDisplay[glr]:%ORANGE%o Flawless Ruby o%WHITE%{%ORANGE%Blood Crafting}%DOT-60%//
-ItemDisplay[glw]:%ORANGE%o Flawless Diamond o%WHITE%{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-60%//
-ItemDisplay[skl]:%ORANGE%o Flawless Skull o%WHITE%{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-60%//
-
-///// Perfect Gems /////
-ItemDisplay[gpv]:%ORANGE%o %RED%Perfect Amethyst %ORANGE%o%WHITE%{%TAN%Upgrade %YELLOW%Armor%ORANGE%Caster Crafting}%DOT-0A%//
-ItemDisplay[gpy]:%ORANGE%o %RED%Perfect Topaz %ORANGE%o%WHITE%{%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
-ItemDisplay[gpb]:%ORANGE%o %RED%Perfect Sapphire %ORANGE%o%WHITE%{%TAN%Upgrade %YELLOW%Weapon%ORANGE%Power Crafting}%DOT-0A%//
-ItemDisplay[gpg]:%ORANGE%o %RED%Perfect Emerald %ORANGE%o%WHITE%{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%ORANGE%Safety Crafting}%DOT-0A%//
-ItemDisplay[gpr]:%ORANGE%o %RED%Perfect Ruby %ORANGE%o%WHITE%{%ORANGE%Blood Crafting}%DOT-0A%//
-ItemDisplay[gpw]:%ORANGE%o %RED%Perfect Diamond %ORANGE%o%WHITE%{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%DOT-0A%//
-ItemDisplay[skz]:%ORANGE%o %RED%Perfect Skull %ORANGE%o%WHITE%{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%DOT-0A%//
-
-///// Normal Runes /////
-ItemDisplay[r01]:%ORANGE%[01] El Rune{%NAME%%TAN%Rune Number:  1}%DOT-60%//
-ItemDisplay[r02]:%ORANGE%[02] Eld Rune{%NAME%%TAN%Rune Number:  2}%DOT-60%//
-ItemDisplay[r03]:%ORANGE%o [03] Tir Rune o{%NAME%%TAN%Rune Number:  3}%DOT-60%//
-ItemDisplay[r04]:%ORANGE%o [04] Nef Rune o{%NAME%%TAN%Rune Number:  4}%DOT-60%//
-ItemDisplay[r05]:%ORANGE%o [05] Eth Rune o{%NAME%%TAN%Rune Number:  5}%DOT-60%//
-ItemDisplay[r06]:%ORANGE%o [06] Ith Rune o{%NAME%%TAN%Rune Number:  6}%DOT-60%//
-ItemDisplay[r07]:%ORANGE%o [07] Tal Rune o{%NAME%%TAN%Rune Number:  7}%DOT-60%//
-ItemDisplay[r08]:%ORANGE%o [08] Ral Rune o{%NAME%%TAN%Rune Number:  8}%DOT-60%//
-ItemDisplay[r09]:%ORANGE%o [09] Ort Rune o{%NAME%%TAN%Rune Number:  9}%DOT-60%//
-ItemDisplay[r10]:%ORANGE%o [10] Thul Rune o{%NAME%%TAN%Rune Number: 10}%DOT-60%//
-ItemDisplay[r11]:%ORANGE%o [11] Amn Rune o{%NAME%%TAN%Rune Number: 11}%DOT-60%//
-ItemDisplay[r12]:%ORANGE%o [12] Sol Rune o{%NAME%%TAN%Rune Number: 12}%DOT-60%//
-ItemDisplay[r13]:%ORANGE%[13] Shael Rune{%NAME%%TAN%Rune Number: 13}%DOT-60%//
-ItemDisplay[r14]:%ORANGE%[14] Dol Rune{%NAME%%TAN%Rune Number: 14}%DOT-60%//
-
-///// Nightmare Runes /////
-ItemDisplay[r15]:%RED%ooo [15] Hel Rune ooo%ORANGE%{%NAME%%TAN%Rune Number: 15}%MAP-0A%//
-ItemDisplay[r16]:%RED%ooo [16] Io Rune ooo%ORANGE%{%NAME%%TAN%Rune Number: 16}%MAP-0A%//
-ItemDisplay[r17]:%RED%ooo [17] Lum Rune ooo%ORANGE%{%NAME%%TAN%Rune Number: 17}%MAP-0A%//
-ItemDisplay[r18]:%RED%ooo [18] Ko Rune ooo%ORANGE%{%NAME%%TAN%Rune Number: 18}%MAP-0A%//
-ItemDisplay[r19]:%RED%ooo [19] Fal Rune ooo%ORANGE%{%NAME%%TAN%Rune Number: 19}%MAP-0A%//
-ItemDisplay[r20]:%RED%ooo [20] Lem Rune ooo%ORANGE%{%NAME%%TAN%Rune Number: 20}%MAP-0A%//
-ItemDisplay[r21]:%RED%oooO [21] Pul Rune oooo%ORANGE%{%NAME%%TAN%Rune Number: 21}%MAP-0A%//
-ItemDisplay[r22]:%RED%oooo [22] Um Rune oooo%ORANGE%{%NAME%%TAN%Rune Number: 22}%MAP-0A%//
-ItemDisplay[r23]:%RED%oooo [23] Mal Rune oooo%ORANGE%{%NAME%%TAN%Rune Number: 23}%MAP-0A%//
-ItemDisplay[r24]:%RED%oooo [24] Ist Rune oooo%ORANGE%{%NAME%%TAN%Rune Number: 24}%MAP-0A%//
-
-///// Hell Runes /////
-ItemDisplay[r25]:%PURPLE%oooo [25] Gul Rune oooo%ORANGE%{%NAME%%TAN%Rune Number: 25}%BORDER-9B%//
-ItemDisplay[r26]:%PURPLE%oooo [26] Vex Rune oooo%ORANGE%{%NAME%%TAN%Rune Number: 26}%BORDER-9B%//
-ItemDisplay[r27]:%PURPLE%oooo [27] Ohm Rune oooo%ORANGE%{%NAME%%TAN%Rune Number: 27}%BORDER-9B%//
-ItemDisplay[r28]:%PURPLE%oooo [28] Lo Rune oooo%ORANGE%{%NAME%%TAN%Rune Number: 28}%BORDER-9B%//
-ItemDisplay[r29]:%PURPLE%oooo [29] Sur Rune oooo%ORANGE%{%NAME%%TAN%Rune Number: 29}%BORDER-9B%//
-ItemDisplay[r30]:%PURPLE%ooooo [30] Ber Rune ooooo%ORANGE%{%NAME%%TAN%Rune Number: 30}%BORDER-9B%//
-ItemDisplay[r31]:%PURPLE%ooooo [31] Jah Rune ooooo%ORANGE%{%NAME%%TAN%Rune Number: 31}%BORDER-9B%//
-ItemDisplay[r32]:%PURPLE%ooooo [32] Cham Rune ooooo%ORANGE%{%NAME%%TAN%Rune Number: 32}%BORDER-9B%//
-ItemDisplay[r33]:%PURPLE%ooooo [33] Zod Rune ooooo%ORANGE%{%NAME%%TAN%Rune Number: 33}%BORDER-9B%//

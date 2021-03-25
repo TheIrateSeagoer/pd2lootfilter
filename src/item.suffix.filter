@@ -1,4 +1,5 @@
-///// Helms /////
+///// Normal Helms
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG cap ED=0 DEF=5  ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG skp ED=0 DEF=11 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG hlm ED=0 DEF=18 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -7,6 +8,10 @@ ItemDisplay[NMAG ghm ED=0 DEF=35 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG msk ED=0 DEF=27 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG crn ED=0 DEF=45 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG bhm ED=0 DEF=36 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
+
+
+///// Exceptional Helms
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG xap ED=0 DEF=53 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xkp ED=0 DEF=62 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xlm ED=0 DEF=72 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -15,6 +20,10 @@ ItemDisplay[NMAG xhm ED=0 DEF=98 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xsk ED=0 DEF=86 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xrn ED=0 DEF=113]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xh9 ED=0 DEF=125]:%NAME% %PURPLE%Perfect%CONTINUE%//
+
+
+///// Elite Helms
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG uap ED=0 DEF=141]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG ukp ED=0 DEF=145]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG ulm ED=0 DEF=149]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -24,7 +33,9 @@ ItemDisplay[NMAG usk ED=0 DEF=154]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG urn ED=0 DEF=165]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG uh9 ED=0 DEF=157]:%NAME% %PURPLE%Perfect%CONTINUE%//
 
-///// Armors /////
+
+///// Normal Armors
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG qui ED=0 DEF=11 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG lea ED=0 DEF=17 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG hla ED=0 DEF=24 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -40,6 +51,9 @@ ItemDisplay[NMAG plt ED=0 DEF=116]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG gth ED=0 DEF=135]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG ful ED=0 DEF=161]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG aar ED=0 DEF=233]:%NAME% %PURPLE%Perfect%CONTINUE%//
+
+///// Exceptional Armors
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG xui ED=0 DEF=117]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xea ED=0 DEF=126]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xla ED=0 DEF=136]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -55,6 +69,9 @@ ItemDisplay[NMAG xlt ED=0 DEF=274]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xth ED=0 DEF=303]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xul ED=0 DEF=342]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xar ED=0 DEF=450]:%NAME% %PURPLE%Perfect%CONTINUE%//
+
+///// Elite Armors
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG uui ED=0 DEF=467]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG uea ED=0 DEF=470]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG ula ED=0 DEF=474]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -71,7 +88,9 @@ ItemDisplay[NMAG uth ED=0 DEF=541]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG uul ED=0 DEF=557]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG uar ED=0 DEF=600]:%NAME% %PURPLE%Perfect%CONTINUE%//
 
-///// Shields /////
+
+///// Normal Shields
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG buc ED=0 DEF=6  ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG sml ED=0 DEF=10 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG lrg ED=0 DEF=14 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -80,6 +99,10 @@ ItemDisplay[NMAG spk ED=0 DEF=25 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG tow ED=0 DEF=25 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG bsh ED=0 DEF=30 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG gts ED=0 DEF=35 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
+
+
+///// Exceptional Shields
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG xuc ED=0 DEF=49 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xml ED=0 DEF=55 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xrg ED=0 DEF=61 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -88,6 +111,10 @@ ItemDisplay[NMAG xit ED=0 DEF=67 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xsh ED=0 DEF=150]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xow ED=0 DEF=78 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xts ED=0 DEF=93 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
+
+
+///// Elite Shields
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG uuc ED=0 DEF=110]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG uml ED=0 DEF=123]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG urg ED=0 DEF=135]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -97,62 +124,90 @@ ItemDisplay[NMAG uow ED=0 DEF=161]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG ush ED=0 DEF=173]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG uts ED=0 DEF=170]:%NAME% %PURPLE%Perfect%CONTINUE%//
 
-///// Gloves /////
+
+///// Normal Gloves
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG lgl ED=0 DEF=3 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG vgl ED=0 DEF=6 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG mgl ED=0 DEF=9 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG tgl ED=0 DEF=11]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG hgl ED=0 DEF=15]:%NAME% %PURPLE%Perfect%CONTINUE%//
+
+
+///// Exceptional Gloves
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG xlg ED=0 DEF=35]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xvg ED=0 DEF=39]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xmg ED=0 DEF=44]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xtg ED=0 DEF=47]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xhg ED=0 DEF=53]:%NAME% %PURPLE%Perfect%CONTINUE%//
+
+
+///// Elite Gloves
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG ulg ED=0 DEF=62]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG uvg ED=0 DEF=65]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG umg ED=0 DEF=67]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG utg ED=0 DEF=68]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG uhg ED=0 DEF=71]:%NAME% %PURPLE%Perfect%CONTINUE%//
 
-///// Boots /////
+
+///// Normal Boots
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG lbt ED=0 DEF=3 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG vbt ED=0 DEF=6 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG mbt ED=0 DEF=9 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG tbt ED=0 DEF=11]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG hbt ED=0 DEF=15]:%NAME% %PURPLE%Perfect%CONTINUE%//
+
+
+///// Exceptional Boots
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG xlb ED=0 DEF=35]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xvb ED=0 DEF=39]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xmb ED=0 DEF=44]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xtb ED=0 DEF=47]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG xhb ED=0 DEF=53]:%NAME% %PURPLE%Perfect%CONTINUE%//
+
+
+///// Elite Boots
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG ulb ED=0 DEF=62]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG uvb ED=0 DEF=65]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG umb ED=0 DEF=67]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG utb ED=0 DEF=67]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG uhb ED=0 DEF=71]:%NAME% %PURPLE%Perfect%CONTINUE%//
 
-///// Belts /////
+
+///// Normal Belts
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG lbl ED=0 DEF=2 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG vbl ED=0 DEF=3 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG mbl ED=0 DEF=5 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG tbl ED=0 DEF=6 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG hbl ED=0 DEF=11]:%NAME% %PURPLE%Perfect%CONTINUE%//
+
+
+///// Exceptional Belts
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG zlb ED=0 DEF=34]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG zvb ED=0 DEF=36]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG zmb ED=0 DEF=40]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG ztb ED=0 DEF=42]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG zhb ED=0 DEF=52]:%NAME% %PURPLE%Perfect%CONTINUE%//
+
+
+///// Elite Belts
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG ulc ED=0 DEF=62]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG uvc ED=0 DEF=63]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG umc ED=0 DEF=65]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG utc ED=0 DEF=66]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG uhc ED=0 DEF=71]:%NAME% %PURPLE%Perfect%CONTINUE%//
 
-///// Amulets /////
 
-///// Rings /////
-
-////////// Paladin Shields Resistance Auto Mod///////////
+///// Paladin Shields Resistance Auto Mod
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[DIN RES=1 ]:%NAME% %GRAY%[%GRAY%1%GRAY%]%CONTINUE%//
 ItemDisplay[DIN RES=2 ]:%NAME% %GRAY%[%GRAY%2%GRAY%]%CONTINUE%//
 ItemDisplay[DIN RES=3 ]:%NAME% %GRAY%[%GRAY%3%GRAY%]%CONTINUE%//
@@ -184,7 +239,9 @@ ItemDisplay[DIN RES=28]:%NAME% %GRAY%[%RED%28%GRAY%]%CONTINUE%//
 ItemDisplay[DIN RES=29]:%NAME% %GRAY%[%RED%29%GRAY%]%CONTINUE%//
 ItemDisplay[DIN RES=30]:%NAME% %GRAY%[%PURPLE%30%GRAY%]%CONTINUE%//
 
-////////// Paladin Shields Attack Auto Mod///////////
+
+///// Paladin Shields Attack Auto Mod
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[DIN STAT17=10]:%NAME% %GRAY%[%GRAY%10%GRAY%/%CONTINUE%//
 ItemDisplay[DIN STAT17=11]:%NAME% %GRAY%[%GRAY%11%GRAY%/%CONTINUE%//
 ItemDisplay[DIN STAT17=12]:%NAME% %GRAY%[%GRAY%12%GRAY%/%CONTINUE%//
@@ -350,7 +407,9 @@ ItemDisplay[DIN AR=119]:%NAME%%RED%119%GRAY%]%CONTINUE%//
 ItemDisplay[DIN AR=120]:%NAME%%RED%120%GRAY%]%CONTINUE%//
 ItemDisplay[DIN AR=121]:%NAME%%PURPLE%121%GRAY%]%CONTINUE%//
 
-///// Extended Armor Bases /////
+
+///// Extended Elite Armor Bases
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG uui ED=0 DEF=466]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[NMAG uui ED=0 DEF=465]:%NAME% %RED%99.6%%CONTINUE%//
 ItemDisplay[NMAG uui ED=0 DEF=464]:%NAME% %RED%99.4%%CONTINUE%//
@@ -743,6 +802,9 @@ ItemDisplay[NMAG uar ED=0 DEF=573]:%NAME% %RED%95.5%%CONTINUE%//
 ItemDisplay[NMAG uar ED=0 DEF=572]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[NMAG uar ED=0 DEF=571]:%NAME% %RED%95.2%%CONTINUE%//
 
+
+///// Extended Superior Elite Armor Bases
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[SUP uui DEF=537]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[SUP uui DEF=536]:%NAME% %RED%99.6%%CONTINUE%//
 ItemDisplay[SUP uui DEF=535]:%NAME% %RED%99.4%%CONTINUE%//
@@ -1194,6 +1256,9 @@ ItemDisplay[SUP uar DEF=659]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[SUP uar DEF=658]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[SUP uar DEF=657]:%NAME% %RED%95.1%%CONTINUE%//
 
+
+///// Extended Ethereal Elite Armor Bases
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[ETH uui ED=0 DEF=698]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH uui ED=0 DEF=697]:%NAME% %RED%99.7%%CONTINUE%//
 ItemDisplay[ETH uui ED=0 DEF=696]:%NAME% %RED%99.6%%CONTINUE%//
@@ -1301,11 +1366,11 @@ ItemDisplay[ETH ula ED=0 DEF=677]:%NAME% %RED%95.4%%CONTINUE%//
 ItemDisplay[ETH ula ED=0 DEF=676]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH ula ED=0 DEF=675]:%NAME% %RED%95.1%%CONTINUE%//
 
-ItemDisplay[ETH utu ED=0 DEF=719]:%DOT-0A%%NAME% %RED%99.9%%CONTINUE%//
-ItemDisplay[ETH utu ED=0 DEF=718]:%DOT-0A%%NAME% %RED%99.7%%CONTINUE%//
-ItemDisplay[ETH utu ED=0 DEF=717]:%DOT-0A%%NAME% %RED%99.6%%CONTINUE%//
-ItemDisplay[ETH utu ED=0 DEF=716]:%DOT-0A%%NAME% %RED%99.4%%CONTINUE%//
-ItemDisplay[ETH utu ED=0 DEF=715]:%DOT-0A%%NAME% %RED%99.3%%CONTINUE%//
+ItemDisplay[ETH utu ED=0 DEF=719]:%NAME% %RED%99.9%%CONTINUE%//
+ItemDisplay[ETH utu ED=0 DEF=718]:%NAME% %RED%99.7%%CONTINUE%//
+ItemDisplay[ETH utu ED=0 DEF=717]:%NAME% %RED%99.6%%CONTINUE%//
+ItemDisplay[ETH utu ED=0 DEF=716]:%NAME% %RED%99.4%%CONTINUE%//
+ItemDisplay[ETH utu ED=0 DEF=715]:%NAME% %RED%99.3%%CONTINUE%//
 ItemDisplay[ETH utu ED=0 DEF=714]:%NAME% %RED%99.2%%CONTINUE%//
 ItemDisplay[ETH utu ED=0 DEF=713]:%NAME% %RED%99.0%%CONTINUE%//
 ItemDisplay[ETH utu ED=0 DEF=712]:%NAME% %RED%98.9%%CONTINUE%//
@@ -1774,6 +1839,9 @@ ItemDisplay[ETH uar ED=0 DEF=857]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH uar ED=0 DEF=856]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH uar ED=0 DEF=855]:%NAME% %RED%95.1%%CONTINUE%//
 
+
+///// Extended Ethereal Superior Elite Armor Bases
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[ETH SUP uui DEF=806]:%NAME% %RED%99.9%%CONTINUE%//
 ItemDisplay[ETH SUP uui DEF=805]:%NAME% %RED%99.8%%CONTINUE%//
 ItemDisplay[ETH SUP uui DEF=804]:%NAME% %RED%99.6%%CONTINUE%//
@@ -2444,6 +2512,9 @@ ItemDisplay[ETH SUP uar DEF=987 ]:%NAME% %RED%95.3%%CONTINUE%//
 ItemDisplay[ETH SUP uar DEF=986 ]:%NAME% %RED%95.2%%CONTINUE%//
 ItemDisplay[ETH SUP uar DEF=985 ]:%NAME% %RED%95.1%%CONTINUE%//
 
+
+///// Superior Perfects
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[SUP uui DEF=538]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[SUP uea DEF=541]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[SUP ula DEF=546]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -2460,6 +2531,9 @@ ItemDisplay[SUP uth DEF=623]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[SUP uul DEF=641]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[SUP uar DEF=691]:%NAME% %PURPLE%Perfect%CONTINUE%//
 
+
+///// Ethereal Perfects
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[ETH NMAG uui ED=0 DEF>699]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[ETH NMAG uea ED=0 DEF>704]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[ETH NMAG ula ED=0 DEF>710]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -2476,6 +2550,9 @@ ItemDisplay[ETH NMAG uth ED=0 DEF>810]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[ETH NMAG uul ED=0 DEF>834]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[ETH NMAG uar ED=0 DEF>899]:%NAME% %PURPLE%Perfect%CONTINUE%//
 
+
+///// Elite Ethereal Superior Perfects
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[ETH SUP uui DEF=807 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[ETH SUP uea DEF=811 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[ETH SUP ula DEF=818 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -2492,15 +2569,20 @@ ItemDisplay[ETH SUP uth DEF=934 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[ETH SUP uul DEF=962 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[ETH SUP uar DEF=1036]:%NAME% %PURPLE%Perfect%CONTINUE%//
 
-////////// Price ///////////
-ItemDisplay[!RW !UNI !SET PRICE>4999 PRICE<10000]:%NAME% %DARK_GREEN% $5k%CONTINUE%//
-ItemDisplay[!RW !UNI !SET PRICE>9999 PRICE<15000]:%NAME% %DARK_GREEN%$10k%CONTINUE%//
-ItemDisplay[!RW !UNI !SET PRICE>14999 PRICE<20000]:%NAME% %DARK_GREEN%$15k%CONTINUE%//
-ItemDisplay[!RW !UNI !SET PRICE>19999 PRICE<25000]:%NAME% %DARK_GREEN%$20k%CONTINUE%//
-ItemDisplay[!RW !UNI !SET PRICE>24999 PRICE<30000]:%NAME% %DARK_GREEN%$25k%CONTINUE%//
-ItemDisplay[!RW !UNI !SET PRICE>29999 PRICE<35000]:%NAME% %DARK_GREEN%$30k%CONTINUE%//
-ItemDisplay[!RW !UNI !SET PRICE>34999]:%NAME% %DARK_GREEN%$35k%CONTINUE%//
 
-///// Sleepy Gamer Reminder /////
+///// Price
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[NMAG MAG RARE PRICE>4999 PRICE<10000]:%NAME% %DARK_GREEN% $5k%CONTINUE%//
+ItemDisplay[NMAG MAG RARE PRICE>9999 PRICE<15000]:%NAME% %DARK_GREEN%$10k%CONTINUE%//
+ItemDisplay[NMAG MAG RARE PRICE>14999 PRICE<20000]:%NAME% %DARK_GREEN%$15k%CONTINUE%//
+ItemDisplay[NMAG MAG RARE PRICE>19999 PRICE<25000]:%NAME% %DARK_GREEN%$20k%CONTINUE%//
+ItemDisplay[NMAG MAG RARE PRICE>24999 PRICE<30000]:%NAME% %DARK_GREEN%$25k%CONTINUE%//
+ItemDisplay[NMAG MAG RARE PRICE>29999 PRICE<35000]:%NAME% %DARK_GREEN%$30k%CONTINUE%//
+ItemDisplay[NMAG MAG RARE PRICE>34999]:%NAME% %DARK_GREEN%$35k%CONTINUE%//
+
+
+///// Sleepy Gamer Reminder
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG SOCK>1]:%NAME% %RED%NOT A RUNEWORD CANDIDATE%BLUE%%CONTINUE%//
 ItemDisplay[RARE SOCK>1]:%NAME% %RED%NOT A RUNEWORD CANDIDATE%YELLOW%%CONTINUE%//
+

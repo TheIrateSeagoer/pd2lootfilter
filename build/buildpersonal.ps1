@@ -1,12 +1,10 @@
-Write-Host -NoNewline "TC ... "
-.\pd2treasureclass.ps1
-Write-Host "Done"
-
 Write-Host -NoNewline "Default ... "
 .\pd2default.ps1
 Write-Host "Done"
 
-
+Write-Host -NoNewline "Show All ... "
+.\pd2showall.ps1
+Write-Host "Done"
 
 Write-Host -NoNewline "Personal ... "
 
@@ -38,9 +36,9 @@ Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter',
 '.\obj\arreat.normal.filter', '.\obj\arreat.exceptional.filter', '.\obj\arreat.elite.filter', 
 '.\obj\set.shared.filter', '.\obj\set.normal.filter', '.\obj\set.exceptional.filter', '.\obj\set.elite.filter', 
 '.\obj\unique.shared.filter', '.\obj\unique.normal.filter', '.\obj\unique.exceptional.filter', '.\obj\unique.elite.filter', 
-'.\obj\catchall.filter' | Set-Content '.\bin\default.filter'
+'.\obj\catchall.default.filter' | Set-Content '.\bin\personal.filter'
 
-if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2') { Copy-Item '.\bin\default.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2\loot.filter' }
-if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg') { Copy-Item '.\bin\default.filter' -Destination 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg' }
+if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2') { Copy-Item '.\bin\personal.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2\loot.filter' }
+if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg') { Copy-Item '.\bin\personal.filter' -Destination 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg' }
 
 Write-Host "Done"

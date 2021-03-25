@@ -1,51 +1,67 @@
-///// Act 1 /////
-ItemDisplay[bks]:%NAME%//
-ItemDisplay[bkd]:%NAME%//
-ItemDisplay[hdm]:%NAME%//
+///// Act 1
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[bks]:%NAME%%CONTINUE%//
+ItemDisplay[bkd]:%NAME%%CONTINUE%//
+ItemDisplay[hdm]:%NAME%%CONTINUE%//
 
-///// Act 2 /////
-ItemDisplay[tr1]:%NAME%//
-ItemDisplay[ass]:%NAME%//
-ItemDisplay[box]:%NAME%//
-ItemDisplay[msf]:%NAME%//
-ItemDisplay[vip]:%NAME%//
-ItemDisplay[hst]:%NAME%//
 
-///// Act 3 /////
-ItemDisplay[j34]:%NAME%//
-ItemDisplay[g34]:%NAME%//
-ItemDisplay[xyz]:%NAME%//
-ItemDisplay[g33]:%NAME%//
-ItemDisplay[bbb]:%NAME%//
-ItemDisplay[qbr]:%NAME%//
-ItemDisplay[qey]:%NAME%//
-ItemDisplay[qhr]:%NAME%//
-ItemDisplay[qf1]:%NAME%//
-ItemDisplay[qf2]:%NAME%//
+///// Act 2
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[tr1]:%NAME%%CONTINUE%//
+ItemDisplay[ass]:%NAME%%CONTINUE%//
+ItemDisplay[box]:%NAME%%CONTINUE%//
+ItemDisplay[msf]:%NAME%%CONTINUE%//
+ItemDisplay[vip]:%NAME%%CONTINUE%//
+ItemDisplay[hst]:%NAME%%CONTINUE%//
 
-///// Act 4 /////
-ItemDisplay[mss]:%NAME%//
-ItemDisplay[hfh]:%NAME%//
 
-///// Act 5 /////
-ItemDisplay[ice]:%NAME%//
-ItemDisplay[tr2]:%NAME%//
+///// Act 3
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[j34]:%NAME%%CONTINUE%//
+ItemDisplay[g34]:%NAME%%CONTINUE%//
+ItemDisplay[xyz]:%NAME%%CONTINUE%//
+ItemDisplay[g33]:%NAME%%CONTINUE%//
+ItemDisplay[bbb]:%NAME%%CONTINUE%//
+ItemDisplay[qbr]:%NAME%%CONTINUE%//
+ItemDisplay[qey]:%NAME%%CONTINUE%//
+ItemDisplay[qhr]:%NAME%%CONTINUE%//
+ItemDisplay[qf1]:%NAME%%CONTINUE%//
+ItemDisplay[qf2]:%NAME%%CONTINUE%//
 
-///// Cows //////
-ItemDisplay[leg]:%GOLD%%NAME%{%RED%Cows%GRAY%: (%GOLD%Wirt's Leg%GRAY%+%WHITE%Town%GRAY%)}//
 
-///// Pandemonium /////
-ItemDisplay[pk1]:%RED%ooo %ORANGE%%NAME% %RED%ooo%ORANGE%{%RED%Pandemonium%GRAY%: (%ORANGE%Terror%GRAY%+%ORANGE%Hate%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Countess}//
-ItemDisplay[pk2]:%RED%ooo %ORANGE%%NAME% %RED%ooo%ORANGE%{%RED%Pandemonium%GRAY%: (%ORANGE%Hate%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%The Summoner}//
-ItemDisplay[pk3]:%RED%ooo %ORANGE%%NAME% %RED%ooo%ORANGE%{%RED%Pandemonium%GRAY%: (%ORANGE%Destruction%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Hate%GRAY%)%NL%%TAN%Nihlathak}//
-ItemDisplay[dhn]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%{%RED%Uber Tristram%GRAY%: (%ORANGE%Diablo's Horn%GRAY%+%ORANGE%Baal's Eye%GRAY%+%ORANGE%Mephisto's Brain%GRAY%)%NL%%TAN%Uber Andariel}//
-ItemDisplay[bey]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%{%RED%Uber Tristram%GRAY%: (%ORANGE%Baal's Eye%GRAY%+%ORANGE%Diablo's Horn%GRAY%+%ORANGE%Mephisto's Brain%GRAY%)%NL%%TAN%Uber Duriel}//
-ItemDisplay[mbr]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%{%RED%Uber Tristram%GRAY%: (%ORANGE%Mephisto's Brain%GRAY%+%ORANGE%Baal's Eye%GRAY%+%ORANGE%Diablo's Horn%GRAY%)%NL%%TAN%Uber Izual}//
-ItemDisplay[std]:%RED%ooooo %ORANGE%%NAME% %RED%ooooo%ORANGE%{%WHITE%Magic and Gold Find: %BLUE%+20%%NL%%WHITE%Monster Density: %BLUE%+20%%NL%%WHITE%Experience: %BLUE%+10%%NL%%DARK_GREEN%Heroic %NL%%TAN%Map: (Map+Standard of Heroes)}//
+///// Act 4
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[mss]:%NAME%%CONTINUE%//
+ItemDisplay[hfh]:%NAME%%CONTINUE%//
 
-///// Respec 1.13 /////
-ItemDisplay[tes]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Suffering%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Hell Andarial and Hell Durial}//
-ItemDisplay[ceh]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Hatred%GRAY%+%ORANGE%Suffering%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Hell Mephisto}//
-ItemDisplay[bet]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Terror%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Suffering%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Hell Diablo}//
-ItemDisplay[fed]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Destruction%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Hatred%GRAY%+%ORANGE%Suffering%GRAY%)%NL%%TAN%Hell Baal}//
-ItemDisplay[toa]:%RED%ooooo %ORANGE%%NAME% %RED%ooooo%ORANGE%//
+
+///// Act 5
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[ice]:%NAME%%CONTINUE%//
+ItemDisplay[tr2]:%NAME%%CONTINUE%//
+
+
+///// Cow Level
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[leg]:%GOLD%%NAME%%CONTINUE%//
+
+
+///// Pandemonium
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[pk1]:%RED%ooo %ORANGE%%NAME% %RED%ooo%ORANGE%%CONTINUE%//
+ItemDisplay[pk2]:%RED%ooo %ORANGE%%NAME% %RED%ooo%ORANGE%%CONTINUE%//
+ItemDisplay[pk3]:%RED%ooo %ORANGE%%NAME% %RED%ooo%ORANGE%%CONTINUE%//
+ItemDisplay[dhn]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
+ItemDisplay[bey]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
+ItemDisplay[mbr]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
+ItemDisplay[std]:%RED%ooooo %ORANGE%%NAME% %RED%ooooo%ORANGE%%CONTINUE%//
+
+
+///// Respec 1.13
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[tes]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
+ItemDisplay[ceh]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
+ItemDisplay[bet]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
+ItemDisplay[fed]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
+ItemDisplay[toa]:%RED%ooooo %ORANGE%%NAME% %RED%ooooo%ORANGE%%CONTINUE%//
+

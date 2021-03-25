@@ -1,10 +1,12 @@
-///// Shop Color Fix /////
-ItemDisplay[RW]:%NAME%%GOLD%%CONTINUE%//
-ItemDisplay[NMAG SOCK=0]:%NAME%%WHITE%%CONTINUE%//
-ItemDisplay[NMAG SOCK>0 !RW]:%NAME%%GRAY%%CONTINUE%//
-ItemDisplay[NMAG ETH]:%NAME%%GRAY%%CONTINUE%//
-ItemDisplay[MAG]:%NAME%%BLUE%%CONTINUE%//
-ItemDisplay[RARE]:%NAME%%YELLOW%%CONTINUE%//
-ItemDisplay[UNI]:%NAME%%GOLD%%CONTINUE%//
-ItemDisplay[SET]:%NAME%%GREEN%%CONTINUE%//
-ItemDisplay[CRAFT]:%NAME%%ORANGE%%CONTINUE%//
+///// Shopping Fixes
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[NMAG SOCK=0         ]:%NAME%%WHITE%%CONTINUE%//
+ItemDisplay[NMAG SOCK>0 !RW     ]:%NAME%%GRAY%%CONTINUE%//
+ItemDisplay[NMAG ETH            ]:%NAME%%GRAY%%CONTINUE%//
+ItemDisplay[MAG                 ]:%NAME%%BLUE%%CONTINUE%//
+ItemDisplay[RARE                ]:%NAME%%YELLOW%%CONTINUE%//
+ItemDisplay[UNI                 ]:%NAME%%GOLD%%CONTINUE%//
+ItemDisplay[SET                 ]:%NAME%%GREEN%%CONTINUE%//
+ItemDisplay[CRAFT               ]:%NAME%%ORANGE%%CONTINUE%//
+ItemDisplay[RW                  ]:%NAME%%GOLD%%CONTINUE%//
+
