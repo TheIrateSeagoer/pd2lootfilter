@@ -1,7 +1,7 @@
 Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter', 
 '.\obj\common.lod.filter', '.\obj\common.pd2.filter', 
 '.\obj\item.prefix.filter', 
-'.\obj\item.crafting.filter', 
+#'.\obj\item.crafting.filter', 
 '.\obj\item.suffix.filter', '.\obj\item.shopping.filter', '.\obj\item.colorfix.filter', 
 '.\obj\bases.filter', '.\obj\bases.larzuk.filter', 
 '.\obj\item.colorfix.filter', 
