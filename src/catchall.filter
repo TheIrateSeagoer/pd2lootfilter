@@ -50,8 +50,21 @@ ItemDisplay[RUNE<15]:%DOT-60%%NAME%{%NAME%}//
 ItemDisplay[RUNE>14 RUNE<25]:%MAP-0A%%NAME%{%NAME%}//
 ItemDisplay[RUNE>24]:%BORDER-9B%%NAME%{%NAME%}//
 
-ItemDisplay[GEMLEVEL=4]:%DOT-60%%NAME%{%NAME%}//
-ItemDisplay[GEMLEVEL=5]:%MAP-0A%%NAME%{%NAME%}//
+ItemDisplay[(gpv OR gpv)]:%DOT-60%%NAME%{%NAME%}//
+ItemDisplay[(gpy OR gpy)]:%DOT-60%%NAME%{%NAME%}//
+ItemDisplay[(gpb OR gpb)]:%DOT-60%%NAME%{%NAME%}//
+ItemDisplay[(gpg OR gpg)]:%DOT-60%%NAME%{%NAME%}//
+ItemDisplay[(gpr OR gpr)]:%DOT-60%%NAME%{%NAME%}//
+ItemDisplay[(gpw OR gpw)]:%DOT-60%%NAME%{%NAME%}//
+ItemDisplay[(skz OR skz)]:%DOT-60%%NAME%{%NAME%}//
+
+ItemDisplay[(gzv OR gzvs)]:%MAP-0A%%NAME%{%NAME%}//
+ItemDisplay[(gly OR glys)]:%MAP-0A%%NAME%{%NAME%}//
+ItemDisplay[(glb OR glbs)]:%MAP-0A%%NAME%{%NAME%}//
+ItemDisplay[(glg OR glgs)]:%MAP-0A%%NAME%{%NAME%}//
+ItemDisplay[(glr OR glrs)]:%MAP-0A%%NAME%{%NAME%}//
+ItemDisplay[(glw OR glws)]:%MAP-0A%%NAME%{%NAME%}//
+ItemDisplay[(skl OR skls)]:%MAP-0A%%NAME%{%NAME%}//
 
 
 ///// Gear
