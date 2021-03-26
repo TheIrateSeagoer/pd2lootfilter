@@ -5711,7 +5711,7 @@ ItemDisplay[CLVL>1 !RW NMAG ELT HELM !CIRC !BAR !DRU]:{%NAME%}//
 ItemDisplay[CLVL>1 !RW NMAG ELT SHIELD !DIN !NEC !uit]:{%NAME%}//
 ItemDisplay[CLVL>1 !RW NMAG ELT WEAPON !WAND !STAFF !SCEPTER !ZON !SIN !SOR]:{%NAME%}//
 ItemDisplay[CLVL>1 GEMLEVEL=3]://
-ItemDisplay[CLVL>1 !ETH MAG !WAND]://
+ItemDisplay[CLVL>1 !ETH MAG !WAND !cm1 !cm2 !cm3 !jew !amu !rin]://
 ItemDisplay[NMAG SOCK=1]:{%NAME%}//
 ItemDisplay[INF]:{%NAME%}//
 ItemDisplay[GOLD<5000 CLVL>1]://

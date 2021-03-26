@@ -295,7 +295,7 @@ ItemDisplay[CLVL>89 !RW NMAG ELT WEAPON !WAND !STAFF !SCEPTER !ZON !SIN !SOR]:{%
 ///// Level 95
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[CLVL>94 GEMLEVEL=3]://
-ItemDisplay[CLVL>94 !ETH MAG !WAND]://
+ItemDisplay[CLVL>94 !ETH MAG !WAND !cm1 !cm2 !cm3 !jew !amu !rin]://
 
 
 ///// Junk Reduction
