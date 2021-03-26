@@ -15255,7 +15255,7 @@ ItemDisplay[RUNE>14 RUNE<25]:%MAP-0A%%NAME%{%NAME%}//
 ItemDisplay[RUNE>24]:%BORDER-9B%%NAME%{%NAME%}//
 ItemDisplay[GEMLEVEL=4]:%DOT-60%%NAME%{%NAME%}//
 ItemDisplay[GEMLEVEL=5]:%MAP-0A%%NAME%{%NAME%}//
-ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42)]:%NAME%{%NAME%}%MAP%//
+ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42)]:%MAP%%NAME%{%NAME%}//
 ItemDisplay[lbox]:%BORDER-0D%%NAME%{%NAME%}//
 ItemDisplay[wss]:%BORDER-9B%%NAME%{%NAME%}//
 ItemDisplay[(pk1 OR pk2 OR pk3 OR pk1s OR pk2s OR pk3s)]:%BORDER-60%%NAME%{%NAME%}//
@@ -15270,8 +15270,8 @@ ItemDisplay[MAG !ID cm2]:%DOT-97%%RED%o %BLUE%%NAME% %RED%o%BLUE%//
 ItemDisplay[MAG !ID cm3 ILVL<91]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
 ItemDisplay[MAG !ID cm3 ILVL>90]:%BORDER-97%%RED%ooo %YELLOW%Reroll Grand Charm %RED%ooo%BLUE%//
 ItemDisplay[MAG !ID jew]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
-ItemDisplay[MAG !ID rin]:%DOT-97%%ORANGE%o %BLUE%%NAME% %ORANGE%o%BLUE%//
-ItemDisplay[MAG !ID amu]:%DOT-97%%ORANGE%o %BLUE%%NAME% %ORANGE%o%BLUE%//
+ItemDisplay[MAG !ID rin]:%ORANGE%o %BLUE%%NAME% %ORANGE%o%BLUE%//
+ItemDisplay[MAG !ID amu]:%ORANGE%o %BLUE%%NAME% %ORANGE%o%BLUE%//
 ItemDisplay[RARE !ID jew]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID rin]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID amu]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
