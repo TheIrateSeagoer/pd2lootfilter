@@ -1,13 +1,51 @@
-///// Alerting
+///// Quest
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[leg]:%NAME%{%NAME%}//
 
-ItemDisplay[SET !ID (amu OR rin)]:%BORDER-81%%RED%ooo %GREEN%%NAME%{%NAME%} %RED%ooo%GREEN%//
-ItemDisplay[UNI !ID (amu OR rin)]:%BORDER-0D%%RED%ooooo %GOLD%%NAME%{%NAME%} %RED%ooooo%GOLD%//
+ItemDisplay[pk1]:%BORDER-60%%NAME%{%NAME%}//
+ItemDisplay[pk2]:%BORDER-60%%NAME%{%NAME%}//
+ItemDisplay[pk3]:%BORDER-60%%NAME%{%NAME%}//
+ItemDisplay[dhn]:%BORDER-60%%NAME%{%NAME%}//
+ItemDisplay[bey]:%BORDER-60%%NAME%{%NAME%}//
+ItemDisplay[mbr]:%BORDER-60%%NAME%{%NAME%}//
+ItemDisplay[std]:%MAP%%NAME%{%NAME%}//
 
-ItemDisplay[SET !ID]:%DOT-81%%NAME%{%NAME%}//
-ItemDisplay[UNI !ID]:%DOT-0D%%NAME%{%NAME%}//
+ItemDisplay[tes]:%BORDER-60%%NAME%{%NAME%}//
+ItemDisplay[ceh]:%BORDER-60%%NAME%{%NAME%}//
+ItemDisplay[bet]:%BORDER-60%%NAME%{%NAME%}//
+ItemDisplay[fed]:%BORDER-60%%NAME%{%NAME%}//
+ItemDisplay[toa]:%BORDER-60%%NAME%{%NAME%}//
 
+ItemDisplay[t11]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t12]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t13]:%MAP%%NAME%{%NAME%}//
+
+ItemDisplay[t21]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t22]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t23]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t24]:%MAP%%NAME%{%NAME%}//
+
+ItemDisplay[t31]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t32]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t33]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t34]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t35]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t36]:%MAP%%NAME%{%NAME%}//
+
+ItemDisplay[t41]:%MAP%%NAME%{%NAME%}//
+
+ItemDisplay[dcho]:%BORDER-60%%NAME%{%NAME%}//
+ItemDisplay[dcso]:%BORDER-60%%NAME%{%NAME%}//
+ItemDisplay[dcbl]:%BORDER-60%%NAME%{%NAME%}//
+
+ItemDisplay[dcma]:%BORDER-0A%%NAME%{%NAME%}//
+
+ItemDisplay[lbox]:%BORDER-0D%%NAME%{%NAME%}//
+ItemDisplay[wss ]:%BORDER-9B%%NAME%{%NAME%}//
+
+
+///// Common
+////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[RUNE<15]:%DOT-60%%NAME%{%NAME%}//
 ItemDisplay[RUNE>14 RUNE<25]:%MAP-0A%%NAME%{%NAME%}//
 ItemDisplay[RUNE>24]:%BORDER-9B%%NAME%{%NAME%}//
@@ -15,20 +53,14 @@ ItemDisplay[RUNE>24]:%BORDER-9B%%NAME%{%NAME%}//
 ItemDisplay[GEMLEVEL=4]:%DOT-60%%NAME%{%NAME%}//
 ItemDisplay[GEMLEVEL=5]:%MAP-0A%%NAME%{%NAME%}//
 
-ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42)]:%MAP%%NAME%{%NAME%}//
 
-ItemDisplay[lbox]:%BORDER-0D%%NAME%{%NAME%}//
-ItemDisplay[wss ]:%BORDER-9B%%NAME%{%NAME%}//
+///// Gear
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[SET !ID (amu OR rin)]:%BORDER-81%%RED%ooo %GREEN%%NAME%{%NAME%} %RED%ooo%GREEN%//
+ItemDisplay[UNI !ID (amu OR rin)]:%BORDER-0D%%RED%ooooo %GOLD%%NAME%{%NAME%} %RED%ooooo%GOLD%//
 
-ItemDisplay[(pk1 OR pk2 OR pk3 OR pk1s OR pk2s OR pk3s)]:%BORDER-60%%NAME%{%NAME%}//
-ItemDisplay[(dhn OR bey OR mbr OR dhns OR beys OR mbrs)]:%BORDER-60%%NAME%{%NAME%}//
-ItemDisplay[(std OR stds)]:%MAP%%NAME%{%NAME%}//
-
-ItemDisplay[(tes OR ceh OR bet OR fed OR tess OR cehs OR bets OR feds)]:%BORDER-60%%NAME%{%NAME%}//
-ItemDisplay[toa]:%BORDER-60%%NAME%{%NAME%}//
-
-ItemDisplay[(dcho OR dcso OR dcbl)]:%BORDER-60%%NAME%{%NAME%}//
-ItemDisplay[dcma]:%BORDER-0A%%NAME%{%NAME%}//
+ItemDisplay[SET !ID]:%DOT-81%%NAME%{%NAME%}//
+ItemDisplay[UNI !ID]:%DOT-0D%%NAME%{%NAME%}//
 
 ItemDisplay[MAG !ID cm1]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
 ItemDisplay[MAG !ID cm2]:%DOT-97%%RED%o %BLUE%%NAME% %RED%o%BLUE%//
@@ -41,4 +73,44 @@ ItemDisplay[MAG !ID amu]:%ORANGE%o %BLUE%%NAME% %ORANGE%o%BLUE%//
 ItemDisplay[RARE !ID jew]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID rin]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID amu]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
+ItemDisplay[RARE !ID CIRC]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
+
+
+///// Polearm Bases
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[ETH SUP NMAG ((7wc OR 9wc OR wsc) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[ETH SUP NMAG ((7h7 OR 9h9 OR hal) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[ETH SUP NMAG ((7pa OR 9pa OR pax) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[ETH SUP NMAG ((7s8 OR 9s8 OR scy) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[ETH SUP NMAG ((7vo OR 9vo OR vou) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
+
+ItemDisplay[ETH NMAG ((7wc OR 9wc OR wsc) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7h7 OR 9h9 OR hal) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7pa OR 9pa OR pax) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7s8 OR 9s8 OR scy) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7vo OR 9vo OR vou) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
+
+
+///// Spear Bases
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[ETH SUP NMAG ((7br or 9br or brn) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7br or 9br or brn) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
+
+
+///// Sword Bases
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[ETH SUP NMAG ((7cr or 9cr or crs) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7cr or 9cr or crs) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
+
+
+///// Mace Bases
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[ETH SUP NMAG ((fla) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((fla) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
+
+
+///// 2H Bases
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[ETH SUP NMAG ((7gm OR 7wa OR 7gd OR 7bt) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7gm OR 7wa OR 7gd OR 7bt) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 
