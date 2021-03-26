@@ -292,6 +292,12 @@ ItemDisplay[CLVL>89 !RW NMAG ELT SHIELD !DIN !NEC !uit]:{%NAME%}//
 ItemDisplay[CLVL>89 !RW NMAG ELT WEAPON !WAND !STAFF !SCEPTER !ZON !SIN !SOR]:{%NAME%}//
 
 
+///// Level 95
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[CLVL>94 GEMLEVEL=3]://
+ItemDisplay[CLVL>94 !ETH MAG !WAND]://
+
+
 ///// Junk Reduction
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[NMAG SOCK=1]:{%NAME%}//
