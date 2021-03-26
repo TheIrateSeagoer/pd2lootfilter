@@ -11,9 +11,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wc SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wc SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wc SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wc SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wc SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wc SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wc SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 87 ///// Thunder Maul, Berserker Axe, Colossus Blade
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
@@ -27,9 +27,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gm SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gm SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gm SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gm SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gm SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gm SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gm SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gm SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gm SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 
 
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
@@ -44,9 +44,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wa SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wa SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wa SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wa SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wa SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wa SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wa SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 
 
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
@@ -61,9 +61,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gd SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gd SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gd SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gd SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gd SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gd SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gd SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gd SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gd SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 84 ///// Great Poleaxe
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7h7 SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7h7 SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
@@ -77,9 +77,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7h7 SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7h7 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7h7 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7h7 SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7h7 SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7h7 SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7h7 SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7h7 SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7h7 SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 81 ///// Cryptic Axe, Colossal Sword
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7pa SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7pa SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
@@ -93,9 +93,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7pa SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7pa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7pa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7pa SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7pa SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7pa SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7pa SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7pa SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7pa SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 
 
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7fb SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
@@ -110,9 +110,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7fb SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7fb SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7fb SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7fb SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7fb SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7fb SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7fb SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7fb SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7fb SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 78 ///// 
 
 ///// TC 75 ///// Mancatcher, Phase Blade
@@ -128,9 +128,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7br SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7br SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7br SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7br SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7br SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7br SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7br SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7br SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7br SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 
 
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7cr SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
@@ -145,9 +145,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7cr SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7cr SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7cr SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7cr SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7cr SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7cr SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7cr SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7cr SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7cr SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 75 ///// Decapitator
 
 ///// TC 72 ///// Monarch, Thresher
@@ -167,9 +167,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7s8 SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7s8 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7s8 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7s8 SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7s8 SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7s8 SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7s8 SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7s8 SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7s8 SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 69 /////
 
 ///// TC 66 ///// Colossus Voulge
@@ -182,8 +182,8 @@ ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7vo SOCK=0 ILVL<26         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7vo SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7vo SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7vo SOCK=0 ILVL>25        ]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7vo SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7vo SOCK=0 ILVL>25        ]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7vo SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 63 /////
 
 ///// TC 60 /////
@@ -198,8 +198,8 @@ ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9wc SOCK=0 ILVL<26         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9wc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9wc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9wc SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9wc SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9wc SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9wc SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 54 /////
 
 ///// TC 51 ///// Bec-de-Corbin
@@ -212,8 +212,8 @@ ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9h9 SOCK=0 ILVL<26         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9h9 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9h9 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9h9 SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9h9 SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9h9 SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9h9 SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 48 /////
 
 ///// TC 45 /////
@@ -231,9 +231,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9br SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9br SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9br SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9br SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9br SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9br SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9br SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9br SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9br SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 
 
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9s8 SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
@@ -248,9 +248,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9s8 SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9s8 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9s8 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9s8 SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9s8 SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9s8 SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9s8 SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9s8 SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9s8 SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 39 ///// Bill, Dimensional Blade
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9vo SOCK=0 ILVL>25          ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9vo SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
@@ -261,8 +261,8 @@ ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9vo SOCK=0 ILVL<26         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9vo SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9vo SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9vo SOCK=0 ILVL>25        ]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9vo SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9vo SOCK=0 ILVL>25        ]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9vo SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 
 
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9cr SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
@@ -277,9 +277,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9cr SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9cr SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9cr SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9cr SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9cr SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9cr SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9cr SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9cr SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9cr SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 36 ///// Partizan, War Scythe
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9pa SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9pa SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
@@ -293,9 +293,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9pa SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9pa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9pa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9pa SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9pa SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9pa SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9pa SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9pa SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9pa SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 
 
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG wsc SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
@@ -307,8 +307,8 @@ ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG wsc SOCK=0 ILVL<26         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG wsc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG wsc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG wsc SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG wsc SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG wsc SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG wsc SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 33 /////
 
 ///// TC 30 ///// Halbred
@@ -321,8 +321,8 @@ ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG hal SOCK=0 ILVL<26         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG hal SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG hal SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG hal SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG hal SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG hal SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG hal SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 27 ///// 
 
 ///// TC 24 /////
@@ -340,15 +340,15 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG pax SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG pax SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG pax SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG pax SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG pax SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG pax SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG pax SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG pax SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG pax SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 
 
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG fla SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG fla SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG fla SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG fla SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG fla SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
 ///// TC 18 ///// Brandistock
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG brn SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG brn SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
@@ -362,9 +362,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG brn SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG brn SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG brn SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG brn SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG brn SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG brn SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG brn SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG brn SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG brn SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 15 ///// Scythe
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG scy SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG scy SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
@@ -378,9 +378,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG scy SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG scy SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG scy SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG scy SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG scy SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG scy SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG scy SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG scy SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG scy SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 12 ///// Voulge, Cystal Sword
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG vou SOCK=0 ILVL>25          ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG vou SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
@@ -391,8 +391,8 @@ ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG vou SOCK=0 ILVL<26         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG vou SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG vou SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG vou SOCK=0 ILVL>25        ]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG vou SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG vou SOCK=0 ILVL>25        ]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG vou SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 
 
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG crs SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
@@ -407,9 +407,9 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=0 ILVL>40         ]:%NAME
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
 
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL>40        ]:%NAME% %WHITE%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL>25 ILVL<41]:%NAME% %WHITE%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL<26        ]:%NAME% %WHITE%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
 ///// TC 9 /////
 
 ///// TC 6 /////
