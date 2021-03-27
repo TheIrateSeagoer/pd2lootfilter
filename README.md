@@ -9,11 +9,10 @@ This filter is setup to cut down on a lot of the noise that occurs with drops du
 - Crafting materials are marked with an orange circle.
 - All magic items will have the level of the craft next to their name. (Based on your current character level)
 
-## Value Items
-![Valuables](https://i.imgur.com/7WYnZgy.png)
-- Valuable items will get their own markings
-
 ## Arreat Summit Values / Recipes
+![Test](https://i.imgur.com/fgFNRvk.png)
+ - Larzuk max sockets for convenience.
+ 
 ![Recipe](https://i.imgur.com/x9FOL7k.png)
   - All Items have their Arreat Summit Values as a description line. (This is setup to be dynamic, so you know exactly how many sockets on Larzuk you would receive at the maximum)
 
@@ -25,7 +24,7 @@ These items are marked with following styles.
 - ```Normal Item Name```
 
 ## Staffmods
-![Staffmod](https://i.imgur.com/IbVidC6.png)
+![Staffmod](https://i.imgur.com/AoCyx2P.png)
 - Items with staffmods will have them marked so shopping is easier
 - Items on the ground will also benefit from you not having to pick them up to see the value.
 
