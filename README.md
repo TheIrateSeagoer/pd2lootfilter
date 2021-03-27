@@ -12,7 +12,6 @@ This filter is setup to cut down on a lot of the noise that occurs with drops du
 ## Arreat Summit Values / Recipes
 ![Test](https://i.imgur.com/fgFNRvk.png)
  - Larzuk max sockets for convenience.
- - 
 ![Recipe](https://i.imgur.com/x9FOL7k.png)
   - All Items have their Arreat Summit Values as a description line. (This is setup to be dynamic, so you know exactly how many sockets on Larzuk you would receive at the maximum)
 
