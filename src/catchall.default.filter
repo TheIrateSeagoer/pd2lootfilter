@@ -300,7 +300,7 @@ ItemDisplay[CLVL>94 !ETH MAG !WAND !cm1 !cm2 !cm3 !jew !amu !rin !(t11 OR t12 OR
 
 ///// Junk Reduction
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[NMAG SOCK=1]:{%NAME%}//
+ItemDisplay[NMAG SOCK=1 !WAND !STAFF !SCEPTER !ZON !SIN !SOR !CIRC !BAR !DRU]:{%NAME%}//
 ItemDisplay[INF]:{%NAME%}//
 
 
