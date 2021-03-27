@@ -71,48 +71,48 @@ ItemDisplay[r14s QTY=1]:%ORANGE%[14] Dol Rune%ORANGE%%CONTINUE%//
 
 ///// Nightmare Runes
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[r15s QTY>1]:%RED%ooo [15] Hel Stack ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r16s QTY>1]:%RED%ooo [16] Io Stack ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r17s QTY>1]:%RED%ooo [17] Lum Stack ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r18s QTY>1]:%RED%ooo [18] Ko Stack ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r19s QTY>1]:%RED%ooo [19] Fal Stack ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r20s QTY>1]:%RED%ooo [20] Lem Stack ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r21s QTY>1]:%RED%oooo [21] Pul Stack oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r22s QTY>1]:%RED%oooo [22] Um Stack oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r23s QTY>1]:%RED%oooo [23] Mal Stack oooo%ORANGE%%CONTINUE%//
+ItemDisplay[r15s QTY>1]:%RED%o [15] Hel Stack o%ORANGE%%CONTINUE%//
+ItemDisplay[r16s QTY>1]:%RED%o [16] Io Stack o%ORANGE%%CONTINUE%//
+ItemDisplay[r17s QTY>1]:%RED%o [17] Lum Stack o%ORANGE%%CONTINUE%//
+ItemDisplay[r18s QTY>1]:%RED%oo [18] Ko Stack oo%ORANGE%%CONTINUE%//
+ItemDisplay[r19s QTY>1]:%RED%oo [19] Fal Stack oo%ORANGE%%CONTINUE%//
+ItemDisplay[r20s QTY>1]:%RED%oo [20] Lem Stack oo%ORANGE%%CONTINUE%//
+ItemDisplay[r21s QTY>1]:%RED%ooo [21] Pul Stack ooo%ORANGE%%CONTINUE%//
+ItemDisplay[r22s QTY>1]:%RED%ooo [22] Um Stack ooo%ORANGE%%CONTINUE%//
+ItemDisplay[r23s QTY>1]:%RED%ooo [23] Mal Stack ooo%ORANGE%%CONTINUE%//
 ItemDisplay[r24s QTY>1]:%RED%oooo [24] Ist Stack oooo%ORANGE%%CONTINUE%//
 
-ItemDisplay[r15s QTY=1]:%RED%ooo [15] Hel Rune ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r16s QTY=1]:%RED%ooo [16] Io Rune ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r17s QTY=1]:%RED%ooo [17] Lum Rune ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r18s QTY=1]:%RED%ooo [18] Ko Rune ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r19s QTY=1]:%RED%ooo [19] Fal Rune ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r20s QTY=1]:%RED%ooo [20] Lem Rune ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r21s QTY=1]:%RED%oooo [21] Pul Rune oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r22s QTY=1]:%RED%oooo [22] Um Rune oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r23s QTY=1]:%RED%oooo [23] Mal Rune oooo%ORANGE%%CONTINUE%//
+ItemDisplay[r15s QTY=1]:%RED%o [15] Hel Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r16s QTY=1]:%RED%o [16] Io Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r17s QTY=1]:%RED%o [17] Lum Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r18s QTY=1]:%RED%oo [18] Ko Rune oo%ORANGE%%CONTINUE%//
+ItemDisplay[r19s QTY=1]:%RED%oo [19] Fal Rune oo%ORANGE%%CONTINUE%//
+ItemDisplay[r20s QTY=1]:%RED%oo [20] Lem Rune oo%ORANGE%%CONTINUE%//
+ItemDisplay[r21s QTY=1]:%RED%ooo [21] Pul Rune ooo%ORANGE%%CONTINUE%//
+ItemDisplay[r22s QTY=1]:%RED%ooo [22] Um Rune ooo%ORANGE%%CONTINUE%//
+ItemDisplay[r23s QTY=1]:%RED%ooo [23] Mal Rune ooo%ORANGE%%CONTINUE%//
 ItemDisplay[r24s QTY=1]:%RED%oooo [24] Ist Rune oooo%ORANGE%%CONTINUE%//
 
 
 ///// Hell Runes
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[r25s QTY>1]:%PURPLE%oooo [25] Gul Stack oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r26s QTY>1]:%PURPLE%oooo [26] Vex Stack oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r27s QTY>1]:%PURPLE%oooo [27] Ohm Stack ooooo%ORANGE%%CONTINUE%//
-ItemDisplay[r28s QTY>1]:%PURPLE%oooo [28] Lo Stack oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r29s QTY>1]:%PURPLE%oooo [29] Sur Stack oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r30s QTY>1]:%PURPLE%ooooo [30] Ber Stack ooooo%ORANGE%%CONTINUE%//
-ItemDisplay[r31s QTY>1]:%PURPLE%ooooo [31] Jah Stack ooooo%ORANGE%%CONTINUE%//
-ItemDisplay[r32s QTY>1]:%PURPLE%ooooo [32] Cham Stack ooooo%ORANGE%%CONTINUE%//
-ItemDisplay[r33s QTY>1]:%PURPLE%ooooo [33] Zod Stack ooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r26s QTY>1]:%PURPLE%ooooo [26] Vex Stack ooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r27s QTY>1]:%PURPLE%oooooo [27] Ohm Stack oooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r28s QTY>1]:%PURPLE%ooooooo [28] Lo Stack ooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r29s QTY>1]:%PURPLE%oooooooo [29] Sur Stack oooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r30s QTY>1]:%PURPLE%ooooooooo [30] Ber Stack ooooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r31s QTY>1]:%PURPLE%oooooooooo [31] Jah Stack oooooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r32s QTY>1]:%PURPLE%ooooooooooo [32] Cham Stack ooooooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r33s QTY>1]:%PURPLE%oooooooooooo [33] Zod Stack oooooooooooo%ORANGE%%CONTINUE%//
 
 ItemDisplay[r25s QTY=1]:%PURPLE%oooo [25] Gul Rune oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r26s QTY=1]:%PURPLE%oooo [26] Vex Rune oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r27s QTY=1]:%PURPLE%oooo [27] Ohm Rune oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r28s QTY=1]:%PURPLE%oooo [28] Lo Rune oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r29s QTY=1]:%PURPLE%oooo [29] Sur Rune oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r30s QTY=1]:%PURPLE%ooooo [30] Ber Rune ooooo%ORANGE%%CONTINUE%//
-ItemDisplay[r31s QTY=1]:%PURPLE%ooooo [31] Jah Rune ooooo%ORANGE%%CONTINUE%//
-ItemDisplay[r32s QTY=1]:%PURPLE%ooooo [32] Cham Rune ooooo%ORANGE%%CONTINUE%//
-ItemDisplay[r33s QTY=1]:%PURPLE%ooooo [33] Zod Rune ooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r26s QTY=1]:%PURPLE%ooooo [26] Vex Rune ooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r27s QTY=1]:%PURPLE%oooooo [27] Ohm Rune oooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r28s QTY=1]:%PURPLE%ooooooo [28] Lo Rune ooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r29s QTY=1]:%PURPLE%oooooooo [29] Sur Rune oooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r30s QTY=1]:%PURPLE%ooooooooo [30] Ber Rune ooooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r31s QTY=1]:%PURPLE%oooooooooo [31] Jah Rune oooooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r32s QTY=1]:%PURPLE%ooooooooooo [32] Cham Rune ooooooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r33s QTY=1]:%PURPLE%oooooooooooo [33] Zod Rune oooooooooooo%ORANGE%%CONTINUE%//
 

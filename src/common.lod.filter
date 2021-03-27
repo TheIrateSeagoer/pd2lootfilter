@@ -117,27 +117,27 @@ ItemDisplay[r14]:%ORANGE%[14] Dol Rune%ORANGE%%CONTINUE%//
 
 ///// Nightmare Runes
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[r15]:%RED%ooo [15] Hel Rune ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r16]:%RED%ooo [16] Io Rune ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r17]:%RED%ooo [17] Lum Rune ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r18]:%RED%ooo [18] Ko Rune ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r19]:%RED%ooo [19] Fal Rune ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r20]:%RED%ooo [20] Lem Rune ooo%ORANGE%%CONTINUE%//
-ItemDisplay[r21]:%RED%oooO [21] Pul Rune oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r22]:%RED%oooo [22] Um Rune oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r23]:%RED%oooo [23] Mal Rune oooo%ORANGE%%CONTINUE%//
+ItemDisplay[r15]:%RED%o [15] Hel Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r16]:%RED%o [16] Io Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r17]:%RED%o [17] Lum Rune o%ORANGE%%CONTINUE%//
+ItemDisplay[r18]:%RED%oo [18] Ko Rune oo%ORANGE%%CONTINUE%//
+ItemDisplay[r19]:%RED%oo [19] Fal Rune oo%ORANGE%%CONTINUE%//
+ItemDisplay[r20]:%RED%oo [20] Lem Rune oo%ORANGE%%CONTINUE%//
+ItemDisplay[r21]:%RED%ooo [21] Pul Rune ooo%ORANGE%%CONTINUE%//
+ItemDisplay[r22]:%RED%ooo [22] Um Rune ooo%ORANGE%%CONTINUE%//
+ItemDisplay[r23]:%RED%ooo [23] Mal Rune ooo%ORANGE%%CONTINUE%//
 ItemDisplay[r24]:%RED%oooo [24] Ist Rune oooo%ORANGE%%CONTINUE%//
 
 
 ///// Hell Runes
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[r25]:%PURPLE%oooo [25] Gul Rune oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r26]:%PURPLE%oooo [26] Vex Rune oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r27]:%PURPLE%oooo [27] Ohm Rune oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r28]:%PURPLE%oooo [28] Lo Rune oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r29]:%PURPLE%oooo [29] Sur Rune oooo%ORANGE%%CONTINUE%//
-ItemDisplay[r30]:%PURPLE%ooooo [30] Ber Rune ooooo%ORANGE%%CONTINUE%//
-ItemDisplay[r31]:%PURPLE%ooooo [31] Jah Rune ooooo%ORANGE%%CONTINUE%//
-ItemDisplay[r32]:%PURPLE%ooooo [32] Cham Rune ooooo%ORANGE%%CONTINUE%//
-ItemDisplay[r33]:%PURPLE%ooooo [33] Zod Rune ooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r26]:%PURPLE%ooooo [26] Vex Rune ooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r27]:%PURPLE%oooooo [27] Ohm Rune oooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r28]:%PURPLE%ooooooo [28] Lo Rune ooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r29]:%PURPLE%oooooooo [29] Sur Rune oooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r30]:%PURPLE%ooooooooo [30] Ber Rune ooooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r31]:%PURPLE%oooooooooo [31] Jah Rune oooooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r32]:%PURPLE%ooooooooooo [32] Cham Rune ooooooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[r33]:%PURPLE%oooooooooooo [33] Zod Rune oooooooooooo%ORANGE%%CONTINUE%//
 
