@@ -24,7 +24,7 @@ These items are marked with following styles.
 - ```Normal Item Name```
 
 ## Staffmods
-![Staffmod](https://i.imgur.com/IbVidC6.png)
+![Staffmod](https://i.imgur.com/AoCyx2P.png)
 - Items with staffmods will have them marked so shopping is easier
 - Items on the ground will also benefit from you not having to pick them up to see the value.
 
