@@ -8095,7 +8095,7 @@ ItemDisplay[MAG jew STAT89=1]:%PURPLE%Light Radius %NAME%%CONTINUE%//
 ItemDisplay[MAG jew STAT124=50]:%PURPLE%Max AR vs Undead %NAME%%CONTINUE%//
 ItemDisplay[MAG jew STAT124>35 STAT124<40]:%RED%AR vs Undead %NAME%%CONTINUE%//
 ItemDisplay[MAG jew STAT124>0 STAT124<36]:%GRAY%AR vs Undead %NAME%%CONTINUE%//
-ItemDisplay[MAG jew STAT122=50]:%PURPLE%Max Dmg vs Undead %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT122=40]:%PURPLE%Max Dmg vs Undead %NAME%%CONTINUE%//
 ItemDisplay[MAG jew STAT122>35 STAT122<40]:%RED%Dmg vs Undead %NAME%%CONTINUE%//
 ItemDisplay[MAG jew STAT122>0 STAT122<36]:%GRAY%Dmg vs Undead %NAME%%CONTINUE%//
 ItemDisplay[MAG jew STAT123=50]:%PURPLE%Max AR vs Demons %NAME%%CONTINUE%//
