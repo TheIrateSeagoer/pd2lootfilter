@@ -536,26 +536,175 @@ ItemDisplay[MAG jew STAT45=28 STAT39=0]:%RED%28 Poison Res %NAME%%CONTINUE%//
 ItemDisplay[MAG jew STAT45=27 STAT39=0]:%RED%27 Poison Res %NAME%%CONTINUE%//
 ItemDisplay[MAG jew STAT45>0 STAT45<22 STAT39=0]:%GRAY%Poison Res %NAME%%CONTINUE%//
 
+///// Stamina
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT11>0]:%GRAY%Max Stamina %NAME%%CONTINUE%//
+
+///// Heal Stamina
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT28=15]:%PURPLE%Max Heal Stamina %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT28>13 STAT28<15]:%RED%Heal Stamina %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT28>0 STAT28<14]:%GRAY%Heal Stamina %NAME%%CONTINUE%//
+
+///// Mana per Kill
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew MAEK=3]:%PURPLE%3 Mana Per Kill %NAME%%CONTINUE%//
+ItemDisplay[MAG jew MAEK=2]:%RED%2 Mana Per Kill %NAME%%CONTINUE%//
+ItemDisplay[MAG jew MAEK=1]:%GRAY%1 Mana Per Kill %NAME%%CONTINUE%//
+
+///// Damage Taken Goes To Mana
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew DTM=12]:%PURPLE%Max Dmg Taken to Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG jew DTM>9 DTM<12]:%RED%Dmg Taken to Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG jew DTM>0 DTM<10]:%GRAY%Dmg Taken to Mana %NAME%%CONTINUE%//
+
+///// Light Radius
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT89=1]:%PURPLE%Light Radius %NAME%%CONTINUE%//
+
+///// Damage vs Undead
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT124=50]:%PURPLE%Max AR vs Undead %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT124>35 STAT124<40]:%RED%AR vs Undead %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT124>0 STAT124<36]:%GRAY%AR vs Undead %NAME%%CONTINUE%//
+
+
+///// Damage vs Undead
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT122=50]:%PURPLE%Max Dmg vs Undead %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT122>35 STAT122<40]:%RED%Dmg vs Undead %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT122>0 STAT122<36]:%GRAY%Dmg vs Undead %NAME%%CONTINUE%//
+
+///// Damage vs Undead
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT123=50]:%PURPLE%Max AR vs Demons %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT123>35 STAT123<40]:%RED%AR vs Demons %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT123>0 STAT123<36]:%GRAY%AR vs Demons %NAME%%CONTINUE%//
+
+///// Damage vs Demons
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT121=40]:%PURPLE%Max Dmg vs Demons %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT121>35 STAT121<40]:%RED%Dmg vs Demons %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT121>0 STAT121<36]:%GRAY%Dmg vs Demons %NAME%%CONTINUE%//
+
 
 ////////////////////////////////////////////////////////////////////////////////
 ///// Suffix
 ////////////////////////////////////////////////////////////////////////////////
+
+///// Life
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew LIFE=20]:%NAME% %PURPLE%Max Life%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew LIFE>17 LIFE<19]:%NAME% %RED%Life%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew LIFE>0 LIFE<18]:%NAME% %GRAY%Life%BLUE%%CONTINUE%//
+
+///// Gold Find
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew GFIND=30]:%NAME% %PURPLE%Max GF%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew GFIND>26 GFIND<30]:%NAME% %RED%GF%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew GFIND>0 GFIND<27]:%NAME% %GRAY%GF%BLUE%%CONTINUE%//
+
+///// Replenish Life
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew REPLIFE=4]:%NAME%%PURPLE%4 Replenish Life %BLUE%%CONTINUE%//
+ItemDisplay[MAG jew REPLIFE=3]:%NAME%%RED%3 Replenish Life %BLUE%%CONTINUE%//
+ItemDisplay[MAG jew REPLIFE=2]:%NAME%%GRAY%Replenish Life %BLUE%%CONTINUE%//
+ItemDisplay[MAG jew REPLIFE=1]:%NAME%%GRAY%Replenish Life %BLUE%%CONTINUE%//
+
+///// Faster Hit Recovery
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew FHR=7]:%NAME% %PURPLE%7 FHR%BLUE%%CONTINUE%//
+
+///// Increased Attack Speed
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew IAS=15]:%NAME% %PURPLE%15 IAS%BLUE%%CONTINUE%//
+
+///// Requirements
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT91>0]:%NAME% %PURPLE%-Requirements%BLUE%%CONTINUE%//
+
+///// Attacker Takes Dmg
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT78=5]:%NAME% %PURPLE%Attacker Takes Dmg%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT78=4]:%NAME% %RED%Attacker Takes Dmg%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT78=3]:%NAME% %GRAY%Attacker Takes Dmg%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT78=2]:%NAME% %GRAY%Attacker Takes Dmg%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT78=1]:%NAME% %GRAY%Attacker Takes Dmg%BLUE%%CONTINUE%//
+
+///// Strength
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STR=9]:%NAME% %PURPLE%Max Strength%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STR>7 STR<9]:%NAME% %RED%Strength%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STR>0 STR<8]:%NAME% %GRAY%Strength%BLUE%%CONTINUE%//
+
+///// Dexterity
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew DEX=9]:%NAME% %PURPLE%Max Dexterity%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew DEX>7 DEX<9]:%NAME% %RED%Dexterity%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew DEX>0 DEX<8]:%NAME% %GRAY%Dexterity%BLUE%%CONTINUE%//
+
+///// Energy
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT1=9]:%NAME% %PURPLE%Max Energy%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT1>7 STAT1<9]:%NAME% %RED%Energy%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT1>0 STAT1<8]:%NAME% %GRAY%Energy%BLUE%%CONTINUE%//
+
+///// Poison
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT58>0]:%NAME% %WHITE%Poison%BLUE%%CONTINUE%//
+
+///// Lightning
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT51=100]:%NAME% %PURPLE%Lightning Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT51>89 STAT51<100]:%NAME% %RED%Lightning Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT51>0 STAT51<90]:%NAME% %GRAY%Lightning Damage%BLUE%%CONTINUE%//
+
+///// Fire
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT49=50]:%NAME% %PURPLE%Fire Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT49>44 STAT49<50]:%NAME% %RED%Fire Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT49>0 STAT49<45]:%NAME% %GRAY%Fire Damage%BLUE%%CONTINUE%//
+
+///// Cold
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT55=15]:%NAME% %PURPLE%Cold Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT55>12 STAT55<15]:%NAME% %RED%Cold Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT55>0 STAT55<13]:%NAME% %GRAY%Cold Damage%BLUE%%CONTINUE%//
 
 
 ////////////////////////////////////////////////////////////////////////////////
 ///// Both
 ////////////////////////////////////////////////////////////////////////////////
 
+///// MF
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew MFIND=7 ((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0))]:%PURPLE%Max MF %NAME%%CONTINUE%//
+ItemDisplay[MAG jew MFIND>5 MFIND<7 ((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0))]:%RED%MF %NAME%%CONTINUE%//
+ItemDisplay[MAG jew MFIND>0 MFIND<6 ((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0))]:%GRAY%MF %NAME%%CONTINUE%//
 
+ItemDisplay[MAG jew MFIND=10 !((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0))]:%NAME% %PURPLE%Max MF%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew MFIND>7 MFIND<10 !((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0))]:%NAME% %RED%MF%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew MFIND>0 MFIND<8 !((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0))]:%NAME% %GRAY%MF%BLUE%%CONTINUE%//
 
+///// Max Damage
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT24=15 ((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0 OR MFIND>0))]:%PURPLE%15 Max Damage %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT24>12 STAT24<15 ((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0 OR MFIND>0))]:%RED%Max Damage %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT24>0 STAT24<13 ((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0 OR MFIND>0))]:%GRAY%Max Damage %NAME%%CONTINUE%//
 
+ItemDisplay[MAG jew STAT24=15 !((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0 OR MFIND>0))]:%NAME% %PURPLE%15 Max Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT24>12 STAT24<15 !((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0 OR MFIND>0))]:%NAME% %RED%Max Damage %BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT24>0 STAT24<13 !((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0 OR MFIND>0))]:%NAME% %GRAY%Max Damage %BLUE%%CONTINUE%//
 
+///// Max Damage
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG jew STAT23=8 ((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0 OR MFIND>0))]:%PURPLE%8 Min Damage %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT23>5 STAT23<8 ((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0 OR MFIND>0))]:%RED%Min Damage %NAME%%CONTINUE%//
+ItemDisplay[MAG jew STAT23>0 STAT23<6 ((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0 OR MFIND>0))]:%GRAY%Min Damage %NAME%%CONTINUE%//
 
-
-
-
-
-
+ItemDisplay[MAG jew STAT23=10 !((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0 OR MFIND>0))]:%NAME% %PURPLE%10 Min Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT23>6 STAT23<10 !((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0 OR MFIND>0))]:%NAME% %RED%Min Damage %BLUE%%CONTINUE%//
+ItemDisplay[MAG jew STAT23>0 STAT23<7 !((STR>0 OR DEX>0 OR STAT1>0) OR (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR STAT78>0) OR (LIFE>0 OR GFIND>0 OR REPLIFE>0) OR (FHR>0 OR IAS>0 OR STAT91>0 OR MFIND>0))]:%NAME% %GRAY%Min Damage %BLUE%%CONTINUE%//
 
 
 
