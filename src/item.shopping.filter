@@ -383,6 +383,18 @@ ItemDisplay[MAG cm2 STAT57>0 STAT19>0 STAT24>0]:%NAME% %WHITE%Poison Damage%BLUE
 ItemDisplay[MAG cm3 STAT57>0 STAT19>0 STAT24>0]:%NAME% %WHITE%Poison Damage%BLUE%%CONTINUE%//
 
 
+///// Damage Prefix
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 (STAT24=1 AND STAT19=0) (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0)]:%PURPLE%1 Max Damage %NAME%%BLUE%//
+
+ItemDisplay[MAG cm2 (STAT24=2 AND STAT19=0) (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0)]:%PURPLE%2 Max Damage %NAME%%BLUE%//
+ItemDisplay[MAG cm2 (STAT24=1 AND STAT19=0) (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0)]:%GRAY%1 Max Damage %NAME%%BLUE%//
+
+ItemDisplay[MAG cm3 (STAT24=3 AND STAT19=0) (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0)]:%PURPLE%3 Max Damage %NAME%%BLUE%//
+ItemDisplay[MAG cm3 (STAT24=2 AND STAT19=0) (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0)]:%GRAY%2 Max Damage %NAME%%BLUE%//
+ItemDisplay[MAG cm3 (STAT24=1 AND STAT19=0) (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0)]:%GRAY%1 Max Damage %NAME%%BLUE%//
+
+
 ///// Damage Suffix
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[MAG cm1 (STAT24=1 AND STAT19=0)]:%NAME% %RED%1 Max Damage%BLUE%//
@@ -390,10 +402,13 @@ ItemDisplay[MAG cm1 (STAT24=1 AND STAT19=0)]:%NAME% %RED%1 Max Damage%BLUE%//
 ItemDisplay[MAG cm2 (STAT24=2 AND STAT19=0)]:%NAME% %RED%2 Max Damage%BLUE%//
 ItemDisplay[MAG cm2 (STAT24=1 AND STAT19=0)]:%NAME% %GRAY%1 Max Damage%BLUE%//
 
-ItemDisplay[MAG cm3 (STAT24=4 AND STAT19=0)]:%NAME% %PURPLE%3 Max Damage%BLUE%//
+ItemDisplay[MAG cm3 (STAT24=4 AND STAT19=0)]:%NAME% %PURPLE%4 Max Damage%BLUE%//
 ItemDisplay[MAG cm3 (STAT24=3 AND STAT19=0)]:%NAME% %RED%3 Max Damage%BLUE%//
 ItemDisplay[MAG cm3 (STAT24=2 AND STAT19=0)]:%NAME% %GRAY%2 Max Damage%BLUE%//
 ItemDisplay[MAG cm3 (STAT24=1 AND STAT19=0)]:%NAME% %GRAY%1 Max Damage%BLUE%//
+
+
+
 
 
 ///// Fine
