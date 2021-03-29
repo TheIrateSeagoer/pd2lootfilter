@@ -8052,10 +8052,10 @@ ItemDisplay[MAG jew LIFE>0 LIFE<18]:%NAME% %GRAY%Life%BLUE%%CONTINUE%//
 ItemDisplay[MAG jew GFIND=30]:%NAME% %PURPLE%Max GF%BLUE%%CONTINUE%//
 ItemDisplay[MAG jew GFIND>26 GFIND<30]:%NAME% %RED%GF%BLUE%%CONTINUE%//
 ItemDisplay[MAG jew GFIND>0 GFIND<27]:%NAME% %GRAY%GF%BLUE%%CONTINUE%//
-ItemDisplay[MAG jew REPLIFE=4]:%NAME%%PURPLE%4 Replenish Life %BLUE%%CONTINUE%//
-ItemDisplay[MAG jew REPLIFE=3]:%NAME%%RED%3 Replenish Life %BLUE%%CONTINUE%//
-ItemDisplay[MAG jew REPLIFE=2]:%NAME%%GRAY%Replenish Life %BLUE%%CONTINUE%//
-ItemDisplay[MAG jew REPLIFE=1]:%NAME%%GRAY%Replenish Life %BLUE%%CONTINUE%//
+ItemDisplay[MAG jew REPLIFE=4]:%NAME% %PURPLE%4 Replenish Life %BLUE%%CONTINUE%//
+ItemDisplay[MAG jew REPLIFE=3]:%NAME% %RED%3 Replenish Life %BLUE%%CONTINUE%//
+ItemDisplay[MAG jew REPLIFE=2]:%NAME% %GRAY%Replenish Life %BLUE%%CONTINUE%//
+ItemDisplay[MAG jew REPLIFE=1]:%NAME% %GRAY%Replenish Life %BLUE%%CONTINUE%//
 ItemDisplay[MAG jew FHR=7]:%NAME% %PURPLE%7 FHR%BLUE%%CONTINUE%//
 ItemDisplay[MAG jew IAS=15]:%NAME% %PURPLE%15 IAS%BLUE%%CONTINUE%//
 ItemDisplay[MAG jew STAT91>0]:%NAME% %PURPLE%-Requirements%BLUE%%CONTINUE%//

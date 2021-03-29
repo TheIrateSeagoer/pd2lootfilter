@@ -605,10 +605,10 @@ ItemDisplay[MAG jew GFIND>0 GFIND<27]:%NAME% %GRAY%GF%BLUE%%CONTINUE%//
 
 ///// Replenish Life
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[MAG jew REPLIFE=4]:%NAME%%PURPLE%4 Replenish Life %BLUE%%CONTINUE%//
-ItemDisplay[MAG jew REPLIFE=3]:%NAME%%RED%3 Replenish Life %BLUE%%CONTINUE%//
-ItemDisplay[MAG jew REPLIFE=2]:%NAME%%GRAY%Replenish Life %BLUE%%CONTINUE%//
-ItemDisplay[MAG jew REPLIFE=1]:%NAME%%GRAY%Replenish Life %BLUE%%CONTINUE%//
+ItemDisplay[MAG jew REPLIFE=4]:%NAME% %PURPLE%4 Replenish Life %BLUE%%CONTINUE%//
+ItemDisplay[MAG jew REPLIFE=3]:%NAME% %RED%3 Replenish Life %BLUE%%CONTINUE%//
+ItemDisplay[MAG jew REPLIFE=2]:%NAME% %GRAY%Replenish Life %BLUE%%CONTINUE%//
+ItemDisplay[MAG jew REPLIFE=1]:%NAME% %GRAY%Replenish Life %BLUE%%CONTINUE%//
 
 ///// Faster Hit Recovery
 ////////////////////////////////////////////////////////////////////////////////
