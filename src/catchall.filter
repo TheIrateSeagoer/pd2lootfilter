@@ -73,7 +73,8 @@ ItemDisplay[SET !ID (amu OR rin)]:%BORDER-81%%RED%ooo %GREEN%%NAME%{%NAME%} %RED
 ItemDisplay[UNI !ID (amu OR rin)]:%BORDER-0D%%RED%ooooo %GOLD%%NAME%{%NAME%} %RED%ooooo%GOLD%//
 
 ItemDisplay[SET !ID]:%DOT-81%%NAME%{%NAME%}//
-ItemDisplay[UNI !ID]:%DOT-0D%%NAME%{%NAME%}//
+ItemDisplay[UNI !ETH !ID]:%DOT-0D%%NAME%{%NAME%}//
+ItemDisplay[UNI ETH !ID]:%DOT-0D%%GRAY%[Eth] %NAME%{%NAME%}//
 
 ItemDisplay[MAG !ID cm1]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
 ItemDisplay[MAG !ID cm2]:%DOT-97%%RED%o %BLUE%%NAME% %RED%o%BLUE%//
