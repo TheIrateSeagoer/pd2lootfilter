@@ -1,24 +1,24 @@
 ///// Heaven's Brethren
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID 7ma]:%GREEN%o Dangoon's Teaching o%CONTINUE%//
-ItemDisplay[SET !ID xrs]:%GREEN%o Haemosu's Adament o%CONTINUE%//
-ItemDisplay[SET !ID uhm]:%GREEN%oo Ondal's Almighty oo%CONTINUE%//
-ItemDisplay[SET !ID uts]:%GREEN%oo Taebaek's Glory oo%CONTINUE%//
+ItemDisplay[SET !ID 7ma]:%GREEN%Dangoon's Teaching %GRAY%nm%CONTINUE%//
+ItemDisplay[SET !ID xrs]:%GREEN%Haemosu's Adament %GRAY%nm%CONTINUE%//
+ItemDisplay[SET !ID uhm]:%GREEN%Ondal's Almighty %GRAY%h%CONTINUE%//
+ItemDisplay[SET !ID uts]:%GREEN%Taebaek's Glory %GRAY%h%CONTINUE%//
 
 
 ///// The Disciple
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID umc]:%GREEN%oo Credendum oo%CONTINUE%//
-ItemDisplay[SET !ID uui]:%GREEN%o Dark Adherent o%CONTINUE%//
-ItemDisplay[SET !ID ulg]:%GREEN%o Laying of Hands o%CONTINUE%//
+ItemDisplay[SET !ID umc]:%GREEN%Credendum %GRAY%h%CONTINUE%//
+ItemDisplay[SET !ID uui]:%GREEN%Dark Adherent %GRAY%nm%CONTINUE%//
+ItemDisplay[SET !ID ulg]:%GREEN%Laying of Hands %GRAY%nm%CONTINUE%//
 ItemDisplay[SET !ID xlb]:%GREEN%Rite of Passage%CONTINUE%//
 
 
 ///// Hwanin's Majesty
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[SET !ID 9vo]:%GREEN%Hwanin's Justice%CONTINUE%//
-ItemDisplay[SET !ID xcl]:%GREEN%o Hwanin's Refuge o%CONTINUE%//
-ItemDisplay[SET !ID xrn]:%GREEN%o Hwanin's Splendor o%CONTINUE%//
+ItemDisplay[SET !ID xcl]:%GREEN%Hwanin's Refuge %GRAY%nm%CONTINUE%//
+ItemDisplay[SET !ID xrn]:%GREEN%Hwanin's Splendor %GRAY%nm%CONTINUE%//
 
 
 ///// Cow King's Leathers
@@ -30,8 +30,8 @@ ItemDisplay[SET !ID xap]:%GREEN%Cow King's Horns%CONTINUE%//
 ///// Naj's Ancient Vestige
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[SET !ID ci0]:%GREEN%Naj's Circlet%CONTINUE%//
-ItemDisplay[SET !ID ult]:%GREEN%oo Naj's Light Plate oo%CONTINUE%//
-ItemDisplay[SET !ID 6cs]:%GREEN%oo Naj's Puzzler oo%CONTINUE%//
+ItemDisplay[SET !ID ult]:%GREEN%Naj's Light Plate %GRAY%h%CONTINUE%//
+ItemDisplay[SET !ID 6cs]:%GREEN%Naj's Puzzler %GRAY%h%CONTINUE%//
 
 
 ///// Sander's Folly
@@ -42,15 +42,15 @@ ItemDisplay[SET !ID vgl]:%GREEN%Sander's Taboo%CONTINUE%//
 
 ///// Sazabi's Grand Tribute
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID 7ls]:%GREEN%oo Sazabi's Cobalt Redeemer oo%CONTINUE%//
-ItemDisplay[SET !ID upl]:%GREEN%oo Sazabi's Ghost Liberator oo%CONTINUE%//
-ItemDisplay[SET !ID xhl]:%GREEN%o Sazabi's Sazabi's Mental Sheath o%CONTINUE%//
+ItemDisplay[SET !ID 7ls]:%GREEN%Sazabi's Cobalt Redeemer %GRAY%h%CONTINUE%//
+ItemDisplay[SET !ID upl]:%GREEN%Sazabi's Ghost Liberator %GRAY%h%CONTINUE%//
+ItemDisplay[SET !ID xhl]:%GREEN%Sazabi's Sazabi's Mental Sheath %GRAY%nm%CONTINUE%//
 
 
 ///// Orphan's Call
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID xhm]:%GREEN%o Guillaume's Face o%CONTINUE%//
+ItemDisplay[SET !ID xhm]:%GREEN%Guillaume's Face %GRAY%nm%CONTINUE%//
 ItemDisplay[SET !ID xvg]:%GREEN%Magnus's Skin%CONTINUE%//
 ItemDisplay[SET !ID xml]:%GREEN%Whitstan's Guard%CONTINUE%//
-ItemDisplay[SET !ID ztb]:%GREEN%o Wilhelm's Pride o%CONTINUE%//
+ItemDisplay[SET !ID ztb]:%GREEN%Wilhelm's Pride %GRAY%nm%CONTINUE%//
 

@@ -68,7 +68,7 @@ ItemDisplay[SET !ID gts]:%GREEN%Isenhart's Parry%CONTINUE%//
 ///// Milabrega's Regalia
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[SET !ID kit]:%GREEN%Milabrega's Orb%CONTINUE%//
-ItemDisplay[SET !ID aar]:%GREEN%o Milabrega's Robe o%CONTINUE%//
+ItemDisplay[SET !ID aar]:%GREEN%Milabrega's Robe %GRAY%nm%CONTINUE%//
 ItemDisplay[SET !ID wsp]:%GREEN%Milabrega's Rod%CONTINUE%//
 
 
