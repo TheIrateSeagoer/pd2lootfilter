@@ -1,151 +1,151 @@
 ///// Helms
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID uap]:%GOLD%oo Harlequin Crest oo%CONTINUE%//
-ItemDisplay[UNI !ID ulm]:%GOLD%oo Steel Shade oo%CONTINUE%//
-ItemDisplay[UNI !ID uhm]:%GOLD%oo Veil of Steel oo / oo Nightwing's Veil oo%CONTINUE%//
-ItemDisplay[UNI !ID usk]:%GOLD%oo Andariel's Visage oo%CONTINUE%//
-ItemDisplay[UNI !ID urn]:%GOLD%ooo Crown of Ages ooo%CONTINUE%//
-ItemDisplay[UNI !ID uh9]:%GOLD%oo Giant Skull oo%CONTINUE%//
+ItemDisplay[UNI !ID uap]:%GOLD%Harlequin Crest %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID ulm]:%GOLD%Steel Shade %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uhm]:%GOLD%Veil of Steel %GRAY%h / %GOLD%Nightwing's Veil %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID usk]:%GOLD%Andariel's Visage %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID urn]:%GOLD%Crown of Ages %GRAY%h+%CONTINUE%//
+ItemDisplay[UNI !ID uh9]:%GOLD%Giant Skull %GRAY%h%CONTINUE%//
 
 
 ///// Armors
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID uui]:%GOLD%oo Ormus' Robes oo%CONTINUE%//
-ItemDisplay[UNI !ID utu]:%GOLD%oo The Gladiator's Bane oo%CONTINUE%//
-ItemDisplay[UNI !ID upl]:%GOLD%oo Arkaine's Valor oo%CONTINUE%//
-ItemDisplay[UNI !ID uld]:%GOLD%oo Leviathan oo%CONTINUE%//
-ItemDisplay[UNI !ID uul]:%GOLD%oo Steel Carapace oo%CONTINUE%//
-ItemDisplay[UNI !ID uar]:%GOLD%oo Templar's Might oo / ooo Tyrael's Might ooo%CONTINUE%//
+ItemDisplay[UNI !ID uui]:%GOLD%Ormus' Robes %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID utu]:%GOLD%The Gladiator's Bane %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID upl]:%GOLD%Arkaine's Valor %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uld]:%GOLD%Leviathan %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uul]:%GOLD%Steel Carapace %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uar]:%GOLD%Templar's Might %GRAY%h / %GOLD%Tyrael's Might %GRAY%h+%CONTINUE%//
 
 
 ///// Shields
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID uml]:%GOLD%oo Blackoak Shield oo%CONTINUE%//
-ItemDisplay[UNI !ID uit]:%GOLD%oo Stormshield oo%CONTINUE%//
-ItemDisplay[UNI !ID upk]:%GOLD%oo Spike Thorn oo%CONTINUE%//
-ItemDisplay[UNI !ID uow]:%GOLD%oo Medusa's Gaze oo%CONTINUE%//
-ItemDisplay[UNI !ID ush]:%GOLD%oo Head Hunter's Glory oo%CONTINUE%//
-ItemDisplay[UNI !ID uts]:%GOLD%oo Spirit Ward oo%CONTINUE%//
+ItemDisplay[UNI !ID uml]:%GOLD%Blackoak Shield %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uit]:%GOLD%Stormshield %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID upk]:%GOLD%Spike Thorn %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uow]:%GOLD%Medusa's Gaze %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID ush]:%GOLD%Head Hunter's Glory %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uts]:%GOLD%Spirit Ward %GRAY%h%CONTINUE%//
 
 
 ///// Gloves
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID uvg]:%GOLD%oo Dracul's Grasp oo%CONTINUE%//
-ItemDisplay[UNI !ID umg]:%GOLD%oo Soul Drainer oo%CONTINUE%//
-ItemDisplay[UNI !ID uhg]:%GOLD%oo Steelrend oo%CONTINUE%//
+ItemDisplay[UNI !ID uvg]:%GOLD%Dracul's Grasp %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID umg]:%GOLD%Soul Drainer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uhg]:%GOLD%Steelrend %GRAY%h%CONTINUE%//
 
 
 ///// Boots
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID uvb]:%GOLD%oo Sandstorm Trek oo%CONTINUE%//
-ItemDisplay[UNI !ID umb]:%GOLD%oo Marrowwalk oo%CONTINUE%//
-ItemDisplay[UNI !ID uhb]:%GOLD%oo Shadow Dancer oo%CONTINUE%//
+ItemDisplay[UNI !ID uvb]:%GOLD%Sandstorm Trek %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID umb]:%GOLD%Marrowwalk %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uhb]:%GOLD%Shadow Dancer %GRAY%h%CONTINUE%//
 
 
 ///// Belts
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID ulc]:%GOLD%ooo Arachnid Mesh ooo%CONTINUE%//
-ItemDisplay[UNI !ID uvc]:%GOLD%oo Nosferatu's Coil oo%CONTINUE%//
-ItemDisplay[UNI !ID umc]:%GOLD%oo Verdungo's Hearty Cord oo%CONTINUE%//
+ItemDisplay[UNI !ID ulc]:%GOLD%Arachnid Mesh %GRAY%h+%CONTINUE%//
+ItemDisplay[UNI !ID uvc]:%GOLD%Nosferatu's Coil %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID umc]:%GOLD%Verdungo's Hearty Cord %GRAY%h%CONTINUE%//
 
 
 ///// Axes
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID 7ha]:%GOLD%oo Razor's Edge oo%CONTINUE%//
-ItemDisplay[UNI !ID 72a]:%GOLD%oo Rune Master oo%CONTINUE%//
-ItemDisplay[UNI !ID 7mp]:%GOLD%oo Cranebeak oo%CONTINUE%//
-ItemDisplay[UNI !ID 7wa]:%GOLD%oo Death Cleaver oo%CONTINUE%//
-ItemDisplay[UNI !ID 7ba]:%GOLD%oo Ethereal Edge oo%CONTINUE%//
-ItemDisplay[UNI !ID 7bt]:%GOLD%oo Hellslayer oo%CONTINUE%//
-ItemDisplay[UNI !ID 7ga]:%GOLD%oo Messerschmidt's Reaver oo%CONTINUE%//
-ItemDisplay[UNI !ID 7gi]:%GOLD%oo Executioner's Justice oo%CONTINUE%//
+ItemDisplay[UNI !ID 7ha]:%GOLD%Razor's Edge %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 72a]:%GOLD%Rune Master %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7mp]:%GOLD%Cranebeak %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7wa]:%GOLD%Death Cleaver %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7ba]:%GOLD%Ethereal Edge %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7bt]:%GOLD%Hellslayer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7ga]:%GOLD%Messerschmidt's Reaver %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7gi]:%GOLD%Executioner's Justice %GRAY%h%CONTINUE%//
 
 
 ///// Bows
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID 6l7]:%GOLD%oo Eaglehorn oo%CONTINUE%//
-ItemDisplay[UNI !ID 6sw]:%GOLD%oo Widowmaker oo%CONTINUE%//
-ItemDisplay[UNI !ID 6lw]:%GOLD%oo Windforce oo%CONTINUE%//
+ItemDisplay[UNI !ID 6l7]:%GOLD%Eaglehorn %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 6sw]:%GOLD%Widowmaker %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 6lw]:%GOLD%Windforce %GRAY%h%CONTINUE%//
 
 
 ///// Crossbows
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID 6hx]:%GOLD%oo Hellrack oo%CONTINUE%//
-ItemDisplay[UNI !ID 6rx]:%GOLD%oo Gut Siphon oo%CONTINUE%//
+ItemDisplay[UNI !ID 6hx]:%GOLD%Hellrack %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 6rx]:%GOLD%Gut Siphon %GRAY%h%CONTINUE%//
 
 
 ///// Daggers
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID 7dg]:%GOLD%oo Wizardspike oo%CONTINUE%//
-ItemDisplay[UNI !ID 7kr]:%GOLD%oo Fleshripper oo%CONTINUE%//
-ItemDisplay[UNI !ID 7bl]:%GOLD%oo Ghostflame oo%CONTINUE%//
+ItemDisplay[UNI !ID 7dg]:%GOLD%Wizardspike %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7kr]:%GOLD%Fleshripper %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7bl]:%GOLD%Ghostflame %GRAY%h%CONTINUE%//
 
 
 ///// Javelins
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID 7s7]:%GOLD%oo Demon's Arch oo%CONTINUE%//
-ItemDisplay[UNI !ID 7gl]:%GOLD%oo Wraith Flight oo%CONTINUE%//
-ItemDisplay[UNI !ID 7ts]:%GOLD%oo Gargoyle's Bite oo%CONTINUE%//
+ItemDisplay[UNI !ID 7s7]:%GOLD%Demon's Arch %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7gl]:%GOLD%Wraith Flight %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7ts]:%GOLD%Gargoyle's Bite %GRAY%h%CONTINUE%//
 
 
 ///// Maces
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID 7cl]:%GOLD%oo Nord's Tenderizer oo%CONTINUE%//
-ItemDisplay[UNI !ID 7sp]:%GOLD%oo Demon Limb oo%CONTINUE%//
-ItemDisplay[UNI !ID 7mt]:%GOLD%oo Baranar's Star oo%CONTINUE%//
-ItemDisplay[UNI !ID 7fl]:%GOLD%oo Horizon's Tornado oo / ooo Stormlash ooo%CONTINUE%//
-ItemDisplay[UNI !ID 7wh]:%GOLD%oo Stone Crusher oo / oo Schaefer's Hammer oo%CONTINUE%//
-ItemDisplay[UNI !ID 7m7]:%GOLD%oo Windhammer oo%CONTINUE%//
-ItemDisplay[UNI !ID 7gm]:%GOLD%oo Earth Shifter oo / oo The Cranium Basher oo%CONTINUE%//
+ItemDisplay[UNI !ID 7cl]:%GOLD%Nord's Tenderizer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7sp]:%GOLD%Demon Limb %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7mt]:%GOLD%Baranar's Star %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7fl]:%GOLD%Horizon's Tornado %GRAY%h / %GOLD%Stormlash %GRAY%h+%CONTINUE%//
+ItemDisplay[UNI !ID 7wh]:%GOLD%Stone Crusher %GRAY%h / %GOLD%Schaefer's Hammer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7m7]:%GOLD%Windhammer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7gm]:%GOLD%Earth Shifter %GRAY%h / %GOLD%The Cranium Basher %GRAY%h%CONTINUE%//
 
 
 ///// Polearms
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID 7o7]:%GOLD%oo Bonehew oo%CONTINUE%//
-ItemDisplay[UNI !ID 7s8]:%GOLD%oo The Reaper's Toll oo%CONTINUE%//
-ItemDisplay[UNI !ID 7pa]:%GOLD%ooo Tomb Reaver ooo%CONTINUE%//
-ItemDisplay[UNI !ID 7wc]:%GOLD%oo Stormspire oo%CONTINUE%//
+ItemDisplay[UNI !ID 7o7]:%GOLD%Bonehew %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7s8]:%GOLD%The Reaper's Toll %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7pa]:%GOLD%Tomb Reaver %GRAY%h+%CONTINUE%//
+ItemDisplay[UNI !ID 7wc]:%GOLD%Stormspire %GRAY%h%CONTINUE%//
 
 
 ///// Scepters
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID 7sc]:%GOLD%oo Heaven's Light oo / oo The Redeemer oo%CONTINUE%//
-ItemDisplay[UNI !ID 7ws]:%GOLD%oo Astreon's Iron Ward oo%CONTINUE%//
+ItemDisplay[UNI !ID 7sc]:%GOLD%Heaven's Light %GRAY%h / %GOLD%The Redeemer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7ws]:%GOLD%Astreon's Iron Ward %GRAY%h%CONTINUE%//
 
 
 ///// Spears
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID 7sr]:%GOLD%oo Arioc's Needle oo%CONTINUE%//
-ItemDisplay[UNI !ID 7br]:%GOLD%oo Viperfork oo%CONTINUE%//
-ItemDisplay[UNI !ID 7p7]:%GOLD%oo Steel Pillar oo%CONTINUE%//
+ItemDisplay[UNI !ID 7sr]:%GOLD%Arioc's Needle %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7br]:%GOLD%Viperfork %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7p7]:%GOLD%Steel Pillar %GRAY%h%CONTINUE%//
 
 
 ///// Staves
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID 6cs]:%GOLD%oo Ondal's Wisdom oo%CONTINUE%//
-ItemDisplay[UNI !ID 6ws]:%GOLD%ooo Mang Song's Lesson ooo%CONTINUE%//
+ItemDisplay[UNI !ID 6cs]:%GOLD%Ondal's Wisdom %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 6ws]:%GOLD%Mang Song's Lesson %GRAY%h+%CONTINUE%//
 
 
 ///// Swords
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID 7sm]:%GOLD%oo Djinn Slayer oo%CONTINUE%//
-ItemDisplay[UNI !ID 7sb]:%GOLD%oo Bloodmoon oo%CONTINUE%//
-ItemDisplay[UNI !ID 7cr]:%GOLD%oo Lightsabre oo / ooo Azurewrath ooo%CONTINUE%//
-ItemDisplay[UNI !ID 7ls]:%GOLD%oo Frostwind oo%CONTINUE%//
-ItemDisplay[UNI !ID 7gs]:%GOLD%oo Flamebellow oo%CONTINUE%//
-ItemDisplay[UNI !ID 7b7]:%GOLD%oo Doombringer oo%CONTINUE%//
-ItemDisplay[UNI !ID 7gd]:%GOLD%oo The Grandfather oo%CONTINUE%//
+ItemDisplay[UNI !ID 7sm]:%GOLD%Djinn Slayer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7sb]:%GOLD%Bloodmoon %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7cr]:%GOLD%Lightsabre %GRAY%h / %GOLD%Azurewrath %GRAY%h+%CONTINUE%//
+ItemDisplay[UNI !ID 7ls]:%GOLD%Frostwind %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7gs]:%GOLD%Flamebellow %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7b7]:%GOLD%Doombringer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7gd]:%GOLD%The Grandfather %GRAY%h%CONTINUE%//
 
 
 ///// Throwing Weapons
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID 7bk]:%GOLD%oo Warshrike oo%CONTINUE%//
-ItemDisplay[UNI !ID 7ta]:%GOLD%oo Gimmershred oo%CONTINUE%//
-ItemDisplay[UNI !ID 7b8]:%GOLD%oo Lacerator oo%CONTINUE%//
+ItemDisplay[UNI !ID 7bk]:%GOLD%Warshrike %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7ta]:%GOLD%Gimmershred %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7b8]:%GOLD%Lacerator %GRAY%h%CONTINUE%//
 
 
 ///// Wands
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID 7bw]:%GOLD%oo Boneshade oo%CONTINUE%//
-ItemDisplay[UNI !ID 7gw]:%GOLD%oo Death's Web oo%CONTINUE%//
+ItemDisplay[UNI !ID 7bw]:%GOLD%Boneshade %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7gw]:%GOLD%Death's Web %%GRAY%h%CONTINUE%//
 

@@ -26,7 +26,7 @@ ItemDisplay[UNI !ID fld]:%GOLD%Rockfleece%CONTINUE%//
 ItemDisplay[UNI !ID plt]:%GOLD%Boneflesh%CONTINUE%//
 ItemDisplay[UNI !ID gth]:%GOLD%Rattlecage%CONTINUE%//
 ItemDisplay[UNI !ID ful]:%GOLD%Goldskin%CONTINUE%//
-ItemDisplay[UNI !ID aar]:%GOLD%o Silks of the Victor o%CONTINUE%//
+ItemDisplay[UNI !ID aar]:%GOLD%Silks of the Victor %GRAY%nm%CONTINUE%//
 
 
 ///// Shields

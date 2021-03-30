@@ -69,8 +69,8 @@ ItemDisplay[(skl OR skls)]:%MAP-0A%%NAME%{%NAME%}//
 
 ///// Gear
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID (amu OR rin)]:%BORDER-81%%RED%ooo %GREEN%%NAME%{%NAME%} %RED%ooo%GREEN%//
-ItemDisplay[UNI !ID (amu OR rin)]:%BORDER-0D%%RED%ooooo %GOLD%%NAME%{%NAME%} %RED%ooooo%GOLD%//
+ItemDisplay[SET !ID (amu OR rin)]:%BORDER-81%%RED%ooooo %NAME% %RED%ooooo%GREEN%{%NAME%}//
+ItemDisplay[UNI !ID (amu OR rin)]:%BORDER-0D%%RED%ooooo %NAME% %RED%ooooo%GOLD%{%NAME%}//
 
 ItemDisplay[SET !ID]:%DOT-81%%NAME%{%NAME%}//
 ItemDisplay[UNI !ETH !ID]:%DOT-0D%%NAME%{%NAME%}//
@@ -98,17 +98,26 @@ ItemDisplay[ETH SUP NMAG ((7pa OR 9pa OR pax) AND (SOCK=0 OR SOCK>2))]:%BORDER-2
 ItemDisplay[ETH SUP NMAG ((7s8 OR 9s8 OR scy) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP NMAG ((7vo OR 9vo OR vou) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 
-ItemDisplay[ETH NMAG ((7wc OR 9wc OR wsc) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
-ItemDisplay[ETH NMAG ((7h7 OR 9h9 OR hal) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
-ItemDisplay[ETH NMAG ((7pa OR 9pa OR pax) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
-ItemDisplay[ETH NMAG ((7s8 OR 9s8 OR scy) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
-ItemDisplay[ETH NMAG ((7vo OR 9vo OR vou) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG 7wc SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG 7h7 SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG 7pa SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG 7s8 SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG 7vo SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+
+ItemDisplay[ETH NMAG ((7wc OR 9wc OR wsc) SOCK>2)]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7h7 OR 9h9 OR hal) SOCK>2)]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7pa OR 9pa OR pax) SOCK>2)]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7s8 OR 9s8 OR scy) SOCK>2)]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7vo OR 9vo OR vou) SOCK>2)]:%MAP-20%%NAME%{%NAME%}//
 
 
 ///// Spear Bases
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[ETH SUP NMAG ((7br OR 9br OR brn) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
-ItemDisplay[ETH NMAG ((7br OR 9br OR brn) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
+
+ItemDisplay[ETH NMAG 7br SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+
+ItemDisplay[ETH NMAG ((7br OR 9br OR brn) SOCK>2)]:%MAP-20%%NAME%{%NAME%}//
 
 
 ///// Sword Bases

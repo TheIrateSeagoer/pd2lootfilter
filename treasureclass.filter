@@ -7996,7 +7996,7 @@ ItemDisplay[MAG cm3 (STAT24=1 AND STAT19=0) (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0
 ItemDisplay[MAG cm1 (STAT24=1 AND STAT19=0)]:%NAME% %RED%1 Max Damage%BLUE%//
 ItemDisplay[MAG cm2 (STAT24=2 AND STAT19=0)]:%NAME% %RED%2 Max Damage%BLUE%//
 ItemDisplay[MAG cm2 (STAT24=1 AND STAT19=0)]:%NAME% %GRAY%1 Max Damage%BLUE%//
-ItemDisplay[MAG cm3 (STAT24=4 AND STAT19=0)]:%NAME% %PURPLE%3 Max Damage%BLUE%//
+ItemDisplay[MAG cm3 (STAT24=4 AND STAT19=0)]:%NAME% %PURPLE%4 Max Damage%BLUE%//
 ItemDisplay[MAG cm3 (STAT24=3 AND STAT19=0)]:%NAME% %RED%3 Max Damage%BLUE%//
 ItemDisplay[MAG cm3 (STAT24=2 AND STAT19=0)]:%NAME% %GRAY%2 Max Damage%BLUE%//
 ItemDisplay[MAG cm3 (STAT24=1 AND STAT19=0)]:%NAME% %GRAY%1 Max Damage%BLUE%//
@@ -9472,818 +9472,818 @@ ItemDisplay[MAG BELT]:%NAME%{%NAME%%ORANGE%Blood: Tal Caster: Ith Power: Tal Saf
 ItemDisplay[MAG BOOTS]:%NAME%{%NAME%%ORANGE%Blood: Eth Caster: Thul Power: Ral Safety: Ort%NL%}%CONTINUE%//
 ItemDisplay[MAG amu]:%NAME%{%NAME%%ORANGE%Blood: Amn Caster: Ral Power: Thul Safety: Thul}%CONTINUE%//
 ItemDisplay[MAG rin]:%NAME%{%NAME%%ORANGE%Blood: Sol Caster: Amn Power: Amn Safety: Amn}%CONTINUE%//
-ItemDisplay[ci0 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 20-30 Durability: 35 Sockets: 1}%CONTINUE%//
-ItemDisplay[ci0 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 20-30 Durability: 35 Sockets: 2}%CONTINUE%//
-ItemDisplay[ci1 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 30-40 Durability: 30 Sockets: 1}%CONTINUE%//
-ItemDisplay[ci1 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 30-40 Durability: 30 Sockets: 2}%CONTINUE%//
-ItemDisplay[cap          ]:%NAME%{%NAME%%TAN% Defense: 3-5 Durability: 12 Sockets: 2}%CONTINUE%//
-ItemDisplay[skp          ]:%NAME%{%NAME%%TAN% Defense: 8-11 Durability: 18 Sockets: 2}%CONTINUE%//
-ItemDisplay[hlm          ]:%NAME%{%NAME%%TAN% Defense: 15-18 Durability: 24 Sockets: 2}%CONTINUE%//
-ItemDisplay[fhl          ]:%NAME%{%NAME%%TAN% Defense: 23-26 Durability: 30 Sockets: 2}%CONTINUE%//
-ItemDisplay[ghm ILVL<41  ]:%NAME%{%NAME%%TAN% Defense: 30-35 Durability: 40 Sockets: 2}%CONTINUE%//
-ItemDisplay[ghm ILVL>40  ]:%NAME%{%NAME%%TAN% Defense: 30-35 Durability: 40 Sockets: 3}%CONTINUE%//
-ItemDisplay[msk ILVL<41  ]:%NAME%{%NAME%%TAN% Defense: 9-27 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[msk ILVL>40  ]:%NAME%{%NAME%%TAN% Defense: 9-27 Durability: 20 Sockets: 3}%CONTINUE%//
-ItemDisplay[crn ILVL<41  ]:%NAME%{%NAME%%TAN% Defense: 25-45 Durability: 50 Sockets: 2}%CONTINUE%//
-ItemDisplay[crn ILVL>40  ]:%NAME%{%NAME%%TAN% Defense: 25-45 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[bhm          ]:%NAME%{%NAME%%TAN% Defense: 33-36 Durability: 40 Sockets: 2}%CONTINUE%//
-ItemDisplay[qui          ]:%NAME%{%NAME%%TAN% Defense: 8-11 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[lea          ]:%NAME%{%NAME%%TAN% Defense: 14-17 Durability: 24 Sockets: 2}%CONTINUE%//
-ItemDisplay[hla          ]:%NAME%{%NAME%%TAN% Defense: 21-24 Durability: 28 Sockets: 2}%CONTINUE%//
-ItemDisplay[stu          ]:%NAME%{%NAME%%TAN% Defense: 32-25 Durability: 32 Sockets: 2}%CONTINUE%//
-ItemDisplay[rng          ]:%NAME%{%NAME%%TAN% Defense: 45-48 Durability: 36 Sockets: 3}%CONTINUE%//
-ItemDisplay[scl          ]:%NAME%{%NAME%%TAN% Defense: 57-60 Durability: 44 Sockets: 2}%CONTINUE%//
-ItemDisplay[brs          ]:%NAME%{%NAME%%TAN% Defense: 65-68 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[chn          ]:%NAME%{%NAME%%TAN% Defense: 72-75 Durability: 45 Sockets: 2}%CONTINUE%//
-ItemDisplay[spl          ]:%NAME%{%NAME%%TAN% Defense: 90-95 Durability: 30 Sockets: 2}%CONTINUE%//
-ItemDisplay[ltp          ]:%NAME%{%NAME%%TAN% Defense: 90-107 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[fld          ]:%NAME%{%NAME%%TAN% Defense: 101-105 Durability: 48 Sockets: 2}%CONTINUE%//
-ItemDisplay[plt          ]:%NAME%{%NAME%%TAN% Defense: 108-116 Durability: 60 Sockets: 2}%CONTINUE%//
-ItemDisplay[gth ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 128-135 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[gth ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 128-135 Durability: 55 Sockets: 4}%CONTINUE%//
-ItemDisplay[ful ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 150-161 Durability: 70 Sockets: 3}%CONTINUE%//
-ItemDisplay[ful ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 150-161 Durability: 70 Sockets: 4}%CONTINUE%//
-ItemDisplay[aar ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 218-233 Durability: 60 Sockets: 4}%CONTINUE%//
-ItemDisplay[aar ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 218-233 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[buc          ]:%NAME%{%NAME%%TAN% Block: 0 Defense: 4-6 Durability: 12 Sockets: 1}%CONTINUE%//
-ItemDisplay[sml          ]:%NAME%{%NAME%%TAN% Block: 5 Defense: 8-10 Durability: 16 Sockets: 2}%CONTINUE%//
-ItemDisplay[lrg          ]:%NAME%{%NAME%%TAN% Block: 12 Defense: 12-14 Durability: 24 Sockets: 3}%CONTINUE%//
-ItemDisplay[kit          ]:%NAME%{%NAME%%TAN% Block: 8 Defense: 16-18 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[spk          ]:%NAME%{%NAME%%TAN% Block: 10 Defense: 15-25 Durability: 40 Sockets: 2}%CONTINUE%//
-ItemDisplay[tow          ]:%NAME%{%NAME%%TAN% Block: 24 Defense: 22-25 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[bsh          ]:%NAME%{%NAME%%TAN% Block: 20 Defense: 10-30 Durability: 40 Sockets: 2}%CONTINUE%//
-ItemDisplay[gts          ]:%NAME%{%NAME%%TAN% Block: 16 Defense: 30-35 Durability: 40 Sockets: 3}%CONTINUE%//
-ItemDisplay[lgl          ]:%NAME%{%NAME%%TAN% Defense: 2-3 Durability: 12}%CONTINUE%//
-ItemDisplay[vgl          ]:%NAME%{%NAME%%TAN% Defense: 5-6 Durability: 14}%CONTINUE%//
-ItemDisplay[mgl          ]:%NAME%{%NAME%%TAN% Defense: 8-9 Durability: 16}%CONTINUE%//
-ItemDisplay[tgl          ]:%NAME%{%NAME%%TAN% Defense: 9-11 Durability: 18}%CONTINUE%//
-ItemDisplay[hgl          ]:%NAME%{%NAME%%TAN% Defense: 12-15 Durability: 24}%CONTINUE%//
-ItemDisplay[lbt          ]:%NAME%{%NAME%%TAN% Defense: 2-3 Durability: 12}%CONTINUE%//
-ItemDisplay[vbt          ]:%NAME%{%NAME%%TAN% Defense: 5-6 Durability: 14}%CONTINUE%//
-ItemDisplay[mbt          ]:%NAME%{%NAME%%TAN% Defense: 8-9 Durability: 16}%CONTINUE%//
-ItemDisplay[tbt          ]:%NAME%{%NAME%%TAN% Defense: 9-11 Durability: 18}%CONTINUE%//
-ItemDisplay[hbt          ]:%NAME%{%NAME%%TAN% Defense: 12-15 Durability: 24}%CONTINUE%//
-ItemDisplay[lbl          ]:%NAME%{%NAME%%TAN% Defense: 2 Durability: 12 Rows: 2}%CONTINUE%//
-ItemDisplay[vbl          ]:%NAME%{%NAME%%TAN% Defense: 3 Durability: 14 Rows: 2}%CONTINUE%//
-ItemDisplay[mbl          ]:%NAME%{%NAME%%TAN% Defense: 5 Durability: 16 Rows: 3}%CONTINUE%//
-ItemDisplay[tbl          ]:%NAME%{%NAME%%TAN% Defense: 6 Durability: 18 Rows: 3}%CONTINUE%//
-ItemDisplay[hbl          ]:%NAME%{%NAME%%TAN% Defense: 8-11 Durability: 24 Rows: 4}%CONTINUE%//
-ItemDisplay[ba1 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 10-15 Durability: 25 Sockets: 2}%CONTINUE%//
-ItemDisplay[ba1 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 10-15 Durability: 25 Sockets: 3}%CONTINUE%//
-ItemDisplay[ba2 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 15-20 Durability: 35 Sockets: 2}%CONTINUE%//
-ItemDisplay[ba2 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 15-20 Durability: 35 Sockets: 3}%CONTINUE%//
-ItemDisplay[ba3 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 25-30 Durability: 45 Sockets: 2}%CONTINUE%//
-ItemDisplay[ba3 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 25-30 Durability: 45 Sockets: 3}%CONTINUE%//
-ItemDisplay[ba4 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 30-35 Durability: 55 Sockets: 2}%CONTINUE%//
-ItemDisplay[ba4 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 30-35 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[ba5 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 35-50 Durability: 65 Sockets: 2}%CONTINUE%//
-ItemDisplay[ba5 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 35-50 Durability: 65 Sockets: 3}%CONTINUE%//
-ItemDisplay[dr1 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 8-11 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[dr1 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 8-11 Durability: 20 Sockets: 3}%CONTINUE%//
-ItemDisplay[dr2 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 4-15 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[dr2 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 4-15 Durability: 20 Sockets: 3}%CONTINUE%//
-ItemDisplay[dr3 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 18-24 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[dr3 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 18-24 Durability: 20 Sockets: 3}%CONTINUE%//
-ItemDisplay[dr4 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 12-28 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[dr4 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 12-28 Durability: 20 Sockets: 3}%CONTINUE%//
-ItemDisplay[dr5 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 22-35 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[dr5 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 22-35 Durability: 20 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa1 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 8-12 Durability: 20 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa1 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 8-12 Durability: 20 Sockets: 4}%CONTINUE%//
-ItemDisplay[pa2 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 10-18 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa2 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 10-18 Durability: 30 Sockets: 4}%CONTINUE%//
-ItemDisplay[pa3 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 16-26 Durability: 40 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa3 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 16-26 Durability: 40 Sockets: 4}%CONTINUE%//
-ItemDisplay[pa4 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 26-36 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa4 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 26-36 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[pa5 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 30-40 Durability: 65 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa5 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 30-40 Durability: 65 Sockets: 4}%CONTINUE%//
-ItemDisplay[ne1          ]:%NAME%{%NAME%%TAN% Defense: 2-5 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[ne2          ]:%NAME%{%NAME%%TAN% Defense: 4-8 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[ne3          ]:%NAME%{%NAME%%TAN% Defense: 6-10 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[ne4          ]:%NAME%{%NAME%%TAN% Defense: 10-16 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[ne5          ]:%NAME%{%NAME%%TAN% Defense: 15-20 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[hax          ]:%NAME%{%NAME%%TAN% Damage: 3-6 Durability: 28 Sockets: 2}%CONTINUE%//
-ItemDisplay[axe          ]:%NAME%{%NAME%%TAN% Damage: 4-11 Durability: 24 Sockets: 4}%CONTINUE%//
-ItemDisplay[2ax ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 5-13 Durability: 24 Sockets: 4}%CONTINUE%//
-ItemDisplay[2ax ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 5-13 Durability: 24 Sockets: 5}%CONTINUE%//
-ItemDisplay[mpi ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 7-11 Durability: 26 Sockets: 4}%CONTINUE%//
-ItemDisplay[mpi ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 7-11 Durability: 26 Sockets: 5}%CONTINUE%//
-ItemDisplay[mpi ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 7-11 Durability: 26 Sockets: 6}%CONTINUE%//
-ItemDisplay[wax ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 10-18 Durability: 26 Sockets: 4}%CONTINUE%//
-ItemDisplay[wax ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 10-18 Durability: 26 Sockets: 5}%CONTINUE%//
-ItemDisplay[wax ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 10-18 Durability: 26 Sockets: 6}%CONTINUE%//
-ItemDisplay[lax          ]:%NAME%{%NAME%%TAN% Damage: 6-13 Durability: 30 Sockets: 4}%CONTINUE%//
-ItemDisplay[bax ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 10-18 Durability: 35 Sockets: 4}%CONTINUE%//
-ItemDisplay[bax ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 10-18 Durability: 35 Sockets: 5}%CONTINUE%//
-ItemDisplay[btx ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 12-32 Durability: 40 Sockets: 4}%CONTINUE%//
-ItemDisplay[btx ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 12-32 Durability: 40 Sockets: 5}%CONTINUE%//
-ItemDisplay[gax ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 9-30 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[gax ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 9-30 Durability: 50 Sockets: 5}%CONTINUE%//
-ItemDisplay[gax ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 9-30 Durability: 50 Sockets: 6}%CONTINUE%//
-ItemDisplay[gix ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 22-45 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[gix ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 22-45 Durability: 50 Sockets: 5}%CONTINUE%//
-ItemDisplay[gix ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 22-45 Durability: 50 Sockets: 6}%CONTINUE%//
-ItemDisplay[sbw          ]:%NAME%{%NAME%%TAN% Damage: 1-4 Sockets: 3}%CONTINUE%//
-ItemDisplay[hbw ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 2-6 Sockets: 3}%CONTINUE%//
-ItemDisplay[hbw ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 2-6 Sockets: 4}%CONTINUE%//
-ItemDisplay[lbw ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 3-10 Sockets: 3}%CONTINUE%//
-ItemDisplay[lbw ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 3-10 Sockets: 4}%CONTINUE%//
-ItemDisplay[lbw ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 3-10 Sockets: 5}%CONTINUE%//
-ItemDisplay[cbw ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 4-8 Sockets: 3}%CONTINUE%//
-ItemDisplay[cbw ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 4-8 Sockets: 4}%CONTINUE%//
-ItemDisplay[sbb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 5-11 Sockets: 3}%CONTINUE%//
-ItemDisplay[sbb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 5-11 Sockets: 4}%CONTINUE%//
-ItemDisplay[sbb ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 5-11 Sockets: 5}%CONTINUE%//
-ItemDisplay[lbb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 3-18 Sockets: 3}%CONTINUE%//
-ItemDisplay[lbb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 3-18 Sockets: 4}%CONTINUE%//
-ItemDisplay[lbb ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 3-18 Sockets: 6}%CONTINUE%//
-ItemDisplay[swb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 6-14 Sockets: 3}%CONTINUE%//
-ItemDisplay[swb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 6-14 Sockets: 4}%CONTINUE%//
-ItemDisplay[swb ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 6-14 Sockets: 5}%CONTINUE%//
-ItemDisplay[lwb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 3-23 Sockets: 3}%CONTINUE%//
-ItemDisplay[lwb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 3-23 Sockets: 4}%CONTINUE%//
-ItemDisplay[lwb ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 3-23 Sockets: 6}%CONTINUE%//
-ItemDisplay[lxb          ]:%NAME%{%NAME%%TAN% Damage: 6-9 Sockets: 3}%CONTINUE%//
-ItemDisplay[mxb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 9-16 Sockets: 3}%CONTINUE%//
-ItemDisplay[mxb ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 9-16 Sockets: 4}%CONTINUE%//
-ItemDisplay[hxb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 14-26 Sockets: 3}%CONTINUE%//
-ItemDisplay[hxb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 14-26 Sockets: 4}%CONTINUE%//
-ItemDisplay[hxb ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 14-26 Sockets: 6}%CONTINUE%//
-ItemDisplay[rxb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 6-12 Sockets: 3}%CONTINUE%//
-ItemDisplay[rxb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 6-12 Sockets: 4}%CONTINUE%//
-ItemDisplay[rxb ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 6-12 Sockets: 5}%CONTINUE%//
-ItemDisplay[dgr          ]:%NAME%{%NAME%%TAN% Damage: 1-4 Durability: 26 Sockets: 1}%CONTINUE%//
-ItemDisplay[dir          ]:%NAME%{%NAME%%TAN% Damage: 3-9 Durability: 55 Sockets: 1}%CONTINUE%//
-ItemDisplay[kri ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 2-11 Durability: 36 Sockets: 2}%CONTINUE%//
-ItemDisplay[kri ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 2-11 Durability: 36 Sockets: 3}%CONTINUE%//
-ItemDisplay[bld          ]:%NAME%{%NAME%%TAN% Damage: 4-15 Durability: 47 Sockets: 2}%CONTINUE%//
-ItemDisplay[jav          ]:%NAME%{%NAME%%TAN% Throw: 6-14 One-Hand: 1-5 Stack: 60}%CONTINUE%//
-ItemDisplay[pil          ]:%NAME%{%NAME%%TAN% Throw: 7-20 One-Hand: 4-9 Stack: 50}%CONTINUE%//
-ItemDisplay[ssp          ]:%NAME%{%NAME%%TAN% Throw: 10-22 One-Hand: 2-13 Stack: 40}%CONTINUE%//
-ItemDisplay[glv          ]:%NAME%{%NAME%%TAN% Throw: 16-22 One-Hand: 5-17 Stack: 40}%CONTINUE%//
-ItemDisplay[tsp          ]:%NAME%{%NAME%%TAN% Throw: 12-30 One-Hand: 5-15 Stack: 80}%CONTINUE%//
-ItemDisplay[clb          ]:%NAME%{%NAME%%TAN% Damage: 1-6 Durability: 24 Sockets: 2}%CONTINUE%//
-ItemDisplay[spc          ]:%NAME%{%NAME%%TAN% Damage: 5-8 Durability: 36 Sockets: 2}%CONTINUE%//
-ItemDisplay[mac          ]:%NAME%{%NAME%%TAN% Damage: 3-10 Durability: 60 Sockets: 2}%CONTINUE%//
-ItemDisplay[mst          ]:%NAME%{%NAME%%TAN% Damage: 7-16 Durability: 72 Sockets: 3}%CONTINUE%//
-ItemDisplay[fla ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 1-24 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[fla ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 1-24 Durability: 30 Sockets: 4}%CONTINUE%//
-ItemDisplay[fla ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 1-24 Durability: 30 Sockets: 5}%CONTINUE%//
-ItemDisplay[whm ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 19-29 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[whm ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 19-29 Durability: 55 Sockets: 4}%CONTINUE%//
-ItemDisplay[mau ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 30-43 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[mau ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 30-43 Durability: 60 Sockets: 4}%CONTINUE%//
-ItemDisplay[mau ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 30-43 Durability: 60 Sockets: 6}%CONTINUE%//
-ItemDisplay[gma ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 38-58 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[gma ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 38-58 Durability: 60 Sockets: 4}%CONTINUE%//
-ItemDisplay[gma ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 38-58 Durability: 60 Sockets: 6}%CONTINUE%//
-ItemDisplay[bar          ]:%NAME%{%NAME%%TAN% Damage: 1-27 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[vou ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 6-21 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[vou ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 6-21 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[scy ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 8-20 Durability: 65 Sockets: 3}%CONTINUE%//
-ItemDisplay[scy ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 8-20 Durability: 65 Sockets: 4}%CONTINUE%//
-ItemDisplay[scy ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 8-20 Durability: 65 Sockets: 5}%CONTINUE%//
-ItemDisplay[pax ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 18-39 Durability: 65 Sockets: 3}%CONTINUE%//
-ItemDisplay[pax ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 18-39 Durability: 65 Sockets: 4}%CONTINUE%//
-ItemDisplay[pax ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 18-39 Durability: 65 Sockets: 5}%CONTINUE%//
-ItemDisplay[hal ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 12-45 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[hal ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 12-45 Durability: 55 Sockets: 4}%CONTINUE%//
-ItemDisplay[hal ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 12-45 Durability: 55 Sockets: 6}%CONTINUE%//
-ItemDisplay[wsc ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 15-36 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[wsc ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 15-36 Durability: 55 Sockets: 4}%CONTINUE%//
-ItemDisplay[wsc ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 15-36 Durability: 55 Sockets: 6}%CONTINUE%//
-ItemDisplay[scp          ]:%NAME%{%NAME%%TAN% Damage: 6-11 Durability: 50 Sockets: 2}%CONTINUE%//
-ItemDisplay[gsc          ]:%NAME%{%NAME%%TAN% Damage: 8-18 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[wsp ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 10-17 Durability: 70 Sockets: 3}%CONTINUE%//
-ItemDisplay[wsp ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 10-17 Durability: 70 Sockets: 5}%CONTINUE%//
-ItemDisplay[spr          ]:%NAME%{%NAME%%TAN% Damage: 3-15 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[tri ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 9-15 Durability: 35 Sockets: 3}%CONTINUE%//
-ItemDisplay[tri ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 9-15 Durability: 35 Sockets: 4}%CONTINUE%//
-ItemDisplay[brn ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 7-17 Durability: 28 Sockets: 3}%CONTINUE%//
-ItemDisplay[brn ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 7-17 Durability: 28 Sockets: 4}%CONTINUE%//
-ItemDisplay[brn ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 7-17 Durability: 28 Sockets: 5}%CONTINUE%//
-ItemDisplay[spt ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 15-23 Durability: 28 Sockets: 3}%CONTINUE%//
-ItemDisplay[spt ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 15-23 Durability: 28 Sockets: 4}%CONTINUE%//
-ItemDisplay[spt ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 15-23 Durability: 28 Sockets: 6}%CONTINUE%//
-ItemDisplay[pik ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 14-63 Durability: 25 Sockets: 3}%CONTINUE%//
-ItemDisplay[pik ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 14-63 Durability: 25 Sockets: 4}%CONTINUE%//
-ItemDisplay[pik ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 14-63 Durability: 25 Sockets: 6}%CONTINUE%//
-ItemDisplay[sst          ]:%NAME%{%NAME%%TAN% Damage: 1-5 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[lst          ]:%NAME%{%NAME%%TAN% Damage: 2-8 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[cst          ]:%NAME%{%NAME%%TAN% Damage: 4-12 Durability: 35 Sockets: 4}%CONTINUE%//
-ItemDisplay[bst          ]:%NAME%{%NAME%%TAN% Damage: 6-13 Durability: 40 Sockets: 4}%CONTINUE%//
-ItemDisplay[wst ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 12-28 Durability: 50 Sockets: 5}%CONTINUE%//
-ItemDisplay[wst ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 12-28 Durability: 50 Sockets: 6}%CONTINUE%//
-ItemDisplay[ssd          ]:%NAME%{%NAME%%TAN% Damage: 2-7 Durability: 24 Sockets: 2}%CONTINUE%//
-ItemDisplay[scm          ]:%NAME%{%NAME%%TAN% Damage: 2-6 Durability: 22 Sockets: 2}%CONTINUE%//
-ItemDisplay[sbr          ]:%NAME%{%NAME%%TAN% Damage: 3-8 Durability: 32 Sockets: 2}%CONTINUE%//
-ItemDisplay[flc          ]:%NAME%{%NAME%%TAN% Damage: 9-17 Durability: 32 Sockets: 2}%CONTINUE%//
-ItemDisplay[crs ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 5-15 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[crs ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 5-15 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[crs ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 5-15 Durability: 50 Sockets: 6}%CONTINUE%//
-ItemDisplay[bsd ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 7-14 Durability: 32 Sockets: 3}%CONTINUE%//
-ItemDisplay[bsd ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 7-14 Durability: 32 Sockets: 4}%CONTINUE%//
-ItemDisplay[lsd ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 3-19 Durability: 44 Sockets: 3}%CONTINUE%//
-ItemDisplay[lsd ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 3-19 Durability: 44 Sockets: 4}%CONTINUE%//
-ItemDisplay[wsd          ]:%NAME%{%NAME%%TAN% Damage: 8-20 Durability: 44 Sockets: 3}%CONTINUE%//
-ItemDisplay[2hs          ]:%NAME%{%NAME%%TAN% One-Handed: 2-9 Two-Handed: 8-17 Durability: 44 Sockets: 3}%CONTINUE%//
-ItemDisplay[clm ILVL<26  ]:%NAME%{%NAME%%TAN% One-Handed: 5-12 Two-Handed: 13-30 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[clm ILVL>25  ]:%NAME%{%NAME%%TAN% One-Handed: 5-12 Two-Handed: 13-30 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[gis ILVL<26  ]:%NAME%{%NAME%%TAN% One-Handed: 3-16 Two-Handed: 9-28 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[gis ILVL>25  ]:%NAME%{%NAME%%TAN% One-Handed: 3-16 Two-Handed: 9-28 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[bsw ILVL<26  ]:%NAME%{%NAME%%TAN% One-Handed: 7-19 Two-Handed: 20-28 Durability: 40 Sockets: 3}%CONTINUE%//
-ItemDisplay[bsw ILVL>25  ]:%NAME%{%NAME%%TAN% One-Handed: 7-19 Two-Handed: 20-28 Durability: 40 Sockets: 4}%CONTINUE%//
-ItemDisplay[flb ILVL<26  ]:%NAME%{%NAME%%TAN% One-Handed: 9-15 Two-Handed: 13-26 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[flb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% One-Handed: 9-15 Two-Handed: 13-26 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[flb ILVL>40  ]:%NAME%{%NAME%%TAN% One-Handed: 9-15 Two-Handed: 13-26 Durability: 50 Sockets: 5}%CONTINUE%//
-ItemDisplay[gsd ILVL<26  ]:%NAME%{%NAME%%TAN% One-Handed: 12-20 Two-Handed: 25-42 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[gsd ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% One-Handed: 12-20 Two-Handed: 25-42 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[gsd ILVL>40  ]:%NAME%{%NAME%%TAN% One-Handed: 12-20 Two-Handed: 25-42 Durability: 50 Sockets: 6}%CONTINUE%//
-ItemDisplay[tkf          ]:%NAME%{%NAME%%TAN% Throw: 4-9 One-Hand: 2-3 Stack: 160}%CONTINUE%//
-ItemDisplay[tax          ]:%NAME%{%NAME%%TAN% Throw: 6-11 One-Hand: 1-8 Stack: 160}%CONTINUE%//
-ItemDisplay[bkf          ]:%NAME%{%NAME%%TAN% Throw: 8-12 One-Hand: 4-7 Stack: 130}%CONTINUE%//
-ItemDisplay[bal          ]:%NAME%{%NAME%%TAN% Throw: 12-15 One-Hand: 5-10 Stack: 130}%CONTINUE%//
-ItemDisplay[wnd          ]:%NAME%{%NAME%%TAN% Damage: 2-4 Durability: 15 Sockets: 1}%CONTINUE%//
-ItemDisplay[ywn          ]:%NAME%{%NAME%%TAN% Damage: 2-8 Durability: 15 Sockets: 1}%CONTINUE%//
-ItemDisplay[bwn          ]:%NAME%{%NAME%%TAN% Damage: 3-7 Durability: 15 Sockets: 1}%CONTINUE%//
-ItemDisplay[gwn          ]:%NAME%{%NAME%%TAN% Damage: 5-11 Durability: 15 Sockets: 1}%CONTINUE%//
-ItemDisplay[am1 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 7-12 Sockets: 3}%CONTINUE%//
-ItemDisplay[am1 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 7-12 Sockets: 4}%CONTINUE%//
-ItemDisplay[am1 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 7-12 Sockets: 5}%CONTINUE%//
-ItemDisplay[am2 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 9-19 Sockets: 3}%CONTINUE%//
-ItemDisplay[am2 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 9-19 Sockets: 4}%CONTINUE%//
-ItemDisplay[am2 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 9-19 Sockets: 5}%CONTINUE%//
-ItemDisplay[am3 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 18-24 Durability: 28 Sockets: 3}%CONTINUE%//
-ItemDisplay[am3 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 18-24 Durability: 28 Sockets: 4}%CONTINUE%//
-ItemDisplay[am3 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 18-24 Durability: 28 Sockets: 6}%CONTINUE%//
-ItemDisplay[am4 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 23-55 Durability: 25 Sockets: 3}%CONTINUE%//
-ItemDisplay[am4 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 23-55 Durability: 25 Sockets: 4}%CONTINUE%//
-ItemDisplay[am4 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 23-55 Durability: 25 Sockets: 6}%CONTINUE%//
-ItemDisplay[am5          ]:%NAME%{%NAME%%TAN% Throw: 6-22 One-Hand: 8-14 Stack: 80}%CONTINUE%//
-ItemDisplay[ktr          ]:%NAME%{%NAME%%TAN% Damage: 4-7 Durability: 48 Sockets: 2 Skills: No}%CONTINUE%//
-ItemDisplay[wrb          ]:%NAME%{%NAME%%TAN% Damage: 5-9 Durability: 52 Sockets: 2 Skills: No}%CONTINUE%//
-ItemDisplay[axf          ]:%NAME%{%NAME%%TAN% Damage: 2-15 Durability: 56 Sockets: 2 Skills: No}%CONTINUE%//
-ItemDisplay[ces          ]:%NAME%{%NAME%%TAN% Damage: 7-15 Durability: 72 Sockets: 2 Skills: No}%CONTINUE%//
-ItemDisplay[clw ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 8-15 Durability: 64 Sockets: 2 Skills: No}%CONTINUE%//
-ItemDisplay[clw ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 8-15 Durability: 64 Sockets: 3 Skills: No}%CONTINUE%//
-ItemDisplay[btl ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 10-14 Durability: 69 Sockets: 2 Skills: No}%CONTINUE%//
-ItemDisplay[btl ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 10-14 Durability: 69 Sockets: 3 Skills: No}%CONTINUE%//
-ItemDisplay[skr ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 9-17 Durability: 68 Sockets: 2 Skills: No}%CONTINUE%//
-ItemDisplay[skr ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 9-17 Durability: 68 Sockets: 3 Skills: No}%CONTINUE%//
-ItemDisplay[ob1          ]:%NAME%{%NAME%%TAN% Damage: 2-5 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[ob2          ]:%NAME%{%NAME%%TAN% Damage: 3-8 Durability: 30 Sockets: 2}%CONTINUE%//
-ItemDisplay[ob3          ]:%NAME%{%NAME%%TAN% Damage: 4-10 Durability: 35 Sockets: 2}%CONTINUE%//
-ItemDisplay[ob4          ]:%NAME%{%NAME%%TAN% Damage: 5-12 Durability: 40 Sockets: 2}%CONTINUE%//
-ItemDisplay[ob5 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 8-18 Durability: 50 Sockets: 2}%CONTINUE%//
-ItemDisplay[ob5 ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 8-18 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[ci2 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 40-50 Durability: 25 Sockets: 1}%CONTINUE%//
-ItemDisplay[ci2 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Defense: 40-50 Durability: 25 Sockets: 2}%CONTINUE%//
-ItemDisplay[ci2 ILVL>40  ]:%NAME%{%NAME%%TAN% Defense: 40-50 Durability: 25 Sockets: 3}%CONTINUE%//
-ItemDisplay[xap          ]:%NAME%{%NAME%%TAN% Defense: 45-53 Durability: 12 Sockets: 2}%CONTINUE%//
-ItemDisplay[xkp          ]:%NAME%{%NAME%%TAN% Defense: 52-62 Durability: 18 Sockets: 2}%CONTINUE%//
-ItemDisplay[xlm          ]:%NAME%{%NAME%%TAN% Defense: 63-72 Durability: 24 Sockets: 2}%CONTINUE%//
-ItemDisplay[xhl          ]:%NAME%{%NAME%%TAN% Defense: 75-84 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[xhm ILVL<41  ]:%NAME%{%NAME%%TAN% Defense: 85-98 Durability: 40 Sockets: 2}%CONTINUE%//
-ItemDisplay[xhm ILVL>40  ]:%NAME%{%NAME%%TAN% Defense: 85-98 Durability: 40 Sockets: 3}%CONTINUE%//
-ItemDisplay[xsk ILVL<41  ]:%NAME%{%NAME%%TAN% Defense: 54-86 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[xsk ILVL>40  ]:%NAME%{%NAME%%TAN% Defense: 54-86 Durability: 20 Sockets: 3}%CONTINUE%//
-ItemDisplay[xrn ILVL<41  ]:%NAME%{%NAME%%TAN% Defense: 78-113 Durability: 50 Sockets: 2}%CONTINUE%//
-ItemDisplay[xrn ILVL>40  ]:%NAME%{%NAME%%TAN% Defense: 78-113 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[xh9          ]:%NAME%{%NAME%%TAN% Defense: 60-125 Durability: 40 Sockets: 2}%CONTINUE%//
-ItemDisplay[xui          ]:%NAME%{%NAME%%TAN% Defense: 102-117 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[xea          ]:%NAME%{%NAME%%TAN% Defense: 111-126 Durability: 24 Sockets: 2}%CONTINUE%//
-ItemDisplay[xla          ]:%NAME%{%NAME%%TAN% Defense: 122-136 Durability: 28 Sockets: 2}%CONTINUE%//
-ItemDisplay[xtu          ]:%NAME%{%NAME%%TAN% Defense: 138-153 Durability: 32 Sockets: 2}%CONTINUE%//
-ItemDisplay[xng          ]:%NAME%{%NAME%%TAN% Defense: 158-172 Durability: 36 Sockets: 3}%CONTINUE%//
-ItemDisplay[xcl          ]:%NAME%{%NAME%%TAN% Defense: 176-190 Durability: 44 Sockets: 3}%CONTINUE%//
-ItemDisplay[xrs          ]:%NAME%{%NAME%%TAN% Defense: 188-202 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[xhn          ]:%NAME%{%NAME%%TAN% Defense: 198-213 Durability: 45 Sockets: 3}%CONTINUE%//
-ItemDisplay[xpl          ]:%NAME%{%NAME%%TAN% Defense: 225-243 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[xtp          ]:%NAME%{%NAME%%TAN% Defense: 225-261 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[xld          ]:%NAME%{%NAME%%TAN% Defense: 242-258 Durability: 48 Sockets: 3}%CONTINUE%//
-ItemDisplay[xlt          ]:%NAME%{%NAME%%TAN% Defense: 252-274 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[xth ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 282-303 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[xth ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 282-303 Durability: 55 Sockets: 4}%CONTINUE%//
-ItemDisplay[xul ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 315-342 Durability: 70 Sockets: 3}%CONTINUE%//
-ItemDisplay[xul ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 315-342 Durability: 70 Sockets: 4}%CONTINUE%//
-ItemDisplay[xar ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 417-450 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[xar ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 417-450 Durability: 60 Sockets: 4}%CONTINUE%//
-ItemDisplay[xuc          ]:%NAME%{%NAME%%TAN% Block: 10 Defense: 41-49 Durability: 68 Sockets: 1}%CONTINUE%//
-ItemDisplay[xml          ]:%NAME%{%NAME%%TAN% Block: 12 Defense: 47-55 Durability: 64 Sockets: 2}%CONTINUE%//
-ItemDisplay[xrg          ]:%NAME%{%NAME%%TAN% Block: 14 Defense: 53-61 Durability: 24 Sockets: 3}%CONTINUE%//
-ItemDisplay[xpk          ]:%NAME%{%NAME%%TAN% Block: 17 Defense: 58-78 Durability: 55 Sockets: 2}%CONTINUE%//
-ItemDisplay[xit          ]:%NAME%{%NAME%%TAN% Block: 18 Defense: 59-67 Durability: 76 Sockets: 3}%CONTINUE%//
-ItemDisplay[xsh          ]:%NAME%{%NAME%%TAN% Block: 20 Defense: 50-150 Durability: 70 Sockets: 2}%CONTINUE%//
-ItemDisplay[xow          ]:%NAME%{%NAME%%TAN% Block: 24 Defense: 68-78 Durability: 72 Sockets: 3}%CONTINUE%//
-ItemDisplay[xts          ]:%NAME%{%NAME%%TAN% Block: 16 Defense: 80-93 Durability: 80 Sockets: 3}%CONTINUE%//
-ItemDisplay[xlg          ]:%NAME%{%NAME%%TAN% Defense: 28-35 Durability: 12}%CONTINUE%//
-ItemDisplay[xvg          ]:%NAME%{%NAME%%TAN% Defense: 33-39 Durability: 14}%CONTINUE%//
-ItemDisplay[xmg          ]:%NAME%{%NAME%%TAN% Defense: 37-44 Durability: 16}%CONTINUE%//
-ItemDisplay[xtg          ]:%NAME%{%NAME%%TAN% Defense: 39-47 Durability: 18}%CONTINUE%//
-ItemDisplay[xhg          ]:%NAME%{%NAME%%TAN% Defense: 43-53 Durability: 24}%CONTINUE%//
-ItemDisplay[xlb          ]:%NAME%{%NAME%%TAN% Defense: 28-35 Durability: 12}%CONTINUE%//
-ItemDisplay[xvb          ]:%NAME%{%NAME%%TAN% Defense: 33-39 Durability: 14}%CONTINUE%//
-ItemDisplay[xmb          ]:%NAME%{%NAME%%TAN% Defense: 37-44 Durability: 16}%CONTINUE%//
-ItemDisplay[xtb          ]:%NAME%{%NAME%%TAN% Defense: 39-47 Durability: 18}%CONTINUE%//
-ItemDisplay[xhb          ]:%NAME%{%NAME%%TAN% Defense: 43-53 Durability: 24}%CONTINUE%//
-ItemDisplay[zlb          ]:%NAME%{%NAME%%TAN% Defense: 29-34 Durability: 12 Rows: 4}%CONTINUE%//
-ItemDisplay[zvb          ]:%NAME%{%NAME%%TAN% Defense: 31-36 Durability: 14 Rows: 4}%CONTINUE%//
-ItemDisplay[zmb          ]:%NAME%{%NAME%%TAN% Defense: 35-40 Durability: 16 Rows: 4}%CONTINUE%//
-ItemDisplay[ztb          ]:%NAME%{%NAME%%TAN% Defense: 37-42 Durability: 18 Rows: 4}%CONTINUE%//
-ItemDisplay[zhb          ]:%NAME%{%NAME%%TAN% Defense: 41-52 Durability: 24 Rows: 4}%CONTINUE%//
-ItemDisplay[ba6 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 52-62 Durability: 25 Sockets: 2}%CONTINUE%//
-ItemDisplay[ba6 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 52-62 Durability: 25 Sockets: 3}%CONTINUE%//
-ItemDisplay[ba7 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 46-68 Durability: 35 Sockets: 2}%CONTINUE%//
-ItemDisplay[ba7 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 46-68 Durability: 35 Sockets: 3}%CONTINUE%//
-ItemDisplay[ba8 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 67-81 Durability: 45 Sockets: 2}%CONTINUE%//
-ItemDisplay[ba8 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 67-81 Durability: 45 Sockets: 3}%CONTINUE%//
-ItemDisplay[ba9 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 58-87 Durability: 50 Sockets: 2}%CONTINUE%//
-ItemDisplay[ba9 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 58-87 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[baa ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 73-98 Durability: 55 Sockets: 2}%CONTINUE%//
-ItemDisplay[baa ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 73-98 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[dr6 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 52-62 Durability: 25 Sockets: 2}%CONTINUE%//
-ItemDisplay[dr6 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 52-62 Durability: 25 Sockets: 3}%CONTINUE%//
-ItemDisplay[dr7 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 46-68 Durability: 35 Sockets: 2}%CONTINUE%//
-ItemDisplay[dr7 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 46-68 Durability: 35 Sockets: 3}%CONTINUE%//
-ItemDisplay[dr8 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 67-81 Durability: 45 Sockets: 2}%CONTINUE%//
-ItemDisplay[dr8 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 67-81 Durability: 45 Sockets: 3}%CONTINUE%//
-ItemDisplay[dr9 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 58-87 Durability: 50 Sockets: 2}%CONTINUE%//
-ItemDisplay[dr9 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 58-87 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[dra ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 73-98 Durability: 55 Sockets: 2}%CONTINUE%//
-ItemDisplay[dra ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 73-98 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa6 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 101-125 Durability: 25 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa6 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 101-125 Durability: 25 Sockets: 4}%CONTINUE%//
-ItemDisplay[pa7 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 113-137 Durability: 35 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa7 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 113-137 Durability: 35 Sockets: 4}%CONTINUE%//
-ItemDisplay[pa8 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 129-153 Durability: 45 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa8 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 129-153 Durability: 45 Sockets: 4}%CONTINUE%//
-ItemDisplay[pa9 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 144-168 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[pa9 ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 144-168 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[paa ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 156-181 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[paa ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 156-181 Durability: 55 Sockets: 4}%CONTINUE%//
-ItemDisplay[ne6          ]:%NAME%{%NAME%%TAN% Defense: 38-48 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[ne7          ]:%NAME%{%NAME%%TAN% Defense: 41-52 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[ne8          ]:%NAME%{%NAME%%TAN% Defense: 44-55 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[ne9          ]:%NAME%{%NAME%%TAN% Defense: 50-64 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[nea          ]:%NAME%{%NAME%%TAN% Defense: 58-70 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[9ha          ]:%NAME%{%NAME%%TAN% Damage: 10-21 Durability: 28 Sockets: 2}%CONTINUE%//
-ItemDisplay[9ax          ]:%NAME%{%NAME%%TAN% Damage: 10-33 Durability: 24 Sockets: 4}%CONTINUE%//
-ItemDisplay[92a ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 13-38 Durability: 24 Sockets: 4}%CONTINUE%//
-ItemDisplay[92a ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 13-38 Durability: 24 Sockets: 5}%CONTINUE%//
-ItemDisplay[9mp ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 14-34 Durability: 26 Sockets: 4}%CONTINUE%//
-ItemDisplay[9mp ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 14-34 Durability: 26 Sockets: 5}%CONTINUE%//
-ItemDisplay[9mp ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 14-34 Durability: 26 Sockets: 6}%CONTINUE%//
-ItemDisplay[9wa ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 16-45 Durability: 26 Sockets: 4}%CONTINUE%//
-ItemDisplay[9wa ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 16-45 Durability: 26 Sockets: 5}%CONTINUE%//
-ItemDisplay[9wa ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 16-45 Durability: 26 Sockets: 6}%CONTINUE%//
-ItemDisplay[9la          ]:%NAME%{%NAME%%TAN% Damage: 14-34 Durability: 30 Sockets: 4}%CONTINUE%//
-ItemDisplay[9ba ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 21-49 Durability: 35 Sockets: 4}%CONTINUE%//
-ItemDisplay[9ba ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 21-49 Durability: 35 Sockets: 5}%CONTINUE%//
-ItemDisplay[9bt ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 24-77 Durability: 40 Sockets: 4}%CONTINUE%//
-ItemDisplay[9bt ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 24-77 Durability: 40 Sockets: 5}%CONTINUE%//
-ItemDisplay[9ga ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 18-70 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[9ga ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 18-70 Durability: 50 Sockets: 5}%CONTINUE%//
-ItemDisplay[9ga ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 18-70 Durability: 50 Sockets: 6}%CONTINUE%//
-ItemDisplay[9gi ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 43-85 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[9gi ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 43-85 Durability: 50 Sockets: 5}%CONTINUE%//
-ItemDisplay[9gi ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 43-85 Durability: 50 Sockets: 6}%CONTINUE%//
-ItemDisplay[8sb          ]:%NAME%{%NAME%%TAN% Damage: 6-19 Sockets: 3}%CONTINUE%//
-ItemDisplay[8hb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 8-22 Sockets: 3}%CONTINUE%//
-ItemDisplay[8hb ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 8-22 Sockets: 4}%CONTINUE%//
-ItemDisplay[8lb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 10-29 Sockets: 3}%CONTINUE%//
-ItemDisplay[8lb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 10-29 Sockets: 4}%CONTINUE%//
-ItemDisplay[8lb ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 10-29 Sockets: 5}%CONTINUE%//
-ItemDisplay[8cb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 11-26 Sockets: 3}%CONTINUE%//
-ItemDisplay[8cb ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 11-26 Sockets: 4}%CONTINUE%//
-ItemDisplay[8s8 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 13-30 Sockets: 3}%CONTINUE%//
-ItemDisplay[8s8 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 13-30 Sockets: 4}%CONTINUE%//
-ItemDisplay[8s8 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 13-30 Sockets: 5}%CONTINUE%//
-ItemDisplay[8l8 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 10-42 Sockets: 3}%CONTINUE%//
-ItemDisplay[8l8 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 10-42 Sockets: 4}%CONTINUE%//
-ItemDisplay[8l8 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 10-42 Sockets: 6}%CONTINUE%//
-ItemDisplay[8sw ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 14-35 Sockets: 3}%CONTINUE%//
-ItemDisplay[8sw ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 14-35 Sockets: 4}%CONTINUE%//
-ItemDisplay[8sw ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 14-35 Sockets: 5}%CONTINUE%//
-ItemDisplay[8lw ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 10-50 Sockets: 3}%CONTINUE%//
-ItemDisplay[8lw ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 10-50 Sockets: 4}%CONTINUE%//
-ItemDisplay[8lw ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 10-50 Sockets: 6}%CONTINUE%//
-ItemDisplay[8lx          ]:%NAME%{%NAME%%TAN% Damage: 14-27 Sockets: 3}%CONTINUE%//
-ItemDisplay[8mx ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 20-42 Sockets: 3}%CONTINUE%//
-ItemDisplay[8mx ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 20-42 Sockets: 4}%CONTINUE%//
-ItemDisplay[8hx ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 33-55 Sockets: 3}%CONTINUE%//
-ItemDisplay[8hx ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 33-55 Sockets: 4}%CONTINUE%//
-ItemDisplay[8hx ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 33-55 Sockets: 6}%CONTINUE%//
-ItemDisplay[8rx ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 14-32 Sockets: 3}%CONTINUE%//
-ItemDisplay[8rx ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 14-32 Sockets: 4}%CONTINUE%//
-ItemDisplay[8rx ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 14-32 Sockets: 5}%CONTINUE%//
-ItemDisplay[9dg          ]:%NAME%{%NAME%%TAN% Damage: 6-8 Durability: 16 Sockets: 1}%CONTINUE%//
-ItemDisplay[9di          ]:%NAME%{%NAME%%TAN% Damage: 10-26 Durability: 20 Sockets: 1}%CONTINUE%//
-ItemDisplay[9kr ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 15-31 Durability: 24 Sockets: 2}%CONTINUE%//
-ItemDisplay[9kr ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 15-31 Durability: 24 Sockets: 3}%CONTINUE%//
-ItemDisplay[9bl          ]:%NAME%{%NAME%%TAN% Damage: 19-36 Durability: 24 Sockets: 2}%CONTINUE%//
-ItemDisplay[9ja          ]:%NAME%{%NAME%%TAN% Throw: 14-32 One-Hand: 6-19 Stack: 60}%CONTINUE%//
-ItemDisplay[9pi          ]:%NAME%{%NAME%%TAN% Throw: 16-42 One-Hand: 11-26 Stack: 50}%CONTINUE%//
-ItemDisplay[9s9          ]:%NAME%{%NAME%%TAN% Throw: 27-50 One-Hand: 8-32 Stack: 40}%CONTINUE%//
-ItemDisplay[9gl          ]:%NAME%{%NAME%%TAN% Throw: 32-60 One-Hand: 13-38 Stack: 40}%CONTINUE%//
-ItemDisplay[9ts          ]:%NAME%{%NAME%%TAN% Throw: 18-54 One-Hand: 13-35 Stack: 80}%CONTINUE%//
-ItemDisplay[9cl          ]:%NAME%{%NAME%%TAN% Damage: 6-21 Durability: 24 Sockets: 2}%CONTINUE%//
-ItemDisplay[9sp          ]:%NAME%{%NAME%%TAN% Damage: 13-25 Durability: 36 Sockets: 3}%CONTINUE%//
-ItemDisplay[9ma          ]:%NAME%{%NAME%%TAN% Damage: 15-23 Durability: 60 Sockets: 2}%CONTINUE%//
-ItemDisplay[9mt          ]:%NAME%{%NAME%%TAN% Damage: 20-31 Durability: 72 Sockets: 3}%CONTINUE%//
-ItemDisplay[9fl ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 13-35 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[9fl ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 13-35 Durability: 30 Sockets: 4}%CONTINUE%//
-ItemDisplay[9fl ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 13-35 Durability: 30 Sockets: 5}%CONTINUE%//
-ItemDisplay[9wh ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 35-58 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[9wh ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 35-58 Durability: 55 Sockets: 4}%CONTINUE%//
-ItemDisplay[9m9 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 53-78 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[9m9 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 53-78 Durability: 60 Sockets: 4}%CONTINUE%//
-ItemDisplay[9m9 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 53-78 Durability: 60 Sockets: 6}%CONTINUE%//
-ItemDisplay[9gm ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 61-99 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[9gm ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 61-99 Durability: 60 Sockets: 4}%CONTINUE%//
-ItemDisplay[9gm ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 61-99 Durability: 60 Sockets: 6}%CONTINUE%//
-ItemDisplay[9b7          ]:%NAME%{%NAME%%TAN% Damage: 6-58 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[9vo ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 14-53 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[9vo ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 14-53 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[9s8 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 18-45 Durability: 65 Sockets: 3}%CONTINUE%//
-ItemDisplay[9s8 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 18-45 Durability: 65 Sockets: 4}%CONTINUE%//
-ItemDisplay[9s8 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 18-45 Durability: 65 Sockets: 5}%CONTINUE%//
-ItemDisplay[9pa ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 34-75 Durability: 65 Sockets: 3}%CONTINUE%//
-ItemDisplay[9pa ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 34-75 Durability: 65 Sockets: 4}%CONTINUE%//
-ItemDisplay[9pa ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 34-75 Durability: 65 Sockets: 5}%CONTINUE%//
-ItemDisplay[9h9 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 13-85 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[9h9 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 13-85 Durability: 55 Sockets: 4}%CONTINUE%//
-ItemDisplay[9h9 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 13-85 Durability: 55 Sockets: 6}%CONTINUE%//
-ItemDisplay[9wc ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 30-70 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[9wc ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 30-70 Durability: 55 Sockets: 4}%CONTINUE%//
-ItemDisplay[9wc ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 30-70 Durability: 55 Sockets: 6}%CONTINUE%//
-ItemDisplay[9sc          ]:%NAME%{%NAME%%TAN% Damage: 13-24 Durability: 50 Sockets: 2}%CONTINUE%//
-ItemDisplay[9qs          ]:%NAME%{%NAME%%TAN% Damage: 14-36 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[9ws ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 16-38 Durability: 70 Sockets: 3}%CONTINUE%//
-ItemDisplay[9ws ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 16-38 Durability: 70 Sockets: 5}%CONTINUE%//
-ItemDisplay[9sr          ]:%NAME%{%NAME%%TAN% Damage: 10-37 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[9tr ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 19-37 Durability: 35 Sockets: 3}%CONTINUE%//
-ItemDisplay[9tr ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 19-37 Durability: 35 Sockets: 4}%CONTINUE%//
-ItemDisplay[9br ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 16-40 Durability: 28 Sockets: 3}%CONTINUE%//
-ItemDisplay[9br ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 16-40 Durability: 28 Sockets: 4}%CONTINUE%//
-ItemDisplay[9br ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 16-40 Durability: 28 Sockets: 5}%CONTINUE%//
-ItemDisplay[9st ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 29-59 Durability: 28 Sockets: 3}%CONTINUE%//
-ItemDisplay[9st ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 29-59 Durability: 28 Sockets: 4}%CONTINUE%//
-ItemDisplay[9st ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 29-59 Durability: 28 Sockets: 6}%CONTINUE%//
-ItemDisplay[9p9 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 27-114 Durability: 25 Sockets: 3}%CONTINUE%//
-ItemDisplay[9p9 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 27-114 Durability: 25 Sockets: 4}%CONTINUE%//
-ItemDisplay[9p9 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 27-114 Durability: 25 Sockets: 6}%CONTINUE%//
-ItemDisplay[8ss          ]:%NAME%{%NAME%%TAN% Damage: 6-21 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[8ls          ]:%NAME%{%NAME%%TAN% Damage: 8-26 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[8cs          ]:%NAME%{%NAME%%TAN% Damage: 11-32 Durability: 35 Sockets: 4}%CONTINUE%//
-ItemDisplay[8bs          ]:%NAME%{%NAME%%TAN% Damage: 14-34 Durability: 40 Sockets: 4}%CONTINUE%//
-ItemDisplay[8ws ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 24-58 Durability: 50 Sockets: 5}%CONTINUE%//
-ItemDisplay[8ws ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 24-58 Durability: 50 Sockets: 6}%CONTINUE%//
-ItemDisplay[9ss          ]:%NAME%{%NAME%%TAN% Damage: 8-22 Durability: 24 Sockets: 2}%CONTINUE%//
-ItemDisplay[9sm          ]:%NAME%{%NAME%%TAN% Damage: 8-21 Durability: 22 Sockets: 2}%CONTINUE%//
-ItemDisplay[9sb          ]:%NAME%{%NAME%%TAN% Damage: 10-24 Durability: 32 Sockets: 2}%CONTINUE%//
-ItemDisplay[9fc          ]:%NAME%{%NAME%%TAN% Damage: 16-35 Durability: 32 Sockets: 2}%CONTINUE%//
-ItemDisplay[9cr ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 13-35 Durability: 20 Sockets: 3}%CONTINUE%//
-ItemDisplay[9cr ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 13-35 Durability: 20 Sockets: 4}%CONTINUE%//
-ItemDisplay[9cr ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 13-35 Durability: 20 Sockets: 6}%CONTINUE%//
-ItemDisplay[9bs ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 16-34 Durability: 32 Sockets: 3}%CONTINUE%//
-ItemDisplay[9bs ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 16-34 Durability: 32 Sockets: 4}%CONTINUE%//
-ItemDisplay[9ls ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 10-42 Durability: 44 Sockets: 3}%CONTINUE%//
-ItemDisplay[9ls ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 10-42 Durability: 44 Sockets: 4}%CONTINUE%//
-ItemDisplay[9wd          ]:%NAME%{%NAME%%TAN% Damage: 18-43 Durability: 44 Sockets: 3}%CONTINUE%//
-ItemDisplay[92h          ]:%NAME%{%NAME%%TAN% One-Handed: 8-26 Two-Handed: 18-40 Durability: 44 Sockets: 3}%CONTINUE%//
-ItemDisplay[9cm ILVL<26  ]:%NAME%{%NAME%%TAN% One-Handed: 13-30 Two-Handed: 26-61 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[9cm ILVL>25  ]:%NAME%{%NAME%%TAN% One-Handed: 13-30 Two-Handed: 26-61 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[9gs ILVL<26  ]:%NAME%{%NAME%%TAN% One-Handed: 10-37 Two-Handed: 19-58 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[9gs ILVL>25  ]:%NAME%{%NAME%%TAN% One-Handed: 10-37 Two-Handed: 19-58 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[9b9 ILVL<26  ]:%NAME%{%NAME%%TAN% One-Handed: 14-40 Two-Handed: 39-60 Durability: 40 Sockets: 3}%CONTINUE%//
-ItemDisplay[9b9 ILVL>25  ]:%NAME%{%NAME%%TAN% One-Handed: 14-40 Two-Handed: 39-60 Durability: 40 Sockets: 4}%CONTINUE%//
-ItemDisplay[9fb ILVL<26  ]:%NAME%{%NAME%%TAN% One-Handed: 19-35 Two-Handed: 29-54 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[9fb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% One-Handed: 19-35 Two-Handed: 29-54 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[9fb ILVL>40  ]:%NAME%{%NAME%%TAN% One-Handed: 19-35 Two-Handed: 29-54 Durability: 50 Sockets: 5}%CONTINUE%//
-ItemDisplay[9gd ILVL<26  ]:%NAME%{%NAME%%TAN% One-Handed: 24-40 Two-Handed: 47-80 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[9gd ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% One-Handed: 24-40 Two-Handed: 47-80 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[9gd ILVL>40  ]:%NAME%{%NAME%%TAN% One-Handed: 24-40 Two-Handed: 47-80 Durability: 50 Sockets: 6}%CONTINUE%//
-ItemDisplay[9tk          ]:%NAME%{%NAME%%TAN% Throw: 11-24 One-Hand: 8-16 Stack: 160}%CONTINUE%//
-ItemDisplay[9ta          ]:%NAME%{%NAME%%TAN% Throw: 14-27 One-Hand: 6-24 Stack: 160}%CONTINUE%//
-ItemDisplay[9bk          ]:%NAME%{%NAME%%TAN% Throw: 18-33 One-Hand: 11-22 Stack: 130}%CONTINUE%//
-ItemDisplay[9b8          ]:%NAME%{%NAME%%TAN% Throw: 24-34 One-Hand: 13-27 Stack: 130}%CONTINUE%//
-ItemDisplay[9wn          ]:%NAME%{%NAME%%TAN% Damage: 8-18 Durability: 15 Sockets: 1}%CONTINUE%//
-ItemDisplay[9yw          ]:%NAME%{%NAME%%TAN% Damage: 8-24 Durability: 15 Sockets: 1}%CONTINUE%//
-ItemDisplay[9bw          ]:%NAME%{%NAME%%TAN% Damage: 10-22 Durability: 15 Sockets: 1}%CONTINUE%//
-ItemDisplay[9gw          ]:%NAME%{%NAME%%TAN% Damage: 13-29 Durability: 15 Sockets: 1}%CONTINUE%//
-ItemDisplay[am6 ILVL<25  ]:%NAME%{%NAME%%TAN% Damage: 16-29 Sockets: 3}%CONTINUE%//
-ItemDisplay[am6 ILVL>26 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 16-29 Sockets: 4}%CONTINUE%//
-ItemDisplay[am6 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 16-29 Sockets: 5}%CONTINUE%//
-ItemDisplay[am7 ILVL<25  ]:%NAME%{%NAME%%TAN% Damage: 19-41 Sockets: 3}%CONTINUE%//
-ItemDisplay[am7 ILVL>26 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 19-41 Sockets: 4}%CONTINUE%//
-ItemDisplay[am7 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 19-41 Sockets: 5}%CONTINUE%//
-ItemDisplay[am8 ILVL<25  ]:%NAME%{%NAME%%TAN% Damage: 34-51 Durability: 28 Sockets: 3}%CONTINUE%//
-ItemDisplay[am8 ILVL>26 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 34-51 Durability: 28 Sockets: 4}%CONTINUE%//
-ItemDisplay[am8 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 34-51 Durability: 28 Sockets: 6}%CONTINUE%//
-ItemDisplay[am9 ILVL<25  ]:%NAME%{%NAME%%TAN% Damage: 42-101 Durability: 25 Sockets: 3}%CONTINUE%//
-ItemDisplay[am9 ILVL>26 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 42-101 Durability: 25 Sockets: 4}%CONTINUE%//
-ItemDisplay[am9 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 42-101 Durability: 25 Sockets: 6}%CONTINUE%//
-ItemDisplay[ama          ]:%NAME%{%NAME%%TAN% Throw: 18-54 One-Hand: 18-35 Stack: 80}%CONTINUE%//
-ItemDisplay[9ar ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 11-24 Durability: 48 Sockets: 2 Skills: No}%CONTINUE%//
-ItemDisplay[9ar ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 11-24 Durability: 48 Sockets: 3 Skills: No}%CONTINUE%//
-ItemDisplay[9wb          ]:%NAME%{%NAME%%TAN% Damage: 13-27 Durability: 56 Sockets: 2 Skills: No}%CONTINUE%//
-ItemDisplay[9xf          ]:%NAME%{%NAME%%TAN% Damage: 8-37 Durability: 64 Sockets: 2 Skills: No}%CONTINUE%//
-ItemDisplay[9cs          ]:%NAME%{%NAME%%TAN% Damage: 16-37 Durability: 72 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[9lw ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 18-37 Durability: 52 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[9lw ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 18-37 Durability: 52 Sockets: 3 Skills: Yes}%CONTINUE%//
-ItemDisplay[9tw ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 21-35 Durability: 69 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[9tw ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 21-35 Durability: 69 Sockets: 3 Skills: Yes}%CONTINUE%//
-ItemDisplay[9qr ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 19-40 Durability: 68 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[9qr ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 19-40 Durability: 68 Sockets: 3 Skills: Yes}%CONTINUE%//
-ItemDisplay[ob6          ]:%NAME%{%NAME%%TAN% Damage: 8-21 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[ob7          ]:%NAME%{%NAME%%TAN% Damage: 10-26 Durability: 30 Sockets: 2}%CONTINUE%//
-ItemDisplay[ob8          ]:%NAME%{%NAME%%TAN% Damage: 11-29 Durability: 35 Sockets: 2}%CONTINUE%//
-ItemDisplay[ob9          ]:%NAME%{%NAME%%TAN% Damage: 13-32 Durability: 40 Sockets: 2}%CONTINUE%//
-ItemDisplay[oba ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 18-42 Durability: 50 Sockets: 2}%CONTINUE%//
-ItemDisplay[oba ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 18-42 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[ci3 ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 50-60 Durability: 20 Sockets: 1}%CONTINUE%//
-ItemDisplay[ci3 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Defense: 50-60 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[ci3 ILVL>40  ]:%NAME%{%NAME%%TAN% Defense: 50-60 Durability: 20 Sockets: 3}%CONTINUE%//
-ItemDisplay[uap          ]:%NAME%{%NAME%%TAN% Defense: 98-141 Durability: 12 Sockets: 2}%CONTINUE%//
-ItemDisplay[ukp          ]:%NAME%{%NAME%%TAN% Defense: 101-145 Durability: 18 Sockets: 2}%CONTINUE%//
-ItemDisplay[ulm          ]:%NAME%{%NAME%%TAN% Defense: 105-149 Durability: 24 Sockets: 2}%CONTINUE%//
-ItemDisplay[uhl          ]:%NAME%{%NAME%%TAN% Defense: 110-154 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[uhm ILVL<41  ]:%NAME%{%NAME%%TAN% Defense: 114-159 Durability: 40 Sockets: 2}%CONTINUE%//
-ItemDisplay[uhm ILVL>40  ]:%NAME%{%NAME%%TAN% Defense: 114-159 Durability: 40 Sockets: 3}%CONTINUE%//
-ItemDisplay[usk ILVL<41  ]:%NAME%{%NAME%%TAN% Defense: 101-154 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[usk ILVL>40  ]:%NAME%{%NAME%%TAN% Defense: 101-154 Durability: 20 Sockets: 3}%CONTINUE%//
-ItemDisplay[urn ILVL<41  ]:%NAME%{%NAME%%TAN% Defense: 111-165 Durability: 50 Sockets: 2}%CONTINUE%//
-ItemDisplay[urn ILVL>40  ]:%NAME%{%NAME%%TAN% Defense: 111-165 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[uh9 ILVL<41  ]:%NAME%{%NAME%%TAN% Defense: 100-157 Durability: 40 Sockets: 2}%CONTINUE%//
-ItemDisplay[uh9 ILVL>40  ]:%NAME%{%NAME%%TAN% Defense: 100-157 Durability: 40 Sockets: 3}%CONTINUE%//
-ItemDisplay[uui ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 361-467 Durability: 20 Sockets: 3}%CONTINUE%//
-ItemDisplay[uui ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 361-467 Durability: 20 Sockets: 4}%CONTINUE%//
-ItemDisplay[uea ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 364-470 Durability: 24 Sockets: 3}%CONTINUE%//
-ItemDisplay[uea ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 364-470 Durability: 24 Sockets: 4}%CONTINUE%//
-ItemDisplay[ula ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 369-474 Durability: 28 Sockets: 3}%CONTINUE%//
-ItemDisplay[ula ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 369-474 Durability: 28 Sockets: 4}%CONTINUE%//
-ItemDisplay[utu ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 375-481 Durability: 32 Sockets: 3}%CONTINUE%//
-ItemDisplay[utu ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 375-481 Durability: 32 Sockets: 4}%CONTINUE%//
-ItemDisplay[ung ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 383-489 Durability: 36 Sockets: 3}%CONTINUE%//
-ItemDisplay[ung ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 383-489 Durability: 36 Sockets: 4}%CONTINUE%//
-ItemDisplay[ucl ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 390-496 Durability: 44 Sockets: 3}%CONTINUE%//
-ItemDisplay[ucl ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 390-496 Durability: 44 Sockets: 4}%CONTINUE%//
-ItemDisplay[urs ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 395-501 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[urs ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 395-501 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[uhn ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 399-505 Durability: 45 Sockets: 3}%CONTINUE%//
-ItemDisplay[uhn ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 399-505 Durability: 45 Sockets: 4}%CONTINUE%//
-ItemDisplay[upl ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 410-517 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[upl ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 410-517 Durability: 30 Sockets: 4}%CONTINUE%//
-ItemDisplay[utp ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 410-524 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[utp ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 410-524 Durability: 60 Sockets: 4}%CONTINUE%//
-ItemDisplay[uld ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 417-523 Durability: 48 Sockets: 3}%CONTINUE%//
-ItemDisplay[uld ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 417-523 Durability: 48 Sockets: 4}%CONTINUE%//
-ItemDisplay[ult ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 421-530 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[ult ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 421-530 Durability: 60 Sockets: 4}%CONTINUE%//
-ItemDisplay[uth ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 433-541 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[uth ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 433-541 Durability: 55 Sockets: 4}%CONTINUE%//
-ItemDisplay[uul ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 446-557 Durability: 70 Sockets: 3}%CONTINUE%//
-ItemDisplay[uul ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 446-557 Durability: 70 Sockets: 4}%CONTINUE%//
-ItemDisplay[uar ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 487-600 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[uar ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 487-600 Durability: 60 Sockets: 4}%CONTINUE%//
-ItemDisplay[uuc          ]:%NAME%{%NAME%%TAN% Block: 22 Defense: 95-110 Durability: 88 Sockets: 2}%CONTINUE%//
-ItemDisplay[uml          ]:%NAME%{%NAME%%TAN% Block: 20 Defense: 108-123 Durability: 84 Sockets: 2}%CONTINUE%//
-ItemDisplay[urg          ]:%NAME%{%NAME%%TAN% Block: 24 Defense: 119-135 Durability: 82 Sockets: 3}%CONTINUE%//
-ItemDisplay[uit ILVL<41  ]:%NAME%{%NAME%%TAN% Block: 22 Defense: 133-148 Durability: 86 Sockets: 3}%CONTINUE%//
-ItemDisplay[uit ILVL>40  ]:%NAME%{%NAME%%TAN% Block: 22 Defense: 133-148 Durability: 86 Sockets: 4}%CONTINUE%//
-ItemDisplay[upk          ]:%NAME%{%NAME%%TAN% Block: 20 Defense: 147-163 Durability: 83 Sockets: 3}%CONTINUE%//
-ItemDisplay[uow ILVL<41  ]:%NAME%{%NAME%%TAN% Block: 24 Defense: 145-161 Durability: 92 Sockets: 3}%CONTINUE%//
-ItemDisplay[uow ILVL>40  ]:%NAME%{%NAME%%TAN% Block: 24 Defense: 145-161 Durability: 92 Sockets: 4}%CONTINUE%//
-ItemDisplay[ush          ]:%NAME%{%NAME%%TAN% Block: 20 Defense: 158-173 Durability: 74 Sockets: 3}%CONTINUE%//
-ItemDisplay[uts ILVL<41  ]:%NAME%{%NAME%%TAN% Block: 24 Defense: 153-170 Durability: 100 Sockets: 3}%CONTINUE%//
-ItemDisplay[uts ILVL>40  ]:%NAME%{%NAME%%TAN% Block: 24 Defense: 153-170 Durability: 100 Sockets: 4}%CONTINUE%//
-ItemDisplay[ulg          ]:%NAME%{%NAME%%TAN% Defense: 54-62 Durability: 12}%CONTINUE%//
-ItemDisplay[uvg          ]:%NAME%{%NAME%%TAN% Defense: 56-65 Durability: 14}%CONTINUE%//
-ItemDisplay[umg          ]:%NAME%{%NAME%%TAN% Defense: 59-67 Durability: 16}%CONTINUE%//
-ItemDisplay[utg          ]:%NAME%{%NAME%%TAN% Defense: 59-68 Durability: 18}%CONTINUE%//
-ItemDisplay[uhg          ]:%NAME%{%NAME%%TAN% Defense: 62-71 Durability: 24}%CONTINUE%//
-ItemDisplay[ulb          ]:%NAME%{%NAME%%TAN% Defense: 54-62 Durability: 12}%CONTINUE%//
-ItemDisplay[uvb          ]:%NAME%{%NAME%%TAN% Defense: 56-65 Durability: 14}%CONTINUE%//
-ItemDisplay[umb          ]:%NAME%{%NAME%%TAN% Defense: 59-67 Durability: 16}%CONTINUE%//
-ItemDisplay[utb          ]:%NAME%{%NAME%%TAN% Defense: 59-67 Durability: 18}%CONTINUE%//
-ItemDisplay[uhb          ]:%NAME%{%NAME%%TAN% Defense: 62-71 Durability: 24}%CONTINUE%//
-ItemDisplay[ulc          ]:%NAME%{%NAME%%TAN% Defense: 55-62 Durability: 12 Rows: 4}%CONTINUE%//
-ItemDisplay[uvc          ]:%NAME%{%NAME%%TAN% Defense: 56-63 Durability: 14 Rows: 4}%CONTINUE%//
-ItemDisplay[umc          ]:%NAME%{%NAME%%TAN% Defense: 58-65 Durability: 16 Rows: 4}%CONTINUE%//
-ItemDisplay[utc          ]:%NAME%{%NAME%%TAN% Defense: 59-66 Durability: 18 Rows: 4}%CONTINUE%//
-ItemDisplay[uhc          ]:%NAME%{%NAME%%TAN% Defense: 61-71 Durability: 24 Rows: 4}%CONTINUE%//
-ItemDisplay[bab ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 102-147 Durability: 25 Sockets:2}%CONTINUE%//
-ItemDisplay[bab ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 102-147 Durability: 25 Sockets: 3}%CONTINUE%//
-ItemDisplay[bac ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 105-150 Durability: 35 Sockets:2}%CONTINUE%//
-ItemDisplay[bac ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 105-150 Durability: 35 Sockets: 3}%CONTINUE%//
-ItemDisplay[bad ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 111-156 Durability: 45 Sockets:2}%CONTINUE%//
-ItemDisplay[bad ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 111-156 Durability: 45 Sockets: 3}%CONTINUE%//
-ItemDisplay[bae ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 114-159 Durability: 50 Sockets:2}%CONTINUE%//
-ItemDisplay[bae ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 114-159 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[baf ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 117-168 Durability: 55 Sockets:2}%CONTINUE%//
-ItemDisplay[baf ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 117-168 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[drb ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 101-145 Durability: 25 Sockets: 2}%CONTINUE%//
-ItemDisplay[drb ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 101-145 Durability: 25 Sockets: 3}%CONTINUE%//
-ItemDisplay[drc ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 98-147 Durability: 35 Sockets: 2}%CONTINUE%//
-ItemDisplay[drc ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 98-147 Durability: 35 Sockets: 3}%CONTINUE%//
-ItemDisplay[drd ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 107-152 Durability: 45 Sockets: 2}%CONTINUE%//
-ItemDisplay[drd ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 107-152 Durability: 45 Sockets: 3}%CONTINUE%//
-ItemDisplay[dre ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 103-155 Durability: 50 Sockets: 2}%CONTINUE%//
-ItemDisplay[dre ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 103-155 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[drf ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 109-159 Durability: 55 Sockets: 2}%CONTINUE%//
-ItemDisplay[drf ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 109-159 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[pab ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 126-158 Durability: 25 Sockets: 3}%CONTINUE%//
-ItemDisplay[pab ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 126-158 Durability: 25 Sockets: 4}%CONTINUE%//
-ItemDisplay[pac ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 138-164 Durability: 35 Sockets: 3}%CONTINUE%//
-ItemDisplay[pac ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 138-164 Durability: 35 Sockets: 4}%CONTINUE%//
-ItemDisplay[pad ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 154-172 Durability: 45 Sockets: 3}%CONTINUE%//
-ItemDisplay[pad ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 154-172 Durability: 45 Sockets: 4}%CONTINUE%//
-ItemDisplay[pae ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 169-193 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[pae ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 169-193 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[paf ILVL<26  ]:%NAME%{%NAME%%TAN% Defense: 182-225 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[paf ILVL>25  ]:%NAME%{%NAME%%TAN% Defense: 182-225 Durability: 55 Sockets: 4}%CONTINUE%//
-ItemDisplay[neb          ]:%NAME%{%NAME%%TAN% Defense: 95-139 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[neg          ]:%NAME%{%NAME%%TAN% Defense: 96-141 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[ned          ]:%NAME%{%NAME%%TAN% Defense: 98-142 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[nee          ]:%NAME%{%NAME%%TAN% Defense: 100-146 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[nef          ]:%NAME%{%NAME%%TAN% Defense: 103-148 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[7ha          ]:%NAME%{%NAME%%TAN% Damage: 33-58 Durability: 28 Sockets: 2}%CONTINUE%//
-ItemDisplay[7ax          ]:%NAME%{%NAME%%TAN% Damage: 38-60 Durability: 24 Sockets: 4}%CONTINUE%//
-ItemDisplay[72a ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 33-66 Durability: 24 Sockets: 4}%CONTINUE%//
-ItemDisplay[72a ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 33-66 Durability: 24 Sockets: 5}%CONTINUE%//
-ItemDisplay[7mp ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 30-48 Durability: 26 Sockets: 4}%CONTINUE%//
-ItemDisplay[7mp ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 30-48 Durability: 26 Sockets: 5}%CONTINUE%//
-ItemDisplay[7mp ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 30-48 Durability: 26 Sockets: 6}%CONTINUE%//
-ItemDisplay[7wa ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 24-71 Durability: 26 Sockets: 4}%CONTINUE%//
-ItemDisplay[7wa ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 24-71 Durability: 26 Sockets: 5}%CONTINUE%//
-ItemDisplay[7wa ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 24-71 Durability: 26 Sockets: 6}%CONTINUE%//
-ItemDisplay[7la          ]:%NAME%{%NAME%%TAN% Damage: 25-123 Durability: 30 Sockets: 4}%CONTINUE%//
-ItemDisplay[7ba ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 62-110 Durability: 35 Sockets: 4}%CONTINUE%//
-ItemDisplay[7ba ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 62-110 Durability: 35 Sockets: 5}%CONTINUE%//
-ItemDisplay[7bt ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 49-137 Durability: 40 Sockets: 4}%CONTINUE%//
-ItemDisplay[7bt ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 49-137 Durability: 40 Sockets: 5}%CONTINUE%//
-ItemDisplay[7ga ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 59-94 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[7ga ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 59-94 Durability: 50 Sockets: 5}%CONTINUE%//
-ItemDisplay[7ga ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 59-94 Durability: 50 Sockets: 6}%CONTINUE%//
-ItemDisplay[7gi ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 60-124 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[7gi ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 60-124 Durability: 50 Sockets: 5}%CONTINUE%//
-ItemDisplay[7gi ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 60-124 Durability: 50 Sockets: 6}%CONTINUE%//
-ItemDisplay[6sb          ]:%NAME%{%NAME%%TAN% Damage: 23-50 Sockets: 3}%CONTINUE%//
-ItemDisplay[6hb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 21-41 Sockets: 3}%CONTINUE%//
-ItemDisplay[6hb ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 21-41 Sockets: 4}%CONTINUE%//
-ItemDisplay[6lb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 15-59 Sockets: 3}%CONTINUE%//
-ItemDisplay[6lb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 15-59 Sockets: 4}%CONTINUE%//
-ItemDisplay[6lb ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 15-59 Sockets: 5}%CONTINUE%//
-ItemDisplay[6cb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 12-52 Sockets: 3}%CONTINUE%//
-ItemDisplay[6cb ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 12-52 Sockets: 4}%CONTINUE%//
-ItemDisplay[6s7 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 33-40 Sockets: 3}%CONTINUE%//
-ItemDisplay[6s7 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 33-40 Sockets: 4}%CONTINUE%//
-ItemDisplay[6s7 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 33-40 Sockets: 5}%CONTINUE%//
-ItemDisplay[6l7 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 15-63 Sockets: 3}%CONTINUE%//
-ItemDisplay[6l7 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 15-63 Sockets: 4}%CONTINUE%//
-ItemDisplay[6l7 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 15-63 Sockets: 6}%CONTINUE%//
-ItemDisplay[6sw ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 20-53 Sockets: 3}%CONTINUE%//
-ItemDisplay[6sw ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 20-53 Sockets: 4}%CONTINUE%//
-ItemDisplay[6sw ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 20-53 Sockets: 5}%CONTINUE%//
-ItemDisplay[6lw ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 10-68 Sockets: 3}%CONTINUE%//
-ItemDisplay[6lw ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 10-68 Sockets: 4}%CONTINUE%//
-ItemDisplay[6lw ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 10-68 Sockets: 6}%CONTINUE%//
-ItemDisplay[6lx          ]:%NAME%{%NAME%%TAN% Damage: 28-73 Sockets: 3}%CONTINUE%//
-ItemDisplay[6mx ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 25-87 Sockets: 3}%CONTINUE%//
-ItemDisplay[6mx ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 25-87 Sockets: 4}%CONTINUE%//
-ItemDisplay[6hx ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 32-91 Sockets: 3}%CONTINUE%//
-ItemDisplay[6hx ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 32-91 Sockets: 4}%CONTINUE%//
-ItemDisplay[6hx ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 32-91 Sockets: 6}%CONTINUE%//
-ItemDisplay[6rx ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 26-40 Sockets: 3}%CONTINUE%//
-ItemDisplay[6rx ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 26-40 Sockets: 4}%CONTINUE%//
-ItemDisplay[6rx ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 26-40 Sockets: 5}%CONTINUE%//
-ItemDisplay[7dg          ]:%NAME%{%NAME%%TAN% Damage: 23-49 Durability: 26 Sockets: 1}%CONTINUE%//
-ItemDisplay[7di          ]:%NAME%{%NAME%%TAN% Damage: 37-53 Durability: 55 Sockets: 1}%CONTINUE%//
-ItemDisplay[7kr ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 15-57 Durability: 36 Sockets: 2}%CONTINUE%//
-ItemDisplay[7kr ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 15-57 Durability: 36 Sockets: 3}%CONTINUE%//
-ItemDisplay[7bl          ]:%NAME%{%NAME%%TAN% Damage: 31-47 Durability: 47 Sockets: 2}%CONTINUE%//
-ItemDisplay[7ja          ]:%NAME%{%NAME%%TAN% Throw: 28-55 One-Hand: 21-57 Stack: 60}%CONTINUE%//
-ItemDisplay[7pi          ]:%NAME%{%NAME%%TAN% Throw: 21-75 One-Hand: 14-64 Stack: 50}%CONTINUE%//
-ItemDisplay[7s7          ]:%NAME%{%NAME%%TAN% Throw: 40-62 One-Hand: 33-63 Stack: 40}%CONTINUE%//
-ItemDisplay[7gl          ]:%NAME%{%NAME%%TAN% Throw: 30-85 One-Hand: 19-60 Stack: 40}%CONTINUE%//
-ItemDisplay[7ts          ]:%NAME%{%NAME%%TAN% Throw: 11-77 One-Hand: 27-35 Stack: 80}%CONTINUE%//
-ItemDisplay[7cl          ]:%NAME%{%NAME%%TAN% Damage: 35-43 Durability: 55 Sockets: 2}%CONTINUE%//
-ItemDisplay[7sp          ]:%NAME%{%NAME%%TAN% Damage: 32-58 Durability: 65 Sockets: 3}%CONTINUE%//
-ItemDisplay[7ma          ]:%NAME%{%NAME%%TAN% Damage: 41-49 Durability: 60 Sockets: 2}%CONTINUE%//
-ItemDisplay[7mt          ]:%NAME%{%NAME%%TAN% Damage: 43-53 Durability: 72 Sockets: 3}%CONTINUE%//
-ItemDisplay[7fl ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 3-80 Durability: 65 Sockets: 3}%CONTINUE%//
-ItemDisplay[7fl ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 3-80 Durability: 65 Sockets: 4}%CONTINUE%//
-ItemDisplay[7fl ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 3-80 Durability: 65 Sockets: 5}%CONTINUE%//
-ItemDisplay[7wh ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 50-61 Durability: 65 Sockets: 3}%CONTINUE%//
-ItemDisplay[7wh ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 50-61 Durability: 65 Sockets: 4}%CONTINUE%//
-ItemDisplay[7m7 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 77-106 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[7m7 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 77-106 Durability: 60 Sockets: 4}%CONTINUE%//
-ItemDisplay[7m7 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 77-106 Durability: 60 Sockets: 6}%CONTINUE%//
-ItemDisplay[7gm ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 33-180 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[7gm ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 33-180 Durability: 60 Sockets: 4}%CONTINUE%//
-ItemDisplay[7gm ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 33-180 Durability: 60 Sockets: 6}%CONTINUE%//
-ItemDisplay[7o7          ]:%NAME%{%NAME%%TAN% Damage: 28-145 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[7vo ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 17-165 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[7vo ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 17-165 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[7s8 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 12-141 Durability: 65 Sockets: 3}%CONTINUE%//
-ItemDisplay[7s8 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 12-141 Durability: 65 Sockets: 4}%CONTINUE%//
-ItemDisplay[7s8 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 12-141 Durability: 65 Sockets: 5}%CONTINUE%//
-ItemDisplay[7pa ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 33-150 Durability: 65 Sockets: 3}%CONTINUE%//
-ItemDisplay[7pa ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 33-150 Durability: 65 Sockets: 4}%CONTINUE%//
-ItemDisplay[7pa ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 33-150 Durability: 65 Sockets: 5}%CONTINUE%//
-ItemDisplay[7h7 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 46-127 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[7h7 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 46-127 Durability: 55 Sockets: 4}%CONTINUE%//
-ItemDisplay[7h7 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 46-127 Durability: 55 Sockets: 6}%CONTINUE%//
-ItemDisplay[7wc ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 40-114 Durability: 55 Sockets: 3}%CONTINUE%//
-ItemDisplay[7wc ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 40-114 Durability: 55 Sockets: 4}%CONTINUE%//
-ItemDisplay[7wc ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 40-114 Durability: 55 Sockets: 6}%CONTINUE%//
-ItemDisplay[7sc          ]:%NAME%{%NAME%%TAN% Damage: 40-52 Durability: 50 Sockets: 2}%CONTINUE%//
-ItemDisplay[7qs          ]:%NAME%{%NAME%%TAN% Damage: 45-54 Durability: 60 Sockets: 3}%CONTINUE%//
-ItemDisplay[7ws ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 37-43 Durability: 70 Sockets: 3}%CONTINUE%//
-ItemDisplay[7ws ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 37-43 Durability: 70 Sockets: 5}%CONTINUE%//
-ItemDisplay[7sr          ]:%NAME%{%NAME%%TAN% Damage: 35-119 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[7tr ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 29-144 Durability: 35 Sockets: 3}%CONTINUE%//
-ItemDisplay[7tr ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 29-144 Durability: 35 Sockets: 4}%CONTINUE%//
-ItemDisplay[7br ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 42-92 Durability: 28 Sockets: 3}%CONTINUE%//
-ItemDisplay[7br ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 42-92 Durability: 28 Sockets: 4}%CONTINUE%//
-ItemDisplay[7br ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 42-92 Durability: 28 Sockets: 5}%CONTINUE%//
-ItemDisplay[7st ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 18-155 Durability: 28 Sockets: 3}%CONTINUE%//
-ItemDisplay[7st ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 18-155 Durability: 28 Sockets: 4}%CONTINUE%//
-ItemDisplay[7st ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 18-155 Durability: 28 Sockets: 6}%CONTINUE%//
-ItemDisplay[7p7 ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 33-178 Durability: 25 Sockets: 3}%CONTINUE%//
-ItemDisplay[7p7 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 33-178 Durability: 25 Sockets: 4}%CONTINUE%//
-ItemDisplay[7p7 ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 33-178 Durability: 25 Sockets: 6}%CONTINUE%//
-ItemDisplay[6ss          ]:%NAME%{%NAME%%TAN% Damage: 69-85 Durability: 20 Sockets: 2}%CONTINUE%//
-ItemDisplay[6ls          ]:%NAME%{%NAME%%TAN% Damage: 75-107 Durability: 30 Sockets: 3}%CONTINUE%//
-ItemDisplay[6cs          ]:%NAME%{%NAME%%TAN% Damage: 80-93 Durability: 35 Sockets: 4}%CONTINUE%//
-ItemDisplay[6bs          ]:%NAME%{%NAME%%TAN% Damage: 65-108 Durability: 40 Sockets: 4}%CONTINUE%//
-ItemDisplay[6ws ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 83-99 Durability: 26 Sockets: 5}%CONTINUE%//
-ItemDisplay[6ws ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 83-99 Durability: 26 Sockets: 6}%CONTINUE%//
-ItemDisplay[7ss          ]:%NAME%{%NAME%%TAN% Damage: 31-59 Durability: 24 Sockets: 2}%CONTINUE%//
-ItemDisplay[7sm          ]:%NAME%{%NAME%%TAN% Damage: 26-46 Durability: 22 Sockets: 2}%CONTINUE%//
-ItemDisplay[7sb          ]:%NAME%{%NAME%%TAN% Damage: 33-45 Durability: 32 Sockets: 2}%CONTINUE%//
-ItemDisplay[7fc          ]:%NAME%{%NAME%%TAN% Damage: 28-68 Durability: 32 Sockets: 2}%CONTINUE%//
-ItemDisplay[7cr ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 31-35 Durability: - Sockets: 3}%CONTINUE%//
-ItemDisplay[7cr ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 31-35 Durability: - Sockets: 4}%CONTINUE%//
-ItemDisplay[7cr ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 31-35 Durability: - Sockets: 6}%CONTINUE%//
-ItemDisplay[7bs ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 37-53 Durability: 32 Sockets: 3}%CONTINUE%//
-ItemDisplay[7bs ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 37-53 Durability: 32 Sockets: 4}%CONTINUE%//
-ItemDisplay[7ls ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 5-77 Durability: 44 Sockets: 3}%CONTINUE%//
-ItemDisplay[7ls ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 5-77 Durability: 44 Sockets: 4}%CONTINUE%//
-ItemDisplay[7wd          ]:%NAME%{%NAME%%TAN% Damage: 40-50 Durability: 44 Sockets: 3}%CONTINUE%//
-ItemDisplay[72h          ]:%NAME%{%NAME%%TAN% One-Handed: 22-56 Two-Handed: 50-94 Durability: 44 Sockets: 3}%CONTINUE%//
-ItemDisplay[7cm ILVL<26  ]:%NAME%{%NAME%%TAN% One-Handed: 22-62 Two-Handed: 67-96 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[7cm ILVL>25  ]:%NAME%{%NAME%%TAN% One-Handed: 22-62 Two-Handed: 67-96 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[7gs ILVL<26  ]:%NAME%{%NAME%%TAN% One-Handed: 15-75 Two-Handed: 55-118 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[7gs ILVL>25  ]:%NAME%{%NAME%%TAN% One-Handed: 15-75 Two-Handed: 55-118 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[7b7 ILVL<26  ]:%NAME%{%NAME%%TAN% One-Handed: 24-54 Two-Handed: 71-83 Durability: 40 Sockets: 3}%CONTINUE%//
-ItemDisplay[7b7 ILVL>25  ]:%NAME%{%NAME%%TAN% One-Handed: 24-54 Two-Handed: 71-83 Durability: 40 Sockets: 4}%CONTINUE%//
-ItemDisplay[7fb ILVL<26  ]:%NAME%{%NAME%%TAN% One-Handed: 26-70 Two-Handed: 61-121 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[7fb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% One-Handed: 26-70 Two-Handed: 61-121 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[7fb ILVL>40  ]:%NAME%{%NAME%%TAN% One-Handed: 26-70 Two-Handed: 61-121 Durability: 50 Sockets: 5}%CONTINUE%//
-ItemDisplay[7gd ILVL>25  ]:%NAME%{%NAME%%TAN% One-Handed: 25-65 Two-Handed: 58-1115 Durability: 50 Sockets: 3}%CONTINUE%//
-ItemDisplay[7gd ILVL<25 ILVL<41]:%NAME%{%NAME%%TAN% One-Handed: 25-65 Two-Handed: 58-1115 Durability: 50 Sockets: 4}%CONTINUE%//
-ItemDisplay[7gd ILVL>40  ]:%NAME%{%NAME%%TAN% One-Handed: 25-65 Two-Handed: 58-1115 Durability: 50 Sockets: 6}%CONTINUE%//
-ItemDisplay[7tk          ]:%NAME%{%NAME%%TAN% Throw: 23-54 One-Hand: 23-54 Stack: 200}%CONTINUE%//
-ItemDisplay[7ta          ]:%NAME%{%NAME%%TAN% Throw: 23-39 One-Hand: 27-35 Stack: 200}%CONTINUE%//
-ItemDisplay[7bk          ]:%NAME%{%NAME%%TAN% Throw: 15-66 One-Hand: 17-65 Stack: 200}%CONTINUE%//
-ItemDisplay[7b8          ]:%NAME%{%NAME%%TAN% Throw: 7-60 One-Hand: 11-56 Stack: 200}%CONTINUE%//
-ItemDisplay[7wn          ]:%NAME%{%NAME%%TAN% Damage: 18-33 Durability: 22 Sockets: 2}%CONTINUE%//
-ItemDisplay[7yw          ]:%NAME%{%NAME%%TAN% Damage: 20-40 Durability: 22 Sockets: 2}%CONTINUE%//
-ItemDisplay[7bw          ]:%NAME%{%NAME%%TAN% Damage: 10-31 Durability: 22 Sockets: 2}%CONTINUE%//
-ItemDisplay[7gw          ]:%NAME%{%NAME%%TAN% Damage: 22-28 Durability: 22 Sockets: 2}%CONTINUE%//
-ItemDisplay[amb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 20-47 Sockets: 3}%CONTINUE%//
-ItemDisplay[amb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 20-47 Sockets: 4}%CONTINUE%//
-ItemDisplay[amb ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 20-47 Sockets: 5}%CONTINUE%//
-ItemDisplay[amc ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 14-72 Sockets: 3}%CONTINUE%//
-ItemDisplay[amc ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 14-72 Sockets: 4}%CONTINUE%//
-ItemDisplay[amc ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 14-72 Sockets: 5}%CONTINUE%//
-ItemDisplay[amd ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 65-95 Durability: 28 Sockets: 3}%CONTINUE%//
-ItemDisplay[amd ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 65-95 Durability: 28 Sockets: 4}%CONTINUE%//
-ItemDisplay[amd ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 65-95 Durability: 28 Sockets: 6}%CONTINUE%//
-ItemDisplay[ame ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 37-153 Durability: 25 Sockets: 3}%CONTINUE%//
-ItemDisplay[ame ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN% Damage: 37-153 Durability: 25 Sockets: 4}%CONTINUE%//
-ItemDisplay[ame ILVL>40  ]:%NAME%{%NAME%%TAN% Damage: 37-153 Durability: 25 Sockets: 6}%CONTINUE%//
-ItemDisplay[amf          ]:%NAME%{%NAME%%TAN% Throw: 33-66 One-Hand: 30-54 Stack: 80}%CONTINUE%//
-ItemDisplay[7ar ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 39-52 Durability: 48 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7ar ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 39-52 Durability: 48 Sockets: 3 Skills: Yes}%CONTINUE%//
-ItemDisplay[7wb ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 34-45 Durability: 56 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7wb ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 34-45 Durability: 56 Sockets: 3 Skills: Yes}%CONTINUE%//
-ItemDisplay[7xf          ]:%NAME%{%NAME%%TAN% Damage: 44-53 Durability: 64 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7cs          ]:%NAME%{%NAME%%TAN% Damage: 36-42 Durability: 72 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7lw ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 22-53 Durability: 52 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7lw ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 22-53 Durability: 52 Sockets: 3 Skills: Yes}%CONTINUE%//
-ItemDisplay[7tw ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 24-44 Durability: 69 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7tw ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 24-44 Durability: 69 Sockets: 3 Skills: Yes}%CONTINUE%//
-ItemDisplay[7qr ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 40-51 Durability: 68 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7qr ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 40-51 Durability: 68 Sockets: 3 Skills: Yes}%CONTINUE%//
-ItemDisplay[obb          ]:%NAME%{%NAME%%TAN% Damage: 21-46 Durability: 15 Sockets: 2}%CONTINUE%//
-ItemDisplay[obc          ]:%NAME%{%NAME%%TAN% Damage: 18-50 Durability: 15 Sockets: 2}%CONTINUE%//
-ItemDisplay[obd          ]:%NAME%{%NAME%%TAN% Damage: 23-55 Durability: 15 Sockets: 2}%CONTINUE%//
-ItemDisplay[obe          ]:%NAME%{%NAME%%TAN% Damage: 12-66 Durability: 15 Sockets: 2}%CONTINUE%//
-ItemDisplay[obf ILVL<26  ]:%NAME%{%NAME%%TAN% Damage: 30-53 Durability: 15 Sockets: 2}%CONTINUE%//
-ItemDisplay[obf ILVL>25  ]:%NAME%{%NAME%%TAN% Damage: 30-53 Durability: 15 Sockets: 3}%CONTINUE%//
+ItemDisplay[ci0 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 20-30 Durability: 35 Sockets: 1}%CONTINUE%//
+ItemDisplay[ci0 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 20-30 Durability: 35 Sockets: 2}%CONTINUE%//
+ItemDisplay[ci1 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 30-40 Durability: 30 Sockets: 1}%CONTINUE%//
+ItemDisplay[ci1 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 30-40 Durability: 30 Sockets: 2}%CONTINUE%//
+ItemDisplay[cap          ]:%NAME%{%NAME%%TAN%Defense: 3-5 Durability: 12 Sockets: 2}%CONTINUE%//
+ItemDisplay[skp          ]:%NAME%{%NAME%%TAN%Defense: 8-11 Durability: 18 Sockets: 2}%CONTINUE%//
+ItemDisplay[hlm          ]:%NAME%{%NAME%%TAN%Defense: 15-18 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[fhl          ]:%NAME%{%NAME%%TAN%Defense: 23-26 Durability: 30 Sockets: 2}%CONTINUE%//
+ItemDisplay[ghm ILVL<41  ]:%NAME%{%NAME%%TAN%Defense: 30-35 Durability: 40 Sockets: 2}%CONTINUE%//
+ItemDisplay[ghm ILVL>40  ]:%NAME%{%NAME%%TAN%Defense: 30-35 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[msk ILVL<41  ]:%NAME%{%NAME%%TAN%Defense: 9-27 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[msk ILVL>40  ]:%NAME%{%NAME%%TAN%Defense: 9-27 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[crn ILVL<41  ]:%NAME%{%NAME%%TAN%Defense: 25-45 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[crn ILVL>40  ]:%NAME%{%NAME%%TAN%Defense: 25-45 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[bhm          ]:%NAME%{%NAME%%TAN%Defense: 33-36 Durability: 40 Sockets: 2}%CONTINUE%//
+ItemDisplay[qui          ]:%NAME%{%NAME%%TAN%Defense: 8-11 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[lea          ]:%NAME%{%NAME%%TAN%Defense: 14-17 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[hla          ]:%NAME%{%NAME%%TAN%Defense: 21-24 Durability: 28 Sockets: 2}%CONTINUE%//
+ItemDisplay[stu          ]:%NAME%{%NAME%%TAN%Defense: 32-25 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[rng          ]:%NAME%{%NAME%%TAN%Defense: 45-48 Durability: 36 Sockets: 3}%CONTINUE%//
+ItemDisplay[scl          ]:%NAME%{%NAME%%TAN%Defense: 57-60 Durability: 44 Sockets: 2}%CONTINUE%//
+ItemDisplay[brs          ]:%NAME%{%NAME%%TAN%Defense: 65-68 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[chn          ]:%NAME%{%NAME%%TAN%Defense: 72-75 Durability: 45 Sockets: 2}%CONTINUE%//
+ItemDisplay[spl          ]:%NAME%{%NAME%%TAN%Defense: 90-95 Durability: 30 Sockets: 2}%CONTINUE%//
+ItemDisplay[ltp          ]:%NAME%{%NAME%%TAN%Defense: 90-107 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[fld          ]:%NAME%{%NAME%%TAN%Defense: 101-105 Durability: 48 Sockets: 2}%CONTINUE%//
+ItemDisplay[plt          ]:%NAME%{%NAME%%TAN%Defense: 108-116 Durability: 60 Sockets: 2}%CONTINUE%//
+ItemDisplay[gth ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 128-135 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[gth ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 128-135 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[ful ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 150-161 Durability: 70 Sockets: 3}%CONTINUE%//
+ItemDisplay[ful ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 150-161 Durability: 70 Sockets: 4}%CONTINUE%//
+ItemDisplay[aar ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 218-233 Durability: 60 Sockets: 4}%CONTINUE%//
+ItemDisplay[aar ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 218-233 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[buc          ]:%NAME%{%NAME%%TAN%Block: 0 Defense: 4-6 Durability: 12 Sockets: 1}%CONTINUE%//
+ItemDisplay[sml          ]:%NAME%{%NAME%%TAN%Block: 5 Defense: 8-10 Durability: 16 Sockets: 2}%CONTINUE%//
+ItemDisplay[lrg          ]:%NAME%{%NAME%%TAN%Block: 12 Defense: 12-14 Durability: 24 Sockets: 3}%CONTINUE%//
+ItemDisplay[kit          ]:%NAME%{%NAME%%TAN%Block: 8 Defense: 16-18 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[spk          ]:%NAME%{%NAME%%TAN%Block: 10 Defense: 15-25 Durability: 40 Sockets: 2}%CONTINUE%//
+ItemDisplay[tow          ]:%NAME%{%NAME%%TAN%Block: 24 Defense: 22-25 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[bsh          ]:%NAME%{%NAME%%TAN%Block: 20 Defense: 10-30 Durability: 40 Sockets: 2}%CONTINUE%//
+ItemDisplay[gts          ]:%NAME%{%NAME%%TAN%Block: 16 Defense: 30-35 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[lgl          ]:%NAME%{%NAME%%TAN%Defense: 2-3 Durability: 12}%CONTINUE%//
+ItemDisplay[vgl          ]:%NAME%{%NAME%%TAN%Defense: 5-6 Durability: 14}%CONTINUE%//
+ItemDisplay[mgl          ]:%NAME%{%NAME%%TAN%Defense: 8-9 Durability: 16}%CONTINUE%//
+ItemDisplay[tgl          ]:%NAME%{%NAME%%TAN%Defense: 9-11 Durability: 18}%CONTINUE%//
+ItemDisplay[hgl          ]:%NAME%{%NAME%%TAN%Defense: 12-15 Durability: 24}%CONTINUE%//
+ItemDisplay[lbt          ]:%NAME%{%NAME%%TAN%Defense: 2-3 Durability: 12}%CONTINUE%//
+ItemDisplay[vbt          ]:%NAME%{%NAME%%TAN%Defense: 5-6 Durability: 14}%CONTINUE%//
+ItemDisplay[mbt          ]:%NAME%{%NAME%%TAN%Defense: 8-9 Durability: 16}%CONTINUE%//
+ItemDisplay[tbt          ]:%NAME%{%NAME%%TAN%Defense: 9-11 Durability: 18}%CONTINUE%//
+ItemDisplay[hbt          ]:%NAME%{%NAME%%TAN%Defense: 12-15 Durability: 24}%CONTINUE%//
+ItemDisplay[lbl          ]:%NAME%{%NAME%%TAN%Defense: 2 Durability: 12 Rows: 2}%CONTINUE%//
+ItemDisplay[vbl          ]:%NAME%{%NAME%%TAN%Defense: 3 Durability: 14 Rows: 2}%CONTINUE%//
+ItemDisplay[mbl          ]:%NAME%{%NAME%%TAN%Defense: 5 Durability: 16 Rows: 3}%CONTINUE%//
+ItemDisplay[tbl          ]:%NAME%{%NAME%%TAN%Defense: 6 Durability: 18 Rows: 3}%CONTINUE%//
+ItemDisplay[hbl          ]:%NAME%{%NAME%%TAN%Defense: 8-11 Durability: 24 Rows: 4}%CONTINUE%//
+ItemDisplay[ba1 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 10-15 Durability: 25 Sockets: 2}%CONTINUE%//
+ItemDisplay[ba1 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 10-15 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[ba2 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 15-20 Durability: 35 Sockets: 2}%CONTINUE%//
+ItemDisplay[ba2 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 15-20 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[ba3 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 25-30 Durability: 45 Sockets: 2}%CONTINUE%//
+ItemDisplay[ba3 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 25-30 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[ba4 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 30-35 Durability: 55 Sockets: 2}%CONTINUE%//
+ItemDisplay[ba4 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 30-35 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[ba5 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 35-50 Durability: 65 Sockets: 2}%CONTINUE%//
+ItemDisplay[ba5 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 35-50 Durability: 65 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr1 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 8-11 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[dr1 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 8-11 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr2 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 4-15 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[dr2 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 4-15 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr3 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 18-24 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[dr3 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 18-24 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr4 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 12-28 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[dr4 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 12-28 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr5 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 22-35 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[dr5 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 22-35 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa1 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 8-12 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa1 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 8-12 Durability: 20 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa2 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 10-18 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa2 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 10-18 Durability: 30 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa3 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 16-26 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa3 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 16-26 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa4 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 26-36 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa4 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 26-36 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa5 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 30-40 Durability: 65 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa5 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 30-40 Durability: 65 Sockets: 4}%CONTINUE%//
+ItemDisplay[ne1          ]:%NAME%{%NAME%%TAN%Defense: 2-5 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne2          ]:%NAME%{%NAME%%TAN%Defense: 4-8 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne3          ]:%NAME%{%NAME%%TAN%Defense: 6-10 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne4          ]:%NAME%{%NAME%%TAN%Defense: 10-16 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne5          ]:%NAME%{%NAME%%TAN%Defense: 15-20 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[hax          ]:%NAME%{%NAME%%TAN%Damage: 3-6 Durability: 28 Sockets: 2}%CONTINUE%//
+ItemDisplay[axe          ]:%NAME%{%NAME%%TAN%Damage: 4-11 Durability: 24 Sockets: 4}%CONTINUE%//
+ItemDisplay[2ax ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 5-13 Durability: 24 Sockets: 4}%CONTINUE%//
+ItemDisplay[2ax ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 5-13 Durability: 24 Sockets: 5}%CONTINUE%//
+ItemDisplay[mpi ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 7-11 Durability: 26 Sockets: 4}%CONTINUE%//
+ItemDisplay[mpi ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 7-11 Durability: 26 Sockets: 5}%CONTINUE%//
+ItemDisplay[mpi ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 7-11 Durability: 26 Sockets: 6}%CONTINUE%//
+ItemDisplay[wax ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 10-18 Durability: 26 Sockets: 4}%CONTINUE%//
+ItemDisplay[wax ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 10-18 Durability: 26 Sockets: 5}%CONTINUE%//
+ItemDisplay[wax ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 10-18 Durability: 26 Sockets: 6}%CONTINUE%//
+ItemDisplay[lax          ]:%NAME%{%NAME%%TAN%Damage: 6-13 Durability: 30 Sockets: 4}%CONTINUE%//
+ItemDisplay[bax ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 10-18 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[bax ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 10-18 Durability: 35 Sockets: 5}%CONTINUE%//
+ItemDisplay[btx ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 12-32 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[btx ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 12-32 Durability: 40 Sockets: 5}%CONTINUE%//
+ItemDisplay[gax ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 9-30 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[gax ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 9-30 Durability: 50 Sockets: 5}%CONTINUE%//
+ItemDisplay[gax ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 9-30 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[gix ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 22-45 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[gix ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 22-45 Durability: 50 Sockets: 5}%CONTINUE%//
+ItemDisplay[gix ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 22-45 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[sbw          ]:%NAME%{%NAME%%TAN%Damage: 1-4 Sockets: 3}%CONTINUE%//
+ItemDisplay[hbw ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 2-6 Sockets: 3}%CONTINUE%//
+ItemDisplay[hbw ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 2-6 Sockets: 4}%CONTINUE%//
+ItemDisplay[lbw ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 3-10 Sockets: 3}%CONTINUE%//
+ItemDisplay[lbw ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 3-10 Sockets: 4}%CONTINUE%//
+ItemDisplay[lbw ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 3-10 Sockets: 5}%CONTINUE%//
+ItemDisplay[cbw ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 4-8 Sockets: 3}%CONTINUE%//
+ItemDisplay[cbw ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 4-8 Sockets: 4}%CONTINUE%//
+ItemDisplay[sbb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 5-11 Sockets: 3}%CONTINUE%//
+ItemDisplay[sbb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 5-11 Sockets: 4}%CONTINUE%//
+ItemDisplay[sbb ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 5-11 Sockets: 5}%CONTINUE%//
+ItemDisplay[lbb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 3-18 Sockets: 3}%CONTINUE%//
+ItemDisplay[lbb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 3-18 Sockets: 4}%CONTINUE%//
+ItemDisplay[lbb ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 3-18 Sockets: 6}%CONTINUE%//
+ItemDisplay[swb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 6-14 Sockets: 3}%CONTINUE%//
+ItemDisplay[swb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 6-14 Sockets: 4}%CONTINUE%//
+ItemDisplay[swb ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 6-14 Sockets: 5}%CONTINUE%//
+ItemDisplay[lwb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 3-23 Sockets: 3}%CONTINUE%//
+ItemDisplay[lwb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 3-23 Sockets: 4}%CONTINUE%//
+ItemDisplay[lwb ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 3-23 Sockets: 6}%CONTINUE%//
+ItemDisplay[lxb          ]:%NAME%{%NAME%%TAN%Damage: 6-9 Sockets: 3}%CONTINUE%//
+ItemDisplay[mxb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 9-16 Sockets: 3}%CONTINUE%//
+ItemDisplay[mxb ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 9-16 Sockets: 4}%CONTINUE%//
+ItemDisplay[hxb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 14-26 Sockets: 3}%CONTINUE%//
+ItemDisplay[hxb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 14-26 Sockets: 4}%CONTINUE%//
+ItemDisplay[hxb ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 14-26 Sockets: 6}%CONTINUE%//
+ItemDisplay[rxb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 6-12 Sockets: 3}%CONTINUE%//
+ItemDisplay[rxb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 6-12 Sockets: 4}%CONTINUE%//
+ItemDisplay[rxb ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 6-12 Sockets: 5}%CONTINUE%//
+ItemDisplay[dgr          ]:%NAME%{%NAME%%TAN%Damage: 1-4 Durability: 26 Sockets: 1}%CONTINUE%//
+ItemDisplay[dir          ]:%NAME%{%NAME%%TAN%Damage: 3-9 Durability: 55 Sockets: 1}%CONTINUE%//
+ItemDisplay[kri ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 2-11 Durability: 36 Sockets: 2}%CONTINUE%//
+ItemDisplay[kri ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 2-11 Durability: 36 Sockets: 3}%CONTINUE%//
+ItemDisplay[bld          ]:%NAME%{%NAME%%TAN%Damage: 4-15 Durability: 47 Sockets: 2}%CONTINUE%//
+ItemDisplay[jav          ]:%NAME%{%NAME%%TAN%Throw: 6-14 One-Hand: 1-5 Stack: 60}%CONTINUE%//
+ItemDisplay[pil          ]:%NAME%{%NAME%%TAN%Throw: 7-20 One-Hand: 4-9 Stack: 50}%CONTINUE%//
+ItemDisplay[ssp          ]:%NAME%{%NAME%%TAN%Throw: 10-22 One-Hand: 2-13 Stack: 40}%CONTINUE%//
+ItemDisplay[glv          ]:%NAME%{%NAME%%TAN%Throw: 16-22 One-Hand: 5-17 Stack: 40}%CONTINUE%//
+ItemDisplay[tsp          ]:%NAME%{%NAME%%TAN%Throw: 12-30 One-Hand: 5-15 Stack: 80}%CONTINUE%//
+ItemDisplay[clb          ]:%NAME%{%NAME%%TAN%Damage: 1-6 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[spc          ]:%NAME%{%NAME%%TAN%Damage: 5-8 Durability: 36 Sockets: 2}%CONTINUE%//
+ItemDisplay[mac          ]:%NAME%{%NAME%%TAN%Damage: 3-10 Durability: 60 Sockets: 2}%CONTINUE%//
+ItemDisplay[mst          ]:%NAME%{%NAME%%TAN%Damage: 7-16 Durability: 72 Sockets: 3}%CONTINUE%//
+ItemDisplay[fla ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 1-24 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[fla ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 1-24 Durability: 30 Sockets: 4}%CONTINUE%//
+ItemDisplay[fla ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 1-24 Durability: 30 Sockets: 5}%CONTINUE%//
+ItemDisplay[whm ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 19-29 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[whm ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 19-29 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[mau ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 30-43 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[mau ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 30-43 Durability: 60 Sockets: 4}%CONTINUE%//
+ItemDisplay[mau ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 30-43 Durability: 60 Sockets: 6}%CONTINUE%//
+ItemDisplay[gma ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 38-58 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[gma ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 38-58 Durability: 60 Sockets: 4}%CONTINUE%//
+ItemDisplay[gma ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 38-58 Durability: 60 Sockets: 6}%CONTINUE%//
+ItemDisplay[bar          ]:%NAME%{%NAME%%TAN%Damage: 1-27 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[vou ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 6-21 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[vou ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 6-21 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[scy ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 8-20 Durability: 65 Sockets: 3}%CONTINUE%//
+ItemDisplay[scy ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 8-20 Durability: 65 Sockets: 4}%CONTINUE%//
+ItemDisplay[scy ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 8-20 Durability: 65 Sockets: 5}%CONTINUE%//
+ItemDisplay[pax ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 18-39 Durability: 65 Sockets: 3}%CONTINUE%//
+ItemDisplay[pax ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 18-39 Durability: 65 Sockets: 4}%CONTINUE%//
+ItemDisplay[pax ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 18-39 Durability: 65 Sockets: 5}%CONTINUE%//
+ItemDisplay[hal ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 12-45 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[hal ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 12-45 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[hal ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 12-45 Durability: 55 Sockets: 6}%CONTINUE%//
+ItemDisplay[wsc ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 15-36 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[wsc ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 15-36 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[wsc ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 15-36 Durability: 55 Sockets: 6}%CONTINUE%//
+ItemDisplay[scp          ]:%NAME%{%NAME%%TAN%Damage: 6-11 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[gsc          ]:%NAME%{%NAME%%TAN%Damage: 8-18 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[wsp ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 10-17 Durability: 70 Sockets: 3}%CONTINUE%//
+ItemDisplay[wsp ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 10-17 Durability: 70 Sockets: 5}%CONTINUE%//
+ItemDisplay[spr          ]:%NAME%{%NAME%%TAN%Damage: 3-15 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[tri ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 9-15 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[tri ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 9-15 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[brn ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 7-17 Durability: 28 Sockets: 3}%CONTINUE%//
+ItemDisplay[brn ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 7-17 Durability: 28 Sockets: 4}%CONTINUE%//
+ItemDisplay[brn ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 7-17 Durability: 28 Sockets: 5}%CONTINUE%//
+ItemDisplay[spt ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 15-23 Durability: 28 Sockets: 3}%CONTINUE%//
+ItemDisplay[spt ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 15-23 Durability: 28 Sockets: 4}%CONTINUE%//
+ItemDisplay[spt ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 15-23 Durability: 28 Sockets: 6}%CONTINUE%//
+ItemDisplay[pik ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 14-63 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[pik ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 14-63 Durability: 25 Sockets: 4}%CONTINUE%//
+ItemDisplay[pik ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 14-63 Durability: 25 Sockets: 6}%CONTINUE%//
+ItemDisplay[sst          ]:%NAME%{%NAME%%TAN%Damage: 1-5 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[lst          ]:%NAME%{%NAME%%TAN%Damage: 2-8 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[cst          ]:%NAME%{%NAME%%TAN%Damage: 4-12 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[bst          ]:%NAME%{%NAME%%TAN%Damage: 6-13 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[wst ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 12-28 Durability: 50 Sockets: 5}%CONTINUE%//
+ItemDisplay[wst ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 12-28 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[ssd          ]:%NAME%{%NAME%%TAN%Damage: 2-7 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[scm          ]:%NAME%{%NAME%%TAN%Damage: 2-6 Durability: 22 Sockets: 2}%CONTINUE%//
+ItemDisplay[sbr          ]:%NAME%{%NAME%%TAN%Damage: 3-8 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[flc          ]:%NAME%{%NAME%%TAN%Damage: 9-17 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[crs ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 5-15 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[crs ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 5-15 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[crs ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 5-15 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[bsd ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 7-14 Durability: 32 Sockets: 3}%CONTINUE%//
+ItemDisplay[bsd ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 7-14 Durability: 32 Sockets: 4}%CONTINUE%//
+ItemDisplay[lsd ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 3-19 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[lsd ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 3-19 Durability: 44 Sockets: 4}%CONTINUE%//
+ItemDisplay[wsd          ]:%NAME%{%NAME%%TAN%Damage: 8-20 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[2hs          ]:%NAME%{%NAME%%TAN%One-Handed: 2-9 Two-Handed: 8-17 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[clm ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 5-12 Two-Handed: 13-30 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[clm ILVL>25  ]:%NAME%{%NAME%%TAN%One-Handed: 5-12 Two-Handed: 13-30 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[gis ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 3-16 Two-Handed: 9-28 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[gis ILVL>25  ]:%NAME%{%NAME%%TAN%One-Handed: 3-16 Two-Handed: 9-28 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[bsw ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 7-19 Two-Handed: 20-28 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[bsw ILVL>25  ]:%NAME%{%NAME%%TAN%One-Handed: 7-19 Two-Handed: 20-28 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[flb ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 9-15 Two-Handed: 13-26 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[flb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%One-Handed: 9-15 Two-Handed: 13-26 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[flb ILVL>40  ]:%NAME%{%NAME%%TAN%One-Handed: 9-15 Two-Handed: 13-26 Durability: 50 Sockets: 5}%CONTINUE%//
+ItemDisplay[gsd ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 12-20 Two-Handed: 25-42 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[gsd ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%One-Handed: 12-20 Two-Handed: 25-42 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[gsd ILVL>40  ]:%NAME%{%NAME%%TAN%One-Handed: 12-20 Two-Handed: 25-42 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[tkf          ]:%NAME%{%NAME%%TAN%Throw: 4-9 One-Hand: 2-3 Stack: 160}%CONTINUE%//
+ItemDisplay[tax          ]:%NAME%{%NAME%%TAN%Throw: 6-11 One-Hand: 1-8 Stack: 160}%CONTINUE%//
+ItemDisplay[bkf          ]:%NAME%{%NAME%%TAN%Throw: 8-12 One-Hand: 4-7 Stack: 130}%CONTINUE%//
+ItemDisplay[bal          ]:%NAME%{%NAME%%TAN%Throw: 12-15 One-Hand: 5-10 Stack: 130}%CONTINUE%//
+ItemDisplay[wnd          ]:%NAME%{%NAME%%TAN%Damage: 2-4 Durability: 15 Sockets: 1}%CONTINUE%//
+ItemDisplay[ywn          ]:%NAME%{%NAME%%TAN%Damage: 2-8 Durability: 15 Sockets: 1}%CONTINUE%//
+ItemDisplay[bwn          ]:%NAME%{%NAME%%TAN%Damage: 3-7 Durability: 15 Sockets: 1}%CONTINUE%//
+ItemDisplay[gwn          ]:%NAME%{%NAME%%TAN%Damage: 5-11 Durability: 15 Sockets: 1}%CONTINUE%//
+ItemDisplay[am1 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 7-12 Sockets: 3}%CONTINUE%//
+ItemDisplay[am1 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 7-12 Sockets: 4}%CONTINUE%//
+ItemDisplay[am1 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 7-12 Sockets: 5}%CONTINUE%//
+ItemDisplay[am2 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 9-19 Sockets: 3}%CONTINUE%//
+ItemDisplay[am2 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 9-19 Sockets: 4}%CONTINUE%//
+ItemDisplay[am2 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 9-19 Sockets: 5}%CONTINUE%//
+ItemDisplay[am3 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 18-24 Durability: 28 Sockets: 3}%CONTINUE%//
+ItemDisplay[am3 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 18-24 Durability: 28 Sockets: 4}%CONTINUE%//
+ItemDisplay[am3 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 18-24 Durability: 28 Sockets: 6}%CONTINUE%//
+ItemDisplay[am4 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 23-55 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[am4 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 23-55 Durability: 25 Sockets: 4}%CONTINUE%//
+ItemDisplay[am4 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 23-55 Durability: 25 Sockets: 6}%CONTINUE%//
+ItemDisplay[am5          ]:%NAME%{%NAME%%TAN%Throw: 6-22 One-Hand: 8-14 Stack: 80}%CONTINUE%//
+ItemDisplay[ktr          ]:%NAME%{%NAME%%TAN%Damage: 4-7 Durability: 48 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[wrb          ]:%NAME%{%NAME%%TAN%Damage: 5-9 Durability: 52 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[axf          ]:%NAME%{%NAME%%TAN%Damage: 2-15 Durability: 56 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[ces          ]:%NAME%{%NAME%%TAN%Damage: 7-15 Durability: 72 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[clw ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 8-15 Durability: 64 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[clw ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 8-15 Durability: 64 Sockets: 3 Skills: No}%CONTINUE%//
+ItemDisplay[btl ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 10-14 Durability: 69 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[btl ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 10-14 Durability: 69 Sockets: 3 Skills: No}%CONTINUE%//
+ItemDisplay[skr ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 9-17 Durability: 68 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[skr ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 9-17 Durability: 68 Sockets: 3 Skills: No}%CONTINUE%//
+ItemDisplay[ob1          ]:%NAME%{%NAME%%TAN%Damage: 2-5 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob2          ]:%NAME%{%NAME%%TAN%Damage: 3-8 Durability: 30 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob3          ]:%NAME%{%NAME%%TAN%Damage: 4-10 Durability: 35 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob4          ]:%NAME%{%NAME%%TAN%Damage: 5-12 Durability: 40 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob5 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 8-18 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob5 ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 8-18 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[ci2 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 40-50 Durability: 25 Sockets: 1}%CONTINUE%//
+ItemDisplay[ci2 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Defense: 40-50 Durability: 25 Sockets: 2}%CONTINUE%//
+ItemDisplay[ci2 ILVL>40  ]:%NAME%{%NAME%%TAN%Defense: 40-50 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[xap          ]:%NAME%{%NAME%%TAN%Defense: 45-53 Durability: 12 Sockets: 2}%CONTINUE%//
+ItemDisplay[xkp          ]:%NAME%{%NAME%%TAN%Defense: 52-62 Durability: 18 Sockets: 2}%CONTINUE%//
+ItemDisplay[xlm          ]:%NAME%{%NAME%%TAN%Defense: 63-72 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[xhl          ]:%NAME%{%NAME%%TAN%Defense: 75-84 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[xhm ILVL<41  ]:%NAME%{%NAME%%TAN%Defense: 85-98 Durability: 40 Sockets: 2}%CONTINUE%//
+ItemDisplay[xhm ILVL>40  ]:%NAME%{%NAME%%TAN%Defense: 85-98 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[xsk ILVL<41  ]:%NAME%{%NAME%%TAN%Defense: 54-86 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[xsk ILVL>40  ]:%NAME%{%NAME%%TAN%Defense: 54-86 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[xrn ILVL<41  ]:%NAME%{%NAME%%TAN%Defense: 78-113 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[xrn ILVL>40  ]:%NAME%{%NAME%%TAN%Defense: 78-113 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[xh9          ]:%NAME%{%NAME%%TAN%Defense: 60-125 Durability: 40 Sockets: 2}%CONTINUE%//
+ItemDisplay[xui          ]:%NAME%{%NAME%%TAN%Defense: 102-117 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[xea          ]:%NAME%{%NAME%%TAN%Defense: 111-126 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[xla          ]:%NAME%{%NAME%%TAN%Defense: 122-136 Durability: 28 Sockets: 2}%CONTINUE%//
+ItemDisplay[xtu          ]:%NAME%{%NAME%%TAN%Defense: 138-153 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[xng          ]:%NAME%{%NAME%%TAN%Defense: 158-172 Durability: 36 Sockets: 3}%CONTINUE%//
+ItemDisplay[xcl          ]:%NAME%{%NAME%%TAN%Defense: 176-190 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[xrs          ]:%NAME%{%NAME%%TAN%Defense: 188-202 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[xhn          ]:%NAME%{%NAME%%TAN%Defense: 198-213 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[xpl          ]:%NAME%{%NAME%%TAN%Defense: 225-243 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[xtp          ]:%NAME%{%NAME%%TAN%Defense: 225-261 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[xld          ]:%NAME%{%NAME%%TAN%Defense: 242-258 Durability: 48 Sockets: 3}%CONTINUE%//
+ItemDisplay[xlt          ]:%NAME%{%NAME%%TAN%Defense: 252-274 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[xth ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 282-303 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[xth ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 282-303 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[xul ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 315-342 Durability: 70 Sockets: 3}%CONTINUE%//
+ItemDisplay[xul ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 315-342 Durability: 70 Sockets: 4}%CONTINUE%//
+ItemDisplay[xar ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 417-450 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[xar ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 417-450 Durability: 60 Sockets: 4}%CONTINUE%//
+ItemDisplay[xuc          ]:%NAME%{%NAME%%TAN%Block: 10 Defense: 41-49 Durability: 68 Sockets: 1}%CONTINUE%//
+ItemDisplay[xml          ]:%NAME%{%NAME%%TAN%Block: 12 Defense: 47-55 Durability: 64 Sockets: 2}%CONTINUE%//
+ItemDisplay[xrg          ]:%NAME%{%NAME%%TAN%Block: 14 Defense: 53-61 Durability: 24 Sockets: 3}%CONTINUE%//
+ItemDisplay[xpk          ]:%NAME%{%NAME%%TAN%Block: 17 Defense: 58-78 Durability: 55 Sockets: 2}%CONTINUE%//
+ItemDisplay[xit          ]:%NAME%{%NAME%%TAN%Block: 18 Defense: 59-67 Durability: 76 Sockets: 3}%CONTINUE%//
+ItemDisplay[xsh          ]:%NAME%{%NAME%%TAN%Block: 20 Defense: 50-150 Durability: 70 Sockets: 2}%CONTINUE%//
+ItemDisplay[xow          ]:%NAME%{%NAME%%TAN%Block: 24 Defense: 68-78 Durability: 72 Sockets: 3}%CONTINUE%//
+ItemDisplay[xts          ]:%NAME%{%NAME%%TAN%Block: 16 Defense: 80-93 Durability: 80 Sockets: 3}%CONTINUE%//
+ItemDisplay[xlg          ]:%NAME%{%NAME%%TAN%Defense: 28-35 Durability: 12}%CONTINUE%//
+ItemDisplay[xvg          ]:%NAME%{%NAME%%TAN%Defense: 33-39 Durability: 14}%CONTINUE%//
+ItemDisplay[xmg          ]:%NAME%{%NAME%%TAN%Defense: 37-44 Durability: 16}%CONTINUE%//
+ItemDisplay[xtg          ]:%NAME%{%NAME%%TAN%Defense: 39-47 Durability: 18}%CONTINUE%//
+ItemDisplay[xhg          ]:%NAME%{%NAME%%TAN%Defense: 43-53 Durability: 24}%CONTINUE%//
+ItemDisplay[xlb          ]:%NAME%{%NAME%%TAN%Defense: 28-35 Durability: 12}%CONTINUE%//
+ItemDisplay[xvb          ]:%NAME%{%NAME%%TAN%Defense: 33-39 Durability: 14}%CONTINUE%//
+ItemDisplay[xmb          ]:%NAME%{%NAME%%TAN%Defense: 37-44 Durability: 16}%CONTINUE%//
+ItemDisplay[xtb          ]:%NAME%{%NAME%%TAN%Defense: 39-47 Durability: 18}%CONTINUE%//
+ItemDisplay[xhb          ]:%NAME%{%NAME%%TAN%Defense: 43-53 Durability: 24}%CONTINUE%//
+ItemDisplay[zlb          ]:%NAME%{%NAME%%TAN%Defense: 29-34 Durability: 12 Rows: 4}%CONTINUE%//
+ItemDisplay[zvb          ]:%NAME%{%NAME%%TAN%Defense: 31-36 Durability: 14 Rows: 4}%CONTINUE%//
+ItemDisplay[zmb          ]:%NAME%{%NAME%%TAN%Defense: 35-40 Durability: 16 Rows: 4}%CONTINUE%//
+ItemDisplay[ztb          ]:%NAME%{%NAME%%TAN%Defense: 37-42 Durability: 18 Rows: 4}%CONTINUE%//
+ItemDisplay[zhb          ]:%NAME%{%NAME%%TAN%Defense: 41-52 Durability: 24 Rows: 4}%CONTINUE%//
+ItemDisplay[ba6 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 52-62 Durability: 25 Sockets: 2}%CONTINUE%//
+ItemDisplay[ba6 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 52-62 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[ba7 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 46-68 Durability: 35 Sockets: 2}%CONTINUE%//
+ItemDisplay[ba7 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 46-68 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[ba8 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 67-81 Durability: 45 Sockets: 2}%CONTINUE%//
+ItemDisplay[ba8 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 67-81 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[ba9 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 58-87 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[ba9 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 58-87 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[baa ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 73-98 Durability: 55 Sockets: 2}%CONTINUE%//
+ItemDisplay[baa ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 73-98 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr6 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 52-62 Durability: 25 Sockets: 2}%CONTINUE%//
+ItemDisplay[dr6 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 52-62 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr7 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 46-68 Durability: 35 Sockets: 2}%CONTINUE%//
+ItemDisplay[dr7 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 46-68 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr8 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 67-81 Durability: 45 Sockets: 2}%CONTINUE%//
+ItemDisplay[dr8 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 67-81 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[dr9 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 58-87 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[dr9 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 58-87 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[dra ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 73-98 Durability: 55 Sockets: 2}%CONTINUE%//
+ItemDisplay[dra ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 73-98 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa6 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 101-125 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa6 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 101-125 Durability: 25 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa7 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 113-137 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa7 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 113-137 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa8 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 129-153 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa8 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 129-153 Durability: 45 Sockets: 4}%CONTINUE%//
+ItemDisplay[pa9 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 144-168 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[pa9 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 144-168 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[paa ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 156-181 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[paa ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 156-181 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[ne6          ]:%NAME%{%NAME%%TAN%Defense: 38-48 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne7          ]:%NAME%{%NAME%%TAN%Defense: 41-52 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne8          ]:%NAME%{%NAME%%TAN%Defense: 44-55 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne9          ]:%NAME%{%NAME%%TAN%Defense: 50-64 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[nea          ]:%NAME%{%NAME%%TAN%Defense: 58-70 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[9ha          ]:%NAME%{%NAME%%TAN%Damage: 10-21 Durability: 28 Sockets: 2}%CONTINUE%//
+ItemDisplay[9ax          ]:%NAME%{%NAME%%TAN%Damage: 10-33 Durability: 24 Sockets: 4}%CONTINUE%//
+ItemDisplay[92a ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 13-38 Durability: 24 Sockets: 4}%CONTINUE%//
+ItemDisplay[92a ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 13-38 Durability: 24 Sockets: 5}%CONTINUE%//
+ItemDisplay[9mp ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 14-34 Durability: 26 Sockets: 4}%CONTINUE%//
+ItemDisplay[9mp ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 14-34 Durability: 26 Sockets: 5}%CONTINUE%//
+ItemDisplay[9mp ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 14-34 Durability: 26 Sockets: 6}%CONTINUE%//
+ItemDisplay[9wa ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 16-45 Durability: 26 Sockets: 4}%CONTINUE%//
+ItemDisplay[9wa ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 16-45 Durability: 26 Sockets: 5}%CONTINUE%//
+ItemDisplay[9wa ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 16-45 Durability: 26 Sockets: 6}%CONTINUE%//
+ItemDisplay[9la          ]:%NAME%{%NAME%%TAN%Damage: 14-34 Durability: 30 Sockets: 4}%CONTINUE%//
+ItemDisplay[9ba ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 21-49 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[9ba ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 21-49 Durability: 35 Sockets: 5}%CONTINUE%//
+ItemDisplay[9bt ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 24-77 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[9bt ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 24-77 Durability: 40 Sockets: 5}%CONTINUE%//
+ItemDisplay[9ga ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 18-70 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[9ga ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 18-70 Durability: 50 Sockets: 5}%CONTINUE%//
+ItemDisplay[9ga ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 18-70 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[9gi ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 43-85 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[9gi ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 43-85 Durability: 50 Sockets: 5}%CONTINUE%//
+ItemDisplay[9gi ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 43-85 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[8sb          ]:%NAME%{%NAME%%TAN%Damage: 6-19 Sockets: 3}%CONTINUE%//
+ItemDisplay[8hb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 8-22 Sockets: 3}%CONTINUE%//
+ItemDisplay[8hb ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 8-22 Sockets: 4}%CONTINUE%//
+ItemDisplay[8lb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 10-29 Sockets: 3}%CONTINUE%//
+ItemDisplay[8lb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 10-29 Sockets: 4}%CONTINUE%//
+ItemDisplay[8lb ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 10-29 Sockets: 5}%CONTINUE%//
+ItemDisplay[8cb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 11-26 Sockets: 3}%CONTINUE%//
+ItemDisplay[8cb ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 11-26 Sockets: 4}%CONTINUE%//
+ItemDisplay[8s8 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 13-30 Sockets: 3}%CONTINUE%//
+ItemDisplay[8s8 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 13-30 Sockets: 4}%CONTINUE%//
+ItemDisplay[8s8 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 13-30 Sockets: 5}%CONTINUE%//
+ItemDisplay[8l8 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 10-42 Sockets: 3}%CONTINUE%//
+ItemDisplay[8l8 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 10-42 Sockets: 4}%CONTINUE%//
+ItemDisplay[8l8 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 10-42 Sockets: 6}%CONTINUE%//
+ItemDisplay[8sw ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 14-35 Sockets: 3}%CONTINUE%//
+ItemDisplay[8sw ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 14-35 Sockets: 4}%CONTINUE%//
+ItemDisplay[8sw ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 14-35 Sockets: 5}%CONTINUE%//
+ItemDisplay[8lw ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 10-50 Sockets: 3}%CONTINUE%//
+ItemDisplay[8lw ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 10-50 Sockets: 4}%CONTINUE%//
+ItemDisplay[8lw ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 10-50 Sockets: 6}%CONTINUE%//
+ItemDisplay[8lx          ]:%NAME%{%NAME%%TAN%Damage: 14-27 Sockets: 3}%CONTINUE%//
+ItemDisplay[8mx ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 20-42 Sockets: 3}%CONTINUE%//
+ItemDisplay[8mx ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 20-42 Sockets: 4}%CONTINUE%//
+ItemDisplay[8hx ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 33-55 Sockets: 3}%CONTINUE%//
+ItemDisplay[8hx ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 33-55 Sockets: 4}%CONTINUE%//
+ItemDisplay[8hx ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 33-55 Sockets: 6}%CONTINUE%//
+ItemDisplay[8rx ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 14-32 Sockets: 3}%CONTINUE%//
+ItemDisplay[8rx ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 14-32 Sockets: 4}%CONTINUE%//
+ItemDisplay[8rx ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 14-32 Sockets: 5}%CONTINUE%//
+ItemDisplay[9dg          ]:%NAME%{%NAME%%TAN%Damage: 6-8 Durability: 16 Sockets: 1}%CONTINUE%//
+ItemDisplay[9di          ]:%NAME%{%NAME%%TAN%Damage: 10-26 Durability: 20 Sockets: 1}%CONTINUE%//
+ItemDisplay[9kr ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 15-31 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[9kr ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 15-31 Durability: 24 Sockets: 3}%CONTINUE%//
+ItemDisplay[9bl          ]:%NAME%{%NAME%%TAN%Damage: 19-36 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[9ja          ]:%NAME%{%NAME%%TAN%Throw: 14-32 One-Hand: 6-19 Stack: 60}%CONTINUE%//
+ItemDisplay[9pi          ]:%NAME%{%NAME%%TAN%Throw: 16-42 One-Hand: 11-26 Stack: 50}%CONTINUE%//
+ItemDisplay[9s9          ]:%NAME%{%NAME%%TAN%Throw: 27-50 One-Hand: 8-32 Stack: 40}%CONTINUE%//
+ItemDisplay[9gl          ]:%NAME%{%NAME%%TAN%Throw: 32-60 One-Hand: 13-38 Stack: 40}%CONTINUE%//
+ItemDisplay[9ts          ]:%NAME%{%NAME%%TAN%Throw: 18-54 One-Hand: 13-35 Stack: 80}%CONTINUE%//
+ItemDisplay[9cl          ]:%NAME%{%NAME%%TAN%Damage: 6-21 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[9sp          ]:%NAME%{%NAME%%TAN%Damage: 13-25 Durability: 36 Sockets: 3}%CONTINUE%//
+ItemDisplay[9ma          ]:%NAME%{%NAME%%TAN%Damage: 15-23 Durability: 60 Sockets: 2}%CONTINUE%//
+ItemDisplay[9mt          ]:%NAME%{%NAME%%TAN%Damage: 20-31 Durability: 72 Sockets: 3}%CONTINUE%//
+ItemDisplay[9fl ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 13-35 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[9fl ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 13-35 Durability: 30 Sockets: 4}%CONTINUE%//
+ItemDisplay[9fl ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 13-35 Durability: 30 Sockets: 5}%CONTINUE%//
+ItemDisplay[9wh ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 35-58 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[9wh ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 35-58 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[9m9 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 53-78 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[9m9 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 53-78 Durability: 60 Sockets: 4}%CONTINUE%//
+ItemDisplay[9m9 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 53-78 Durability: 60 Sockets: 6}%CONTINUE%//
+ItemDisplay[9gm ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 61-99 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[9gm ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 61-99 Durability: 60 Sockets: 4}%CONTINUE%//
+ItemDisplay[9gm ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 61-99 Durability: 60 Sockets: 6}%CONTINUE%//
+ItemDisplay[9b7          ]:%NAME%{%NAME%%TAN%Damage: 6-58 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[9vo ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 14-53 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[9vo ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 14-53 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[9s8 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 18-45 Durability: 65 Sockets: 3}%CONTINUE%//
+ItemDisplay[9s8 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 18-45 Durability: 65 Sockets: 4}%CONTINUE%//
+ItemDisplay[9s8 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 18-45 Durability: 65 Sockets: 5}%CONTINUE%//
+ItemDisplay[9pa ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 34-75 Durability: 65 Sockets: 3}%CONTINUE%//
+ItemDisplay[9pa ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 34-75 Durability: 65 Sockets: 4}%CONTINUE%//
+ItemDisplay[9pa ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 34-75 Durability: 65 Sockets: 5}%CONTINUE%//
+ItemDisplay[9h9 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 13-85 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[9h9 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 13-85 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[9h9 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 13-85 Durability: 55 Sockets: 6}%CONTINUE%//
+ItemDisplay[9wc ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 30-70 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[9wc ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 30-70 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[9wc ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 30-70 Durability: 55 Sockets: 6}%CONTINUE%//
+ItemDisplay[9sc          ]:%NAME%{%NAME%%TAN%Damage: 13-24 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[9qs          ]:%NAME%{%NAME%%TAN%Damage: 14-36 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[9ws ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 16-38 Durability: 70 Sockets: 3}%CONTINUE%//
+ItemDisplay[9ws ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 16-38 Durability: 70 Sockets: 5}%CONTINUE%//
+ItemDisplay[9sr          ]:%NAME%{%NAME%%TAN%Damage: 10-37 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[9tr ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 19-37 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[9tr ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 19-37 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[9br ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 16-40 Durability: 28 Sockets: 3}%CONTINUE%//
+ItemDisplay[9br ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 16-40 Durability: 28 Sockets: 4}%CONTINUE%//
+ItemDisplay[9br ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 16-40 Durability: 28 Sockets: 5}%CONTINUE%//
+ItemDisplay[9st ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 29-59 Durability: 28 Sockets: 3}%CONTINUE%//
+ItemDisplay[9st ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 29-59 Durability: 28 Sockets: 4}%CONTINUE%//
+ItemDisplay[9st ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 29-59 Durability: 28 Sockets: 6}%CONTINUE%//
+ItemDisplay[9p9 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 27-114 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[9p9 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 27-114 Durability: 25 Sockets: 4}%CONTINUE%//
+ItemDisplay[9p9 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 27-114 Durability: 25 Sockets: 6}%CONTINUE%//
+ItemDisplay[8ss          ]:%NAME%{%NAME%%TAN%Damage: 6-21 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[8ls          ]:%NAME%{%NAME%%TAN%Damage: 8-26 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[8cs          ]:%NAME%{%NAME%%TAN%Damage: 11-32 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[8bs          ]:%NAME%{%NAME%%TAN%Damage: 14-34 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[8ws ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 24-58 Durability: 50 Sockets: 5}%CONTINUE%//
+ItemDisplay[8ws ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 24-58 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[9ss          ]:%NAME%{%NAME%%TAN%Damage: 8-22 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[9sm          ]:%NAME%{%NAME%%TAN%Damage: 8-21 Durability: 22 Sockets: 2}%CONTINUE%//
+ItemDisplay[9sb          ]:%NAME%{%NAME%%TAN%Damage: 10-24 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[9fc          ]:%NAME%{%NAME%%TAN%Damage: 16-35 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[9cr ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 13-35 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[9cr ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 13-35 Durability: 20 Sockets: 4}%CONTINUE%//
+ItemDisplay[9cr ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 13-35 Durability: 20 Sockets: 6}%CONTINUE%//
+ItemDisplay[9bs ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 16-34 Durability: 32 Sockets: 3}%CONTINUE%//
+ItemDisplay[9bs ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 16-34 Durability: 32 Sockets: 4}%CONTINUE%//
+ItemDisplay[9ls ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 10-42 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[9ls ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 10-42 Durability: 44 Sockets: 4}%CONTINUE%//
+ItemDisplay[9wd          ]:%NAME%{%NAME%%TAN%Damage: 18-43 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[92h          ]:%NAME%{%NAME%%TAN%One-Handed: 8-26 Two-Handed: 18-40 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[9cm ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 13-30 Two-Handed: 26-61 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[9cm ILVL>25  ]:%NAME%{%NAME%%TAN%One-Handed: 13-30 Two-Handed: 26-61 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[9gs ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 10-37 Two-Handed: 19-58 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[9gs ILVL>25  ]:%NAME%{%NAME%%TAN%One-Handed: 10-37 Two-Handed: 19-58 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[9b9 ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 14-40 Two-Handed: 39-60 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[9b9 ILVL>25  ]:%NAME%{%NAME%%TAN%One-Handed: 14-40 Two-Handed: 39-60 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[9fb ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 19-35 Two-Handed: 29-54 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[9fb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%One-Handed: 19-35 Two-Handed: 29-54 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[9fb ILVL>40  ]:%NAME%{%NAME%%TAN%One-Handed: 19-35 Two-Handed: 29-54 Durability: 50 Sockets: 5}%CONTINUE%//
+ItemDisplay[9gd ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 24-40 Two-Handed: 47-80 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[9gd ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%One-Handed: 24-40 Two-Handed: 47-80 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[9gd ILVL>40  ]:%NAME%{%NAME%%TAN%One-Handed: 24-40 Two-Handed: 47-80 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[9tk          ]:%NAME%{%NAME%%TAN%Throw: 11-24 One-Hand: 8-16 Stack: 160}%CONTINUE%//
+ItemDisplay[9ta          ]:%NAME%{%NAME%%TAN%Throw: 14-27 One-Hand: 6-24 Stack: 160}%CONTINUE%//
+ItemDisplay[9bk          ]:%NAME%{%NAME%%TAN%Throw: 18-33 One-Hand: 11-22 Stack: 130}%CONTINUE%//
+ItemDisplay[9b8          ]:%NAME%{%NAME%%TAN%Throw: 24-34 One-Hand: 13-27 Stack: 130}%CONTINUE%//
+ItemDisplay[9wn          ]:%NAME%{%NAME%%TAN%Damage: 8-18 Durability: 15 Sockets: 1}%CONTINUE%//
+ItemDisplay[9yw          ]:%NAME%{%NAME%%TAN%Damage: 8-24 Durability: 15 Sockets: 1}%CONTINUE%//
+ItemDisplay[9bw          ]:%NAME%{%NAME%%TAN%Damage: 10-22 Durability: 15 Sockets: 1}%CONTINUE%//
+ItemDisplay[9gw          ]:%NAME%{%NAME%%TAN%Damage: 13-29 Durability: 15 Sockets: 1}%CONTINUE%//
+ItemDisplay[am6 ILVL<25  ]:%NAME%{%NAME%%TAN%Damage: 16-29 Sockets: 3}%CONTINUE%//
+ItemDisplay[am6 ILVL>26 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 16-29 Sockets: 4}%CONTINUE%//
+ItemDisplay[am6 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 16-29 Sockets: 5}%CONTINUE%//
+ItemDisplay[am7 ILVL<25  ]:%NAME%{%NAME%%TAN%Damage: 19-41 Sockets: 3}%CONTINUE%//
+ItemDisplay[am7 ILVL>26 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 19-41 Sockets: 4}%CONTINUE%//
+ItemDisplay[am7 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 19-41 Sockets: 5}%CONTINUE%//
+ItemDisplay[am8 ILVL<25  ]:%NAME%{%NAME%%TAN%Damage: 34-51 Durability: 28 Sockets: 3}%CONTINUE%//
+ItemDisplay[am8 ILVL>26 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 34-51 Durability: 28 Sockets: 4}%CONTINUE%//
+ItemDisplay[am8 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 34-51 Durability: 28 Sockets: 6}%CONTINUE%//
+ItemDisplay[am9 ILVL<25  ]:%NAME%{%NAME%%TAN%Damage: 42-101 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[am9 ILVL>26 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 42-101 Durability: 25 Sockets: 4}%CONTINUE%//
+ItemDisplay[am9 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 42-101 Durability: 25 Sockets: 6}%CONTINUE%//
+ItemDisplay[ama          ]:%NAME%{%NAME%%TAN%Throw: 18-54 One-Hand: 18-35 Stack: 80}%CONTINUE%//
+ItemDisplay[9ar ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 11-24 Durability: 48 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[9ar ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 11-24 Durability: 48 Sockets: 3 Skills: No}%CONTINUE%//
+ItemDisplay[9wb          ]:%NAME%{%NAME%%TAN%Damage: 13-27 Durability: 56 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[9xf          ]:%NAME%{%NAME%%TAN%Damage: 8-37 Durability: 64 Sockets: 2 Skills: No}%CONTINUE%//
+ItemDisplay[9cs          ]:%NAME%{%NAME%%TAN%Damage: 16-37 Durability: 72 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[9lw ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 18-37 Durability: 52 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[9lw ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 18-37 Durability: 52 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[9tw ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 21-35 Durability: 69 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[9tw ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 21-35 Durability: 69 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[9qr ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 19-40 Durability: 68 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[9qr ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 19-40 Durability: 68 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[ob6          ]:%NAME%{%NAME%%TAN%Damage: 8-21 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob7          ]:%NAME%{%NAME%%TAN%Damage: 10-26 Durability: 30 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob8          ]:%NAME%{%NAME%%TAN%Damage: 11-29 Durability: 35 Sockets: 2}%CONTINUE%//
+ItemDisplay[ob9          ]:%NAME%{%NAME%%TAN%Damage: 13-32 Durability: 40 Sockets: 2}%CONTINUE%//
+ItemDisplay[oba ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 18-42 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[oba ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 18-42 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[ci3 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 50-60 Durability: 20 Sockets: 1}%CONTINUE%//
+ItemDisplay[ci3 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Defense: 50-60 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ci3 ILVL>40  ]:%NAME%{%NAME%%TAN%Defense: 50-60 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[uap          ]:%NAME%{%NAME%%TAN%Defense: 98-141 Durability: 12 Sockets: 2}%CONTINUE%//
+ItemDisplay[ukp          ]:%NAME%{%NAME%%TAN%Defense: 101-145 Durability: 18 Sockets: 2}%CONTINUE%//
+ItemDisplay[ulm          ]:%NAME%{%NAME%%TAN%Defense: 105-149 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[uhl          ]:%NAME%{%NAME%%TAN%Defense: 110-154 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[uhm ILVL<41  ]:%NAME%{%NAME%%TAN%Defense: 114-159 Durability: 40 Sockets: 2}%CONTINUE%//
+ItemDisplay[uhm ILVL>40  ]:%NAME%{%NAME%%TAN%Defense: 114-159 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[usk ILVL<41  ]:%NAME%{%NAME%%TAN%Defense: 101-154 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[usk ILVL>40  ]:%NAME%{%NAME%%TAN%Defense: 101-154 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[urn ILVL<41  ]:%NAME%{%NAME%%TAN%Defense: 111-165 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[urn ILVL>40  ]:%NAME%{%NAME%%TAN%Defense: 111-165 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[uh9 ILVL<41  ]:%NAME%{%NAME%%TAN%Defense: 100-157 Durability: 40 Sockets: 2}%CONTINUE%//
+ItemDisplay[uh9 ILVL>40  ]:%NAME%{%NAME%%TAN%Defense: 100-157 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[uui ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 361-467 Durability: 20 Sockets: 3}%CONTINUE%//
+ItemDisplay[uui ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 361-467 Durability: 20 Sockets: 4}%CONTINUE%//
+ItemDisplay[uea ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 364-470 Durability: 24 Sockets: 3}%CONTINUE%//
+ItemDisplay[uea ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 364-470 Durability: 24 Sockets: 4}%CONTINUE%//
+ItemDisplay[ula ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 369-474 Durability: 28 Sockets: 3}%CONTINUE%//
+ItemDisplay[ula ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 369-474 Durability: 28 Sockets: 4}%CONTINUE%//
+ItemDisplay[utu ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 375-481 Durability: 32 Sockets: 3}%CONTINUE%//
+ItemDisplay[utu ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 375-481 Durability: 32 Sockets: 4}%CONTINUE%//
+ItemDisplay[ung ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 383-489 Durability: 36 Sockets: 3}%CONTINUE%//
+ItemDisplay[ung ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 383-489 Durability: 36 Sockets: 4}%CONTINUE%//
+ItemDisplay[ucl ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 390-496 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[ucl ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 390-496 Durability: 44 Sockets: 4}%CONTINUE%//
+ItemDisplay[urs ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 395-501 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[urs ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 395-501 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[uhn ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 399-505 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[uhn ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 399-505 Durability: 45 Sockets: 4}%CONTINUE%//
+ItemDisplay[upl ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 410-517 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[upl ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 410-517 Durability: 30 Sockets: 4}%CONTINUE%//
+ItemDisplay[utp ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 410-524 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[utp ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 410-524 Durability: 60 Sockets: 4}%CONTINUE%//
+ItemDisplay[uld ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 417-523 Durability: 48 Sockets: 3}%CONTINUE%//
+ItemDisplay[uld ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 417-523 Durability: 48 Sockets: 4}%CONTINUE%//
+ItemDisplay[ult ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 421-530 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[ult ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 421-530 Durability: 60 Sockets: 4}%CONTINUE%//
+ItemDisplay[uth ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 433-541 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[uth ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 433-541 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[uul ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 446-557 Durability: 70 Sockets: 3}%CONTINUE%//
+ItemDisplay[uul ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 446-557 Durability: 70 Sockets: 4}%CONTINUE%//
+ItemDisplay[uar ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 487-600 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[uar ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 487-600 Durability: 60 Sockets: 4}%CONTINUE%//
+ItemDisplay[uuc          ]:%NAME%{%NAME%%TAN%Block: 22 Defense: 95-110 Durability: 88 Sockets: 2}%CONTINUE%//
+ItemDisplay[uml          ]:%NAME%{%NAME%%TAN%Block: 20 Defense: 108-123 Durability: 84 Sockets: 2}%CONTINUE%//
+ItemDisplay[urg          ]:%NAME%{%NAME%%TAN%Block: 24 Defense: 119-135 Durability: 82 Sockets: 3}%CONTINUE%//
+ItemDisplay[uit ILVL<41  ]:%NAME%{%NAME%%TAN%Block: 22 Defense: 133-148 Durability: 86 Sockets: 3}%CONTINUE%//
+ItemDisplay[uit ILVL>40  ]:%NAME%{%NAME%%TAN%Block: 22 Defense: 133-148 Durability: 86 Sockets: 4}%CONTINUE%//
+ItemDisplay[upk          ]:%NAME%{%NAME%%TAN%Block: 20 Defense: 147-163 Durability: 83 Sockets: 3}%CONTINUE%//
+ItemDisplay[uow ILVL<41  ]:%NAME%{%NAME%%TAN%Block: 24 Defense: 145-161 Durability: 92 Sockets: 3}%CONTINUE%//
+ItemDisplay[uow ILVL>40  ]:%NAME%{%NAME%%TAN%Block: 24 Defense: 145-161 Durability: 92 Sockets: 4}%CONTINUE%//
+ItemDisplay[ush          ]:%NAME%{%NAME%%TAN%Block: 20 Defense: 158-173 Durability: 74 Sockets: 3}%CONTINUE%//
+ItemDisplay[uts ILVL<41  ]:%NAME%{%NAME%%TAN%Block: 24 Defense: 153-170 Durability: 100 Sockets: 3}%CONTINUE%//
+ItemDisplay[uts ILVL>40  ]:%NAME%{%NAME%%TAN%Block: 24 Defense: 153-170 Durability: 100 Sockets: 4}%CONTINUE%//
+ItemDisplay[ulg          ]:%NAME%{%NAME%%TAN%Defense: 54-62 Durability: 12}%CONTINUE%//
+ItemDisplay[uvg          ]:%NAME%{%NAME%%TAN%Defense: 56-65 Durability: 14}%CONTINUE%//
+ItemDisplay[umg          ]:%NAME%{%NAME%%TAN%Defense: 59-67 Durability: 16}%CONTINUE%//
+ItemDisplay[utg          ]:%NAME%{%NAME%%TAN%Defense: 59-68 Durability: 18}%CONTINUE%//
+ItemDisplay[uhg          ]:%NAME%{%NAME%%TAN%Defense: 62-71 Durability: 24}%CONTINUE%//
+ItemDisplay[ulb          ]:%NAME%{%NAME%%TAN%Defense: 54-62 Durability: 12}%CONTINUE%//
+ItemDisplay[uvb          ]:%NAME%{%NAME%%TAN%Defense: 56-65 Durability: 14}%CONTINUE%//
+ItemDisplay[umb          ]:%NAME%{%NAME%%TAN%Defense: 59-67 Durability: 16}%CONTINUE%//
+ItemDisplay[utb          ]:%NAME%{%NAME%%TAN%Defense: 59-67 Durability: 18}%CONTINUE%//
+ItemDisplay[uhb          ]:%NAME%{%NAME%%TAN%Defense: 62-71 Durability: 24}%CONTINUE%//
+ItemDisplay[ulc          ]:%NAME%{%NAME%%TAN%Defense: 55-62 Durability: 12 Rows: 4}%CONTINUE%//
+ItemDisplay[uvc          ]:%NAME%{%NAME%%TAN%Defense: 56-63 Durability: 14 Rows: 4}%CONTINUE%//
+ItemDisplay[umc          ]:%NAME%{%NAME%%TAN%Defense: 58-65 Durability: 16 Rows: 4}%CONTINUE%//
+ItemDisplay[utc          ]:%NAME%{%NAME%%TAN%Defense: 59-66 Durability: 18 Rows: 4}%CONTINUE%//
+ItemDisplay[uhc          ]:%NAME%{%NAME%%TAN%Defense: 61-71 Durability: 24 Rows: 4}%CONTINUE%//
+ItemDisplay[bab ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 102-147 Durability: 25 Sockets:2}%CONTINUE%//
+ItemDisplay[bab ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 102-147 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[bac ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 105-150 Durability: 35 Sockets:2}%CONTINUE%//
+ItemDisplay[bac ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 105-150 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[bad ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 111-156 Durability: 45 Sockets:2}%CONTINUE%//
+ItemDisplay[bad ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 111-156 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[bae ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 114-159 Durability: 50 Sockets:2}%CONTINUE%//
+ItemDisplay[bae ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 114-159 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[baf ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 117-168 Durability: 55 Sockets:2}%CONTINUE%//
+ItemDisplay[baf ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 117-168 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[drb ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 101-145 Durability: 25 Sockets: 2}%CONTINUE%//
+ItemDisplay[drb ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 101-145 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[drc ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 98-147 Durability: 35 Sockets: 2}%CONTINUE%//
+ItemDisplay[drc ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 98-147 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[drd ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 107-152 Durability: 45 Sockets: 2}%CONTINUE%//
+ItemDisplay[drd ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 107-152 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[dre ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 103-155 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[dre ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 103-155 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[drf ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 109-159 Durability: 55 Sockets: 2}%CONTINUE%//
+ItemDisplay[drf ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 109-159 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[pab ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 126-158 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[pab ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 126-158 Durability: 25 Sockets: 4}%CONTINUE%//
+ItemDisplay[pac ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 138-164 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[pac ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 138-164 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[pad ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 154-172 Durability: 45 Sockets: 3}%CONTINUE%//
+ItemDisplay[pad ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 154-172 Durability: 45 Sockets: 4}%CONTINUE%//
+ItemDisplay[pae ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 169-193 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[pae ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 169-193 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[paf ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 182-225 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[paf ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 182-225 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[neb          ]:%NAME%{%NAME%%TAN%Defense: 95-139 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[neg          ]:%NAME%{%NAME%%TAN%Defense: 96-141 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[ned          ]:%NAME%{%NAME%%TAN%Defense: 98-142 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[nee          ]:%NAME%{%NAME%%TAN%Defense: 100-146 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[nef          ]:%NAME%{%NAME%%TAN%Defense: 103-148 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[7ha          ]:%NAME%{%NAME%%TAN%Damage: 33-58 Durability: 28 Sockets: 2}%CONTINUE%//
+ItemDisplay[7ax          ]:%NAME%{%NAME%%TAN%Damage: 38-60 Durability: 24 Sockets: 4}%CONTINUE%//
+ItemDisplay[72a ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 33-66 Durability: 24 Sockets: 4}%CONTINUE%//
+ItemDisplay[72a ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 33-66 Durability: 24 Sockets: 5}%CONTINUE%//
+ItemDisplay[7mp ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 30-48 Durability: 26 Sockets: 4}%CONTINUE%//
+ItemDisplay[7mp ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 30-48 Durability: 26 Sockets: 5}%CONTINUE%//
+ItemDisplay[7mp ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 30-48 Durability: 26 Sockets: 6}%CONTINUE%//
+ItemDisplay[7wa ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 24-71 Durability: 26 Sockets: 4}%CONTINUE%//
+ItemDisplay[7wa ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 24-71 Durability: 26 Sockets: 5}%CONTINUE%//
+ItemDisplay[7wa ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 24-71 Durability: 26 Sockets: 6}%CONTINUE%//
+ItemDisplay[7la          ]:%NAME%{%NAME%%TAN%Damage: 25-123 Durability: 30 Sockets: 4}%CONTINUE%//
+ItemDisplay[7ba ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 62-110 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[7ba ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 62-110 Durability: 35 Sockets: 5}%CONTINUE%//
+ItemDisplay[7bt ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 49-137 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[7bt ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 49-137 Durability: 40 Sockets: 5}%CONTINUE%//
+ItemDisplay[7ga ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 59-94 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[7ga ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 59-94 Durability: 50 Sockets: 5}%CONTINUE%//
+ItemDisplay[7ga ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 59-94 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[7gi ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 60-124 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[7gi ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 60-124 Durability: 50 Sockets: 5}%CONTINUE%//
+ItemDisplay[7gi ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 60-124 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[6sb          ]:%NAME%{%NAME%%TAN%Damage: 23-50 Sockets: 3}%CONTINUE%//
+ItemDisplay[6hb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 21-41 Sockets: 3}%CONTINUE%//
+ItemDisplay[6hb ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 21-41 Sockets: 4}%CONTINUE%//
+ItemDisplay[6lb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 15-59 Sockets: 3}%CONTINUE%//
+ItemDisplay[6lb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 15-59 Sockets: 4}%CONTINUE%//
+ItemDisplay[6lb ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 15-59 Sockets: 5}%CONTINUE%//
+ItemDisplay[6cb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 12-52 Sockets: 3}%CONTINUE%//
+ItemDisplay[6cb ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 12-52 Sockets: 4}%CONTINUE%//
+ItemDisplay[6s7 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 33-40 Sockets: 3}%CONTINUE%//
+ItemDisplay[6s7 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 33-40 Sockets: 4}%CONTINUE%//
+ItemDisplay[6s7 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 33-40 Sockets: 5}%CONTINUE%//
+ItemDisplay[6l7 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 15-63 Sockets: 3}%CONTINUE%//
+ItemDisplay[6l7 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 15-63 Sockets: 4}%CONTINUE%//
+ItemDisplay[6l7 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 15-63 Sockets: 6}%CONTINUE%//
+ItemDisplay[6sw ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 20-53 Sockets: 3}%CONTINUE%//
+ItemDisplay[6sw ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 20-53 Sockets: 4}%CONTINUE%//
+ItemDisplay[6sw ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 20-53 Sockets: 5}%CONTINUE%//
+ItemDisplay[6lw ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 10-68 Sockets: 3}%CONTINUE%//
+ItemDisplay[6lw ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 10-68 Sockets: 4}%CONTINUE%//
+ItemDisplay[6lw ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 10-68 Sockets: 6}%CONTINUE%//
+ItemDisplay[6lx          ]:%NAME%{%NAME%%TAN%Damage: 28-73 Sockets: 3}%CONTINUE%//
+ItemDisplay[6mx ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 25-87 Sockets: 3}%CONTINUE%//
+ItemDisplay[6mx ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 25-87 Sockets: 4}%CONTINUE%//
+ItemDisplay[6hx ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 32-91 Sockets: 3}%CONTINUE%//
+ItemDisplay[6hx ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 32-91 Sockets: 4}%CONTINUE%//
+ItemDisplay[6hx ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 32-91 Sockets: 6}%CONTINUE%//
+ItemDisplay[6rx ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 26-40 Sockets: 3}%CONTINUE%//
+ItemDisplay[6rx ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 26-40 Sockets: 4}%CONTINUE%//
+ItemDisplay[6rx ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 26-40 Sockets: 5}%CONTINUE%//
+ItemDisplay[7dg          ]:%NAME%{%NAME%%TAN%Damage: 23-49 Durability: 26 Sockets: 1}%CONTINUE%//
+ItemDisplay[7di          ]:%NAME%{%NAME%%TAN%Damage: 37-53 Durability: 55 Sockets: 1}%CONTINUE%//
+ItemDisplay[7kr ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 15-57 Durability: 36 Sockets: 2}%CONTINUE%//
+ItemDisplay[7kr ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 15-57 Durability: 36 Sockets: 3}%CONTINUE%//
+ItemDisplay[7bl          ]:%NAME%{%NAME%%TAN%Damage: 31-47 Durability: 47 Sockets: 2}%CONTINUE%//
+ItemDisplay[7ja          ]:%NAME%{%NAME%%TAN%Throw: 28-55 One-Hand: 21-57 Stack: 60}%CONTINUE%//
+ItemDisplay[7pi          ]:%NAME%{%NAME%%TAN%Throw: 21-75 One-Hand: 14-64 Stack: 50}%CONTINUE%//
+ItemDisplay[7s7          ]:%NAME%{%NAME%%TAN%Throw: 40-62 One-Hand: 33-63 Stack: 40}%CONTINUE%//
+ItemDisplay[7gl          ]:%NAME%{%NAME%%TAN%Throw: 30-85 One-Hand: 19-60 Stack: 40}%CONTINUE%//
+ItemDisplay[7ts          ]:%NAME%{%NAME%%TAN%Throw: 11-77 One-Hand: 27-35 Stack: 80}%CONTINUE%//
+ItemDisplay[7cl          ]:%NAME%{%NAME%%TAN%Damage: 35-43 Durability: 55 Sockets: 2}%CONTINUE%//
+ItemDisplay[7sp          ]:%NAME%{%NAME%%TAN%Damage: 32-58 Durability: 65 Sockets: 3}%CONTINUE%//
+ItemDisplay[7ma          ]:%NAME%{%NAME%%TAN%Damage: 41-49 Durability: 60 Sockets: 2}%CONTINUE%//
+ItemDisplay[7mt          ]:%NAME%{%NAME%%TAN%Damage: 43-53 Durability: 72 Sockets: 3}%CONTINUE%//
+ItemDisplay[7fl ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 3-80 Durability: 65 Sockets: 3}%CONTINUE%//
+ItemDisplay[7fl ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 3-80 Durability: 65 Sockets: 4}%CONTINUE%//
+ItemDisplay[7fl ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 3-80 Durability: 65 Sockets: 5}%CONTINUE%//
+ItemDisplay[7wh ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 50-61 Durability: 65 Sockets: 3}%CONTINUE%//
+ItemDisplay[7wh ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 50-61 Durability: 65 Sockets: 4}%CONTINUE%//
+ItemDisplay[7m7 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 77-106 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[7m7 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 77-106 Durability: 60 Sockets: 4}%CONTINUE%//
+ItemDisplay[7m7 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 77-106 Durability: 60 Sockets: 6}%CONTINUE%//
+ItemDisplay[7gm ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 33-180 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[7gm ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 33-180 Durability: 60 Sockets: 4}%CONTINUE%//
+ItemDisplay[7gm ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 33-180 Durability: 60 Sockets: 6}%CONTINUE%//
+ItemDisplay[7o7          ]:%NAME%{%NAME%%TAN%Damage: 28-145 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[7vo ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 17-165 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[7vo ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 17-165 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[7s8 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 12-141 Durability: 65 Sockets: 3}%CONTINUE%//
+ItemDisplay[7s8 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 12-141 Durability: 65 Sockets: 4}%CONTINUE%//
+ItemDisplay[7s8 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 12-141 Durability: 65 Sockets: 5}%CONTINUE%//
+ItemDisplay[7pa ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 33-150 Durability: 65 Sockets: 3}%CONTINUE%//
+ItemDisplay[7pa ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 33-150 Durability: 65 Sockets: 4}%CONTINUE%//
+ItemDisplay[7pa ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 33-150 Durability: 65 Sockets: 5}%CONTINUE%//
+ItemDisplay[7h7 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 46-127 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[7h7 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 46-127 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[7h7 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 46-127 Durability: 55 Sockets: 6}%CONTINUE%//
+ItemDisplay[7wc ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 40-114 Durability: 55 Sockets: 3}%CONTINUE%//
+ItemDisplay[7wc ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 40-114 Durability: 55 Sockets: 4}%CONTINUE%//
+ItemDisplay[7wc ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 40-114 Durability: 55 Sockets: 6}%CONTINUE%//
+ItemDisplay[7sc          ]:%NAME%{%NAME%%TAN%Damage: 40-52 Durability: 50 Sockets: 2}%CONTINUE%//
+ItemDisplay[7qs          ]:%NAME%{%NAME%%TAN%Damage: 45-54 Durability: 60 Sockets: 3}%CONTINUE%//
+ItemDisplay[7ws ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 37-43 Durability: 70 Sockets: 3}%CONTINUE%//
+ItemDisplay[7ws ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 37-43 Durability: 70 Sockets: 5}%CONTINUE%//
+ItemDisplay[7sr          ]:%NAME%{%NAME%%TAN%Damage: 35-119 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[7tr ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 29-144 Durability: 35 Sockets: 3}%CONTINUE%//
+ItemDisplay[7tr ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 29-144 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[7br ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 42-92 Durability: 28 Sockets: 3}%CONTINUE%//
+ItemDisplay[7br ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 42-92 Durability: 28 Sockets: 4}%CONTINUE%//
+ItemDisplay[7br ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 42-92 Durability: 28 Sockets: 5}%CONTINUE%//
+ItemDisplay[7st ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 18-155 Durability: 28 Sockets: 3}%CONTINUE%//
+ItemDisplay[7st ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 18-155 Durability: 28 Sockets: 4}%CONTINUE%//
+ItemDisplay[7st ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 18-155 Durability: 28 Sockets: 6}%CONTINUE%//
+ItemDisplay[7p7 ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 33-178 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[7p7 ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 33-178 Durability: 25 Sockets: 4}%CONTINUE%//
+ItemDisplay[7p7 ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 33-178 Durability: 25 Sockets: 6}%CONTINUE%//
+ItemDisplay[6ss          ]:%NAME%{%NAME%%TAN%Damage: 69-85 Durability: 20 Sockets: 2}%CONTINUE%//
+ItemDisplay[6ls          ]:%NAME%{%NAME%%TAN%Damage: 75-107 Durability: 30 Sockets: 3}%CONTINUE%//
+ItemDisplay[6cs          ]:%NAME%{%NAME%%TAN%Damage: 80-93 Durability: 35 Sockets: 4}%CONTINUE%//
+ItemDisplay[6bs          ]:%NAME%{%NAME%%TAN%Damage: 65-108 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[6ws ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 83-99 Durability: 26 Sockets: 5}%CONTINUE%//
+ItemDisplay[6ws ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 83-99 Durability: 26 Sockets: 6}%CONTINUE%//
+ItemDisplay[7ss          ]:%NAME%{%NAME%%TAN%Damage: 31-59 Durability: 24 Sockets: 2}%CONTINUE%//
+ItemDisplay[7sm          ]:%NAME%{%NAME%%TAN%Damage: 26-46 Durability: 22 Sockets: 2}%CONTINUE%//
+ItemDisplay[7sb          ]:%NAME%{%NAME%%TAN%Damage: 33-45 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[7fc          ]:%NAME%{%NAME%%TAN%Damage: 28-68 Durability: 32 Sockets: 2}%CONTINUE%//
+ItemDisplay[7cr ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 31-35 Durability: - Sockets: 3}%CONTINUE%//
+ItemDisplay[7cr ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 31-35 Durability: - Sockets: 4}%CONTINUE%//
+ItemDisplay[7cr ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 31-35 Durability: - Sockets: 6}%CONTINUE%//
+ItemDisplay[7bs ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 37-53 Durability: 32 Sockets: 3}%CONTINUE%//
+ItemDisplay[7bs ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 37-53 Durability: 32 Sockets: 4}%CONTINUE%//
+ItemDisplay[7ls ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 5-77 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[7ls ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 5-77 Durability: 44 Sockets: 4}%CONTINUE%//
+ItemDisplay[7wd          ]:%NAME%{%NAME%%TAN%Damage: 40-50 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[72h          ]:%NAME%{%NAME%%TAN%One-Handed: 22-56 Two-Handed: 50-94 Durability: 44 Sockets: 3}%CONTINUE%//
+ItemDisplay[7cm ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 22-62 Two-Handed: 67-96 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[7cm ILVL>25  ]:%NAME%{%NAME%%TAN%One-Handed: 22-62 Two-Handed: 67-96 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[7gs ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 15-75 Two-Handed: 55-118 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[7gs ILVL>25  ]:%NAME%{%NAME%%TAN%One-Handed: 15-75 Two-Handed: 55-118 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[7b7 ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 24-54 Two-Handed: 71-83 Durability: 40 Sockets: 3}%CONTINUE%//
+ItemDisplay[7b7 ILVL>25  ]:%NAME%{%NAME%%TAN%One-Handed: 24-54 Two-Handed: 71-83 Durability: 40 Sockets: 4}%CONTINUE%//
+ItemDisplay[7fb ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 26-70 Two-Handed: 61-121 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[7fb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%One-Handed: 26-70 Two-Handed: 61-121 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[7fb ILVL>40  ]:%NAME%{%NAME%%TAN%One-Handed: 26-70 Two-Handed: 61-121 Durability: 50 Sockets: 5}%CONTINUE%//
+ItemDisplay[7gd ILVL<26  ]:%NAME%{%NAME%%TAN%One-Handed: 25-65 Two-Handed: 58-115 Durability: 50 Sockets: 3}%CONTINUE%//
+ItemDisplay[7gd ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%One-Handed: 25-65 Two-Handed: 58-115 Durability: 50 Sockets: 4}%CONTINUE%//
+ItemDisplay[7gd ILVL>40  ]:%NAME%{%NAME%%TAN%One-Handed: 25-65 Two-Handed: 58-115 Durability: 50 Sockets: 6}%CONTINUE%//
+ItemDisplay[7tk          ]:%NAME%{%NAME%%TAN%Throw: 23-54 One-Hand: 23-54 Stack: 200}%CONTINUE%//
+ItemDisplay[7ta          ]:%NAME%{%NAME%%TAN%Throw: 23-39 One-Hand: 27-35 Stack: 200}%CONTINUE%//
+ItemDisplay[7bk          ]:%NAME%{%NAME%%TAN%Throw: 15-66 One-Hand: 17-65 Stack: 200}%CONTINUE%//
+ItemDisplay[7b8          ]:%NAME%{%NAME%%TAN%Throw: 7-60 One-Hand: 11-56 Stack: 200}%CONTINUE%//
+ItemDisplay[7wn          ]:%NAME%{%NAME%%TAN%Damage: 18-33 Durability: 22 Sockets: 2}%CONTINUE%//
+ItemDisplay[7yw          ]:%NAME%{%NAME%%TAN%Damage: 20-40 Durability: 22 Sockets: 2}%CONTINUE%//
+ItemDisplay[7bw          ]:%NAME%{%NAME%%TAN%Damage: 10-31 Durability: 22 Sockets: 2}%CONTINUE%//
+ItemDisplay[7gw          ]:%NAME%{%NAME%%TAN%Damage: 22-28 Durability: 22 Sockets: 2}%CONTINUE%//
+ItemDisplay[amb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 20-47 Sockets: 3}%CONTINUE%//
+ItemDisplay[amb ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 20-47 Sockets: 4}%CONTINUE%//
+ItemDisplay[amb ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 20-47 Sockets: 5}%CONTINUE%//
+ItemDisplay[amc ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 14-72 Sockets: 3}%CONTINUE%//
+ItemDisplay[amc ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 14-72 Sockets: 4}%CONTINUE%//
+ItemDisplay[amc ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 14-72 Sockets: 5}%CONTINUE%//
+ItemDisplay[amd ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 65-95 Durability: 28 Sockets: 3}%CONTINUE%//
+ItemDisplay[amd ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 65-95 Durability: 28 Sockets: 4}%CONTINUE%//
+ItemDisplay[amd ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 65-95 Durability: 28 Sockets: 6}%CONTINUE%//
+ItemDisplay[ame ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 37-153 Durability: 25 Sockets: 3}%CONTINUE%//
+ItemDisplay[ame ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 37-153 Durability: 25 Sockets: 4}%CONTINUE%//
+ItemDisplay[ame ILVL>40  ]:%NAME%{%NAME%%TAN%Damage: 37-153 Durability: 25 Sockets: 6}%CONTINUE%//
+ItemDisplay[amf          ]:%NAME%{%NAME%%TAN%Throw: 33-66 One-Hand: 30-54 Stack: 80}%CONTINUE%//
+ItemDisplay[7ar ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 39-52 Durability: 48 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[7ar ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 39-52 Durability: 48 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[7wb ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 34-45 Durability: 56 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[7wb ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 34-45 Durability: 56 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[7xf          ]:%NAME%{%NAME%%TAN%Damage: 44-53 Durability: 64 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[7cs          ]:%NAME%{%NAME%%TAN%Damage: 36-42 Durability: 72 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[7lw ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 22-53 Durability: 52 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[7lw ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 22-53 Durability: 52 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[7tw ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 24-44 Durability: 69 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[7tw ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 24-44 Durability: 69 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[7qr ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 40-51 Durability: 68 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[7qr ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 40-51 Durability: 68 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[obb          ]:%NAME%{%NAME%%TAN%Damage: 21-46 Durability: 15 Sockets: 2}%CONTINUE%//
+ItemDisplay[obc          ]:%NAME%{%NAME%%TAN%Damage: 18-50 Durability: 15 Sockets: 2}%CONTINUE%//
+ItemDisplay[obd          ]:%NAME%{%NAME%%TAN%Damage: 23-55 Durability: 15 Sockets: 2}%CONTINUE%//
+ItemDisplay[obe          ]:%NAME%{%NAME%%TAN%Damage: 12-66 Durability: 15 Sockets: 2}%CONTINUE%//
+ItemDisplay[obf ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 30-53 Durability: 15 Sockets: 2}%CONTINUE%//
+ItemDisplay[obf ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 30-53 Durability: 15 Sockets: 3}%CONTINUE%//
 ItemDisplay[SET !ID rin]:%GREEN%%NAME%%CONTINUE%//
 ItemDisplay[SET !ID amu]:%GREEN%%NAME%%CONTINUE%//
 ItemDisplay[SET !ID tgl]:%GREEN%Arctic/Iratha%CONTINUE%//
@@ -10401,37 +10401,37 @@ ItemDisplay[UNI !ID rin]:%GOLD%%NAME%%CONTINUE%//
 ItemDisplay[UNI !ID amu]:%GOLD%%NAME%%CONTINUE%//
 ItemDisplay[UNI !ID cm1]:%GOLD%ooo Annihilus ooo%CONTINUE%//
 ItemDisplay[UNI !ID cm2]:%GOLD%ooo Hellfire Torch ooo%CONTINUE%//
-ItemDisplay[UNI !ID cm3]:%GOLD%oo Gheed's Fortune oo%CONTINUE%//
-ItemDisplay[UNI !ID jew]:%GOLD%oo Rainbow Facet oo%CONTINUE%//
-ItemDisplay[UNI !ID ci2]:%GOLD%oo Kira's Guardian oo%CONTINUE%//
-ItemDisplay[UNI !ID ci3]:%GOLD%oo Griffon's Eye oo%CONTINUE%//
-ItemDisplay[UNI !ID amd]:%GOLD%oo Stoneraven oo%CONTINUE%//
-ItemDisplay[UNI !ID am9]:%GOLD%o Lycander's Flank o%CONTINUE%//
-ItemDisplay[UNI !ID am7]:%GOLD%o Lycander's Aim o%CONTINUE%//
-ItemDisplay[UNI !ID ama]:%GOLD%o Titan's Revenge o%CONTINUE%//
-ItemDisplay[UNI !ID amf]:%GOLD%oo Thunderstroke oo%CONTINUE%//
-ItemDisplay[UNI !ID amb]:%GOLD%oo Blood Raven's Charge oo%CONTINUE%//
-ItemDisplay[UNI !ID 7cs]:%GOLD%oo Shadow Killer oo%CONTINUE%//
-ItemDisplay[UNI !ID 9tw]:%GOLD%o Bartuc's Cut-Throat o%CONTINUE%//
-ItemDisplay[UNI !ID 7wb]:%GOLD%oo Jade Talon oo%CONTINUE%//
-ItemDisplay[UNI !ID 7lw]:%GOLD%oo Firelizard's Talons oo%CONTINUE%//
-ItemDisplay[UNI !ID nea]:%GOLD%o Homunculus o%CONTINUE%//
-ItemDisplay[UNI !ID nef]:%GOLD%oo Darkforce Spawn oo%CONTINUE%//
-ItemDisplay[UNI !ID nee]:%GOLD%oo Boneflame oo%CONTINUE%//
-ItemDisplay[UNI !ID baa]:%GOLD%o Arreat's Face o%CONTINUE%//
-ItemDisplay[UNI !ID bac]:%GOLD%oo Wolfhowl oo%CONTINUE%//
-ItemDisplay[UNI !ID bad]:%GOLD%oo Demonhorn's Edge oo%CONTINUE%//
-ItemDisplay[UNI !ID bae]:%GOLD%oo Halaberd's Reign oo%CONTINUE%//
-ItemDisplay[UNI !ID oba]:%GOLD%o The Oculus o%CONTINUE%//
-ItemDisplay[UNI !ID obc]:%GOLD%oo Eschuta's Temper oo%CONTINUE%//
-ItemDisplay[UNI !ID obf]:%GOLD%oo Death's Fathom oo%CONTINUE%//
-ItemDisplay[UNI !ID dra]:%GOLD%o Jalal's Mane o%CONTINUE%//
-ItemDisplay[UNI !ID drb]:%GOLD%oo Cerebus' Bite oo%CONTINUE%//
-ItemDisplay[UNI !ID dre]:%GOLD%oo Ravenlore oo%CONTINUE%//
-ItemDisplay[UNI !ID drd]:%GOLD%oo Spirit Keeper oo%CONTINUE%//
-ItemDisplay[UNI !ID pac]:%GOLD%oo Alma Negra oo%CONTINUE%//
-ItemDisplay[UNI !ID pa9]:%GOLD%o Herald of Zakarum o%CONTINUE%//
-ItemDisplay[UNI !ID pae]:%GOLD%oo Dragonscale oo%CONTINUE%//
+ItemDisplay[UNI !ID cm3]:%GOLD%Gheed's Fortune oo%CONTINUE%//
+ItemDisplay[UNI !ID jew]:%GOLD%Rainbow Facet %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID ci2]:%GOLD%Kira's Guardian %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID ci3]:%GOLD%Griffon's Eye %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID amd]:%GOLD%Stoneraven %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID am9]:%GOLD%Lycander's Flank %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID am7]:%GOLD%Lycander's Aim %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID ama]:%GOLD%Titan's Revenge %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID amf]:%GOLD%Thunderstroke %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID amb]:%GOLD%Blood Raven's Charge %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7cs]:%GOLD%Shadow Killer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 9tw]:%GOLD%Bartuc's Cut-Throat %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 7wb]:%GOLD%Jade Talon %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7lw]:%GOLD%Firelizard's Talons %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID nea]:%GOLD%Homunculus %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID nef]:%GOLD%Darkforce Spawn %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID nee]:%GOLD%Boneflame %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID baa]:%GOLD%Arreat's Face %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID bac]:%GOLD%Wolfhowl %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID bad]:%GOLD%Demonhorn's Edge %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID bae]:%GOLD%Halaberd's Reign %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID oba]:%GOLD%The Oculus %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID obc]:%GOLD%Eschuta's Temper %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID obf]:%GOLD%Death's Fathom %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID dra]:%GOLD%Jalal's Mane %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID drb]:%GOLD%Cerebus' Bite %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID dre]:%GOLD%Ravenlore %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID drd]:%GOLD%Spirit Keeper %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID pac]:%GOLD%Alma Negra %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID pa9]:%GOLD%Herald of Zakarum %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID pae]:%GOLD%Dragonscale %GRAY%h%CONTINUE%//
 ItemDisplay[UNI !ID cap]:%GOLD%Biggin's Bonnet%CONTINUE%//
 ItemDisplay[UNI !ID skp]:%GOLD%Tarnhelm%CONTINUE%//
 ItemDisplay[UNI !ID hlm]:%GOLD%Coif of Glory%CONTINUE%//
@@ -10454,7 +10454,7 @@ ItemDisplay[UNI !ID fld]:%GOLD%Rockfleece%CONTINUE%//
 ItemDisplay[UNI !ID plt]:%GOLD%Boneflesh%CONTINUE%//
 ItemDisplay[UNI !ID gth]:%GOLD%Rattlecage%CONTINUE%//
 ItemDisplay[UNI !ID ful]:%GOLD%Goldskin%CONTINUE%//
-ItemDisplay[UNI !ID aar]:%GOLD%o Silks of the Victor o%CONTINUE%//
+ItemDisplay[UNI !ID aar]:%GOLD%Silks of the Victor %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID buc]:%GOLD%Pelta Lunata%CONTINUE%//
 ItemDisplay[UNI !ID sml]:%GOLD%Umbral Disk%CONTINUE%//
 ItemDisplay[UNI !ID lrg]:%GOLD%Stormguild%CONTINUE%//
@@ -10551,199 +10551,199 @@ ItemDisplay[UNI !ID bwn]:%GOLD%Gravenspine%CONTINUE%//
 ItemDisplay[UNI !ID gwn]:%GOLD%Ume's Lament%CONTINUE%//
 ItemDisplay[UNI !ID xap]:%GOLD%Peasant Crown%CONTINUE%//
 ItemDisplay[UNI !ID xkp]:%GOLD%Rockstopper%CONTINUE%//
-ItemDisplay[UNI !ID xlm]:%GOLD%o Stealskull o%CONTINUE%//
-ItemDisplay[UNI !ID xhl]:%GOLD%o Darksight Helm o%CONTINUE%//
-ItemDisplay[UNI !ID xhm]:%GOLD%o Valkyrie Wing o%CONTINUE%//
-ItemDisplay[UNI !ID xsk]:%GOLD%o Blackhorn's Face o%CONTINUE%//
-ItemDisplay[UNI !ID xrn]:%GOLD%o Crown of Thieves o%CONTINUE%//
-ItemDisplay[UNI !ID xh9]:%GOLD%o Vampire Gaze o%CONTINUE%//
+ItemDisplay[UNI !ID xlm]:%GOLD%Stealskull %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xhl]:%GOLD%Darksight Helm %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xhm]:%GOLD%Valkyrie Wing %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xsk]:%GOLD%Blackhorn's Face %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xrn]:%GOLD%Crown of Thieves %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xh9]:%GOLD%Vampire Gaze %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID xui]:%GOLD%The Spirit Shroud%CONTINUE%//
 ItemDisplay[UNI !ID xea]:%GOLD%Skin of the Vipermagi%CONTINUE%//
 ItemDisplay[UNI !ID xla]:%GOLD%Skin of the Flayed One%CONTINUE%//
-ItemDisplay[UNI !ID xtu]:%GOLD%o Iron Pelt o%CONTINUE%//
-ItemDisplay[UNI !ID xcl]:%GOLD%o Crow Caw o%CONTINUE%//
-ItemDisplay[UNI !ID xng]:%GOLD%o Spirit Forge o%CONTINUE%//
-ItemDisplay[UNI !ID xrs]:%GOLD%o Duriel's Shell o%CONTINUE%//
-ItemDisplay[UNI !ID xhn]:%GOLD%o Shaftstop o%CONTINUE%//
-ItemDisplay[UNI !ID xpl]:%GOLD%o Skullder's Ire o%CONTINUE%//
-ItemDisplay[UNI !ID xtp]:%GOLD%o Que-Hegan's Wisdom o%CONTINUE%//
-ItemDisplay[UNI !ID xld]:%GOLD%o Toothrow o%CONTINUE%//
-ItemDisplay[UNI !ID xlt]:%GOLD%o Guardian Angel o%CONTINUE%//
-ItemDisplay[UNI !ID xth]:%GOLD%o Atma's Wail o%CONTINUE%//
-ItemDisplay[UNI !ID xul]:%GOLD%o Black Hades o%CONTINUE%//
-ItemDisplay[UNI !ID xar]:%GOLD%o Corpsemourn o%CONTINUE%//
+ItemDisplay[UNI !ID xtu]:%GOLD%Iron Pelt %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xcl]:%GOLD%Crow Caw %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xng]:%GOLD%Spirit Forge %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xrs]:%GOLD%Duriel's Shell %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xhn]:%GOLD%Shaftstop %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xpl]:%GOLD%Skullder's Ire %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xtp]:%GOLD%Que-Hegan's Wisdom %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xld]:%GOLD%Toothrow %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xlt]:%GOLD%Guardian Angel %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xth]:%GOLD%Atma's Wail %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xul]:%GOLD%Black Hades %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xar]:%GOLD%Corpsemourn %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID xuc]:%GOLD%Visceratuant%CONTINUE%//
 ItemDisplay[UNI !ID xml]:%GOLD%Moser's Blessed Circle%CONTINUE%//
-ItemDisplay[UNI !ID xrg]:%GOLD%o Stormchaser o%CONTINUE%//
-ItemDisplay[UNI !ID xit]:%GOLD%o Tiamat's Rebuke o%CONTINUE%//
-ItemDisplay[UNI !ID xpk]:%GOLD%o Lance Guard o%CONTINUE%//
-ItemDisplay[UNI !ID xow]:%GOLD%o Gerke's Sanctuary o%CONTINUE%//
-ItemDisplay[UNI !ID xsh]:%GOLD%o Lidless Wall o%CONTINUE%//
-ItemDisplay[UNI !ID xts]:%GOLD%o Radament's Sphere o%CONTINUE%//
+ItemDisplay[UNI !ID xrg]:%GOLD%Stormchaser %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xit]:%GOLD%Tiamat's Rebuke %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xpk]:%GOLD%Lance Guard %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xow]:%GOLD%Gerke's Sanctuary %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xsh]:%GOLD%Lidless Wall %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xts]:%GOLD%Radament's Sphere %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID xlg]:%GOLD%Venom Grip%CONTINUE%//
 ItemDisplay[UNI !ID xvg]:%GOLD%Gravepalm%CONTINUE%//
-ItemDisplay[UNI !ID xmg]:%GOLD%o Ghoulhide o%CONTINUE%//
-ItemDisplay[UNI !ID xtg]:%GOLD%o Lava Gout o%CONTINUE%//
-ItemDisplay[UNI !ID xhg]:%GOLD%o Hellmouth o%CONTINUE%//
+ItemDisplay[UNI !ID xmg]:%GOLD%Ghoulhide %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xtg]:%GOLD%Lava Gout %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xhg]:%GOLD%Hellmouth %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID xlb]:%GOLD%Infernostride%CONTINUE%//
 ItemDisplay[UNI !ID xvb]:%GOLD%Waterwalk%CONTINUE%//
-ItemDisplay[UNI !ID xmb]:%GOLD%o Silkweave o%CONTINUE%//
-ItemDisplay[UNI !ID xtb]:%GOLD%o War Traveler o%CONTINUE%//
-ItemDisplay[UNI !ID xhb]:%GOLD%o Gore Rider o%CONTINUE%//
+ItemDisplay[UNI !ID xmb]:%GOLD%Silkweave %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xtb]:%GOLD%War Traveler %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID xhb]:%GOLD%Gore Rider %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID zlb]:%GOLD%String of Ears%CONTINUE%//
 ItemDisplay[UNI !ID zvb]:%GOLD%Razortail%CONTINUE%//
-ItemDisplay[UNI !ID zmb]:%GOLD%o Gloom's Trap o%CONTINUE%//
-ItemDisplay[UNI !ID ztb]:%GOLD%o Snowclash o%CONTINUE%//
-ItemDisplay[UNI !ID zhb]:%GOLD%o Thundergod's Vigor o%CONTINUE%//
-ItemDisplay[UNI !ID 9ha]:%GOLD%o Coldkill o%CONTINUE%//
-ItemDisplay[UNI !ID 9ax]:%GOLD%o Butcher's Pupil o%CONTINUE%//
-ItemDisplay[UNI !ID 92a]:%GOLD%o Islestrike o%CONTINUE%//
-ItemDisplay[UNI !ID 9mp]:%GOLD%o Pompeii's Wrath o%CONTINUE%//
-ItemDisplay[UNI !ID 9wa]:%GOLD%o Guardian Naga o%CONTINUE%//
+ItemDisplay[UNI !ID zmb]:%GOLD%Gloom's Trap %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID ztb]:%GOLD%Snowclash %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID zhb]:%GOLD%Thundergod's Vigor %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9ha]:%GOLD%Coldkill %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9ax]:%GOLD%Butcher's Pupil %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 92a]:%GOLD%Islestrike %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9mp]:%GOLD%Pompeii's Wrath %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9wa]:%GOLD%Guardian Naga %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID 9la]:%GOLD%Warlord's Trust%CONTINUE%//
-ItemDisplay[UNI !ID 9ba]:%GOLD%o Spellsteel o%CONTINUE%//
-ItemDisplay[UNI !ID 9bt]:%GOLD%o Stormrider o%CONTINUE%//
-ItemDisplay[UNI !ID 9ga]:%GOLD%o Boneslayer Blade o%CONTINUE%//
-ItemDisplay[UNI !ID 9gi]:%GOLD%o The Minotaur o%CONTINUE%//
+ItemDisplay[UNI !ID 9ba]:%GOLD%Spellsteel %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9bt]:%GOLD%Stormrider %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9ga]:%GOLD%Boneslayer Blade %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9gi]:%GOLD%The Minotaur %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID 8sb]:%GOLD%Skystrike%CONTINUE%//
 ItemDisplay[UNI !ID 8hb]:%GOLD%Riphook%CONTINUE%//
 ItemDisplay[UNI !ID 8lb]:%GOLD%Kuko Shakaku%CONTINUE%//
 ItemDisplay[UNI !ID 8cb]:%GOLD%Endlesshail%CONTINUE%//
-ItemDisplay[UNI !ID 8s8]:%GOLD%o Witchwild String o%CONTINUE%//
-ItemDisplay[UNI !ID 8l8]:%GOLD%o Cliffkiller o%CONTINUE%//
-ItemDisplay[UNI !ID 8sw]:%GOLD%o Magewrath o%CONTINUE%//
-ItemDisplay[UNI !ID 8lw]:%GOLD%o Goldstrike Arch o%CONTINUE%//
+ItemDisplay[UNI !ID 8s8]:%GOLD%Witchwild String %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 8l8]:%GOLD%Cliffkiller %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 8sw]:%GOLD%Magewrath %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 8lw]:%GOLD%Goldstrike Arch %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID 8lx]:%GOLD%Langer Briser%CONTINUE%//
-ItemDisplay[UNI !ID 8mx]:%GOLD%o Pus Spitter o%CONTINUE%//
-ItemDisplay[UNI !ID 8hx]:%GOLD%o Buriza-Do Kyanon o%CONTINUE%//
-ItemDisplay[UNI !ID 8rx]:%GOLD%o Demon Machine o%CONTINUE%//
+ItemDisplay[UNI !ID 8mx]:%GOLD%Pus Spitter %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 8hx]:%GOLD%Buriza-Do Kyanon %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 8rx]:%GOLD%Demon Machine %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID 9dg]:%GOLD%Spineripper%CONTINUE%//
-ItemDisplay[UNI !ID 9di]:%GOLD%o Heart Carver o%CONTINUE%//
-ItemDisplay[UNI !ID 9kr]:%GOLD%o Blackbog's Sharp o%CONTINUE%//
-ItemDisplay[UNI !ID 9bl]:%GOLD%o Stormspike o%CONTINUE%//
+ItemDisplay[UNI !ID 9di]:%GOLD%Heart Carver %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9kr]:%GOLD%Blackbog's Sharp %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9bl]:%GOLD%Stormspike %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID 9cl]:%GOLD%Dark Clan Crusher%CONTINUE%//
-ItemDisplay[UNI !ID 9sp]:%GOLD%o Fleshrender o%CONTINUE%//
-ItemDisplay[UNI !ID 9ma]:%GOLD%o Sureshrill Frost o%CONTINUE%//
-ItemDisplay[UNI !ID 9mt]:%GOLD%o Moonfall o%CONTINUE%//
-ItemDisplay[UNI !ID 9fl]:%GOLD%o Baezil's Vortex o%CONTINUE%//
-ItemDisplay[UNI !ID 9wh]:%GOLD%o Earthshaker o%CONTINUE%//
-ItemDisplay[UNI !ID 9m9]:%GOLD%o Bloodtree Stump o%CONTINUE%//
-ItemDisplay[UNI !ID 9gm]:%GOLD%o The Gavel Of Pain o%CONTINUE%//
-ItemDisplay[UNI !ID 9b7]:%GOLD%o The Meat Scraper o%CONTINUE%//
-ItemDisplay[UNI !ID 9vo]:%GOLD%o Blackleach Blade o%CONTINUE%//
-ItemDisplay[UNI !ID 9s8]:%GOLD%o Athena's Wrath o%CONTINUE%//
-ItemDisplay[UNI !ID 9pa]:%GOLD%o Pierre Tombale Couant o%CONTINUE%//
-ItemDisplay[UNI !ID 9h9]:%GOLD%o Husoldal Evo o%CONTINUE%//
-ItemDisplay[UNI !ID 9wc]:%GOLD%o Grim's Burning Dead o%CONTINUE%//
-ItemDisplay[UNI !ID 9sc]:%GOLD%o Zakarum's Hand o%CONTINUE%//
-ItemDisplay[UNI !ID 9qs]:%GOLD%o The Fetid Sprinkler o%CONTINUE%//
-ItemDisplay[UNI !ID 9ws]:%GOLD%o Hand of Blessed Light o%CONTINUE%//
+ItemDisplay[UNI !ID 9sp]:%GOLD%Fleshrender %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9ma]:%GOLD%Sureshrill Frost %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9mt]:%GOLD%Moonfall %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9fl]:%GOLD%Baezil's Vortex %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9wh]:%GOLD%Earthshaker %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9m9]:%GOLD%Bloodtree Stump %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9gm]:%GOLD%The Gavel Of Pain %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9b7]:%GOLD%The Meat Scraper %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9vo]:%GOLD%Blackleach Blade %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9s8]:%GOLD%Athena's Wrath %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9pa]:%GOLD%Pierre Tombale Couant %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9h9]:%GOLD%Husoldal Evo %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9wc]:%GOLD%Grim's Burning Dead %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9sc]:%GOLD%Zakarum's Hand %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9qs]:%GOLD%The Fetid Sprinkler %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9ws]:%GOLD%Hand of Blessed Light %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID 9sr]:%GOLD%The Impaler%CONTINUE%//
 ItemDisplay[UNI !ID 9tr]:%GOLD%Kelpie Snare%CONTINUE%//
-ItemDisplay[UNI !ID 9br]:%GOLD%o Soulfeast Tine o%CONTINUE%//
-ItemDisplay[UNI !ID 9st]:%GOLD%o Hone Sundan o%CONTINUE%//
-ItemDisplay[UNI !ID 9p9]:%GOLD%o Spire of Honor o%CONTINUE%//
+ItemDisplay[UNI !ID 9br]:%GOLD%Soulfeast Tine %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9st]:%GOLD%Hone Sundan %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9p9]:%GOLD%Spire of Honor %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID 8ss]:%GOLD%Razorswitch%CONTINUE%//
 ItemDisplay[UNI !ID 8ls]:%GOLD%Ribcracker%CONTINUE%//
 ItemDisplay[UNI !ID 8cs]:%GOLD%Chromatic Ire%CONTINUE%//
-ItemDisplay[UNI !ID 8bs]:%GOLD%o Warpspear o%CONTINUE%//
-ItemDisplay[UNI !ID 8ws]:%GOLD%o Skull Collector o%CONTINUE%//
+ItemDisplay[UNI !ID 8bs]:%GOLD%Warpspear %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 8ws]:%GOLD%Skull Collector %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID 9ss]:%GOLD%Bloodletter%CONTINUE%//
-ItemDisplay[UNI !ID 9sm]:%GOLD%o Coldsteel Eye o%CONTINUE%//
+ItemDisplay[UNI !ID 9sm]:%GOLD%Coldsteel Eye %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID 9sb]:%GOLD%Hexfire%CONTINUE%//
 ItemDisplay[UNI !ID 9fc]:%GOLD%Blade of Ali Baba%CONTINUE%//
 ItemDisplay[UNI !ID 9cr]:%GOLD%Ginther's Rift%CONTINUE%//
-ItemDisplay[UNI !ID 9bs]:%GOLD%o Headstriker o%CONTINUE%//
-ItemDisplay[UNI !ID 9ls]:%GOLD%o Plague Bearer o%CONTINUE%//
-ItemDisplay[UNI !ID 9wd]:%GOLD%o The Atlantean o%CONTINUE%//
-ItemDisplay[UNI !ID 92h]:%GOLD%o Crainte Vomir o%CONTINUE%//
-ItemDisplay[UNI !ID 9cm]:%GOLD%o Bing Sz Wang o%CONTINUE%//
-ItemDisplay[UNI !ID 9gs]:%GOLD%o The Vile Husk o%CONTINUE%//
-ItemDisplay[UNI !ID 9b9]:%GOLD%o Cloudcrack o%CONTINUE%//
-ItemDisplay[UNI !ID 9fb]:%GOLD%o Todesfaelle Flamme o%CONTINUE%//
-ItemDisplay[UNI !ID 9gd]:%GOLD%o Swordguard o%CONTINUE%//
-ItemDisplay[UNI !ID 9tk]:%GOLD%o Deathbit o%CONTINUE%//
-ItemDisplay[UNI !ID 9ta]:%GOLD%o The Scalper o%CONTINUE%//
+ItemDisplay[UNI !ID 9bs]:%GOLD%Headstriker %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9ls]:%GOLD%Plague Bearer %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9wd]:%GOLD%The Atlantean %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 92h]:%GOLD%Crainte Vomir %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9cm]:%GOLD%Bing Sz Wang %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9gs]:%GOLD%The Vile Husk %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9b9]:%GOLD%Cloudcrack %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9fb]:%GOLD%Todesfaelle Flamme %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9gd]:%GOLD%Swordguard %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9tk]:%GOLD%Deathbit %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9ta]:%GOLD%The Scalper %GRAY%nm%CONTINUE%//
 ItemDisplay[UNI !ID 9wn]:%GOLD%Suicide Branch%CONTINUE%//
 ItemDisplay[UNI !ID 9yw]:%GOLD%Carin Shard%CONTINUE%//
-ItemDisplay[UNI !ID 9bw]:%GOLD%o Arm of King Leoric o%CONTINUE%//
-ItemDisplay[UNI !ID 9gw]:%GOLD%o Blackhand Key o%CONTINUE%//
-ItemDisplay[UNI !ID uap]:%GOLD%oo Harlequin Crest oo%CONTINUE%//
-ItemDisplay[UNI !ID ulm]:%GOLD%oo Steel Shade oo%CONTINUE%//
-ItemDisplay[UNI !ID uhm]:%GOLD%oo Veil of Steel oo / oo Nightwing's Veil oo%CONTINUE%//
-ItemDisplay[UNI !ID usk]:%GOLD%oo Andariel's Visage oo%CONTINUE%//
-ItemDisplay[UNI !ID urn]:%GOLD%ooo Crown of Ages ooo%CONTINUE%//
-ItemDisplay[UNI !ID uh9]:%GOLD%oo Giant Skull oo%CONTINUE%//
-ItemDisplay[UNI !ID uui]:%GOLD%oo Ormus' Robes oo%CONTINUE%//
-ItemDisplay[UNI !ID utu]:%GOLD%oo The Gladiator's Bane oo%CONTINUE%//
-ItemDisplay[UNI !ID upl]:%GOLD%oo Arkaine's Valor oo%CONTINUE%//
-ItemDisplay[UNI !ID uld]:%GOLD%oo Leviathan oo%CONTINUE%//
-ItemDisplay[UNI !ID uul]:%GOLD%oo Steel Carapace oo%CONTINUE%//
-ItemDisplay[UNI !ID uar]:%GOLD%oo Templar's Might oo / ooo Tyrael's Might ooo%CONTINUE%//
-ItemDisplay[UNI !ID uml]:%GOLD%oo Blackoak Shield oo%CONTINUE%//
-ItemDisplay[UNI !ID uit]:%GOLD%oo Stormshield oo%CONTINUE%//
-ItemDisplay[UNI !ID upk]:%GOLD%oo Spike Thorn oo%CONTINUE%//
-ItemDisplay[UNI !ID uow]:%GOLD%oo Medusa's Gaze oo%CONTINUE%//
-ItemDisplay[UNI !ID ush]:%GOLD%oo Head Hunter's Glory oo%CONTINUE%//
-ItemDisplay[UNI !ID uts]:%GOLD%oo Spirit Ward oo%CONTINUE%//
-ItemDisplay[UNI !ID uvg]:%GOLD%oo Dracul's Grasp oo%CONTINUE%//
-ItemDisplay[UNI !ID umg]:%GOLD%oo Soul Drainer oo%CONTINUE%//
-ItemDisplay[UNI !ID uhg]:%GOLD%oo Steelrend oo%CONTINUE%//
-ItemDisplay[UNI !ID uvb]:%GOLD%oo Sandstorm Trek oo%CONTINUE%//
-ItemDisplay[UNI !ID umb]:%GOLD%oo Marrowwalk oo%CONTINUE%//
-ItemDisplay[UNI !ID uhb]:%GOLD%oo Shadow Dancer oo%CONTINUE%//
-ItemDisplay[UNI !ID ulc]:%GOLD%ooo Arachnid Mesh ooo%CONTINUE%//
-ItemDisplay[UNI !ID uvc]:%GOLD%oo Nosferatu's Coil oo%CONTINUE%//
-ItemDisplay[UNI !ID umc]:%GOLD%oo Verdungo's Hearty Cord oo%CONTINUE%//
-ItemDisplay[UNI !ID 7ha]:%GOLD%oo Razor's Edge oo%CONTINUE%//
-ItemDisplay[UNI !ID 72a]:%GOLD%oo Rune Master oo%CONTINUE%//
-ItemDisplay[UNI !ID 7mp]:%GOLD%oo Cranebeak oo%CONTINUE%//
-ItemDisplay[UNI !ID 7wa]:%GOLD%oo Death Cleaver oo%CONTINUE%//
-ItemDisplay[UNI !ID 7ba]:%GOLD%oo Ethereal Edge oo%CONTINUE%//
-ItemDisplay[UNI !ID 7bt]:%GOLD%oo Hellslayer oo%CONTINUE%//
-ItemDisplay[UNI !ID 7ga]:%GOLD%oo Messerschmidt's Reaver oo%CONTINUE%//
-ItemDisplay[UNI !ID 7gi]:%GOLD%oo Executioner's Justice oo%CONTINUE%//
-ItemDisplay[UNI !ID 6l7]:%GOLD%oo Eaglehorn oo%CONTINUE%//
-ItemDisplay[UNI !ID 6sw]:%GOLD%oo Widowmaker oo%CONTINUE%//
-ItemDisplay[UNI !ID 6lw]:%GOLD%oo Windforce oo%CONTINUE%//
-ItemDisplay[UNI !ID 6hx]:%GOLD%oo Hellrack oo%CONTINUE%//
-ItemDisplay[UNI !ID 6rx]:%GOLD%oo Gut Siphon oo%CONTINUE%//
-ItemDisplay[UNI !ID 7dg]:%GOLD%oo Wizardspike oo%CONTINUE%//
-ItemDisplay[UNI !ID 7kr]:%GOLD%oo Fleshripper oo%CONTINUE%//
-ItemDisplay[UNI !ID 7bl]:%GOLD%oo Ghostflame oo%CONTINUE%//
-ItemDisplay[UNI !ID 7s7]:%GOLD%oo Demon's Arch oo%CONTINUE%//
-ItemDisplay[UNI !ID 7gl]:%GOLD%oo Wraith Flight oo%CONTINUE%//
-ItemDisplay[UNI !ID 7ts]:%GOLD%oo Gargoyle's Bite oo%CONTINUE%//
-ItemDisplay[UNI !ID 7cl]:%GOLD%oo Nord's Tenderizer oo%CONTINUE%//
-ItemDisplay[UNI !ID 7sp]:%GOLD%oo Demon Limb oo%CONTINUE%//
-ItemDisplay[UNI !ID 7mt]:%GOLD%oo Baranar's Star oo%CONTINUE%//
-ItemDisplay[UNI !ID 7fl]:%GOLD%oo Horizon's Tornado oo / ooo Stormlash ooo%CONTINUE%//
-ItemDisplay[UNI !ID 7wh]:%GOLD%oo Stone Crusher oo / oo Schaefer's Hammer oo%CONTINUE%//
-ItemDisplay[UNI !ID 7m7]:%GOLD%oo Windhammer oo%CONTINUE%//
-ItemDisplay[UNI !ID 7gm]:%GOLD%oo Earth Shifter oo / oo The Cranium Basher oo%CONTINUE%//
-ItemDisplay[UNI !ID 7o7]:%GOLD%oo Bonehew oo%CONTINUE%//
-ItemDisplay[UNI !ID 7s8]:%GOLD%oo The Reaper's Toll oo%CONTINUE%//
-ItemDisplay[UNI !ID 7pa]:%GOLD%ooo Tomb Reaver ooo%CONTINUE%//
-ItemDisplay[UNI !ID 7wc]:%GOLD%oo Stormspire oo%CONTINUE%//
-ItemDisplay[UNI !ID 7sc]:%GOLD%oo Heaven's Light oo / oo The Redeemer oo%CONTINUE%//
-ItemDisplay[UNI !ID 7ws]:%GOLD%oo Astreon's Iron Ward oo%CONTINUE%//
-ItemDisplay[UNI !ID 7sr]:%GOLD%oo Arioc's Needle oo%CONTINUE%//
-ItemDisplay[UNI !ID 7br]:%GOLD%oo Viperfork oo%CONTINUE%//
-ItemDisplay[UNI !ID 7p7]:%GOLD%oo Steel Pillar oo%CONTINUE%//
-ItemDisplay[UNI !ID 6cs]:%GOLD%oo Ondal's Wisdom oo%CONTINUE%//
-ItemDisplay[UNI !ID 6ws]:%GOLD%ooo Mang Song's Lesson ooo%CONTINUE%//
-ItemDisplay[UNI !ID 7sm]:%GOLD%oo Djinn Slayer oo%CONTINUE%//
-ItemDisplay[UNI !ID 7sb]:%GOLD%oo Bloodmoon oo%CONTINUE%//
-ItemDisplay[UNI !ID 7cr]:%GOLD%oo Lightsabre oo / ooo Azurewrath ooo%CONTINUE%//
-ItemDisplay[UNI !ID 7ls]:%GOLD%oo Frostwind oo%CONTINUE%//
-ItemDisplay[UNI !ID 7gs]:%GOLD%oo Flamebellow oo%CONTINUE%//
-ItemDisplay[UNI !ID 7b7]:%GOLD%oo Doombringer oo%CONTINUE%//
-ItemDisplay[UNI !ID 7gd]:%GOLD%oo The Grandfather oo%CONTINUE%//
-ItemDisplay[UNI !ID 7bk]:%GOLD%oo Warshrike oo%CONTINUE%//
-ItemDisplay[UNI !ID 7ta]:%GOLD%oo Gimmershred oo%CONTINUE%//
-ItemDisplay[UNI !ID 7b8]:%GOLD%oo Lacerator oo%CONTINUE%//
-ItemDisplay[UNI !ID 7bw]:%GOLD%oo Boneshade oo%CONTINUE%//
-ItemDisplay[UNI !ID 7gw]:%GOLD%oo Death's Web oo%CONTINUE%//
+ItemDisplay[UNI !ID 9bw]:%GOLD%Arm of King Leoric %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 9gw]:%GOLD%Blackhand Key %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID uap]:%GOLD%Harlequin Crest %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID ulm]:%GOLD%Steel Shade %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uhm]:%GOLD%Veil of Steel %GRAY%h / %GOLD%Nightwing's Veil %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID usk]:%GOLD%Andariel's Visage %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID urn]:%GOLD%Crown of Ages %GRAY%h+%CONTINUE%//
+ItemDisplay[UNI !ID uh9]:%GOLD%Giant Skull %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uui]:%GOLD%Ormus' Robes %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID utu]:%GOLD%The Gladiator's Bane %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID upl]:%GOLD%Arkaine's Valor %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uld]:%GOLD%Leviathan %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uul]:%GOLD%Steel Carapace %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uar]:%GOLD%Templar's Might %GRAY%h / %GOLD%Tyrael's Might %GRAY%h+%CONTINUE%//
+ItemDisplay[UNI !ID uml]:%GOLD%Blackoak Shield %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uit]:%GOLD%Stormshield %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID upk]:%GOLD%Spike Thorn %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uow]:%GOLD%Medusa's Gaze %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID ush]:%GOLD%Head Hunter's Glory %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uts]:%GOLD%Spirit Ward %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uvg]:%GOLD%Dracul's Grasp %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID umg]:%GOLD%Soul Drainer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uhg]:%GOLD%Steelrend %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uvb]:%GOLD%Sandstorm Trek %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID umb]:%GOLD%Marrowwalk %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID uhb]:%GOLD%Shadow Dancer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID ulc]:%GOLD%Arachnid Mesh %GRAY%h+%CONTINUE%//
+ItemDisplay[UNI !ID uvc]:%GOLD%Nosferatu's Coil %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID umc]:%GOLD%Verdungo's Hearty Cord %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7ha]:%GOLD%Razor's Edge %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 72a]:%GOLD%Rune Master %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7mp]:%GOLD%Cranebeak %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7wa]:%GOLD%Death Cleaver %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7ba]:%GOLD%Ethereal Edge %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7bt]:%GOLD%Hellslayer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7ga]:%GOLD%Messerschmidt's Reaver %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7gi]:%GOLD%Executioner's Justice %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 6l7]:%GOLD%Eaglehorn %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 6sw]:%GOLD%Widowmaker %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 6lw]:%GOLD%Windforce %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 6hx]:%GOLD%Hellrack %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 6rx]:%GOLD%Gut Siphon %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7dg]:%GOLD%Wizardspike %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7kr]:%GOLD%Fleshripper %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7bl]:%GOLD%Ghostflame %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7s7]:%GOLD%Demon's Arch %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7gl]:%GOLD%Wraith Flight %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7ts]:%GOLD%Gargoyle's Bite %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7cl]:%GOLD%Nord's Tenderizer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7sp]:%GOLD%Demon Limb %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7mt]:%GOLD%Baranar's Star %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7fl]:%GOLD%Horizon's Tornado %GRAY%h / %GOLD%Stormlash %GRAY%h+%CONTINUE%//
+ItemDisplay[UNI !ID 7wh]:%GOLD%Stone Crusher %GRAY%h / %GOLD%Schaefer's Hammer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7m7]:%GOLD%Windhammer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7gm]:%GOLD%Earth Shifter %GRAY%h / %GOLD%The Cranium Basher %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7o7]:%GOLD%Bonehew %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7s8]:%GOLD%The Reaper's Toll %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7pa]:%GOLD%Tomb Reaver %GRAY%h+%CONTINUE%//
+ItemDisplay[UNI !ID 7wc]:%GOLD%Stormspire %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7sc]:%GOLD%Heaven's Light %GRAY%h / %GOLD%The Redeemer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7ws]:%GOLD%Astreon's Iron Ward %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7sr]:%GOLD%Arioc's Needle %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7br]:%GOLD%Viperfork %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7p7]:%GOLD%Steel Pillar %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 6cs]:%GOLD%Ondal's Wisdom %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 6ws]:%GOLD%Mang Song's Lesson %GRAY%h+%CONTINUE%//
+ItemDisplay[UNI !ID 7sm]:%GOLD%Djinn Slayer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7sb]:%GOLD%Bloodmoon %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7cr]:%GOLD%Lightsabre %GRAY%h / %GOLD%Azurewrath %GRAY%h+%CONTINUE%//
+ItemDisplay[UNI !ID 7ls]:%GOLD%Frostwind %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7gs]:%GOLD%Flamebellow %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7b7]:%GOLD%Doombringer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7gd]:%GOLD%The Grandfather %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7bk]:%GOLD%Warshrike %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7ta]:%GOLD%Gimmershred %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7b8]:%GOLD%Lacerator %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7bw]:%GOLD%Boneshade %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7gw]:%GOLD%Death's Web %%GRAY%h%CONTINUE%//
 ItemDisplay[leg]:%NAME%{%NAME%}//
 ItemDisplay[pk1]:%BORDER-60%%NAME%{%NAME%}//
 ItemDisplay[pk2]:%BORDER-60%%NAME%{%NAME%}//
@@ -10794,8 +10794,8 @@ ItemDisplay[(glg OR glgs)]:%MAP-0A%%NAME%{%NAME%}//
 ItemDisplay[(glr OR glrs)]:%MAP-0A%%NAME%{%NAME%}//
 ItemDisplay[(glw OR glws)]:%MAP-0A%%NAME%{%NAME%}//
 ItemDisplay[(skl OR skls)]:%MAP-0A%%NAME%{%NAME%}//
-ItemDisplay[SET !ID (amu OR rin)]:%BORDER-81%%RED%ooo %GREEN%%NAME%{%NAME%} %RED%ooo%GREEN%//
-ItemDisplay[UNI !ID (amu OR rin)]:%BORDER-0D%%RED%ooooo %GOLD%%NAME%{%NAME%} %RED%ooooo%GOLD%//
+ItemDisplay[SET !ID (amu OR rin)]:%BORDER-81%%RED%ooooo %NAME% %RED%ooooo%GREEN%{%NAME%}//
+ItemDisplay[UNI !ID (amu OR rin)]:%BORDER-0D%%RED%ooooo %NAME% %RED%ooooo%GOLD%{%NAME%}//
 ItemDisplay[SET !ID]:%DOT-81%%NAME%{%NAME%}//
 ItemDisplay[UNI !ETH !ID]:%DOT-0D%%NAME%{%NAME%}//
 ItemDisplay[UNI ETH !ID]:%DOT-0D%%GRAY%[Eth] %NAME%{%NAME%}//
@@ -10815,13 +10815,19 @@ ItemDisplay[ETH SUP NMAG ((7h7 OR 9h9 OR hal) AND (SOCK=0 OR SOCK>2))]:%BORDER-2
 ItemDisplay[ETH SUP NMAG ((7pa OR 9pa OR pax) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP NMAG ((7s8 OR 9s8 OR scy) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP NMAG ((7vo OR 9vo OR vou) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
-ItemDisplay[ETH NMAG ((7wc OR 9wc OR wsc) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
-ItemDisplay[ETH NMAG ((7h7 OR 9h9 OR hal) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
-ItemDisplay[ETH NMAG ((7pa OR 9pa OR pax) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
-ItemDisplay[ETH NMAG ((7s8 OR 9s8 OR scy) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
-ItemDisplay[ETH NMAG ((7vo OR 9vo OR vou) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG 7wc SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG 7h7 SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG 7pa SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG 7s8 SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG 7vo SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7wc OR 9wc OR wsc) SOCK>2)]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7h7 OR 9h9 OR hal) SOCK>2)]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7pa OR 9pa OR pax) SOCK>2)]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7s8 OR 9s8 OR scy) SOCK>2)]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7vo OR 9vo OR vou) SOCK>2)]:%MAP-20%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP NMAG ((7br OR 9br OR brn) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
-ItemDisplay[ETH NMAG ((7br OR 9br OR brn) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG 7br SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[ETH NMAG ((7br OR 9br OR brn) SOCK>2)]:%MAP-20%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP NMAG ((7cr OR 9cr OR crs) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ETH NMAG ((7cr OR 9cr OR crs) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP NMAG ((fla) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
@@ -10905,6 +10911,12 @@ ItemDisplay[ETH SUP ula DEF>777]:%DOT-0A%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP utu DEF>789]:%DOT-0A%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP utp DEF>859]:%DOT-0A%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP uar DEF>984]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[DIFF<1 ETH NMAG wsc SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<1 ETH NMAG hal SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<1 ETH NMAG pax SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<1 ETH NMAG scy SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<1 ETH NMAG vou SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<1 ETH NMAG brn SOCK=0]:%MAP-20%%NAME%{%NAME%}//
 ItemDisplay[DIFF>0 !SUP !ETH SOCK=0 NMAG NORM CHEST]:{%NAME%}//
 ItemDisplay[DIFF>0 !SUP !ETH SOCK=0 NMAG NORM HELM !CIRC !BAR !DRU]:{%NAME%}//
 ItemDisplay[DIFF>0 !SUP !ETH SOCK=0 NMAG NORM SHIELD !DIN !NEC]:{%NAME%}//
@@ -10913,6 +10925,12 @@ ItemDisplay[DIFF>0 GEMLEVEL<3]://
 ItemDisplay[DIFF>0 tsc]://
 ItemDisplay[DIFF>0 isc]://
 ItemDisplay[DIFF>0 wms]://
+ItemDisplay[DIFF<2 ETH NMAG 9wc SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<2 ETH NMAG 9h9 SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<2 ETH NMAG 9pa SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<2 ETH NMAG 9s8 SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<2 ETH NMAG 9vo SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<2 ETH NMAG 9br SOCK=0]:%MAP-20%%NAME%{%NAME%}//
 ItemDisplay[DIFF>1 !SUP !ETH SOCK=0 NMAG EXC CHEST]:{%NAME%}//
 ItemDisplay[DIFF>1 !SUP !ETH SOCK=0 NMAG EXC HELM !CIRC !BAR !DRU]:{%NAME%}//
 ItemDisplay[DIFF>1 !SUP !ETH SOCK=0 NMAG EXC SHIELD !DIN !NEC]:{%NAME%}//
@@ -11019,7 +11037,7 @@ ItemDisplay[CLVL>79 !RW ETH SUP ult DEF<870 SOCK>0]:{%NAME%}//
 ItemDisplay[CLVL>79 !RW ETH SUP uth DEF<888 SOCK>0]:{%NAME%}//
 ItemDisplay[CLVL>79 !RW ETH SUP uul DEF<914 SOCK>0]:{%NAME%}//
 ItemDisplay[CLVL>79 !RW ETH SUP uar DEF<985 SOCK>0]:{%NAME%}//
-ItemDisplay[CLVL>79 !RW NMAG DIN RES<20]:{%NAME%}//
+ItemDisplay[CLVL>79 !RW NMAG DIN RES<20 AR=0]:{%NAME%}//
 ItemDisplay[CLVL>79 !RW NMAG uui ED=0 DEF>443 DEF<467]:{%NAME%}//
 ItemDisplay[CLVL>79 !RW NMAG uea ED=0 DEF>446 DEF<470]:{%NAME%}//
 ItemDisplay[CLVL>79 !RW NMAG ula ED=0 DEF>450 DEF<474]:{%NAME%}//

@@ -85,6 +85,15 @@ ItemDisplay[ETH SUP utp DEF>859]:%DOT-0A%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP uar DEF>984]:%DOT-0A%%NAME%{%NAME%}//
 
 
+///// Normal
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[DIFF<1 ETH NMAG wsc SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<1 ETH NMAG hal SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<1 ETH NMAG pax SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<1 ETH NMAG scy SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<1 ETH NMAG vou SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<1 ETH NMAG brn SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+
 
 ///// Nightmare
 ////////////////////////////////////////////////////////////////////////////////
@@ -96,6 +105,12 @@ ItemDisplay[DIFF>0 GEMLEVEL<3]://
 ItemDisplay[DIFF>0 tsc]://
 ItemDisplay[DIFF>0 isc]://
 ItemDisplay[DIFF>0 wms]://
+ItemDisplay[DIFF<2 ETH NMAG 9wc SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<2 ETH NMAG 9h9 SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<2 ETH NMAG 9pa SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<2 ETH NMAG 9s8 SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<2 ETH NMAG 9vo SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF<2 ETH NMAG 9br SOCK=0]:%MAP-20%%NAME%{%NAME%}//
 
 
 ///// Hell
@@ -236,7 +251,7 @@ ItemDisplay[CLVL>79 !RW ETH SUP uth DEF<888 SOCK>0]:{%NAME%}//
 ItemDisplay[CLVL>79 !RW ETH SUP uul DEF<914 SOCK>0]:{%NAME%}//
 ItemDisplay[CLVL>79 !RW ETH SUP uar DEF<985 SOCK>0]:{%NAME%}//
 
-ItemDisplay[CLVL>79 !RW NMAG DIN RES<20]:{%NAME%}//
+ItemDisplay[CLVL>79 !RW NMAG DIN RES<20 AR=0]:{%NAME%}//
 
 ItemDisplay[CLVL>79 !RW NMAG uui ED=0 DEF>443 DEF<467]:{%NAME%}//
 ItemDisplay[CLVL>79 !RW NMAG uea ED=0 DEF>446 DEF<470]:{%NAME%}//

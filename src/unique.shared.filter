@@ -12,70 +12,70 @@ ItemDisplay[UNI !ID amu]:%GOLD%%NAME%%CONTINUE%//
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[UNI !ID cm1]:%GOLD%ooo Annihilus ooo%CONTINUE%//
 ItemDisplay[UNI !ID cm2]:%GOLD%ooo Hellfire Torch ooo%CONTINUE%//
-ItemDisplay[UNI !ID cm3]:%GOLD%oo Gheed's Fortune oo%CONTINUE%//
+ItemDisplay[UNI !ID cm3]:%GOLD%Gheed's Fortune oo%CONTINUE%//
 
 
 ///// Jewels
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID jew]:%GOLD%oo Rainbow Facet oo%CONTINUE%//
+ItemDisplay[UNI !ID jew]:%GOLD%Rainbow Facet %GRAY%h%CONTINUE%//
 
 
 ///// Circlets
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID ci2]:%GOLD%oo Kira's Guardian oo%CONTINUE%//
-ItemDisplay[UNI !ID ci3]:%GOLD%oo Griffon's Eye oo%CONTINUE%//
+ItemDisplay[UNI !ID ci2]:%GOLD%Kira's Guardian %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID ci3]:%GOLD%Griffon's Eye %GRAY%h%CONTINUE%//
 
 
 ///// Amazon
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID amd]:%GOLD%oo Stoneraven oo%CONTINUE%//
-ItemDisplay[UNI !ID am9]:%GOLD%o Lycander's Flank o%CONTINUE%//
-ItemDisplay[UNI !ID am7]:%GOLD%o Lycander's Aim o%CONTINUE%//
-ItemDisplay[UNI !ID ama]:%GOLD%o Titan's Revenge o%CONTINUE%//
-ItemDisplay[UNI !ID amf]:%GOLD%oo Thunderstroke oo%CONTINUE%//
-ItemDisplay[UNI !ID amb]:%GOLD%oo Blood Raven's Charge oo%CONTINUE%//
+ItemDisplay[UNI !ID amd]:%GOLD%Stoneraven %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID am9]:%GOLD%Lycander's Flank %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID am7]:%GOLD%Lycander's Aim %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID ama]:%GOLD%Titan's Revenge %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID amf]:%GOLD%Thunderstroke %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID amb]:%GOLD%Blood Raven's Charge %GRAY%h%CONTINUE%//
 
 ///// Assassin
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID 7cs]:%GOLD%oo Shadow Killer oo%CONTINUE%//
-ItemDisplay[UNI !ID 9tw]:%GOLD%o Bartuc's Cut-Throat o%CONTINUE%//
-ItemDisplay[UNI !ID 7wb]:%GOLD%oo Jade Talon oo%CONTINUE%//
-ItemDisplay[UNI !ID 7lw]:%GOLD%oo Firelizard's Talons oo%CONTINUE%//
+ItemDisplay[UNI !ID 7cs]:%GOLD%Shadow Killer %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 9tw]:%GOLD%Bartuc's Cut-Throat %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID 7wb]:%GOLD%Jade Talon %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID 7lw]:%GOLD%Firelizard's Talons %GRAY%h%CONTINUE%//
 
 
 /////Necromancer
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID nea]:%GOLD%o Homunculus o%CONTINUE%//
-ItemDisplay[UNI !ID nef]:%GOLD%oo Darkforce Spawn oo%CONTINUE%//
-ItemDisplay[UNI !ID nee]:%GOLD%oo Boneflame oo%CONTINUE%//
+ItemDisplay[UNI !ID nea]:%GOLD%Homunculus %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID nef]:%GOLD%Darkforce Spawn %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID nee]:%GOLD%Boneflame %GRAY%h%CONTINUE%//
 
 
 ///// Barbarian
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID baa]:%GOLD%o Arreat's Face o%CONTINUE%//
-ItemDisplay[UNI !ID bac]:%GOLD%oo Wolfhowl oo%CONTINUE%//
-ItemDisplay[UNI !ID bad]:%GOLD%oo Demonhorn's Edge oo%CONTINUE%//
-ItemDisplay[UNI !ID bae]:%GOLD%oo Halaberd's Reign oo%CONTINUE%//
+ItemDisplay[UNI !ID baa]:%GOLD%Arreat's Face %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID bac]:%GOLD%Wolfhowl %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID bad]:%GOLD%Demonhorn's Edge %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID bae]:%GOLD%Halaberd's Reign %GRAY%h%CONTINUE%//
 
 
 ///// Sorceress
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID oba]:%GOLD%o The Oculus o%CONTINUE%//
-ItemDisplay[UNI !ID obc]:%GOLD%oo Eschuta's Temper oo%CONTINUE%//
-ItemDisplay[UNI !ID obf]:%GOLD%oo Death's Fathom oo%CONTINUE%//
+ItemDisplay[UNI !ID oba]:%GOLD%The Oculus %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID obc]:%GOLD%Eschuta's Temper %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID obf]:%GOLD%Death's Fathom %GRAY%h%CONTINUE%//
 
 
 ///// Druid
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID dra]:%GOLD%o Jalal's Mane o%CONTINUE%//
-ItemDisplay[UNI !ID drb]:%GOLD%oo Cerebus' Bite oo%CONTINUE%//
-ItemDisplay[UNI !ID dre]:%GOLD%oo Ravenlore oo%CONTINUE%//
-ItemDisplay[UNI !ID drd]:%GOLD%oo Spirit Keeper oo%CONTINUE%//
+ItemDisplay[UNI !ID dra]:%GOLD%Jalal's Mane %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID drb]:%GOLD%Cerebus' Bite %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID dre]:%GOLD%Ravenlore %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID drd]:%GOLD%Spirit Keeper %GRAY%h%CONTINUE%//
 
 
 ///// Paladin
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI !ID pac]:%GOLD%oo Alma Negra oo%CONTINUE%//
-ItemDisplay[UNI !ID pa9]:%GOLD%o Herald of Zakarum o%CONTINUE%//
-ItemDisplay[UNI !ID pae]:%GOLD%oo Dragonscale oo%CONTINUE%//
+ItemDisplay[UNI !ID pac]:%GOLD%Alma Negra %GRAY%h%CONTINUE%//
+ItemDisplay[UNI !ID pa9]:%GOLD%Herald of Zakarum %GRAY%nm%CONTINUE%//
+ItemDisplay[UNI !ID pae]:%GOLD%Dragonscale %GRAY%h%CONTINUE%//
 
