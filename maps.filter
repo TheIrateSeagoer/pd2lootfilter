@@ -6061,8 +6061,8 @@ ItemDisplay[SET !ID (ltp OR xlb                                                 
 ItemDisplay[SET !ID (ba6 OR ne6                                                               )]:%DOT-81%%ORANGE%oooo %NAME% %ORANGE%oooo%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (gth OR xlg                                                               )]:%NAME%{%NAME%}//
 //TC30  fld OR crn OR gts
-ItemDisplay[SET !ID (fld OR crn                                                               )]:%DOT-81%%ORANGE%oooo %NAME% %ORANGE%oooo%GREEN%{%NAME%}//
-ItemDisplay[SET !ID (gts                                                                      )]:%NAME%{%NAME%}//
+ItemDisplay[SET !ID (fld                                                                      )]:%DOT-81%%ORANGE%oooo %NAME% %ORANGE%oooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (gts OR crn                                                               )]:%NAME%{%NAME%}//
 //TC27  hgl OR hbt OR hbl
 //ItemDisplay[SET !ID (                                                                         )]:%DOT-81%%ORANGE%ooo %NAME% %ORANGE%ooo%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (hbl OR hbt OR hgl                                                        )]:%NAME%{%NAME%}//
@@ -6070,8 +6070,8 @@ ItemDisplay[SET !ID (hbl OR hbt OR hgl                                          
 ItemDisplay[SET !ID (plt OR dr5 OR ba5 OR pa5 OR ne5                                          )]:%DOT-81%%ORANGE%ooo %NAME% %ORANGE%ooo%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (bhm OR ghm OR tow OR ci0                                                 )]:%NAME%{%NAME%}//
 //TC21  msk OR bsh OR spl OR tgl OR tbt OR tbl OR dr4 OR ba4 OR pa4 OR ne4
-ItemDisplay[SET !ID (bsh OR tgl OR tbl OR dr4 OR ba4 OR pa4 OR ne4                            )]:%DOT-81%%ORANGE%ooo %NAME% %ORANGE%ooo%GREEN%{%NAME%}//
-ItemDisplay[SET !ID (tbt OR msk OR spl                                                        )]:%NAME%{%NAME%}//
+ItemDisplay[SET !ID (bsh OR dr4 OR ba4 OR pa4 OR ne4                                          )]:%DOT-81%%ORANGE%ooo %NAME% %ORANGE%ooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (tbt OR msk OR spl OR tbl OR tgl                                          )]:%NAME%{%NAME%}//
 //TC18  dr3 OR ba3 OR pa3 OR ne3 OR brs
 ItemDisplay[SET !ID (dr3 OR ba3 OR pa3 OR ne3                                                 )]:%DOT-81%%ORANGE%oo %NAME% %ORANGE%oo%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (brs                                                                      )]:%NAME%{%NAME%}//
@@ -6079,8 +6079,8 @@ ItemDisplay[SET !ID (brs                                                        
 ItemDisplay[SET !ID (scl                                                                      )]:%DOT-81%%ORANGE%oo %NAME% %ORANGE%oo%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (kit OR fhl OR chn                                                        )]:%NAME%{%NAME%}//
 //TC12  hlm OR rng OR lrg OR spk OR mgl OR mbt OR mbl
-ItemDisplay[SET !ID (spk OR mbl                                                               )]:%DOT-81%%ORANGE%oo %NAME% %ORANGE%oo%GREEN%{%NAME%}//
-ItemDisplay[SET !ID (rng OR mbt OR mgl OR lrg OR hlm                                          )]:%NAME%{%NAME%}//
+ItemDisplay[SET !ID (spk                                                                      )]:%DOT-81%%ORANGE%oo %NAME% %ORANGE%oo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (rng OR mbt OR mgl OR lrg OR hlm OR mbl                                   )]:%NAME%{%NAME%}//
 //TC9   vgl OR vbt OR vbl OR stu OR dr2 OR ba2 OR pa2 OR ne2
 ItemDisplay[SET !ID (vbt OR stu OR dr2 OR ba2 OR pa2 OR ne2                                   )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (vbl OR vgl                                                               )]:%NAME%{%NAME%}//
@@ -6088,8 +6088,8 @@ ItemDisplay[SET !ID (vbl OR vgl                                                 
 ItemDisplay[SET !ID (dr1 OR ba1 OR pa1 OR ne1 OR hla                                          )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (sml OR skp                                                               )]:%NAME%{%NAME%}//
 //TC3   cap OR qui OR buc OR lea OR lgl OR lbt OR lbl
-ItemDisplay[SET !ID (cap                                                                      )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
-ItemDisplay[SET !ID (lea OR lgl OR lbl OR lbt OR buc OR qui                                   )]:%NAME%{%NAME%}//
+//ItemDisplay[SET !ID (                                                                      )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (lea OR lgl OR lbl OR lbt OR buc OR qui OR cap                            )]:%NAME%{%NAME%}//
 ItemDisplay[SET !ID (amu OR rin)]:%BORDER-81%%RED%ooooo %NAME% %RED%ooooo%GREEN%{%NAME%}//
 ItemDisplay[UNI !ID (amu OR rin)]:%BORDER-0D%%RED%ooooo %NAME% %RED%ooooo%GOLD%{%NAME%}//
 ItemDisplay[SET !ID]:[%CODE%] %NAME%{%NAME%}//
