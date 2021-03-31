@@ -10934,8 +10934,8 @@ ItemDisplay[SET !ID (lwb OR 9ha OR 9wn OR 9sc OR 9dg OR 9tk OR gma OR gps OR 9sp
 //TC30  ops OR 9ar OR tsp OR hal OR 9cl OR 9ss OR 9ja OR 8ss OR 8sb
 ItemDisplay[SET !ID (ops OR 9ar OR tsp OR hal OR 9cl OR 9ss OR 9ja OR 8ss OR 8sb                                                 )]:%DOT-81%%ORANGE%oooo %NAME% %ORANGE%oooo%GREEN%{%NAME%}//
 //TC27  wax OR whm OR gwn OR gix OR wsd OR flb OR swb OR am2 OR am4
-ItemDisplay[SET !ID (wax OR whm OR gix OR flb OR swb OR am2 OR am4                                                               )]:%DOT-81%%ORANGE%ooo %NAME% %ORANGE%ooo%GREEN%{%NAME%}//
-ItemDisplay[SET !ID (wsd OR gwn                                                                                                  )]:%NAME%{%NAME%}//
+ItemDisplay[SET !ID (wax OR whm OR gix OR flb OR am2 OR am4                                                                      )]:%DOT-81%%ORANGE%ooo %NAME% %ORANGE%ooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (wsd OR gwn OR swb                                                                                           )]:%NAME%{%NAME%}//
 //TC24  gax OR bld OR glv OR lbb OR am5 OR bsw OR pik OR wst OR hxb OR skr OR ob5
 ItemDisplay[SET !ID (gax OR bld OR glv OR am5 OR bsw OR pik OR hxb OR skr OR ob5                                                 )]:%DOT-81%%ORANGE%ooo %NAME% %ORANGE%ooo%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (lbb OR wst                                                                                                  )]:%NAME%{%NAME%}//
