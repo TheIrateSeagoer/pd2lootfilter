@@ -1,0 +1,472 @@
+ItemDisplay[MAG ID cm1]:%BLUE%Small Charm%CONTINUE%//
+ItemDisplay[MAG ID cm2]:%BLUE%Large Charm%CONTINUE%//
+ItemDisplay[MAG ID cm3 ILVL<91]:%BLUE%Grand Charm%CONTINUE%//
+ItemDisplay[MAG ID cm3 ILVL>90]:%YELLOW%(: Reroll Me :)%CONTINUE%//
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///// Prefix
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///// Skills
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG ID cm3 TABSK0=1]:%GOLD%Bow and Crossbow Skills %NAME%%CONTINUE%//
+ItemDisplay[MAG ID cm3 TABSK1=1]:%GOLD%Passive and Magic Skills %NAME%%CONTINUE%//
+ItemDisplay[MAG ID cm3 TABSK2=1]:%GOLD%Javelin and Spear Skills %NAME%%CONTINUE%//
+
+ItemDisplay[MAG ID cm3 TABSK8=1]:%GOLD%Fire Skills %NAME%%CONTINUE%//
+ItemDisplay[MAG ID cm3 TABSK9=1]:%GOLD%Lightning Skills %NAME%%CONTINUE%//
+ItemDisplay[MAG ID cm3 TABSK10=1]:%GOLD%Cold Skills %NAME%%CONTINUE%//
+
+ItemDisplay[MAG ID cm3 TABSK16=1]:%GOLD%Curses Skills %NAME%%CONTINUE%//
+ItemDisplay[MAG ID cm3 TABSK17=1]:%GOLD%Poison & Bone Skills %NAME%%CONTINUE%//
+ItemDisplay[MAG ID cm3 TABSK18=1]:%GOLD%Summoning Skills %NAME%%CONTINUE%//
+
+ItemDisplay[MAG ID cm3 TABSK24=1]:%GOLD%Combat Skills %NAME%%CONTINUE%//
+ItemDisplay[MAG ID cm3 TABSK25=1]:%GOLD%Offensive Auras %NAME%%CONTINUE%//
+ItemDisplay[MAG ID cm3 TABSK26=1]:%GOLD%Defensive Auras %NAME%%CONTINUE%//
+
+ItemDisplay[MAG ID cm3 TABSK32=1]:%GOLD%Combat Skills %NAME%%CONTINUE%//
+ItemDisplay[MAG ID cm3 TABSK33=1]:%GOLD%Combat Masteries Skills %NAME%%CONTINUE%//
+ItemDisplay[MAG ID cm3 TABSK34=1]:%GOLD%Warcries Skills %NAME%%CONTINUE%//
+
+ItemDisplay[MAG ID cm3 TABSK40=1]:%GOLD%Summoning Skills %NAME%%CONTINUE%//
+ItemDisplay[MAG ID cm3 TABSK41=1]:%GOLD%Shape Shifting Skills %NAME%%CONTINUE%//
+ItemDisplay[MAG ID cm3 TABSK42=1]:%GOLD%Elemental Skills %NAME%%CONTINUE%//
+
+ItemDisplay[MAG ID cm3 TABSK48=1]:%GOLD%Traps Skills %NAME%%CONTINUE%//
+ItemDisplay[MAG ID cm3 TABSK49=1]:%GOLD%Shadow Disciplines Skills %NAME%%CONTINUE%//
+ItemDisplay[MAG ID cm3 TABSK50=1]:%GOLD%Martial Arts Skills %NAME%%CONTINUE%//
+
+
+///// Fire Resistance
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 STAT39=11 STAT41=0]:%PURPLE%Max Fire Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT39=10 STAT41=0]:%RED%10 Fire Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT39=9 STAT41=0]:%RED%9 Fire Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT39>0 STAT39<9 STAT41=0]:%GRAY%Fire Res %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm2 STAT39=15 STAT41=0]:%PURPLE%Max Fire Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT39=14 STAT41=0]:%RED%14 Fire Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT39=13 STAT41=0]:%RED%13 Fire Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT39>0 STAT39<13 STAT41=0]:%GRAY%Fire Res %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm3 STAT39=30 STAT41=0]:%PURPLE%Max Fire Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT39=29 STAT41=0]:%RED%29 Fire Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT39=28 STAT41=0]:%RED%28 Fire Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT39=27 STAT41=0]:%RED%27 Fire Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT39>0 STAT39<27 STAT41=0]:%GRAY%Fire Res %NAME%%CONTINUE%//
+
+
+///// Lightening Resistance
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 STAT41=11 STAT39=0]:%PURPLE%Max Lightning Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT41=10 STAT39=0]:%RED%10 Lightning Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT41=9 STAT39=0]:%RED%9 Lightning Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT41>0 STAT41<9 STAT39=0]:%GRAY%Lightning Res %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm2 STAT41=15 STAT39=0]:%PURPLE%Max Lightning Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT41=14 STAT39=0]:%RED%14 Lightning Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT41=13 STAT39=0]:%RED%13 Lightning Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT41>0 STAT41<13 STAT39=0]:%GRAY%Lightning Res %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm3 STAT41=30 STAT39=0]:%PURPLE%Max Lightning Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT41=29 STAT39=0]:%RED%29 Lightning Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT41=28 STAT39=0]:%RED%28 Lightning Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT41=27 STAT39=0]:%RED%27 Lightning Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT41>0 STAT41<27 STAT39=0]:%GRAY%Lightning Res %NAME%%CONTINUE%//
+
+
+///// Cold Resistance
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 STAT43=11 STAT39=0]:%PURPLE%Max Cold Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT43=10 STAT39=0]:%RED%10 Cold Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT43=9 STAT39=0]:%RED%9 Cold Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT43>0 STAT43<9 STAT39=0]:%GRAY%Cold Res %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm2 STAT43=15 STAT39=0]:%PURPLE%Max Cold Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT43=14 STAT39=0]:%RED%14 Cold Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT43=13 STAT39=0]:%RED%13 Cold Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT43>0 STAT43<13 STAT39=0]:%GRAY%Cold Res %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm3 STAT43=30 STAT39=0]:%PURPLE%Max Cold Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT43=29 STAT39=0]:%RED%29 Cold Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT43=28 STAT39=0]:%RED%28 Cold Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT43=27 STAT39=0]:%RED%27 Cold Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT43>0 STAT43<27 STAT39=0]:%GRAY%Cold Res %NAME%%CONTINUE%//
+
+
+///// Poison Resistance
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 STAT45=11 STAT39=0]:%PURPLE%Max Poison Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT45=10 STAT39=0]:%RED%10 Poison Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT45=9 STAT39=0]:%RED%9 Poison Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT45>0 STAT45<9 STAT39=0]:%GRAY%Poison Res %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm2 STAT45=15 STAT39=0]:%PURPLE%Max Poison Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT45=14 STAT39=0]:%RED%14 Poison Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT45=13 STAT39=0]:%RED%13 Poison Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT45>0 STAT45<13 STAT39=0]:%GRAY%Poison Res %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm3 STAT45=30 STAT39=0]:%PURPLE%Max Poison Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT45=29 STAT39=0]:%RED%29 Poison Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT45=28 STAT39=0]:%RED%28 Poison Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT45=27 STAT39=0]:%RED%27 Poison Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT45>0 STAT45<27 STAT39=0]:%GRAY%Poison Res %NAME%%CONTINUE%//
+
+
+///// All Resistance
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 RES=5]:%PURPLE%Max All Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 RES=4]:%RED%4 All Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 RES=3]:%RED%3 All Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 RES>0 RES<3]:%GRAY%All Res %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm2 RES=8]:%PURPLE%Max All Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 RES=7]:%RED%7 All Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 RES=6]:%RED%6 All Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 RES>0 RES<6]:%GRAY%All Res %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm3 RES=15]:%PURPLE%Max All Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 RES=14]:%RED%14 All Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 RES=13]:%RED%13 All Res %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 RES>0 RES<13]:%GRAY%All Res %NAME%%CONTINUE%//
+
+
+///// Mana
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 MANA=17]:%PURPLE%Max Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 MANA=16]:%RED%16 Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 MANA=15]:%RED%15 Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 MANA>0 MANA<15]:%GRAY%Mana %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm2 MANA=34]:%PURPLE%Max Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 MANA=33]:%RED%33 Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 MANA=32]:%RED%32 Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 MANA=31]:%RED%31 Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 MANA=30]:%RED%30 Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 MANA>0 MANA<30]:%GRAY%Mana %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm3 MANA=59]:%PURPLE%Max Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 MANA=58]:%RED%58 Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 MANA=57]:%RED%57 Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 MANA=56]:%RED%56 Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 MANA=55]:%RED%55 Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 MANA=54]:%RED%54 Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 MANA=53]:%RED%53 Mana %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 MANA>0 MANA<53]:%GRAY%Mana %NAME%%CONTINUE%//
+
+
+///// Defense
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 DEF=30]:%RED%Max Defense %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 DEF>0 DEF<30]:%GRAY%Defense %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm2 DEF=60]:%RED%Max Defense %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 DEF>0 DEF<60]:%GRAY%Defense %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm3 DEF=100]:%PURPLE%Max Defense %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 DEF=99]:%RED%99 Defense %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 DEF=98]:%RED%98 Defense %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 DEF=97]:%RED%97 Defense %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 DEF=96]:%RED%96 Defense %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 DEF=95]:%RED%95 Defense %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 DEF>0 DEF<95]:%GRAY%Defense %NAME%%CONTINUE%//
+
+
+///// Stamina
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 STAT11>0]:%GRAY%Stamina %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm2 STAT11>0]:%GRAY%Stamina %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm3 STAT11>0]:%GRAY%Stamina %NAME%%CONTINUE%//
+
+
+///// Min Damage
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 STAT23=1]:%PURPLE%Min Damage %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm2 STAT23=2]:%PURPLE%Min Damage %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT23=1]:%RED%Min Damage %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm3 STAT23=3]:%PURPLE%Min Damage %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT23=2]:%RED%Min Damage %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT23=1]:%GRAY%Min Damage %NAME%%CONTINUE%//
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///// Suffix
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///// Life
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 LIFE=20]:%NAME% %PURPLE%Max Life%CONTINUE%//
+ItemDisplay[MAG cm1 LIFE=19]:%NAME% %RED%19 Life%CONTINUE%//
+ItemDisplay[MAG cm1 LIFE=18]:%NAME% %RED%18 Life%CONTINUE%//
+ItemDisplay[MAG cm1 LIFE>0 LIFE<18]:%NAME% %GRAY%Life%CONTINUE%//
+
+ItemDisplay[MAG cm2 LIFE=35]:%NAME% %PURPLE%Max Life%CONTINUE%//
+ItemDisplay[MAG cm2 LIFE=34]:%NAME% %RED%34 Life%CONTINUE%//
+ItemDisplay[MAG cm2 LIFE=33]:%NAME% %RED%33 Life%CONTINUE%//
+ItemDisplay[MAG cm2 LIFE=32]:%NAME% %RED%32 Life%CONTINUE%//
+ItemDisplay[MAG cm2 LIFE=31]:%NAME% %RED%31 Life%CONTINUE%//
+ItemDisplay[MAG cm2 LIFE>0 LIFE<31]:%NAME% %GRAY%Life%CONTINUE%//
+
+ItemDisplay[MAG cm3 LIFE=45]:%NAME% %PURPLE%Max Life%CONTINUE%//
+ItemDisplay[MAG cm3 LIFE=44]:%NAME% %RED%44 Life%CONTINUE%//
+ItemDisplay[MAG cm3 LIFE=43]:%NAME% %RED%43 Life%CONTINUE%//
+ItemDisplay[MAG cm3 LIFE=42]:%NAME% %RED%42 Life%CONTINUE%//
+ItemDisplay[MAG cm3 LIFE=41]:%NAME% %RED%41 Life%CONTINUE%//
+ItemDisplay[MAG cm3 LIFE=40]:%NAME% %RED%40 Life%CONTINUE%//
+ItemDisplay[MAG cm3 LIFE>0 LIFE<40]:%NAME% %GRAY%Life%CONTINUE%//
+
+
+///// FHR
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 FHR=5]:%NAME% %PURPLE%FHR%CONTINUE%//
+ItemDisplay[MAG cm2 FHR=8]:%NAME% %GRAY%FHR%CONTINUE%//
+ItemDisplay[MAG cm3 FHR=12]:%NAME% %GRAY%FHR%CONTINUE%//
+
+
+///// FRW
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 FRW=3]:%NAME% %PURPLE%FRW%CONTINUE%//
+ItemDisplay[MAG cm2 FRW=5]:%NAME% %GRAY%FRW%CONTINUE%//
+ItemDisplay[MAG cm3 FRW=7]:%NAME% %GRAY%FRW%CONTINUE%//
+
+
+///// Gold Find
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 GFIND=10]:%NAME% %RED%Max GF%CONTINUE%//
+ItemDisplay[MAG cm1 GFIND>0 GFIND<10]:%NAME% %GRAY%GF%CONTINUE%//
+
+ItemDisplay[MAG cm2 GFIND=22]:%NAME% %RED%Max GF%CONTINUE%//
+ItemDisplay[MAG cm2 GFIND>0 GFIND<21]:%NAME% %GRAY%GF%CONTINUE%//
+
+ItemDisplay[MAG cm3 GFIND=40]:%NAME% %PURPLE%Max GF%CONTINUE%//
+ItemDisplay[MAG cm3 GFIND=39]:%NAME% %RED%39 GF%CONTINUE%//
+ItemDisplay[MAG cm3 GFIND=38]:%NAME% %RED%38 GF%CONTINUE%//
+ItemDisplay[MAG cm3 GFIND=37]:%NAME% %RED%37 GF%CONTINUE%//
+ItemDisplay[MAG cm3 GFIND=36]:%NAME% %RED%36 GF%CONTINUE%//
+ItemDisplay[MAG cm3 GFIND>0 GFIND<36]:%NAME% %GRAY%GF%CONTINUE%//
+
+
+///// Strength
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 STR=2]:%NAME% %RED%Max Strength%CONTINUE%//
+ItemDisplay[MAG cm1 STR=1]:%NAME% %GRAY%1 Strength%CONTINUE%//
+
+ItemDisplay[MAG cm2 STR=5]:%NAME% %PURPLE%Max Strength%CONTINUE%//
+ItemDisplay[MAG cm2 STR=4]:%NAME% %RED%4 Strength%CONTINUE%//
+ItemDisplay[MAG cm2 STR=3]:%NAME% %GRAY%3 Strength%CONTINUE%//
+ItemDisplay[MAG cm2 STR=2]:%NAME% %GRAY%2 Strength%CONTINUE%//
+ItemDisplay[MAG cm2 STR=1]:%NAME% %GRAY%1 Strength%CONTINUE%//
+
+ItemDisplay[MAG cm3 STR=6]:%NAME% %RED%Max Strength%CONTINUE%//
+ItemDisplay[MAG cm3 STR=5]:%NAME% %GRAY%5 Strength%CONTINUE%//
+ItemDisplay[MAG cm3 STR=4]:%NAME% %GRAY%4 Strength%CONTINUE%//
+ItemDisplay[MAG cm3 STR=3]:%NAME% %GRAY%3 Strength%CONTINUE%//
+ItemDisplay[MAG cm3 STR=2]:%NAME% %GRAY%2 Strength%CONTINUE%//
+ItemDisplay[MAG cm3 STR=1]:%NAME% %GRAY%1 Strength%CONTINUE%//
+
+
+///// Dexterity
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 DEX=2]:%NAME% %RED%Max Dexterity%CONTINUE%//
+ItemDisplay[MAG cm1 DEX=1]:%NAME% %GRAY%1 Dexterity%CONTINUE%//
+
+ItemDisplay[MAG cm2 DEX=5]:%NAME% %PURPLE%Max Dexterity%CONTINUE%//
+ItemDisplay[MAG cm2 DEX=4]:%NAME% %RED%4 Dexterity%CONTINUE%//
+ItemDisplay[MAG cm2 DEX=3]:%NAME% %GRAY%3 Dexterity%CONTINUE%//
+ItemDisplay[MAG cm2 DEX=2]:%NAME% %GRAY%2 Dexterity%CONTINUE%//
+ItemDisplay[MAG cm2 DEX=1]:%NAME% %GRAY%1 Dexterity%CONTINUE%//
+
+ItemDisplay[MAG cm3 DEX=6]:%NAME% %RED%Max Dexterity%CONTINUE%//
+ItemDisplay[MAG cm3 DEX=5]:%NAME% %GRAY%5 Dexterity%CONTINUE%//
+ItemDisplay[MAG cm3 DEX=4]:%NAME% %GRAY%4 Dexterity%CONTINUE%//
+ItemDisplay[MAG cm3 DEX=3]:%NAME% %GRAY%3 Dexterity%CONTINUE%//
+ItemDisplay[MAG cm3 DEX=2]:%NAME% %GRAY%2 Dexterity%CONTINUE%//
+ItemDisplay[MAG cm3 DEX=1]:%NAME% %GRAY%1 Dexterity%CONTINUE%//
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///// Both
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+///// Magic Find
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 MFIND=7]:%NAME% %PURPLE%Max MF%CONTINUE%//
+ItemDisplay[MAG cm1 MFIND=6]:%NAME% %RED%6 MF%CONTINUE%//
+ItemDisplay[MAG cm1 MFIND=5]:%NAME% %RED%5 MF%CONTINUE%//
+ItemDisplay[MAG cm1 MFIND>0 MFIND<5]:%NAME% %GRAY%MF%CONTINUE%//
+
+ItemDisplay[MAG cm2 MFIND=6]:%RED%Max MF %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 MFIND>0 MFIND<6]:%GRAY%MF %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm3 MFIND=12]:%RED%Max MF %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 MFIND>0 MFIND<12]:%GRAY%MF %NAME%%CONTINUE%//
+
+
+///// Elemental Prefix
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 STAT48>0 (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0 OR (STAT19=0 AND STAT24>0))]:%WHITE%Fire Damage %NAME%//
+ItemDisplay[MAG cm2 STAT48>0 (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0 OR (STAT19=0 AND STAT24>0))]:%WHITE%Fire Damage %NAME%//
+ItemDisplay[MAG cm3 STAT48>0 (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0 OR (STAT19=0 AND STAT24>0))]:%WHITE%Fire Damage %NAME%//
+
+ItemDisplay[MAG cm1 STAT50>0 (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0 OR (STAT19=0 AND STAT24>0))]:%WHITE%Light Damage %NAME%//
+ItemDisplay[MAG cm2 STAT50>0 (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0 OR (STAT19=0 AND STAT24>0))]:%WHITE%Light Damage %NAME%//
+ItemDisplay[MAG cm3 STAT50>0 (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0 OR (STAT19=0 AND STAT24>0))]:%WHITE%Light Damage %NAME%//
+
+ItemDisplay[MAG cm1 STAT54>0 (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0 OR (STAT19=0 AND STAT24>0))]:%WHITE%Cold Damage %NAME%//
+ItemDisplay[MAG cm2 STAT54>0 (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0 OR (STAT19=0 AND STAT24>0))]:%WHITE%Cold Damage %NAME%//
+ItemDisplay[MAG cm3 STAT54>0 (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0 OR (STAT19=0 AND STAT24>0))]:%WHITE%Cold Damage %NAME%//
+
+ItemDisplay[MAG cm1 STAT57>0 (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0 OR (STAT19=0 AND STAT24>0))]:%WHITE%Poison Damage %NAME%//
+ItemDisplay[MAG cm2 STAT57>0 (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0 OR (STAT19=0 AND STAT24>0))]:%WHITE%Poison Damage %NAME%//
+ItemDisplay[MAG cm3 STAT57>0 (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0 OR (STAT19=0 AND STAT24>0))]:%WHITE%Poison Damage %NAME%//
+
+
+///// Attack Rating
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 STAT19=36 STAT24=0]:%RED%Max Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT19>0 STAT19<36 STAT24=0]:%GRAY%Attack Rating %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm2 STAT19=77 STAT24=0]:%PURPLE%Max Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT19>0 STAT19<36 STAT24=0]:%GRAY%Attack Rating %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm3 STAT19=132 STAT24=0]:%RED%Max Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT19>0 STAT19<132 STAT24=0]:%GRAY%Attack Rating %NAME%%CONTINUE%//
+
+
+///// Elemental Suffix
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 STAT48>0 (RES>0 OR (STAT39>0 OR STAT41>0 OR STAT43>0 OR STAT45>0) OR MANA>0 OR DEF>0 OR (STAT19>0 AND STAT24=0) OR STAT11>0)]:%NAME% %WHITE%Fire Damage%BLUE%//
+ItemDisplay[MAG cm2 STAT48>0 (RES>0 OR (STAT39>0 OR STAT41>0 OR STAT43>0 OR STAT45>0) OR MANA>0 OR DEF>0 OR (STAT19>0 AND STAT24=0) OR STAT11>0)]:%NAME% %WHITE%Fire Damage%BLUE%//
+ItemDisplay[MAG cm3 STAT48>0 (RES>0 OR (STAT39>0 OR STAT41>0 OR STAT43>0 OR STAT45>0) OR MANA>0 OR DEF>0 OR (STAT19>0 AND STAT24=0) OR STAT11>0)]:%NAME% %WHITE%Fire Damage%BLUE%//
+
+ItemDisplay[MAG cm1 STAT48>0 STAT19>0 STAT24>0]:%NAME% %WHITE%Fire Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT48>0 STAT19>0 STAT24>0]:%NAME% %WHITE%Fire Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT48>0 STAT19>0 STAT24>0]:%NAME% %WHITE%Fire Damage%BLUE%%CONTINUE%//
+
+
+ItemDisplay[MAG cm1 STAT50>0 (RES>0 OR (STAT39>0 OR STAT41>0 OR STAT43>0 OR STAT45>0) OR MANA>0 OR DEF>0 OR (STAT19>0 AND STAT24=0) OR STAT11>0)]:%NAME% %WHITE%Light Damage%BLUE%//
+ItemDisplay[MAG cm2 STAT50>0 (RES>0 OR (STAT39>0 OR STAT41>0 OR STAT43>0 OR STAT45>0) OR MANA>0 OR DEF>0 OR (STAT19>0 AND STAT24=0) OR STAT11>0)]:%NAME% %WHITE%Light Damage%BLUE%//
+ItemDisplay[MAG cm3 STAT50>0 (RES>0 OR (STAT39>0 OR STAT41>0 OR STAT43>0 OR STAT45>0) OR MANA>0 OR DEF>0 OR (STAT19>0 AND STAT24=0) OR STAT11>0)]:%NAME% %WHITE%Light Damage%BLUE%//
+
+ItemDisplay[MAG cm1 STAT50>0 STAT19>0 STAT24>0]:%NAME% %WHITE%Light Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT50>0 STAT19>0 STAT24>0]:%NAME% %WHITE%Light Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT50>0 STAT19>0 STAT24>0]:%NAME% %WHITE%Light Damage%BLUE%%CONTINUE%//
+
+
+ItemDisplay[MAG cm1 STAT54>0 (RES>0 OR (STAT39>0 OR STAT41>0 OR STAT43>0 OR STAT45>0) OR MANA>0 OR DEF>0 OR (STAT19>0 AND STAT24=0) OR STAT11>0)]:%NAME% %WHITE%Cold Damage%BLUE%//
+ItemDisplay[MAG cm2 STAT54>0 (RES>0 OR (STAT39>0 OR STAT41>0 OR STAT43>0 OR STAT45>0) OR MANA>0 OR DEF>0 OR (STAT19>0 AND STAT24=0) OR STAT11>0)]:%NAME% %WHITE%Cold Damage%BLUE%//
+ItemDisplay[MAG cm3 STAT54>0 (RES>0 OR (STAT39>0 OR STAT41>0 OR STAT43>0 OR STAT45>0) OR MANA>0 OR DEF>0 OR (STAT19>0 AND STAT24=0) OR STAT11>0)]:%NAME% %WHITE%Cold Damage%BLUE%//
+
+ItemDisplay[MAG cm1 STAT54>0 STAT19>0 STAT24>0]:%NAME% %WHITE%Cold Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT54>0 STAT19>0 STAT24>0]:%NAME% %WHITE%Cold Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT54>0 STAT19>0 STAT24>0]:%NAME% %WHITE%Cold Damage%BLUE%%CONTINUE%//
+
+
+ItemDisplay[MAG cm1 STAT57>0 (RES>0 OR (STAT39>0 OR STAT41>0 OR STAT43>0 OR STAT45>0) OR MANA>0 OR DEF>0 OR (STAT19>0 AND STAT24=0) OR STAT11>0)]:%NAME% %WHITE%Poison Damage%BLUE%//
+ItemDisplay[MAG cm2 STAT57>0 (RES>0 OR (STAT39>0 OR STAT41>0 OR STAT43>0 OR STAT45>0) OR MANA>0 OR DEF>0 OR (STAT19>0 AND STAT24=0) OR STAT11>0)]:%NAME% %WHITE%Poison Damage%BLUE%//
+ItemDisplay[MAG cm3 STAT57>0 (RES>0 OR (STAT39>0 OR STAT41>0 OR STAT43>0 OR STAT45>0) OR MANA>0 OR DEF>0 OR (STAT19>0 AND STAT24=0) OR STAT11>0)]:%NAME% %WHITE%Poison Damage%BLUE%//
+
+ItemDisplay[MAG cm1 STAT57>0 STAT19>0 STAT24>0]:%NAME% %WHITE%Poison Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT57>0 STAT19>0 STAT24>0]:%NAME% %WHITE%Poison Damage%BLUE%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT57>0 STAT19>0 STAT24>0]:%NAME% %WHITE%Poison Damage%BLUE%%CONTINUE%//
+
+
+///// Damage Prefix
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 (STAT24=1 AND STAT19=0) (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0)]:%PURPLE%1 Max Damage %NAME%%BLUE%//
+
+ItemDisplay[MAG cm2 (STAT24=2 AND STAT19=0) (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0)]:%PURPLE%2 Max Damage %NAME%%BLUE%//
+ItemDisplay[MAG cm2 (STAT24=1 AND STAT19=0) (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0)]:%GRAY%1 Max Damage %NAME%%BLUE%//
+
+ItemDisplay[MAG cm3 (STAT24=3 AND STAT19=0) (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0)]:%PURPLE%3 Max Damage %NAME%%BLUE%//
+ItemDisplay[MAG cm3 (STAT24=2 AND STAT19=0) (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0)]:%GRAY%2 Max Damage %NAME%%BLUE%//
+ItemDisplay[MAG cm3 (STAT24=1 AND STAT19=0) (LIFE>0 OR FHR>0 OR FRW>0 OR GFIND>0 OR STR>0 OR STR>0 OR DEX>0)]:%GRAY%1 Max Damage %NAME%%BLUE%//
+
+
+///// Damage Suffix
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 (STAT24=1 AND STAT19=0)]:%NAME% %RED%1 Max Damage%BLUE%//
+
+ItemDisplay[MAG cm2 (STAT24=2 AND STAT19=0)]:%NAME% %RED%2 Max Damage%BLUE%//
+ItemDisplay[MAG cm2 (STAT24=1 AND STAT19=0)]:%NAME% %GRAY%1 Max Damage%BLUE%//
+
+ItemDisplay[MAG cm3 (STAT24=4 AND STAT19=0)]:%NAME% %PURPLE%4 Max Damage%BLUE%//
+ItemDisplay[MAG cm3 (STAT24=3 AND STAT19=0)]:%NAME% %RED%3 Max Damage%BLUE%//
+ItemDisplay[MAG cm3 (STAT24=2 AND STAT19=0)]:%NAME% %GRAY%2 Max Damage%BLUE%//
+ItemDisplay[MAG cm3 (STAT24=1 AND STAT19=0)]:%NAME% %GRAY%1 Max Damage%BLUE%//
+
+
+///// Fine
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 STAT19=20 STAT24>0]:%PURPLE%20 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT19=19 STAT24>0]:%RED%19 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT18=18 STAT24>0]:%RED%18 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm1 STAT19>0 STAT19<18 STAT24>0]:%GRAY%Attack Rating %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm1 STAT24=4]:%GOLD%4 Max Damage %NAME%//
+ItemDisplay[MAG cm1 STAT24=3]:%PURPLE%3 Max Damage %NAME%//
+ItemDisplay[MAG cm1 STAT24=2]:%RED%2 Max Damage %NAME%//
+ItemDisplay[MAG cm1 STAT24=1]:%GRAY%1 Max Damage %NAME%//
+
+
+ItemDisplay[MAG cm2 STAT19=48 STAT24>0]:%PURPLE%48 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT19=47 STAT24>0]:%RED%47 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT18=46 STAT24>0]:%RED%46 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT18=45 STAT24>0]:%RED%45 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT18=44 STAT24>0]:%RED%44 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT18=43 STAT24>0]:%RED%43 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT19>0 STAT19<43 STAT24>0]:%GRAY%Attack Rating %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm2 STAT24=8]:%GOLD%8 Max Damage %NAME%//
+ItemDisplay[MAG cm2 STAT24=7]:%GOLD%7 Max Damage %NAME%//
+ItemDisplay[MAG cm2 STAT24=6]:%PURPLE%6 Max Damage %NAME%//
+ItemDisplay[MAG cm2 STAT24=5]:%RED%5 Max Damage %NAME%//
+ItemDisplay[MAG cm2 STAT24>0 STAT24<5]:%GRAY%Max Damage %NAME%//
+
+
+ItemDisplay[MAG cm3 STAT19=76 STAT24>0]:%PURPLE%76 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT18=75 STAT24>0]:%RED%75 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT18=74 STAT24>0]:%RED%74 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT18=73 STAT24>0]:%RED%73 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT18=72 STAT24>0]:%RED%72 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT18=71 STAT24>0]:%RED%71 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT18=70 STAT24>0]:%RED%70 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT18=69 STAT24>0]:%RED%69 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT18=68 STAT24>0]:%RED%68 Attack Rating %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT19>0 STAT19<68 STAT24>0]:%GRAY%Attack Rating %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm3 STAT24=14]:%GOLD%14 Max Damage %NAME%//
+ItemDisplay[MAG cm3 STAT24=13]:%GOLD%13 Max Damage %NAME%//
+ItemDisplay[MAG cm3 STAT24=12]:%GOLD%12 Max Damage %NAME%//
+ItemDisplay[MAG cm3 STAT24=11]:%GOLD%11 Max Damage %NAME%//
+ItemDisplay[MAG cm3 STAT24=10]:%PURPLE%10 Max Damage %NAME%//
+ItemDisplay[MAG cm3 STAT24=9]:%RED%9 Max Damage %NAME%//
+ItemDisplay[MAG cm3 STAT24=8]:%RED%8 Max Damage %NAME%//
+ItemDisplay[MAG cm3 STAT24=7]:%RED%7 Max Damage %NAME%//
+ItemDisplay[MAG cm3 STAT24>0 STAT24<7]:%GRAY%Max Damage %NAME%//
+
+
+///// Elemental Catchall
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG cm1 STAT48>0]:%WHITE%Fire %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT48>0]:%WHITE%Fire %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT48>0]:%WHITE%Fire %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm1 STAT50>0]:%WHITE%Light %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT50>0]:%WHITE%Light %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT50>0]:%WHITE%Light %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm1 STAT54>0]:%WHITE%Cold %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT54>0]:%WHITE%Cold %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT54>0]:%WHITE%Cold %NAME%%CONTINUE%//
+
+ItemDisplay[MAG cm1 STAT57>0]:%WHITE%Poison %NAME%%CONTINUE%//
+ItemDisplay[MAG cm2 STAT57>0]:%WHITE%Poison %NAME%%CONTINUE%//
+ItemDisplay[MAG cm3 STAT57>0]:%WHITE%Poison %NAME%%CONTINUE%//
+

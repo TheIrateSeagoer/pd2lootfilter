@@ -87,38 +87,50 @@ ItemDisplay[ETH SUP uar DEF>984]:%DOT-0A%%NAME%{%NAME%}//
 
 ///// Normal
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[DIFF<1 ETH NMAG wsc SOCK=0]:%MAP-20%%NAME%{%NAME%}//
-ItemDisplay[DIFF<1 ETH NMAG hal SOCK=0]:%MAP-20%%NAME%{%NAME%}//
-ItemDisplay[DIFF<1 ETH NMAG pax SOCK=0]:%MAP-20%%NAME%{%NAME%}//
-ItemDisplay[DIFF<1 ETH NMAG scy SOCK=0]:%MAP-20%%NAME%{%NAME%}//
-ItemDisplay[DIFF<1 ETH NMAG vou SOCK=0]:%MAP-20%%NAME%{%NAME%}//
-ItemDisplay[DIFF<1 ETH NMAG brn SOCK=0]:%MAP-20%%NAME%{%NAME%}//
-
+ItemDisplay[DIFF=0 ETH NMAG wsc SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF=0 ETH NMAG hal SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF=0 ETH NMAG pax SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF=0 ETH NMAG scy SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF=0 ETH NMAG vou SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF=0 ETH NMAG brn SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF>0 ETH NMAG wsc SOCK=0]://
+ItemDisplay[DIFF>0 ETH NMAG hal SOCK=0]://
+ItemDisplay[DIFF>0 ETH NMAG pax SOCK=0]://
+ItemDisplay[DIFF>0 ETH NMAG scy SOCK=0]://
+ItemDisplay[DIFF>0 ETH NMAG vou SOCK=0]://
+ItemDisplay[DIFF>0 ETH NMAG brn SOCK=0]://
 
 ///// Nightmare
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[DIFF>0 !SUP !ETH SOCK=0 NMAG NORM CHEST]:{%NAME%}//
-ItemDisplay[DIFF>0 !SUP !ETH SOCK=0 NMAG NORM HELM !CIRC !BAR !DRU]:{%NAME%}//
-ItemDisplay[DIFF>0 !SUP !ETH SOCK=0 NMAG NORM SHIELD !DIN !NEC]:{%NAME%}//
-ItemDisplay[DIFF>0 !SUP !ETH SOCK=0 NMAG NORM WEAPON !WAND !STAFF !SCEPTER !ZON !SIN !SOR]:{%NAME%}//
+ItemDisplay[DIFF>0 !SUP !ETH NMAG NORM CHEST]:{%NAME%}//
+ItemDisplay[DIFF>0 !SUP !ETH NMAG NORM HELM !CIRC !BAR !DRU]:{%NAME%}//
+ItemDisplay[DIFF>0 !SUP !ETH NMAG NORM SHIELD !DIN !NEC]:{%NAME%}//
+ItemDisplay[DIFF>0 !SUP !ETH NMAG NORM WEAPON !WAND !STAFF !SCEPTER !ZON !SIN !SOR]:{%NAME%}//
 ItemDisplay[DIFF>0 GEMLEVEL<3]://
 ItemDisplay[DIFF>0 tsc]://
 ItemDisplay[DIFF>0 isc]://
 ItemDisplay[DIFF>0 wms]://
+
 ItemDisplay[DIFF<2 ETH NMAG 9wc SOCK=0]:%MAP-20%%NAME%{%NAME%}//
 ItemDisplay[DIFF<2 ETH NMAG 9h9 SOCK=0]:%MAP-20%%NAME%{%NAME%}//
 ItemDisplay[DIFF<2 ETH NMAG 9pa SOCK=0]:%MAP-20%%NAME%{%NAME%}//
 ItemDisplay[DIFF<2 ETH NMAG 9s8 SOCK=0]:%MAP-20%%NAME%{%NAME%}//
 ItemDisplay[DIFF<2 ETH NMAG 9vo SOCK=0]:%MAP-20%%NAME%{%NAME%}//
 ItemDisplay[DIFF<2 ETH NMAG 9br SOCK=0]:%MAP-20%%NAME%{%NAME%}//
+ItemDisplay[DIFF=2 ETH NMAG 9wc SOCK=0]://
+ItemDisplay[DIFF=2 ETH NMAG 9h9 SOCK=0]://
+ItemDisplay[DIFF=2 ETH NMAG 9pa SOCK=0]://
+ItemDisplay[DIFF=2 ETH NMAG 9s8 SOCK=0]://
+ItemDisplay[DIFF=2 ETH NMAG 9vo SOCK=0]://
+ItemDisplay[DIFF=2 ETH NMAG 9br SOCK=0]://
 
 
 ///// Hell
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[DIFF>1 !SUP !ETH SOCK=0 NMAG EXC CHEST ]:{%NAME%}//
-ItemDisplay[DIFF>1 !SUP !ETH SOCK=0 NMAG EXC HELM !CIRC !BAR !DRU]:{%NAME%}//
-ItemDisplay[DIFF>1 !SUP !ETH SOCK=0 NMAG EXC SHIELD !DIN !NEC]:{%NAME%}//
-ItemDisplay[DIFF>1 !SUP !ETH SOCK=0 NMAG EXC WEAPON !WAND !STAFF !SCEPTER !ZON !SIN !SOR]:{%NAME%}//
+ItemDisplay[DIFF>1 !SUP !ETH NMAG EXC CHEST ]:{%NAME%}//
+ItemDisplay[DIFF>1 !SUP !ETH NMAG EXC HELM !CIRC !BAR !DRU]:{%NAME%}//
+ItemDisplay[DIFF>1 !SUP !ETH NMAG EXC SHIELD !DIN !NEC]:{%NAME%}//
+ItemDisplay[DIFF>1 !SUP !ETH NMAG EXC WEAPON !WAND !STAFF !SCEPTER !ZON !SIN !SOR]:{%NAME%}//
 ItemDisplay[DIFF=2 hp4]://
 ItemDisplay[DIFF=2 mp4]://
 ItemDisplay[DIFF=2 hp5]:%RED%@%WHITE%HP//

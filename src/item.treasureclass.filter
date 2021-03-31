@@ -1,6 +1,7 @@
 ///// Weapons
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[7qr OR 7wa OR 7gi OR 7ws OR 7gm OR 7wd OR 7gd OR 7bl OR 7ts OR 7p7 OR 7wc OR 6ws OR 6lw OR obf OR 7gw       ]:[TC87] %NAME%%CONTINUE%//
+ItemDisplay[7ws OR 7gi OR 7bl OR 7wd OR obf OR 6ws OR 7wc OR 7p7                                                        ]:[TC90] %NAME%%CONTINUE%//
+ItemDisplay[7qr OR 7wa OR 7gm OR 7gd OR 7ts OR 6lw OR 7gw                                                               ]:[TC87] %NAME%%CONTINUE%//
 ItemDisplay[7ga OR 7wh OR 7ls OR 7kr OR 7st OR 6bs OR 7h7 OR 6rx OR obe                                                 ]:[TC84] %NAME%%CONTINUE%//
 ItemDisplay[7mp OR 7gl OR 7pa OR 7fb OR 7b8 OR 6sw OR 7tw OR ame                                                        ]:[TC81] %NAME%%CONTINUE%//
 ItemDisplay[7qs OR 7fl OR 7b7 OR 7bk OR 6l7 OR 7lw OR 7bs OR amc                                                        ]:[TC78] %NAME%%CONTINUE%//
@@ -33,8 +34,9 @@ ItemDisplay[clb OR ssd OR jav OR sst OR sbw OR ktr OR ob1 OR wnd OR tkf OR hax O
 
 ///// Armors
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[ci3 OR urn OR uar OR uhg OR uhb OR uhc OR drf OR baf OR paf OR nef                                          ]:[TC87] %NAME%%CONTINUE%//
-ItemDisplay[uth OR utc OR pae OR uul OR dre OR utp OR uts OR uh9                                                        ]:[TC84] %NAME%%CONTINUE%//
+ItemDisplay[uar OR uhc OR urn OR paf OR drf                                                                             ]:[TC90] %NAME%%CONTINUE%//
+ItemDisplay[uul OR uhg OR ci3 OR uhb OR baf OR nef                                                                      ]:[TC87] %NAME%%CONTINUE%//
+ItemDisplay[uth OR utc OR pae OR dre OR utp OR uts OR uh9                                                               ]:[TC84] %NAME%%CONTINUE%//
 ItemDisplay[uhm OR uow OR bae OR uld OR utb OR nee                                                                      ]:[TC81] %NAME%%CONTINUE%//
 ItemDisplay[upl OR utg OR ush OR drd OR ult                                                                             ]:[TC78] %NAME%%CONTINUE%//
 ItemDisplay[ucl OR bad OR usk OR pad OR urs OR umc                                                                      ]:[TC75] %NAME%%CONTINUE%//

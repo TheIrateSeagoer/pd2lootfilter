@@ -74,16 +74,21 @@ Write-Host -NoNewline "Personal ... "
 Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter', 
 '.\obj\common.lod.filter', '.\obj\common.pd2.filter', 
 '.\obj\item.prefix.filter', 
-#'.\obj\item.treasureclass.filter', 
+
 '.\obj\item.crafting.filter', 
-'.\obj\item.suffix.filter', '.\obj\item.shopping.filter', '.\obj\item.colorfix.filter', 
+'.\obj\item.suffix.filter', 
+'.\obj\item.shopping.charms.filter', '.\obj\item.shopping.jewels.filter', '.\obj\item.shopping.filter', 
+'.\obj\item.colorfix.filter', 
 '.\obj\bases.filter', '.\obj\bases.larzuk.filter', 
 '.\obj\item.colorfix.filter', 
 '.\obj\item.description.filter', 
 '.\obj\arreat.normal.filter', '.\obj\arreat.exceptional.filter', '.\obj\arreat.elite.filter', 
 '.\obj\set.shared.filter', '.\obj\set.normal.filter', '.\obj\set.exceptional.filter', '.\obj\set.elite.filter', 
 '.\obj\unique.shared.filter', '.\obj\unique.normal.filter', '.\obj\unique.exceptional.filter', '.\obj\unique.elite.filter', 
+#'.\obj\item.treasureclass.filter', 
 '.\obj\catchall.filter', '.\obj\catchall.default.filter' | Set-Content '.\bin\personal.filter'
+
+#(Get-Content -Path '.\bin\personal.filter').replace("%DOT-81%","%DOT-81%[%CODE%] ").replace("%DOT-0D%","%DOT-0D%[%CODE%] ") | Set-Content -Path '.\bin\personal.filter'
 
 if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2') { Copy-Item '.\bin\personal.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2\loot.filter' }
 if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg') { Copy-Item '.\bin\personal.filter' -Destination 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg' }
