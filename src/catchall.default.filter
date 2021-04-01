@@ -63,26 +63,26 @@ ItemDisplay[ETH SUP uth DEF<888 SOCK=0]:{%NAME%}//
 ItemDisplay[ETH SUP uul DEF<914 SOCK=0]:{%NAME%}//
 ItemDisplay[ETH SUP uar DEF<985 SOCK=0]:{%NAME%}//
 
-ItemDisplay[SUP uui DEF>511]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[SUP uea DEF>513]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[SUP ula DEF>518]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[SUP utu DEF>526]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[SUP utp DEF>572]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[SUP uar DEF>656]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[SUP uui DEF>511 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[SUP uea DEF>513 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[SUP ula DEF>518 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[SUP utu DEF>526 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[SUP utp DEF>572 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[SUP uar DEF>656 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
 
-ItemDisplay[ETH uui ED=0 DEF>664]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[ETH uea ED=0 DEF>668]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[ETH ula ED=0 DEF>674]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[ETH utu ED=0 DEF>684]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[ETH utp ED=0 DEF>746]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[ETH uar ED=0 DEF>854]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[ETH uui ED=0 DEF>664 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[ETH uea ED=0 DEF>668 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[ETH ula ED=0 DEF>674 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[ETH utu ED=0 DEF>684 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[ETH utp ED=0 DEF>746 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[ETH uar ED=0 DEF>854 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
 
-ItemDisplay[ETH SUP uui DEF>765]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[ETH SUP uea DEF>770]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[ETH SUP ula DEF>777]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[ETH SUP utu DEF>789]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[ETH SUP utp DEF>859]:%DOT-0A%%NAME%{%NAME%}//
-ItemDisplay[ETH SUP uar DEF>984]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[ETH SUP uui DEF>765 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[ETH SUP uea DEF>770 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[ETH SUP ula DEF>777 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[ETH SUP utu DEF>789 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[ETH SUP utp DEF>859 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
+ItemDisplay[ETH SUP uar DEF>984 (SOCK=0 OR SOCK>2)]:%DOT-0A%%NAME%{%NAME%}//
 
 
 ///// Normal
