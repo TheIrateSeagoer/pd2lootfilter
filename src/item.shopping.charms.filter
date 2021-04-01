@@ -480,3 +480,66 @@ ItemDisplay[cm3 ID STAT58>230 STAT58<257 (STAT19=0 LIFE=0 DEX=0 STR=0 FHR=0 FRW=
 ItemDisplay[cm3 ID STAT58>20 STAT58<231 (STAT19=0 LIFE=0 DEX=0 STR=0 FHR=0 FRW=0 GFIND=0 MFIND=0 STAT49=0 STAT51=0 STAT55=0 DEF=0 STAT23=0 MANA=0 RES=0 STAT39=0 STAT41=0 STAT43=0 STAT45=0 TABSK0=0 TABSK1=0 TABSK2=0 TABSK8=0 TABSK9=0 TABSK10=0 TABSK16=0 TABSK17=0 TABSK18=0 TABSK24=0 TABSK25=0 TABSK26=0 TABSK32=0 TABSK33=0 TABSK34=0 TABSK40=0 TABSK41=0 TABSK42=0 TABSK48=0 TABSK49=0 TABSK50=0)]:%GRAY%Poison %NAME%%CONTINUE%//
 
 
+////////////////////////////////////////////////////////////////////////////////
+///// Value Items
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+///// Small
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[cm1 ID STAT39=10]:%MAP%%RED%oooo %ORANGE%10 Fire Res %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm1 ID STAT39=11]:%MAP%%RED%oooo %ORANGE%11 Fire Res %RED%oooo%BLUE%%CONTINUE%//
+
+ItemDisplay[cm1 ID STAT41=10]:%MAP%%RED%oooo %ORANGE%10 Light Res %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm1 ID STAT41=11]:%MAP%%RED%ooooo %ORANGE%11 Light Res %RED%ooooo%BLUE%%CONTINUE%//
+
+ItemDisplay[cm1 ID STAT43=10]:%MAP%%RED%oooo %ORANGE%10 Cold Res %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm1 ID STAT43=11]:%MAP%%RED%oooo %ORANGE%11 Cold Res %RED%oooo%BLUE%%CONTINUE%//
+
+ItemDisplay[cm1 ID RES=3]:%MAP%%RED%oooo %ORANGE%3 All Res %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm1 ID RES=4]:%MAP%%RED%ooooo %ORANGE%4 All Res %RED%ooooo%BLUE%%CONTINUE%//
+ItemDisplay[cm1 ID RES=5]:%MAP%%PURPLE%oooo %ORANGE%5 All Res %PURPLE%oooo%BLUE%%CONTINUE%//
+
+ItemDisplay[cm1 ID MANA=17]:%MAP%%RED%oooo %ORANGE%17 Mana %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm1 ID DEF=17]:%MAP%%RED%oooo %ORANGE%30 Def %RED%oooo%BLUE%%CONTINUE%//
+
+ItemDisplay[cm1 ID LIFE=18]:%MAP%%RED%oooo %ORANGE%18 Life %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm1 ID LIFE=19]:%MAP%%RED%oooo %ORANGE%19 Life %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm1 ID LIFE=20]:%MAP%%RED%ooooo %ORANGE%20 Life %RED%ooooo%BLUE%%CONTINUE%//
+
+ItemDisplay[cm1 ID MFIND=5]:%MAP%%RED%oooo %ORANGE%5 Magic Find %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm1 ID MFIND=6]:%MAP%%RED%ooooo %ORANGE%6 Magic Find %RED%ooooo%BLUE%%CONTINUE%//
+ItemDisplay[cm1 ID MFIND=7]:%MAP%%PURPLE%oooo %ORANGE%7 Magic Find %PURPLE%oooo%BLUE%%CONTINUE%//
+
+ItemDisplay[cm1 ID STAT24=3]:%MAP%%RED%oooo %ORANGE%3 Max Dmg %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm1 ID STAT24>3]:%MAP%%PURPLE%oooo %ORANGE%Max Dmg %PURPLE%oooo%BLUE%%CONTINUE%//
+
+ItemDisplay[cm1 ID MANA=17 LIFE=20]:%MAP%%PURPLE%oooooo %ORANGE%17 Mana/20 Life %PURPLE%oooooo%BLUE%%CONTINUE%//
+ItemDisplay[cm1 ID STAT24=3 LIFE=20]:%MAP%%PURPLE%oooooo %ORANGE%3 Max Dmg/20 Life %PURPLE%oooooo%BLUE%%CONTINUE%//
+ItemDisplay[cm1 ID RES=5 LIFE=20]:%MAP%%PURPLE%oooooo %ORANGE%5 Res/20 Life %PURPLE%oooooo%BLUE%%CONTINUE%//
+ItemDisplay[cm1 ID RES=5 MFIND=7]:%MAP%%PURPLE%oooooo %ORANGE%5 Res/7 Magic Find %PURPLE%oooooo%BLUE%%CONTINUE%//
+
+///// Large
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[cm2 ID RES=6]:%MAP%%RED%oooo %ORANGE%6 All Res %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm2 ID RES=7]:%MAP%%RED%ooooo %ORANGE%7 All Res %RED%ooooo%BLUE%%CONTINUE%//
+ItemDisplay[cm2 ID RES=8]:%MAP%%PURPLE%oooo %ORANGE%8 All Res %PURPLE%oooo%BLUE%%CONTINUE%//
+
+ItemDisplay[cm2 ID STAT24=6]:%MAP%%RED%oooo %ORANGE%6 Max Dmg %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm2 ID STAT24>6]:%MAP%%PURPLE%oooo %ORANGE%Max Dmg  %PURPLE%oooo%BLUE%%CONTINUE%//
+
+ItemDisplay[cm2 ID STAT24=6]:%MAP%%RED%oooo %ORANGE%6 Max Dmg %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm2 ID STAT24=6 LIFE=35]:%MAP%%PURPLE%oooooo %ORANGE%3 Max Dmg/35 Life %PURPLE%oooooo%BLUE%%CONTINUE%//
+
+///// Grand
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[cm3 ID MANA=58]:%MAP%%RED%oooo %ORANGE%58 Mana %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm3 ID MANA=59]:%MAP%%RED%ooooo %ORANGE%59 Mana %RED%ooooo%BLUE%%CONTINUE%//
+
+ItemDisplay[cm3 ID MANA=59 LIFE=45]:%MAP%%PURPLE%oooooo %ORANGE%59 Mana/45 Life%PURPLE%oooooo%BLUE%%CONTINUE%//
+
+ItemDisplay[cm3 ID STAT24=7]:%MAP%%RED%oooo %ORANGE%7 Max Dmg %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm3 ID STAT24=8]:%MAP%%RED%oooo %ORANGE%8 Max Dmg %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm3 ID STAT24=9]:%MAP%%RED%oooo %ORANGE%8 Max Dmg %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[cm3 ID STAT24>10]:%MAP%%PURPLE%oooo %ORANGE%Max Dmg  %PURPLE%oooo%BLUE%%CONTINUE%//
+
