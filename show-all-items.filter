@@ -8187,17 +8187,19 @@ ItemDisplay[jew ID MAG STAT24>0 STAT24<13 STAT23>0 (DEF=0 MANA=0 RES=0 STAT39=0 
 ItemDisplay[jew ID MAG RES>10]:%MAP%%RED%oooo %ORANGE%All Resist%RED%oooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT24=15]:%MAP%%RED%oooo %ORANGE%Max Damage%RED%oooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT18>35]:%MAP%%RED%ooooo %ORANGE%ED %RED%ooooo%BLUE%%CONTINUE%//
-ItemDisplay[jew ID MAG STAT18>30 IAS=15]:%MAP%%RED%ooooo %ORANGE%ED %RED%ooooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG RES=15]:%MAP%%RED%ooooo %ORANGE%15 All Resist%RED%ooooo%BLUE%%CONTINUE%//
+ItemDisplay[jew ID MAG STAT18>30 IAS=15]:%MAP%%RED%ooooo %ORANGE%ED %RED%ooooo%BLUE%%CONTINUE%//
+ItemDisplay[jew ID MAG STAT121>24 IAS=15]:%MAP%%PURPLE%ooooo %ORANGE%ED Demons / IAS %PURPLE%ooooo%BLUE%%CONTINUE%//
+ItemDisplay[jew ID MAG STAT121=40 IAS=15]:%MAP%%PURPLE%oooooo %ORANGE%40 ED Demons / IAS %PURPLE%oooooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT18=40]:%MAP%%PURPLE%ooooo %ORANGE%40 ED %PURPLE%ooooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT18=40 IAS=15]:%MAP%%PURPLE%oooooo %ORANGE%40 ED / IAS %PURPLE%oooooo%BLUE%%CONTINUE%//
-ItemDisplay[jew ID MAG STAT18=40 STAT91=-15]:%MAP%%PURPLE%oooooo %ORANGE%40 ED / Requirements %PURPLE%oooooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT18=40 STR=9]:%MAP%%PURPLE%oooooo %ORANGE%40 ED / 9 Strength %PURPLE%oooooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT18=40 DEX=9]:%MAP%%PURPLE%oooooo %ORANGE%40 ED / 9 Dexterity %PURPLE%oooooo%BLUE%%CONTINUE%//
-ItemDisplay[jew ID MAG STAT23=18]:%MAP%%PURPLE%oooooo %ORANGE%10 Min Dmg / 8 Min Dmg %PURPLE%oooooo%BLUE%%CONTINUE%//
-ItemDisplay[jew ID MAG STAT24=30]:%MAP%%PURPLE%oooooo %ORANGE%15 Max Dmg / 15 Max Dmg %PURPLE%oooooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT18=40 STAT23=10]:%MAP%%PURPLE%oooooo %ORANGE%40 ED / 10 Min Dmg %PURPLE%oooooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT18=40 STAT24=15]:%MAP%%PURPLE%oooooo %ORANGE%40 ED / 15 Max Dmg %PURPLE%oooooo%BLUE%%CONTINUE%//
+ItemDisplay[jew ID MAG STAT18=40 STAT91=-15]:%MAP%%PURPLE%oooooo %ORANGE%40 ED / Requirements %PURPLE%oooooo%BLUE%%CONTINUE%//
+ItemDisplay[jew ID MAG STAT23=18]:%MAP%%PURPLE%oooooo %ORANGE%10 Min Dmg / 8 Min Dmg %PURPLE%oooooo%BLUE%%CONTINUE%//
+ItemDisplay[jew ID MAG STAT24=30]:%MAP%%PURPLE%oooooo %ORANGE%15 Max Dmg / 15 Max Dmg %PURPLE%oooooo%BLUE%%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK0=3]:%NAME% %PURPLE%+3 Skill%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK0=2]:%NAME% %RED%+2 Skill%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG TABSK0=1]:%NAME% %GREEN%+1 Skill%CONTINUE%//

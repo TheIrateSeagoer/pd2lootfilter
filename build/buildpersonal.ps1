@@ -63,11 +63,11 @@ $inputPath = '.\obj\catchall.default.filter'
 .\pd2maps.ps1
 .\pd2mapswithcrafting.ps1
 
-#if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2') { Copy-Item '.\bin\maps.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2\loot.filter' }
-#if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg') { Copy-Item '.\bin\maps.filter' -Destination 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg' }
+if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2') { Copy-Item '.\bin\maps.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2\loot.filter' }
+if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg') { Copy-Item '.\bin\maps.filter' -Destination 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg' }
 
-if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2') { Copy-Item '.\bin\maps-with-crafting.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2\loot.filter' }
-if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg') { Copy-Item '.\bin\maps-with-crafting.filter' -Destination 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg' }
+#if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2') { Copy-Item '.\bin\maps-with-crafting.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2\loot.filter' }
+#if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg') { Copy-Item '.\bin\maps-with-crafting.filter' -Destination 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg' }
 
 ################################################################################
 Write-Host "Done"
