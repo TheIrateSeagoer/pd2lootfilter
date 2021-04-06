@@ -7688,8 +7688,8 @@ ItemDisplay[!RW (WEAPON OR ARMOR OR rin OR amu) PRICE>19999 PRICE<25000]:%NAME% 
 ItemDisplay[!RW (WEAPON OR ARMOR OR rin OR amu) PRICE>24999 PRICE<30000]:%NAME% %DARK_GREEN%$25k%CONTINUE%//
 ItemDisplay[!RW (WEAPON OR ARMOR OR rin OR amu) PRICE>29999 PRICE<35000]:%NAME% %DARK_GREEN%$30k%CONTINUE%//
 ItemDisplay[!RW (WEAPON OR ARMOR OR rin OR amu) PRICE>34999]:%NAME% %DARK_GREEN%$35k%CONTINUE%//
-ItemDisplay[MAG SOCK>1]:%RED%NOT A RUNEWORD CANDIDATE%BLUE%%CONTINUE%//
-ItemDisplay[RARE SOCK>1]:%RED%NOT A RUNEWORD CANDIDATE%YELLOW%%CONTINUE%//
+ItemDisplay[SOCK>1 MAG]:%RED%NOT A RUNEWORD CANDIDATE%BLUE%%CONTINUE%//
+ItemDisplay[SOCK>1 RARE]:%RED%NOT A RUNEWORD CANDIDATE%YELLOW%%CONTINUE%//
 ItemDisplay[cm1 ID !UNI]:%BLUE%Small Charm%CONTINUE%//
 ItemDisplay[cm2 ID !UNI]:%BLUE%Large Charm%CONTINUE%//
 ItemDisplay[cm3 ID !UNI]:%BLUE%Grand Charm%CONTINUE%//
@@ -8953,15 +8953,15 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG SK280=1]:%NAME% %GREEN%+1%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK366=3]:%NAME% %PURPLE%+3%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK366=2]:%NAME% %RED%+2%CONTINUE%//
 ItemDisplay[!RW !UNI !SET !RARE NMAG SK366=1]:%NAME% %GREEN%+1%CONTINUE%//
-ItemDisplay[NMAG SOCK=0   ]:%NAME%%WHITE%%CONTINUE%//
-ItemDisplay[NMAG SOCK>0 !RW]:%NAME%%GRAY%%CONTINUE%//
-ItemDisplay[NMAG ETH      ]:%NAME%%GRAY%%CONTINUE%//
-ItemDisplay[MAG           ]:%NAME%%BLUE%%CONTINUE%//
-ItemDisplay[RARE          ]:%NAME%%YELLOW%%CONTINUE%//
-ItemDisplay[UNI           ]:%NAME%%GOLD%%CONTINUE%//
-ItemDisplay[SET           ]:%NAME%%GREEN%%CONTINUE%//
-ItemDisplay[CRAFT         ]:%NAME%%ORANGE%%CONTINUE%//
-ItemDisplay[RW            ]:%NAME%%GOLD%%CONTINUE%//
+ItemDisplay[SOCK=0 NMAG]:%NAME%%WHITE%%CONTINUE%//
+ItemDisplay[!RW SOCK>0 NMAG]:%NAME%%GRAY%%CONTINUE%//
+ItemDisplay[ETH NMAG]:%NAME%%GRAY%%CONTINUE%//
+ItemDisplay[MAG]:%NAME%%BLUE%%CONTINUE%//
+ItemDisplay[RARE]:%NAME%%YELLOW%%CONTINUE%//
+ItemDisplay[UNI]:%NAME%%GOLD%%CONTINUE%//
+ItemDisplay[SET]:%NAME%%GREEN%%CONTINUE%//
+ItemDisplay[CRAFT]:%NAME%%ORANGE%%CONTINUE%//
+ItemDisplay[RW]:%NAME%%GOLD%%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=5 ]:%NAME% %PURPLE%Obedience%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=4 ]:%NAME% %PURPLE%Infinity%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=3 ]:%NAME% %PURPLE%Malice%CONTINUE%//
@@ -9426,15 +9426,15 @@ ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=0 ILVL<26   ]:%NAME% %TAN
 ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL>40  ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL<26  ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[NMAG SOCK=0   ]:%NAME%%WHITE%%CONTINUE%//
-ItemDisplay[NMAG SOCK>0 !RW]:%NAME%%GRAY%%CONTINUE%//
-ItemDisplay[NMAG ETH      ]:%NAME%%GRAY%%CONTINUE%//
-ItemDisplay[MAG           ]:%NAME%%BLUE%%CONTINUE%//
-ItemDisplay[RARE          ]:%NAME%%YELLOW%%CONTINUE%//
-ItemDisplay[UNI           ]:%NAME%%GOLD%%CONTINUE%//
-ItemDisplay[SET           ]:%NAME%%GREEN%%CONTINUE%//
-ItemDisplay[CRAFT         ]:%NAME%%ORANGE%%CONTINUE%//
-ItemDisplay[RW            ]:%NAME%%GOLD%%CONTINUE%//
+ItemDisplay[SOCK=0 NMAG]:%NAME%%WHITE%%CONTINUE%//
+ItemDisplay[!RW SOCK>0 NMAG]:%NAME%%GRAY%%CONTINUE%//
+ItemDisplay[ETH NMAG]:%NAME%%GRAY%%CONTINUE%//
+ItemDisplay[MAG]:%NAME%%BLUE%%CONTINUE%//
+ItemDisplay[RARE]:%NAME%%YELLOW%%CONTINUE%//
+ItemDisplay[UNI]:%NAME%%GOLD%%CONTINUE%//
+ItemDisplay[SET]:%NAME%%GREEN%%CONTINUE%//
+ItemDisplay[CRAFT]:%NAME%%ORANGE%%CONTINUE%//
+ItemDisplay[RW]:%NAME%%GOLD%%CONTINUE%//
 ItemDisplay[leg]:%NAME%{%RED%Cows%GRAY%: (%GOLD%Wirt's Leg%GRAY%+%WHITE%Town%GRAY%)}%CONTINUE%//
 ItemDisplay[pk1]:%NAME%{%RED%Pandemonium%GRAY%: (%ORANGE%Terror%GRAY%+%ORANGE%Hate%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Countess/Blood Raven}%CONTINUE%//
 ItemDisplay[pk2]:%NAME%{%RED%Pandemonium%GRAY%: (%ORANGE%Hate%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%The Summoner/Bloodwitch}%CONTINUE%//
@@ -10835,100 +10835,106 @@ ItemDisplay[UNI ETH !ID]:%GRAY%[Eth] %NAME%{%NAME%}//
 //TC90  7ws OR 7gi OR 7bl OR 7wd OR obf OR 6ws OR 7wc OR 7p7
 ItemDisplay[UNI !ID (7ws OR 7gi OR 7bl OR 7wd OR obf OR 6ws OR 7wc OR 7p7                                                        )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
 //TC87  7qr OR 7wa OR 7gm OR 7gd OR 7ts OR 6lw OR 7gw
-ItemDisplay[UNI !ID (7qr OR 7wa OR 7gm OR 7gd OR 7ts OR 6lw OR 7gw                                                               )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7qr OR 7wa OR 7gm OR 7gd OR 7ts OR 6lw OR 7gw                                                               )]:%DOT-0D%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
 //TC84  7ga OR 7wh OR 7ls OR 7kr OR 7st OR 6bs OR 7h7 OR 6rx OR obe
-ItemDisplay[UNI !ID (7ga OR 7wh OR 7ls OR 7kr OR 7st OR 6bs OR 7h7 OR 6rx OR obe                                                 )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7ga OR 7wh OR 7ls OR 7kr OR 7st OR 6bs OR 7h7 OR 6rx OR obe                                                 )]:%DOT-0D%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
 //TC81  7mp OR 7gl OR 7pa OR 7fb OR 7b8 OR 6sw OR 7tw OR ame
-ItemDisplay[UNI !ID (7mp OR 7gl OR 7pa OR 7fb OR 7b8 OR 6sw OR 7tw OR ame                                                        )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7gl OR 7pa OR 7fb OR 7b8 OR 6sw OR 7tw OR ame                                                               )]:%DOT-0D%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7mp                                                                                                         )]:%NAME%{%NAME%}//
 //TC78  7qs OR 7fl OR 7b7 OR 7bk OR 6l7 OR 7lw OR 7bs OR amc
-ItemDisplay[UNI !ID (7qs OR 7fl OR 7b7 OR 7bk OR 6l7 OR 7lw OR 7bs OR amc                                                        )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7qs OR 7fl OR 7b7 OR 7bk OR 6l7 OR 7lw OR 7bs OR amc                                                        )]:%DOT-0D%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
 //TC75  7cs OR 7bt OR 7cr OR 7br OR 6cs OR 7bw OR 6hx OR obd
-ItemDisplay[UNI !ID (7cs OR 7bt OR 7cr OR 7br OR 6cs OR 7bw OR 6hx OR obd                                                        )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7cs OR 7bt OR 7cr OR 6cs OR 7bw OR 6hx OR obd                                                               )]:%DOT-0D%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7br                                                                                                         )]:%NAME%{%NAME%}//
 //TC72  72a OR 7mt OR 7di OR 7gs OR 7s7 OR 7s8 OR 6s7
-ItemDisplay[UNI !ID (72a OR 7di OR 7gs OR 7s7 OR 7s8 OR 6s7                                                                      )]:%DOT-0D%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (72a OR 7di OR 7gs OR 7s7 OR 7s8 OR 6s7                                                                      )]:%DOT-0D%%PURPLE%ooo %NAME% %PURPLE%ooo%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (7mt                                                                                                         )]:%NAME%{%NAME%}//
 //TC69  6mx OR obc OR 7xf OR 6cb OR 7m7 OR 7fc
 ItemDisplay[UNI !ID (6mx OR obc OR 7xf OR 6cb OR 7m7 OR 7fc                                                                      )]:%DOT-0D%%PURPLE%ooo %NAME% %PURPLE%ooo%GOLD%{%NAME%}//
 //TC66  7tk OR 7vo OR 7ba OR 7yw OR amf OR 7cm OR 7tr OR 6ls
-ItemDisplay[UNI !ID (7tk OR 7vo OR 7ba OR 7yw OR amf OR 7cm OR 7tr OR 6ls                                                        )]:%DOT-0D%%PURPLE%oo %NAME% %PURPLE%oo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7tk OR 7vo OR 7yw OR amf OR 7cm OR 7tr OR 6ls                                                               )]:%DOT-0D%%PURPLE%oo %NAME% %PURPLE%oo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7ba                                                                                                         )]:%NAME%{%NAME%}//
 //TC63  7ax OR 7sm OR amd OR 7wb OR 7sc OR 7pi OR 7ma OR 7sb OR 6lb
-ItemDisplay[UNI !ID (7ax OR amd OR 7wb OR 7sc OR 7pi OR 7ma OR 6lb                                                               )]:%DOT-0D%%PURPLE%o %NAME% %PURPLE%o%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (7sm OR 7sb                                                                                                  )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (7ax OR amd OR 7sc OR 7pi OR 7ma OR 6lb                                                                      )]:%DOT-0D%%PURPLE%o %NAME% %PURPLE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7sm OR 7sb OR 7wb                                                                                           )]:%NAME%{%NAME%}//
 //TC60  7dg OR 7sr OR 6ss OR 7ar OR 72h OR obb OR 7o7 OR 6hb
-ItemDisplay[UNI !ID (7dg OR 7sr OR 6ss OR 7ar OR 72h OR obb OR 6hb                                                               )]:%DOT-0D%%RED%ooooo %NAME% %RED%ooooo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (7o7                                                                                                         )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (7dg OR 6ss OR 7ar OR 72h OR obb OR 6hb                                                                      )]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7o7 OR 7sr                                                                                                  )]:%NAME%{%NAME%}//
 //TC57  9wc OR 7wn OR 6sb OR 7ss OR 7ta OR 7la OR 7sp OR 6lx
-ItemDisplay[UNI !ID (9wc OR 7wn OR 6sb OR 7ss OR 7ta OR 7la OR 7sp OR 6lx                                                        )]:%DOT-0D%%RED%oooo %NAME% %RED%oooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7wn OR 6sb OR 7ss OR 7ta OR 7la OR 6lx                                                                      )]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7sp OR 9wc                                                                                                  )]:%NAME%{%NAME%}//
 //TC54  8lw OR 7cl OR 9gm OR amb OR 9gd OR 8rx OR 9qr OR 7ha OR 7ja
-ItemDisplay[UNI !ID (8lw OR 9gm OR amb OR 8rx OR 9qr OR 7ha OR 7ja                                                               )]:%DOT-0D%%RED%ooo %NAME% %RED%ooo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (7cl OR 9gd                                                                                                  )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (8lw OR 9gm OR amb OR 8rx OR 9qr OR 7ja                                                                      )]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7cl OR 9gd OR 7ha                                                                                           )]:%NAME%{%NAME%}//
 //TC51  9gw OR 9wd OR 9fb OR 8sw OR 9tw OR oba OR 9gi OR 9ts OR 9h9 OR am9
-ItemDisplay[UNI !ID (9gw OR 9tw OR oba OR 9gi OR 9ts OR am9                                                                      )]:%DOT-0D%%RED%oo %NAME% %RED%oo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (9h9 OR 9wd OR 9fb OR 8sw                                                                                    )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (9gw OR 9tw OR oba OR 9ts OR am9                                                                             )]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (9h9 OR 9wd OR 9fb OR 8sw OR 9gi                                                                             )]:%NAME%{%NAME%}//
 //TC48  9ga OR 9bl OR 9gl OR 8l8 OR ob9 OR 9p9 OR 8ws OR 8hx OR am7 OR 9wa OR 9wh OR 9b9
-ItemDisplay[UNI !ID (9ga OR 9bl OR 9gl OR ob9 OR 9p9 OR 8ws OR 8hx OR am7 OR 9wh                                                 )]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (9wa OR 9b9 OR 8l8                                                                                           )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (9gl OR ob9 OR 8hx OR am7 OR 9wh                                                                             )]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (9wa OR 9b9 OR 8l8 OR 9ga OR 9bl OR 9p9 OR 8ws                                                               )]:%NAME%{%NAME%}//
 //TC45  9mp OR 9bw OR 9fl OR 9sm OR 8s8 OR am8 OR 9ls OR 9st OR 9ws OR 9m9 OR 9gs OR 9lw
-ItemDisplay[UNI !ID (9bw OR 9fl OR 8s8 OR am8 OR 9ls OR 9st OR 9ws OR 9m9 OR 9gs OR 9lw                                          )]:%DOT-0D%%ORANGE%ooooo %NAME% %ORANGE%ooooo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (9mp OR 9sm                                                                                                  )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (9bw OR 8s8 OR am8 OR 9ws OR 9lw                                                                             )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (9mp OR 9sm OR 9fl OR 9m9 OR 9ls OR 9gs OR 9st                                                               )]:%NAME%{%NAME%}//
 //TC42  9qs OR 9bs OR 9s9 OR 9s8 OR 8mx OR 9b8 OR 9br OR 9cs OR ob8 OR 9bt OR 9cm OR 9kr OR 8bs
-ItemDisplay[UNI !ID (9bs OR 9s9 OR 9s8 OR 8mx OR 9b8 OR ob8 OR 9kr                                                               )]:%DOT-0D%%ORANGE%ooooo %NAME% %ORANGE%ooooo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (9vo OR 9br OR 9bt OR 9cm OR 8bs OR 9cs OR 9qs                                                               )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (9s9 OR 8mx OR 9b8 OR ob8 OR 9kr                                                                             )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (9vo OR 9br OR 9bt OR 9cm OR 8bs OR 9cs OR 9qs OR 9bs OR 9s8                                                 )]:%NAME%{%NAME%}//
 //TC39  9fc OR 9cr OR 92h OR 9pi OR 9vo OR ob7 OR 9ba OR 9yw OR 8cs OR 92a OR 9mt OR 9bk OR 8cb OR am6
-ItemDisplay[UNI !ID (9fc OR 92h OR 9pi OR ob7 OR 9ba OR 9yw OR 8cs OR 92a OR 9mt OR 9bk OR 8cb OR am6                            )]:%DOT-0D%%ORANGE%ooooo %NAME% %ORANGE%ooooo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (9vo OR 9cr                                                                                                  )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (9fc OR 9pi OR ob7 OR 9ba OR 9bk OR am6                                                                      )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (9vo OR 9cr OR 92a OR 9mt OR 92h OR 8cb OR 8cs OR 9yw                                                        )]:%NAME%{%NAME%}//
 //TC36  wsc OR 9ax OR 9la OR 9ta OR 8lx OR 9ma OR 9sb OR 9pa OR 8ls OR 8lb OR ama OR 9di OR 9tr OR 9xf
-ItemDisplay[UNI !ID (wsc OR 9ax OR 9ta OR 9ma OR 9sb OR 9pa OR 8ls OR 8lb OR ama OR 9xf                                          )]:%DOT-0D%%ORANGE%oooo %NAME% %ORANGE%oooo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (9di OR 9la OR 8lx OR 9tr                                                                                    )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (9sb OR 8ls OR ama OR 9xf                                                                                    )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (9di OR 9la OR 8lx OR 9tr OR 9ax OR 9ma OR wsc OR 9pa OR 9ta OR 8lb                                          )]:%NAME%{%NAME%}//
 //TC33  lwb OR 9ha OR 9wn OR 9sc OR 9dg OR 9tk OR gma OR gps OR 9sp OR 9wb OR ob6 OR gsd OR rxb OR 9sr OR 9b7 OR 8hb
-ItemDisplay[UNI !ID (9wn OR 9tk OR gma OR gps OR 9sp OR 9wb OR ob6 OR gsd OR rxb                                                 )]:%DOT-0D%%ORANGE%oooo %NAME% %ORANGE%oooo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (9b7 OR 9sr OR 9dg OR 9ha OR 9sc OR 8hb OR lwb                                                               )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (9wn OR gps OR 9wb OR ob6                                                                                    )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (9b7 OR 9sr OR 9dg OR 9ha OR 9sc OR 8hb OR lwb OR gma OR 9sp OR gsd OR 9tk OR rxb                            )]:%NAME%{%NAME%}//
 //TC30  ops OR 9ar OR tsp OR hal OR 9cl OR 9ss OR 9ja OR 8ss OR 8sb
-ItemDisplay[UNI !ID (ops OR 9ar OR tsp OR 9ss OR 9ja                                                                             )]:%DOT-0D%%ORANGE%oooo %NAME% %ORANGE%oooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (ops OR 9ar OR tsp OR 9ss OR 9ja                                                                             )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (hal OR 9cl OR 8ss OR 8sb                                                                                    )]:%NAME%{%NAME%}//
 //TC27  wax OR whm OR gwn OR gix OR wsd OR flb OR swb OR am2 OR am4
-ItemDisplay[UNI !ID (am2 OR am4                                                                                                  )]:%DOT-0D%%ORANGE%ooo %NAME% %ORANGE%ooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (am2 OR am4                                                                                                  )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (wax OR gix OR whm OR wsd OR flb OR gwn OR swb                                                               )]:%NAME%{%NAME%}//
 //TC24  gax OR bld OR glv OR lbb OR am5 OR bsw OR pik OR wst OR hxb OR skr OR ob5
-ItemDisplay[UNI !ID (glv OR am5 OR skr OR ob5                                                                                    )]:%DOT-0D%%ORANGE%ooo %NAME% %ORANGE%ooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (glv OR am5 OR skr OR ob5                                                                                    )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (scy OR pik OR bld OR gax OR bsw OR wst OR hxb OR lbb                                                        )]:%NAME%{%NAME%}//
 //TC21  mpi OR fla OR lsd OR spt OR gpm OR wsp OR mau OR gis OR pax OR btl
-ItemDisplay[UNI !ID (gpm OR mau OR btl                                                                                           )]:%DOT-0D%%ORANGE%ooo %NAME% %ORANGE%ooo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (pax OR spt OR mpi OR fla OR wsp OR lsd OR gis                                                               )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (gpm OR btl                                                                                                  )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (pax OR spt OR mpi OR fla OR wsp OR lsd OR gis OR mau                                                        )]:%NAME%{%NAME%}//
 //TC18  bal OR brn OR opm OR btx OR clm OR kri OR bst OR ob4 OR bwn OR sbb OR clw OR am1 OR am3
-ItemDisplay[UNI !ID (bal OR opm OR ob4 OR bwn OR clw OR am1 OR am3                                                               )]:%DOT-0D%%ORANGE%oo %NAME% %ORANGE%oo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (vou OR brn OR kri OR btx OR clm OR bst OR sbb                                                               )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (bal OR opm OR ob4 OR clw OR am1 OR am3                                                                     )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (vou OR brn OR kri OR btx OR clm OR bst OR sbb OR bwn                                                        )]:%NAME%{%NAME%}//
 //TC15  2ax OR mst OR bkf OR gsc OR bsd OR ssp OR scy OR mxb OR ces
-ItemDisplay[UNI !ID (bkf OR ssp OR ces                                                                                           )]:%DOT-0D%%ORANGE%oo %NAME% %ORANGE%oo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (bkf OR ssp OR ces                                                                                           )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (scy OR 2ax OR mst OR gsc OR bsd OR mxb                                                                      )]:%NAME%{%NAME%}//
 //TC12  2hs OR pil OR flc OR crs OR vou OR bax OR ywn OR cst OR cbw OR axf OR ob3
-ItemDisplay[UNI !ID (pil OR crs OR axf OR ob3                                                                                    )]:%DOT-0D%%ORANGE%oo %NAME% %ORANGE%oo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (pil OR crs OR axf OR ob3                                                                                    )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (vou OR bax OR flc OR 2hs OR cst OR ywn OR cbw                                                               )]:%NAME%{%NAME%}//
 //TC9   axe OR tax OR mac OR sbr OR lst OR lbw OR gpl OR ob2 OR dir OR tri OR wrb
-ItemDisplay[UNI !ID (tax OR lbw OR gpl OR ob2 OR wrb                                                                             )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (vou OR tri OR dir OR axe OR mac OR sbr OR lst                                                               )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (tax OR gpl OR ob2 OR wrb                                                                                    )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (vou OR tri OR dir OR axe OR mac OR sbr OR lst OR lbw                                                        )]:%NAME%{%NAME%}//
 //TC6   spc OR opl OR scm OR spr OR bar OR hbw OR lax OR lxb
 ItemDisplay[UNI !ID (opl                                                                                                         )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (bar OR spr OR lax OR spc OR scm OR lxb OR hbw                                                               )]:%NAME%{%NAME%}//
 //TC3   clb OR ssd OR jav OR sst OR sbw OR ktr OR ob1 OR wnd OR tkf OR hax OR scp OR dgr
-ItemDisplay[UNI !ID (clb OR jav OR ktr OR ob1 OR tkf OR dgr                                                                      )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (sbw OR sst OR wnd OR scp OR ssd OR hax                                                                      )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (jav OR ktr OR ob1 OR tkf OR dgr                                                                             )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (sbw OR sst OR wnd OR scp OR ssd OR hax OR clb                                                               )]:%NAME%{%NAME%}//
 //TC90  uar OR uhc OR urn OR paf OR drf
 ItemDisplay[UNI !ID (uar OR uhc OR urn OR paf OR drf                                          )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
 //TC87  uul OR uhg OR ci3 OR uhb OR baf OR nef
-ItemDisplay[UNI !ID (uul OR uhg OR ci3 OR uhb OR baf OR nef                                   )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (uul OR uhg OR ci3 OR uhb OR baf OR nef                                   )]:%DOT-0D%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
 //TC84  uth OR utc OR pae OR dre OR utp OR uts OR uh9
-ItemDisplay[UNI !ID (uth OR utc OR pae OR dre OR utp OR uts OR uh9                            )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (uth OR utc OR pae OR dre OR utp OR uts OR uh9                            )]:%DOT-0D%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
 //TC81  uhm OR uow OR bae OR uld OR utb OR nee
-ItemDisplay[UNI !ID (uhm OR uow OR bae OR uld OR utb OR nee                                   )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (uhm OR uow OR bae OR uld OR utb OR nee                                   )]:%DOT-0D%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
 //TC78  upl OR utg OR ush OR drd OR ult
-ItemDisplay[UNI !ID (upl OR utg OR ush OR drd OR ult                                          )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (upl OR utg OR ush OR drd OR ult                                          )]:%DOT-0D%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
 //TC75  ucl OR bad OR usk OR pad OR urs OR umc
-ItemDisplay[UNI !ID (ucl OR bad OR usk OR pad OR urs OR umc                                   )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (ucl OR usk OR pad OR urs OR umc                                          )]:%DOT-0D%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (bad                                                                      )]:%NAME%{%NAME%}//
 //TC72  ci2 OR utu OR pac OR ung OR uit OR umb
-ItemDisplay[UNI !ID (ci2 OR utu OR pac OR ung OR uit OR umb                                   )]:%DOT-0D%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (ci2 OR utu OR pac OR ung OR uit OR umb                                   )]:%DOT-0D%%PURPLE%ooo %NAME% %PURPLE%ooo%GOLD%{%NAME%}//
 //TC69  uea OR neg OR ulm OR ula OR uvc OR upk OR umg OR drc
-ItemDisplay[UNI !ID (uea OR neg OR ulm OR ula OR uvc OR upk OR umg OR drc                     )]:%DOT-0D%%PURPLE%ooo %NAME% %PURPLE%ooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (uea OR neg OR ulm OR ula OR uvc OR umg OR drc                            )]:%DOT-0D%%PURPLE%ooo %NAME% %PURPLE%ooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (upk                                                                      )]:%NAME%{%NAME%}//
 //TC66  xar OR urg OR uui OR uvb OR bac OR ned
 ItemDisplay[UNI !ID (urg OR uui OR uvb OR bac OR ned                                          )]:%DOT-0D%%PURPLE%oo %NAME% %PURPLE%oo%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (xar                                                                      )]:%NAME%{%NAME%}//
@@ -10936,71 +10942,78 @@ ItemDisplay[UNI !ID (xar                                                        
 ItemDisplay[UNI !ID (uml OR ulc OR uhn OR drb OR ukp OR uvg OR pab                            )]:%DOT-0D%%PURPLE%o %NAME% %PURPLE%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (xul                                                                      )]:%NAME%{%NAME%}//
 //TC60  xth OR uap OR uuc OR neb OR xtp OR ulb OR bab
-ItemDisplay[UNI !ID (xth OR uap OR uuc OR neb OR xtp OR ulb OR bab                            )]:%DOT-0D%%RED%ooooo %NAME% %RED%ooooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (xth OR uap OR uuc OR neb OR xtp OR ulb OR bab                            )]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
 //TC57  xrn OR xld OR dra OR paa OR xts OR ulg
-ItemDisplay[UNI !ID (xrn OR xld OR dra OR paa OR xts OR ulg                                   )]:%DOT-0D%%RED%oooo %NAME% %RED%oooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (xld OR dra OR paa OR ulg                                                 )]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (xrn OR xts                                                               )]:%NAME%{%NAME%}//
 //TC54  xlt OR ci1 OR xhg OR xhb OR zhb OR uhl OR baa OR nea
-ItemDisplay[UNI !ID (xlt OR ci1 OR xhg OR xhb OR zhb OR uhl OR baa OR nea                     )]:%DOT-0D%%RED%ooo %NAME% %RED%ooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (xlt OR ci1 OR xhb OR zhb OR uhl OR baa OR nea                            )]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (xhg                                                                      )]:%NAME%{%NAME%}//
 //TC51  xpl OR xtg OR xtb OR ztb OR ba9 OR ne9 OR xow OR xh9 OR dr9 OR xhm OR pa9
-ItemDisplay[UNI !ID (xpl OR xtg OR xtb OR ztb OR ba9 OR ne9 OR xow OR xh9 OR dr9 OR xhm OR pa9)]:%DOT-0D%%RED%oo %NAME% %RED%oo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (xpl OR xtg OR xtb OR ztb OR ba9 OR ne9 OR xow OR xh9 OR dr9 OR xhm OR pa9)]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
 //TC48  dr8 OR pa8 OR xrs OR xsk OR xsh
-ItemDisplay[UNI !ID (dr8 OR pa8 OR xrs OR xsk OR xsh                                          )]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (dr8 OR pa8 OR xrs OR xsh                                                 )]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (xsk                                                                      )]:%NAME%{%NAME%}//
 //TC45  xcl OR xmg OR xmb OR zmb OR ba8 OR xhl OR xhn OR xit OR ne8
-ItemDisplay[UNI !ID (xcl OR xmg OR xmb OR zmb OR ba8 OR xhl OR xhn OR ne8                     )]:%DOT-0D%%ORANGE%ooooo %NAME% %ORANGE%ooooo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (xit                                                                      )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (xmb OR zmb OR ba8 OR xhn OR ne8                                          )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (xit OR xhl OR xcl OR xmg                                                 )]:%NAME%{%NAME%}//
 //TC42  aar OR xtu OR dr7 OR pa7 OR xlm OR xng OR xrg OR xpk
-ItemDisplay[UNI !ID (aar OR xtu OR dr7 OR pa7 OR xlm OR xng OR xrg OR xpk                     )]:%DOT-0D%%ORANGE%ooooo %NAME% %ORANGE%ooooo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (xtu                                                                      )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (xtu OR dr7 OR pa7 OR xlm                                                 )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (xtu OR aar OR xng OR xrg OR xpk                                          )]:%NAME%{%NAME%}//
 //TC39  ful OR xkp OR xla OR xml OR ba7 OR xvg OR xvb OR zvb OR ne7
-ItemDisplay[UNI !ID (xkp OR xml OR ba7 OR xvg OR xvb OR zvb OR ne7                            )]:%DOT-0D%%ORANGE%ooooo %NAME% %ORANGE%ooooo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (xla OR ful                                                               )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (xkp OR ba7 OR xvg OR xvb OR zvb OR ne7                                   )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (xla OR ful OR xml                                                        )]:%NAME%{%NAME%}//
 //TC36  xap OR xui OR xuc OR ltp OR dr6 OR pa6 OR xea OR xlb OR zlb
-ItemDisplay[UNI !ID (xap OR xui OR xuc OR ltp OR dr6 OR pa6 OR xea OR xlb OR zlb              )]:%DOT-0D%%ORANGE%oooo %NAME% %ORANGE%oooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (xui OR dr6 OR pa6 OR xea OR xlb OR zlb                                   )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (xap OR ltp OR xuc                                                        )]:%NAME%{%NAME%}//
 //TC33  gth OR xlg OR ba6 OR ne6
-ItemDisplay[UNI !ID (gth OR xlg OR ba6 OR ne6                                                 )]:%DOT-0D%%ORANGE%oooo %NAME% %ORANGE%oooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (ba6 OR ne6                                                               )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (gth OR xlg                                                               )]:%NAME%{%NAME%}//
 //TC30  fld OR crn OR gts
-ItemDisplay[UNI !ID (fld OR crn OR gts                                                        )]:%DOT-0D%%ORANGE%oooo %NAME% %ORANGE%oooo%GOLD%{%NAME%}//
+//ItemDisplay[UNI !ID (                                                                         )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (crn OR fld OR gts                                                        )]:%NAME%{%NAME%}//
 //TC27  hgl OR hbt OR hbl
-ItemDisplay[UNI !ID (hgl OR hbt OR hbl                                                        )]:%DOT-0D%%ORANGE%ooo %NAME% %ORANGE%ooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (hgl OR hbt OR hbl                                                        )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
 //TC24  tow OR bhm OR ghm OR plt OR dr5 OR ba5 OR pa5 OR ne5 OR ci0
-ItemDisplay[UNI !ID (tow OR bhm OR plt OR dr5 OR ba5 OR pa5 OR ne5 OR ci0                     )]:%DOT-0D%%ORANGE%ooo %NAME% %ORANGE%ooo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (ghm                                                                      )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (dr5 OR ba5 OR pa5 OR ne5 OR ci0                                          )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (ghm OR bhm OR plt OR tow                                                 )]:%NAME%{%NAME%}//
 //TC21  msk OR bsh OR spl OR tgl OR tbt OR tbl OR dr4 OR ba4 OR pa4 OR ne4
-ItemDisplay[UNI !ID (spl OR tgl OR tbt OR tbl OR dr4 OR ba4 OR pa4 OR ne4                     )]:%DOT-0D%%ORANGE%ooo %NAME% %ORANGE%ooo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (bsh OR msk                                                               )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (tgl OR tbt OR tbl OR dr4 OR ba4 OR pa4 OR ne4                            )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (bsh OR msk OR spl                                                        )]:%NAME%{%NAME%}//
 //TC18  dr3 OR ba3 OR pa3 OR ne3 OR brs
-ItemDisplay[UNI !ID (dr3 OR ba3 OR pa3 OR ne3 OR brs                                          )]:%DOT-0D%%ORANGE%oo %NAME% %ORANGE%oo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (dr3 OR ba3 OR pa3 OR ne3                                                 )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (brs                                                                      )]:%NAME%{%NAME%}//
 //TC15  scl OR fhl OR chn OR kit
-ItemDisplay[UNI !ID (scl OR kit                                                               )]:%DOT-0D%%ORANGE%oo %NAME% %ORANGE%oo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (chn OR fhl                                                               )]:%NAME%{%NAME%}//
+//ItemDisplay[UNI !ID (                                                                      )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (chn OR fhl OR scl OR kit                                                 )]:%NAME%{%NAME%}//
 //TC12  hlm OR rng OR lrg OR spk OR mgl OR mbt OR mbl
-ItemDisplay[UNI !ID (lrg OR mgl OR mbt                                                        )]:%DOT-0D%%ORANGE%oo %NAME% %ORANGE%oo%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (mbl OR lrg OR spk OR rng OR hlm                                          )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (mgl OR mbt                                                               )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (mbl OR lrg OR spk OR rng OR hlm OR lrg                                   )]:%NAME%{%NAME%}//
 //TC9   vgl OR vbt OR vbl OR stu OR dr2 OR ba2 OR pa2 OR ne2
 ItemDisplay[UNI !ID (vgl OR stu OR dr2 OR ba2 OR pa2 OR ne2                                   )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (vbt OR vbl                                                               )]:%NAME%{%NAME%}//
 //TC6   dr1 OR ba1 OR pa1 OR ne1 OR skp OR hla OR sml
-ItemDisplay[UNI !ID (dr1 OR ba1 OR pa1 OR ne1 OR skp                                          )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (sml OR hla                                                               )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (dr1 OR ba1 OR pa1 OR ne1                                                 )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (sml OR hla OR skp                                                        )]:%NAME%{%NAME%}//
 //TC3   cap OR qui OR buc OR lea OR lgl OR lbt OR lbl
-ItemDisplay[UNI !ID (cap OR lgl OR lbt OR lbl                                                 )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (buc OR qui OR lea                                                        )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (lbt                                                                      )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (buc OR qui OR lea OR cap OR lgl OR lbl                                   )]:%NAME%{%NAME%}//
 //TC90  7ws OR 7gi OR 7bl OR 7wd OR obf OR 6ws OR 7wc OR 7p7
 ItemDisplay[SET !ID (7ws OR 7gi OR 7bl OR 7wd OR obf OR 6ws OR 7wc OR 7p7                                                        )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GREEN%{%NAME%}//
 //TC87  7qr OR 7wa OR 7gm OR 7gd OR 7ts OR 6lw OR 7gw
-ItemDisplay[SET !ID (7qr OR 7wa OR 7gm OR 7gd OR 7ts OR 6lw OR 7gw                                                               )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (7qr OR 7wa OR 7gm OR 7gd OR 7ts OR 6lw OR 7gw                                                               )]:%DOT-0D%%PURPLE%oooo %NAME% %PURPLE%oooo%GREEN%{%NAME%}//
 //TC84  7ga OR 7wh OR 7ls OR 7kr OR 7st OR 6bs OR 7h7 OR 6rx OR obe
-ItemDisplay[SET !ID (7ga OR 7wh OR 7kr OR 7st OR 6bs OR 7h7 OR 6rx OR obe                                                        )]:%DOT-81%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (7ga OR 7wh OR 7kr OR 7st OR 6bs OR 7h7 OR 6rx OR obe                                                        )]:%DOT-81%%PURPLE%oooo %NAME% %PURPLE%oooo%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (7ls                                                                                                         )]:%NAME%{%NAME%}//
 //TC81 7mp OR 7gl OR 7pa OR 7fb OR 7b8 OR 6sw OR 7tw OR ame
-ItemDisplay[SET !ID (7mp OR 7gl OR 7pa OR 7fb OR 7b8 OR 6sw OR 7tw OR ame                                                        )]:%DOT-81%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (7mp OR 7gl OR 7pa OR 7fb OR 7b8 OR 6sw OR 7tw OR ame                                                        )]:%DOT-81%%PURPLE%oooo %NAME% %PURPLE%oooo%GREEN%{%NAME%}//
 //TC78  7qs OR 7fl OR 7b7 OR 7bk OR 6l7 OR 7lw OR 7bs OR amc
-ItemDisplay[SET !ID (7qs OR 7fl OR 7b7 OR 7bk OR 6l7 OR 7lw OR 7bs OR amc                                                        )]:%DOT-81%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (7qs OR 7fl OR 7b7 OR 7bk OR 6l7 OR 7lw OR 7bs OR amc                                                        )]:%DOT-81%%PURPLE%oooo %NAME% %PURPLE%oooo%GREEN%{%NAME%}//
 //TC75  7cs OR 7bt OR 7cr OR 7br OR 6cs OR 7bw OR 6hx OR obd
-ItemDisplay[SET !ID (7cs OR 7bt OR 7cr OR 7br OR 7bw OR 6hx OR obd                                                               )]:%DOT-81%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (7cs OR 7bt OR 7cr OR 7br OR 7bw OR 6hx OR obd                                                               )]:%DOT-81%%PURPLE%oooo %NAME% %PURPLE%oooo%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (6cs                                                                                                         )]:%NAME%{%NAME%}//
 //TC72  72a OR 7mt OR 7di OR 7gs OR 7s7 OR 7s8 OR 6s7
-ItemDisplay[SET !ID (72a OR 7mt OR 7di OR 7gs OR 7s7 OR 7s8 OR 6s7                                                               )]:%DOT-81%%PURPLE%oooo %NAME% %PURPLE%oooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (72a OR 7mt OR 7di OR 7gs OR 7s7 OR 7s8 OR 6s7                                                               )]:%DOT-81%%PURPLE%ooo %NAME% %PURPLE%ooo%GREEN%{%NAME%}//
 //TC69  6mx OR obc OR 7xf OR 6cb OR 7m7 OR 7fc
 ItemDisplay[SET !ID (6mx OR obc OR 7xf OR 6cb OR 7m7 OR 7fc                                                                      )]:%DOT-81%%PURPLE%ooo %NAME% %PURPLE%ooo%GREEN%{%NAME%}//
 //TC66  7tk OR 7vo OR 7ba OR 7yw OR amf OR 7cm OR 7tr OR 6ls
@@ -11009,70 +11022,71 @@ ItemDisplay[SET !ID (7tk OR 7vo OR 7ba OR 7yw OR amf OR 7cm OR 7tr OR 6ls       
 ItemDisplay[SET !ID (7ax OR 7sm OR amd OR 7wb OR 7sc OR 7pi OR 7sb OR 6lb                                                        )]:%DOT-81%%PURPLE%o %NAME% %PURPLE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (7ma                                                                                                         )]:%NAME%{%NAME%}//
 //TC60  7dg OR 7sr OR 6ss OR 7ar OR 72h OR obb OR 7o7 OR 6hb
-ItemDisplay[SET !ID (7dg OR 7sr OR 6ss OR 7ar OR 72h OR obb OR 7o7 OR 6hb                                                        )]:%DOT-81%%RED%ooooo %NAME% %RED%ooooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (7dg OR 7sr OR 6ss OR 7ar OR 72h OR obb OR 7o7 OR 6hb                                                        )]:%DOT-81%%RED%o%NAME% %RED%o%GREEN%{%NAME%}//
 //TC57  9wc OR 7wn OR 6sb OR 7ss OR 7ta OR 7la OR 7sp OR 6lx
-ItemDisplay[SET !ID (9wc OR 7wn OR 6sb OR 7ss OR 7ta OR 7la OR 7sp OR 6lx                                                        )]:%DOT-81%%RED%oooo %NAME% %RED%oooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (9wc OR 7wn OR 6sb OR 7ss OR 7ta OR 7la OR 7sp OR 6lx                                                        )]:%DOT-81%%RED%o %NAME% %RED%o%GREEN%{%NAME%}//
 //TC54  8lw OR 7cl OR 9gm OR amb OR 9gd OR 8rx OR 9qr OR 7ha OR 7ja
-ItemDisplay[SET !ID (8lw OR 7cl OR 9gm OR amb OR 9gd OR 8rx OR 9qr OR 7ha OR 7ja                                                 )]:%DOT-81%%RED%ooo %NAME% %RED%ooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (8lw OR 7cl OR 9gm OR amb OR 9gd OR 8rx OR 9qr OR 7ha OR 7ja                                                 )]:%DOT-81%%RED%o %NAME% %RED%o%GREEN%{%NAME%}//
 //TC51  9gw OR 9wd OR 9fb OR 8sw OR 9tw OR oba OR 9gi OR 9ts OR 9h9 OR am9
-ItemDisplay[SET !ID (9gw OR 9wd OR 9fb OR 8sw OR 9tw OR oba OR 9gi OR 9ts OR 9h9 OR am9                                          )]:%DOT-81%%RED%oo %NAME% %RED%oo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (9gw OR 9wd OR 9fb OR 8sw OR 9tw OR oba OR 9gi OR 9ts OR 9h9 OR am9                                          )]:%DOT-81%%RED%o %NAME% %RED%o%GREEN%{%NAME%}//
 //TC48  9ga OR 9bl OR 9gl OR 8l8 OR ob9 OR 9p9 OR 8ws OR 8hx OR am7 OR 9wa OR 9wh OR 9b9
 ItemDisplay[SET !ID (9ga OR 9bl OR 9gl OR 8l8 OR ob9 OR 9p9 OR 8ws OR 8hx OR am7 OR 9wa OR 9wh OR 9b9                            )]:%DOT-81%%RED%o %NAME% %RED%o%GREEN%{%NAME%}//
 //TC45  9mp OR 9bw OR 9fl OR 9sm OR 8s8 OR am8 OR 9ls OR 9st OR 9ws OR 9m9 OR 9gs OR 9lw
-ItemDisplay[SET !ID (9mp OR 9bw OR 9fl OR 9sm OR 8s8 OR am8 OR 9ls OR 9st OR 9ws OR 9m9 OR 9gs OR 9lw                            )]:%DOT-81%%ORANGE%ooooo %NAME% %ORANGE%ooooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (9mp OR 9bw OR 9fl OR 9sm OR 8s8 OR am8 OR 9ls OR 9st OR 9ws OR 9m9 OR 9gs OR 9lw                            )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 //TC42  9qs OR 9bs OR 9s9 OR 9s8 OR 8mx OR 9b8 OR 9br OR 9cs OR ob8 OR 9bt OR 9cm OR 9kr OR 8bs
-ItemDisplay[SET !ID (9qs OR 9bs OR 9s9 OR 9s8 OR 8mx OR 9b8 OR 9br OR 9cs OR ob8 OR 9bt OR 9cm OR 9kr OR 8bs                     )]:%DOT-81%%ORANGE%ooooo %NAME% %ORANGE%ooooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (9qs OR 9bs OR 9s9 OR 9s8 OR 8mx OR 9b8 OR 9br OR 9cs OR ob8 OR 9bt OR 9cm OR 9kr OR 8bs                     )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 //TC39  9fc OR 9cr OR 92h OR 9pi OR 9vo OR ob7 OR 9ba OR 9yw OR 8cs OR 92a OR 9mt OR 9bk OR 8cb OR am6
-ItemDisplay[SET !ID (9fc OR 9cr OR 92h OR 9pi OR 9vo OR ob7 OR 9ba OR 9yw OR 8cs OR 92a OR 9mt OR 9bk OR 8cb OR am6              )]:%DOT-81%%ORANGE%ooooo %NAME% %ORANGE%ooooo%GREEN%{%NAME%}//
-ItemDisplay[SET !ID (9vo                                                                                                         )]:%NAME%{%NAME%}//
+ItemDisplay[SET !ID (9fc OR 9cr OR 92h OR 9pi OR 9vo OR ob7 OR 9ba OR 9yw OR 8cs OR 92a OR 9bk OR 8cb OR am6                     )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (9vo OR 9mt                                                                                                  )]:%NAME%{%NAME%}//
 //TC36  wsc OR 9ax OR 9la OR 9ta OR 8lx OR 9ma OR 9sb OR 9pa OR 8ls OR 8lb OR ama OR 9di OR 9tr OR 9xf
-ItemDisplay[SET !ID (wsc OR 9ax OR 9la OR 9ta OR 8lx OR 9ma OR 9sb OR 9pa OR 8ls OR 8lb OR ama OR 9di OR 9tr OR 9xf              )]:%DOT-81%%ORANGE%oooo %NAME% %ORANGE%oooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (wsc OR 9ax OR 9la OR 9ta OR 8lx OR 9ma OR 9sb OR 9pa OR 8ls OR 8lb OR ama OR 9di OR 9tr OR 9xf              )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 //TC33  lwb OR 9ha OR 9wn OR 9sc OR 9dg OR 9tk OR gma OR gps OR 9sp OR 9wb OR ob6 OR gsd OR rxb OR 9sr OR 9b7 OR 8hb
-ItemDisplay[SET !ID (lwb OR 9ha OR 9wn OR 9sc OR 9dg OR 9tk OR gma OR gps OR 9sp OR 9wb OR ob6 OR gsd OR rxb OR 9sr OR 9b7 OR 8hb)]:%DOT-81%%ORANGE%oooo %NAME% %ORANGE%oooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (lwb OR 9ha OR 9wn OR 9sc OR 9dg OR 9tk OR gma OR gps OR 9sp OR 9wb OR ob6 OR gsd OR rxb OR 9sr OR 9b7 OR 8hb)]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 //TC30  ops OR 9ar OR tsp OR hal OR 9cl OR 9ss OR 9ja OR 8ss OR 8sb
-ItemDisplay[SET !ID (ops OR 9ar OR tsp OR hal OR 9cl OR 9ss OR 9ja OR 8ss OR 8sb                                                 )]:%DOT-81%%ORANGE%oooo %NAME% %ORANGE%oooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (ops OR 9ar OR tsp OR hal OR 9cl OR 9ss OR 9ja OR 8ss OR 8sb                                                 )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 //TC27  wax OR whm OR gwn OR gix OR wsd OR flb OR swb OR am2 OR am4
-ItemDisplay[SET !ID (wax OR whm OR gix OR flb OR am2 OR am4                                                                      )]:%DOT-81%%ORANGE%ooo %NAME% %ORANGE%ooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (wax OR whm OR gix OR flb OR am2 OR am4                                                                      )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (wsd OR gwn OR swb                                                                                           )]:%NAME%{%NAME%}//
 //TC24  gax OR bld OR glv OR lbb OR am5 OR bsw OR pik OR wst OR hxb OR skr OR ob5
-ItemDisplay[SET !ID (gax OR bld OR glv OR am5 OR bsw OR pik OR hxb OR skr OR ob5                                                 )]:%DOT-81%%ORANGE%ooo %NAME% %ORANGE%ooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (gax OR bld OR glv OR am5 OR bsw OR pik OR hxb OR skr OR ob5                                                 )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (lbb OR wst                                                                                                  )]:%NAME%{%NAME%}//
 //TC21  mpi OR fla OR lsd OR spt OR gpm OR wsp OR mau OR gis OR pax OR btl
-ItemDisplay[SET !ID (fla OR spt OR gpm OR mau OR gis OR pax OR btl                                                               )]:%DOT-81%%ORANGE%ooo %NAME% %ORANGE%ooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (fla OR spt OR gpm OR mau OR gis OR pax OR btl                                                               )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (mpi OR wsp OR lsd                                                                                           )]:%NAME%{%NAME%}//
 //TC18  bal OR brn OR opm OR btx OR clm OR kri OR bst OR ob4 OR bwn OR sbb OR clw OR am1 OR am3
-ItemDisplay[SET !ID (bal OR brn OR opm OR btx OR clm OR kri OR ob4 OR sbb OR clw OR am1 OR am3                                   )]:%DOT-81%%ORANGE%oo %NAME% %ORANGE%oo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (bal OR brn OR opm OR btx OR clm OR kri OR ob4 OR sbb OR clw OR am1 OR am3                                   )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (bst OR bwn                                                                                                  )]:%NAME%{%NAME%}//
 //TC15  2ax OR mst OR bkf OR gsc OR bsd OR ssp OR scy OR mxb OR ces
-ItemDisplay[SET !ID (mst OR bkf OR ssp OR scy OR mxb OR ces                                                                      )]:%DOT-81%%ORANGE%oo %NAME% %ORANGE%oo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (mst OR bkf OR ssp OR scy OR mxb OR ces                                                                      )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (bsd OR gsc OR 2ax                                                                                           )]:%NAME%{%NAME%}//
 //TC12  2hs OR pil OR flc OR crs OR vou OR bax OR ywn OR cst OR cbw OR axf OR ob3
-ItemDisplay[SET !ID (2hs OR pil OR flc OR crs OR vou OR bax OR ywn OR cst OR cbw OR axf OR ob3                                   )]:%DOT-81%%ORANGE%oo %NAME% %ORANGE%oo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (2hs OR pil OR flc OR crs OR vou OR bax OR ywn OR cst OR cbw OR axf OR ob3                                   )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 //TC9  axe OR tax OR mac OR sbr OR lst OR lbw OR gpl OR ob2 OR dir OR tri OR wrb
 ItemDisplay[SET !ID (axe OR tax OR mac OR lst OR lbw OR gpl OR ob2 OR dir OR tri OR wrb                                          )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (sbr                                                                                                         )]:%NAME%{%NAME%}//
 //TC6  spc OR opl OR scm OR spr OR bar OR hbw OR lax OR lxb
 ItemDisplay[SET !ID (spc OR opl OR scm OR spr OR bar OR hbw OR lax OR lxb                                                        )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 //TC3  clb OR ssd OR jav OR sst OR sbw OR ktr OR ob1 OR wnd OR tkf OR hax OR scp OR dgr
-ItemDisplay[SET !ID (clb OR ssd OR jav OR sst OR ktr OR ob1 OR wnd OR tkf OR hax OR scp OR dgr                                  )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (clb OR ssd OR jav OR sst OR ktr OR ob1 OR wnd OR tkf OR hax OR scp OR dgr                                   )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (dgr OR sbw                                                                                                  )]:%NAME%{%NAME%}//
 //TC90  uar OR uhc OR urn OR paf OR drf
 ItemDisplay[SET !ID (uar OR uhc OR urn OR paf OR drf                                          )]:%DOT-81%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
 //TC87  uul OR uhg OR ci3 OR uhb OR baf OR nef
-ItemDisplay[SET !ID (uul OR uhg OR ci3 OR uhb OR baf OR nef                                   )]:%DOT-81%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[SET !ID (uul OR uhg OR ci3 OR uhb OR baf OR nef                                   )]:%DOT-81%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
 //TC84  uth OR utc OR pae OR dre OR utp OR uts OR uh9
-ItemDisplay[SET !ID (uth OR utc OR pae OR dre OR utp OR uh9                                   )]:%DOT-81%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[SET !ID (uth OR utc OR pae OR dre OR utp OR uh9                                   )]:%DOT-81%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
 ItemDisplay[SET !ID (uts                                                                      )]:%NAME%{%NAME%}//
 //TC81  uhm OR uow OR bae OR uld OR utb OR nee
-ItemDisplay[SET !ID (uhm OR uow OR bae OR uld OR utb OR nee                                   )]:%DOT-81%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[SET !ID (uow OR bae OR uld OR utb OR nee                                          )]:%DOT-81%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
+ItemDisplay[SET !ID (uhm                                                                      )]:%NAME%{%NAME%}//
 //TC78  upl OR utg OR ush OR drd OR ult
-ItemDisplay[SET !ID (utg OR ush OR drd                                                        )]:%DOT-81%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[SET !ID (utg OR ush OR drd                                                        )]:%DOT-81%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
 ItemDisplay[SET !ID (upl OR ult                                                               )]:%NAME%{%NAME%}//
 //TC75  ucl OR bad OR usk OR pad OR urs OR umc
-ItemDisplay[SET !ID (ucl OR bad OR usk OR pad OR urs                                          )]:%DOT-81%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
+ItemDisplay[SET !ID (ucl OR bad OR usk OR pad OR urs                                          )]:%DOT-81%%PURPLE%oooo %NAME% %PURPLE%oooo%GOLD%{%NAME%}//
 ItemDisplay[SET !ID (umc                                                                      )]:%NAME%{%NAME%}//
 //TC72  ci2 OR utu OR pac OR ung OR uit OR umb
-ItemDisplay[SET !ID (ci2 OR utu OR pac OR ung OR uit OR umb                                   )]:%DOT-81%%PURPLE%oooo %NAME% %PURPLE%oooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (ci2 OR utu OR pac OR ung OR uit OR umb                                   )]:%DOT-81%%PURPLE%ooo %NAME% %PURPLE%ooo%GREEN%{%NAME%}//
 //TC69  uea OR neg OR ulm OR ula OR uvc OR upk OR umg OR drc
 ItemDisplay[SET !ID (uea OR neg OR ulm OR ula OR uvc OR upk OR umg OR drc                     )]:%DOT-81%%PURPLE%ooo %NAME% %PURPLE%ooo%GREEN%{%NAME%}//
 //TC66  xar OR urg OR uui OR uvb OR bac OR ned
@@ -11081,53 +11095,53 @@ ItemDisplay[SET !ID (uui                                                        
 //TC63  xul OR uml OR ulc OR uhn OR drb OR ukp OR uvg OR pab
 ItemDisplay[SET !ID (xul OR uml OR ulc OR uhn OR drb OR ukp OR uvg OR pab                     )]:%DOT-81%%PURPLE%o %NAME% %PURPLE%o%GREEN%{%NAME%}//
 //TC60  xth OR uap OR uuc OR neb OR xtp OR ulb OR bab
-ItemDisplay[SET !ID (xth OR uap OR uuc OR neb OR xtp OR ulb OR bab                            )]:%DOT-81%%RED%ooooo %NAME% %RED%ooooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (xth OR uap OR uuc OR neb OR xtp OR ulb OR bab                            )]:%DOT-81%%RED%o %NAME% %RED%o%GREEN%{%NAME%}//
 //TC57  xrn OR xld OR dra OR paa OR xts OR ulg
-ItemDisplay[SET !ID (xld OR dra OR paa OR xts OR ulg                                          )]:%DOT-81%%RED%oooo %NAME% %RED%oooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (xld OR dra OR paa OR xts OR ulg                                          )]:%DOT-81%%RED%o %NAME% %RED%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (xrn                                                                      )]:%NAME%{%NAME%}//
 //TC54  xlt OR ci1 OR xhg OR xhb OR zhb OR uhl OR baa OR nea
-ItemDisplay[SET !ID (xlt OR ci1 OR xhg OR xhb OR zhb OR uhl OR baa OR nea                     )]:%DOT-81%%RED%ooo %NAME% %RED%ooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (xlt OR ci1 OR xhg OR xhb OR zhb OR uhl OR baa OR nea                     )]:%DOT-81%%RED%o %NAME% %RED%o%GREEN%{%NAME%}//
 //TC51  xpl OR xtg OR xtb OR ztb OR ba9 OR ne9 OR xow OR xh9 OR dr9 OR xhm OR pa9
-ItemDisplay[SET !ID (xpl OR xtg OR xtb OR ba9 OR ne9 OR xow OR xh9 OR dr9 OR xhm OR pa9       )]:%DOT-81%%RED%oo %NAME% %RED%oo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (xpl OR xtg OR xtb OR ba9 OR ne9 OR xow OR xh9 OR dr9 OR xhm OR pa9       )]:%DOT-81%%RED%o %NAME% %RED%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (ztb                                                                      )]:%NAME%{%NAME%}//
 //TC48  dr8 OR pa8 OR xrs OR xsk OR xsh
 ItemDisplay[SET !ID (dr8 OR pa8 OR xsk OR xsh                                                 )]:%DOT-81%%RED%o %NAME% %RED%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (xrs                                                                      )]:%NAME%{%NAME%}//
 //TC45  xcl OR xmg OR xmb OR zmb OR ba8 OR xhl OR xhn OR xit OR ne8
-ItemDisplay[SET !ID (xmg OR xmb OR zmb OR ba8 OR xhn OR xit OR ne8                            )]:%DOT-81%%ORANGE%ooooo %NAME% %ORANGE%ooooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (xmg OR xmb OR zmb OR ba8 OR xhn OR xit OR ne8                            )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (xhl OR xcl                                                               )]:%NAME%{%NAME%}//
 //TC42  aar OR xtu OR dr7 OR pa7 OR xlm OR xng OR xrg OR xpk
-ItemDisplay[SET !ID (xtu OR dr7 OR pa7 OR xlm OR xng OR xrg                                   )]:%DOT-81%%ORANGE%ooooo %NAME% %ORANGE%ooooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (xtu OR dr7 OR pa7 OR xlm OR xng OR xrg                                   )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (xpk OR aar                                                               )]:%NAME%{%NAME%}//
 //TC39  ful OR xkp OR xla OR xml OR ba7 OR xvg OR xvb OR zvb OR ne7
-ItemDisplay[SET !ID (xkp OR xla OR xml OR ba7 OR xvb OR zvb OR ne7                            )]:%DOT-81%%ORANGE%ooooo %NAME% %ORANGE%ooooo%GREEN%{%NAME%}//
-ItemDisplay[SET !ID (ful OR xvg                                                               )]:%NAME%{%NAME%}//
+ItemDisplay[SET !ID (xkp OR xla OR ba7 OR xvb OR zvb OR ne7                                   )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (ful OR xvg OR xml                                                        )]:%NAME%{%NAME%}//
 //TC36  xap OR xui OR xuc OR ltp OR dr6 OR pa6 OR xea OR xlb OR zlb
-ItemDisplay[SET !ID (xap OR xui OR xuc OR dr6 OR pa6 OR xea OR zlb                            )]:%DOT-81%%ORANGE%oooo %NAME% %ORANGE%oooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (xap OR xui OR xuc OR dr6 OR pa6 OR xea OR zlb                            )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (ltp OR xlb                                                               )]:%NAME%{%NAME%}//
 //TC33  gth OR xlg OR ba6 OR ne6
-ItemDisplay[SET !ID (ba6 OR ne6                                                               )]:%DOT-81%%ORANGE%oooo %NAME% %ORANGE%oooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (ba6 OR ne6                                                               )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (gth OR xlg                                                               )]:%NAME%{%NAME%}//
 //TC30  fld OR crn OR gts
-ItemDisplay[SET !ID (fld                                                                      )]:%DOT-81%%ORANGE%oooo %NAME% %ORANGE%oooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (fld                                                                      )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (gts OR crn                                                               )]:%NAME%{%NAME%}//
 //TC27  hgl OR hbt OR hbl
-//ItemDisplay[SET !ID (                                                                         )]:%DOT-81%%ORANGE%ooo %NAME% %ORANGE%ooo%GREEN%{%NAME%}//
+//ItemDisplay[SET !ID (                                                                         )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (hbl OR hbt OR hgl                                                        )]:%NAME%{%NAME%}//
 //TC24  tow OR bhm OR ghm OR plt OR dr5 OR ba5 OR pa5 OR ne5 OR ci0
-ItemDisplay[SET !ID (plt OR dr5 OR ba5 OR pa5 OR ne5                                          )]:%DOT-81%%ORANGE%ooo %NAME% %ORANGE%ooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (plt OR dr5 OR ba5 OR pa5 OR ne5                                          )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (bhm OR ghm OR tow OR ci0                                                 )]:%NAME%{%NAME%}//
 //TC21  msk OR bsh OR spl OR tgl OR tbt OR tbl OR dr4 OR ba4 OR pa4 OR ne4
-ItemDisplay[SET !ID (bsh OR dr4 OR ba4 OR pa4 OR ne4                                          )]:%DOT-81%%ORANGE%ooo %NAME% %ORANGE%ooo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (bsh OR dr4 OR ba4 OR pa4 OR ne4                                          )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (tbt OR msk OR spl OR tbl OR tgl                                          )]:%NAME%{%NAME%}//
 //TC18  dr3 OR ba3 OR pa3 OR ne3 OR brs
-ItemDisplay[SET !ID (dr3 OR ba3 OR pa3 OR ne3                                                 )]:%DOT-81%%ORANGE%oo %NAME% %ORANGE%oo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (dr3 OR ba3 OR pa3 OR ne3                                                 )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (brs                                                                      )]:%NAME%{%NAME%}//
 //TC15  scl OR fhl OR chn OR kit
-ItemDisplay[SET !ID (scl                                                                      )]:%DOT-81%%ORANGE%oo %NAME% %ORANGE%oo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (scl                                                                      )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (kit OR fhl OR chn                                                        )]:%NAME%{%NAME%}//
 //TC12  hlm OR rng OR lrg OR spk OR mgl OR mbt OR mbl
-ItemDisplay[SET !ID (spk                                                                      )]:%DOT-81%%ORANGE%oo %NAME% %ORANGE%oo%GREEN%{%NAME%}//
+ItemDisplay[SET !ID (spk                                                                      )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (rng OR mbt OR mgl OR lrg OR hlm OR mbl                                   )]:%NAME%{%NAME%}//
 //TC9   vgl OR vbt OR vbl OR stu OR dr2 OR ba2 OR pa2 OR ne2
 ItemDisplay[SET !ID (vbt OR stu OR dr2 OR ba2 OR pa2 OR ne2                                   )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//

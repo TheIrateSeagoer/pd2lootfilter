@@ -2583,6 +2583,6 @@ ItemDisplay[!RW (WEAPON OR ARMOR OR rin OR amu) PRICE>34999]:%NAME% %DARK_GREEN%
 
 ///// Sleepy Gamer Reminder
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[MAG SOCK>1]:%RED%NOT A RUNEWORD CANDIDATE%BLUE%%CONTINUE%//
-ItemDisplay[RARE SOCK>1]:%RED%NOT A RUNEWORD CANDIDATE%YELLOW%%CONTINUE%//
+ItemDisplay[SOCK>1 MAG]:%RED%NOT A RUNEWORD CANDIDATE%BLUE%%CONTINUE%//
+ItemDisplay[SOCK>1 RARE]:%RED%NOT A RUNEWORD CANDIDATE%YELLOW%%CONTINUE%//
 
