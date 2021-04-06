@@ -428,9 +428,9 @@ ItemDisplay[MAG !ID rin]:%ORANGE%o %BLUE%%NAME% %ORANGE%o%BLUE%//
 ItemDisplay[MAG !ID amu]:%ORANGE%o %BLUE%%NAME% %ORANGE%o%BLUE%//
 
 ItemDisplay[RARE !ID jew]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
-ItemDisplay[RARE !ID rin]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
-ItemDisplay[RARE !ID amu]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
-ItemDisplay[RARE !ID CIRC]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
+ItemDisplay[RARE !ID rin]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
+ItemDisplay[RARE !ID amu]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
+ItemDisplay[RARE !ID CIRC]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
 
 
 ///// Polearm Bases

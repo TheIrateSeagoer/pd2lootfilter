@@ -11164,9 +11164,9 @@ ItemDisplay[MAG !ID jew]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
 ItemDisplay[MAG !ID rin]:%ORANGE%o %BLUE%%NAME% %ORANGE%o%BLUE%//
 ItemDisplay[MAG !ID amu]:%ORANGE%o %BLUE%%NAME% %ORANGE%o%BLUE%//
 ItemDisplay[RARE !ID jew]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
-ItemDisplay[RARE !ID rin]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
-ItemDisplay[RARE !ID amu]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
-ItemDisplay[RARE !ID CIRC]:%MAP-6F%%RED%oooo %TAN%Lvl%ILVL% %YELLOW%%NAME% %RED%oooo%YELLOW%//
+ItemDisplay[RARE !ID rin]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
+ItemDisplay[RARE !ID amu]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
+ItemDisplay[RARE !ID CIRC]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[ETH SUP NMAG ((7wc OR 9wc OR wsc) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP NMAG ((7h7 OR 9h9 OR hal) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP NMAG ((7pa OR 9pa OR pax) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
