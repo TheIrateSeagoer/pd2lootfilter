@@ -46,7 +46,6 @@ ItemDisplay[t32]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t33]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t34]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t35]:[T3] %NAME%%CONTINUE%//
-ItemDisplay[t36]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t41]:[T4] %NAME%%CONTINUE%//
 ItemDisplay[imra]:%NAME%%CONTINUE%//
 ItemDisplay[imma]:%NAME%%CONTINUE%//
@@ -54,6 +53,7 @@ ItemDisplay[upma]:%NAME%%CONTINUE%//
 ItemDisplay[rera]:%NAME%%CONTINUE%//
 ItemDisplay[scou]:%NAME%%CONTINUE%//
 ItemDisplay[upmp]:%NAME%%CONTINUE%//
+ItemDisplay[scrb]:%NAME%%CONTINUE%//
 ItemDisplay[dcho]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[dcso]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[dcbl]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
@@ -4505,10 +4505,10 @@ ItemDisplay[upma]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Angelic Orb%GRAY%+%ORANGE%Run
 ItemDisplay[rera]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Horadrim Orb%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%YELLOW%Map%GRAY%)}%CONTINUE%//
 ItemDisplay[scou]:%NAME%{%WHITE%Map%GRAY%: (%GOLD%Orb of Destruction%GRAY%+%ORANGE%Hel%GRAY%+%BLUE%MAP%GRAY%)%NL%%WHITE%Map%GRAY%: %GRAY%(%GOLD%Orb of Destruction%GRAY%+%ORANGE%Hel%GRAY%+%YELLOW%MAP%GRAY%)}%CONTINUE%//
 ItemDisplay[upmp]:%NAME%{%WHITE%Map%GRAY%: (%GOLD%Cartographer's Orb%GRAY%+%WHITE%Map%GRAY%+%WHITE%Map%GRAY%+%WHITE%Map%GRAY%)%NL%%TAN%Use 3 maps of the same tier to get a higher tier}%CONTINUE%//
-ItemDisplay[NMAG (t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42)]:%NAME%{%BLUE%Map%GRAY%: (%WHITE%Map%GRAY%+%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%)}%CONTINUE%//
-ItemDisplay[MAG  (t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42)]:%NAME%{%BLUE%Map%WHITE%%GRAY%: (%BLUE%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%)}%CONTINUE%//
-ItemDisplay[RARE (t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t36 OR t41 OR t42)]:%NAME%{%YELLOW%Map%WHITE%%GRAY%: (%YELLOW%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%GOLD%Horadrim Orb%GRAY%)}%CONTINUE%//
-ItemDisplay[key                 ]:%NAME%{%TAN%See Gem for uses%NL%See Rune/Item for uses%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Nef-Sol)%GRAY%+%BLUE%Item%GRAY%)}%CONTINUE%//
+ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41) NMAG]:%NAME%{%BLUE%Map%GRAY%: (%WHITE%Map%GRAY%+%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%)}%CONTINUE%//
+ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41) MAG]:%NAME%{%BLUE%Map%WHITE%%GRAY%: (%BLUE%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%)}%CONTINUE%//
+ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41) RARE]:%NAME%{%YELLOW%Map%WHITE%%GRAY%: (%YELLOW%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%GOLD%Horadrim Orb%GRAY%)}%CONTINUE%//
+ItemDisplay[key]:%NAME%{%TAN%See Gem for uses%NL%See Rune/Item for uses%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Nef-Sol)%GRAY%+%BLUE%Item%GRAY%)}%CONTINUE%//
 ItemDisplay[gzv OR gzvs OR gpv OR gpvs]:%NAME%{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%CONTINUE%//
 ItemDisplay[gly OR glys OR gpy OR gpys]:%NAME%{%TAN%Reroll %BLUE%Grand Charm}%CONTINUE%//
 ItemDisplay[glb OR glbs OR gpb OR gpbs]:%NAME%{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%CONTINUE%
@@ -4516,47 +4516,46 @@ ItemDisplay[glg OR glgs OR gpg OR gpgs]:%NAME%{%TAN%Upgrade %GREEN%Weapon/%GOLD%
 ItemDisplay[glr OR glrs OR gpr OR gprs]:%NAME%{%ORANGE%Blood Crafting}%CONTINUE%//
 ItemDisplay[glw OR glws OR gpw OR gpws]:%NAME%{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%CONTINUE%//
 ItemDisplay[skl OR skls OR skz OR skzs]:%NAME%{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%CONTINUE%//
-ItemDisplay[r03 OR r03s         ]:%NAME%{%NAME%%ORANGE%Caster: Weapon%NL%Hit Power: Weapon}%CONTINUE%//
-ItemDisplay[r04 OR r04s         ]:%NAME%{%NAME%%ORANGE%Blood: Gloves%NL%Caster: Helm%NL%Hit Power: Body%NL%Safety: Shield}%CONTINUE%//
-ItemDisplay[r05 OR r05s         ]:%NAME%{%NAME%%ORANGE%Blood: Boots%NL%Caster: Shield%NL%Hit Power: Shield%NL%Safety: Body}%CONTINUE%//
-ItemDisplay[r06 OR r06s         ]:%NAME%{%NAME%%ORANGE%Blood: Shield%NL%Caster: Belt%NL%Hit Power: Helm%NL%Safety: Helm}%CONTINUE%//
-ItemDisplay[r07 OR r07s         ]:%NAME%{%NAME%%ORANGE%Blood: Belt%NL%Caster: Body%NL%Safety: Belt%NL%%TAN%Rune Number:  7}%CONTINUE%//
-ItemDisplay[r08 OR r08s         ]:%NAME%{%NAME%%ORANGE%Blood: Helm%NL%Caster: Amulet%NL%Hit Power: Boots%NL%Safety: Gloves}%CONTINUE%//
-ItemDisplay[r09 OR r09s         ]:%NAME%{%NAME%%ORANGE%Blood: Weapon%NL%Caster: Gloves%NL%Hit Power: Gloves%NL%Safety: Boots}%CONTINUE%//
-ItemDisplay[r10 OR r10s         ]:%NAME%{%NAME%%ORANGE%Blood: Body%NL%Caster: Boots%NL%Hit Power: Amulet%NL%Safety: Amulet}%CONTINUE%//
-ItemDisplay[r11 OR r11s         ]:%NAME%{%NAME%%ORANGE%Blood: Amulet%NL%Caster: Ring%NL%Hit Power: Ring%NL%Safety: Ring}%CONTINUE%//
-ItemDisplay[r12 OR r12s         ]:%NAME%{%NAME%%ORANGE%Blood: Ring%NL%Safety: Crossbow/Bow}%CONTINUE%//
-ItemDisplay[RARE WEAPON NORM]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ort%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[RARE ARMOR NORM]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[RARE WEAPON EXC]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Fal%GRAY%+%RED%Um%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[RARE ARMOR EXC]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[UNI WEAPON NORM]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Sol%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[UNI ARMOR NORM]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Shael%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[UNI WEAPON EXC]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Lum%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[UNI ARMOR EXC]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Lem%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[SET WEAPON NORM]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Sol%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[SET ARMOR NORM]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Shael%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[SET WEAPON EXC]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Lum%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[SET ARMOR EXC]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Lem%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[NMAG !SUP SOCK=0 WEAPON !THROWING !leg]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Amethyst%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[NMAG !SUP SOCK=0 SHIELD]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Ruby%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[NMAG !SUP SOCK=0 HELM]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[NMAG !SUP SOCK=0 CHEST]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Topaz%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[NMAG SUP SOCK=0 WEAPON !THROWING]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[NMAG SUP SOCK=0 SHIELD]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[NMAG SUP SOCK=0 HELM]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[NMAG SUP SOCK=0 CHEST]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[MAG WEAPON BOW]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir Safety: Sol%NL%}%CONTINUE%//
-ItemDisplay[MAG WEAPON XBOW]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir Safety: Sol%NL%}%CONTINUE%//
-ItemDisplay[MAG WEAPON !BOW !XBOW]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir%NL%}%CONTINUE%//
-ItemDisplay[MAG HELM]:%NAME%{%NAME%%ORANGE%Blood: Ral Caster: Nef Power: Ith Safety: Ith%NL%}%CONTINUE%//
-ItemDisplay[MAG CHEST]:%NAME%{%NAME%%ORANGE%Blood: Thul Caster: Tal Power: Nef Safety: Eth%NL%}%CONTINUE%//
-ItemDisplay[MAG SHIELD]:%NAME%{%NAME%%ORANGE%Blood: Ith Caster: Eth Power: Eth Safety: Nef%NL%}%CONTINUE%//
-ItemDisplay[MAG GLOVES]:%NAME%{%NAME%%ORANGE%Blood: Nef Caster: Ort Power: Ort Safety: Ral%NL%}%CONTINUE%//
-ItemDisplay[MAG BELT]:%NAME%{%NAME%%ORANGE%Blood: Tal Caster: Ith Power: Tal Safety: Tal%NL%}%CONTINUE%//
-ItemDisplay[MAG BOOTS]:%NAME%{%NAME%%ORANGE%Blood: Eth Caster: Thul Power: Ral Safety: Ort%NL%}%CONTINUE%//
-ItemDisplay[MAG amu]:%NAME%{%NAME%%ORANGE%Blood: Amn Caster: Ral Power: Thul Safety: Thul}%CONTINUE%//
-ItemDisplay[MAG rin]:%NAME%{%NAME%%ORANGE%Blood: Sol Caster: Amn Power: Amn Safety: Amn}%CONTINUE%//
+ItemDisplay[r03 OR r03s]:%NAME%{%NAME%%ORANGE%Caster: Weapon%NL%Hit Power: Weapon}%CONTINUE%//
+ItemDisplay[r04 OR r04s]:%NAME%{%NAME%%ORANGE%Blood: Gloves%NL%Caster: Helm%NL%Hit Power: Body%NL%Safety: Shield}%CONTINUE%//
+ItemDisplay[r05 OR r05s]:%NAME%{%NAME%%ORANGE%Blood: Boots%NL%Caster: Shield%NL%Hit Power: Shield%NL%Safety: Body}%CONTINUE%//
+ItemDisplay[r06 OR r06s]:%NAME%{%NAME%%ORANGE%Blood: Shield%NL%Caster: Belt%NL%Hit Power: Helm%NL%Safety: Helm}%CONTINUE%//
+ItemDisplay[r07 OR r07s]:%NAME%{%NAME%%ORANGE%Blood: Belt%NL%Caster: Body%NL%Safety: Belt%NL%%TAN%Rune Number:  7}%CONTINUE%//
+ItemDisplay[r08 OR r08s]:%NAME%{%NAME%%ORANGE%Blood: Helm%NL%Caster: Amulet%NL%Hit Power: Boots%NL%Safety: Gloves}%CONTINUE%//
+ItemDisplay[r09 OR r09s]:%NAME%{%NAME%%ORANGE%Blood: Weapon%NL%Caster: Gloves%NL%Hit Power: Gloves%NL%Safety: Boots}%CONTINUE%//
+ItemDisplay[r10 OR r10s]:%NAME%{%NAME%%ORANGE%Blood: Body%NL%Caster: Boots%NL%Hit Power: Amulet%NL%Safety: Amulet}%CONTINUE%//
+ItemDisplay[r11 OR r11s]:%NAME%{%NAME%%ORANGE%Blood: Amulet%NL%Caster: Ring%NL%Hit Power: Ring%NL%Safety: Ring}%CONTINUE%//
+ItemDisplay[r12 OR r12s]:%NAME%{%NAME%%ORANGE%Blood: Ring%NL%Safety: Crossbow/Bow}%CONTINUE%//
+ItemDisplay[WEAPON NORM RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ort%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[ARMOR NORM RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[WEAPON EXC RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Fal%GRAY%+%RED%Um%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[ARMOR EXC RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[WEAPON NORM SET]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Sol%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[ARMOR NORM SET]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Shael%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[WEAPON EXC SET]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Lum%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[ARMOR EXC SET]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Lem%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[WEAPON NORM UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Sol%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[ARMOR NORM UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Shael%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[WEAPON EXC UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Lum%GRAY%+%RED%Pul%GRAY%+%ORANGE%Perfect Emerald%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[ARMOR EXC UNI]:%NAME%{%NAME%%GOLD%Upgrade%GRAY%: (%RED%Ko%GRAY%+%RED%Lem%GRAY%+%ORANGE%Perfect Diamond%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[WEAPON !THROWING !leg SOCK=0 !SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Amethyst%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[SHIELD SOCK=0 !SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Ruby%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[HELM SOCK=0 !SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[CHEST SOCK=0 !SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%ORANGE%Tal%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Topaz%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[WEAPON !THROWING !leg SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[SHIELD SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[HELM SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[CHEST SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
+ItemDisplay[WEAPON (BOW OR XBOW) MAG]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir Safety: Sol%NL%}%CONTINUE%//
+ItemDisplay[WEAPON !BOW !XBOW MAG]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir%NL%}%CONTINUE%//
+ItemDisplay[HELM MAG]:%NAME%{%NAME%%ORANGE%Blood: Ral Caster: Nef Power: Ith Safety: Ith%NL%}%CONTINUE%//
+ItemDisplay[CHEST MAG]:%NAME%{%NAME%%ORANGE%Blood: Thul Caster: Tal Power: Nef Safety: Eth%NL%}%CONTINUE%//
+ItemDisplay[SHIELD MAG]:%NAME%{%NAME%%ORANGE%Blood: Ith Caster: Eth Power: Eth Safety: Nef%NL%}%CONTINUE%//
+ItemDisplay[GLOVES MAG]:%NAME%{%NAME%%ORANGE%Blood: Nef Caster: Ort Power: Ort Safety: Ral%NL%}%CONTINUE%//
+ItemDisplay[BELT MAG]:%NAME%{%NAME%%ORANGE%Blood: Tal Caster: Ith Power: Tal Safety: Tal%NL%}%CONTINUE%//
+ItemDisplay[BOOTS MAG]:%NAME%{%NAME%%ORANGE%Blood: Eth Caster: Thul Power: Ral Safety: Ort%NL%}%CONTINUE%//
+ItemDisplay[amu MAG]:%NAME%{%NAME%%ORANGE%Blood: Amn Caster: Ral Power: Thul Safety: Thul}%CONTINUE%//
+ItemDisplay[rin MAG]:%NAME%{%NAME%%ORANGE%Blood: Sol Caster: Amn Power: Amn Safety: Amn}%CONTINUE%//
 ItemDisplay[ci0 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 20-30 Sockets: 1}%CONTINUE%//
 ItemDisplay[ci0 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 20-30 Sockets: 2}%CONTINUE%//
 ItemDisplay[ci1 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 30-40 Sockets: 1}%CONTINUE%//
@@ -5369,466 +5368,466 @@ ItemDisplay[obd          ]:%NAME%{%NAME%%TAN%Damage: 23-55 Sockets: 2}%CONTINUE%
 ItemDisplay[obe          ]:%NAME%{%NAME%%TAN%Damage: 12-66 Sockets: 2}%CONTINUE%//
 ItemDisplay[obf ILVL<26  ]:%NAME%{%NAME%%TAN%Damage: 30-53 Sockets: 2}%CONTINUE%//
 ItemDisplay[obf ILVL>25  ]:%NAME%{%NAME%%TAN%Damage: 30-53 Sockets: 3}%CONTINUE%//
-ItemDisplay[SET !ID rin]:%GREEN%%NAME%%CONTINUE%//
-ItemDisplay[SET !ID amu]:%GREEN%%NAME%%CONTINUE%//
-ItemDisplay[SET !ID tgl]:%GREEN%Arctic/Iratha%CONTINUE%//
-ItemDisplay[SET !ID cap]:%GREEN%Infernal/Sander%CONTINUE%//
-ItemDisplay[SET !ID crn]:%GREEN%Iratha/Milabrega%CONTINUE%//
-ItemDisplay[SET !ID vbt]:%GREEN%Cow King/Sander%CONTINUE%//
-ItemDisplay[SET !ID mbl]:%GREEN%Hsaru/Hwanin%CONTINUE%//
-ItemDisplay[SET !ID tbl]:%GREEN%Infernal/Iratha%CONTINUE%//
-ItemDisplay[SET !ID wst]:%GREEN%Arcanna's Deathwand%CONTINUE%//
-ItemDisplay[SET !ID ltp]:%GREEN%Arcanna's Flesh%CONTINUE%//
-ItemDisplay[SET !ID skp]:%GREEN%Arcanna's Head%CONTINUE%//
-ItemDisplay[SET !ID vbl]:%GREEN%Arctic Binding%CONTINUE%//
-ItemDisplay[SET !ID qui]:%GREEN%Arctic Furs%CONTINUE%//
-ItemDisplay[SET !ID swb]:%GREEN%Arctic Horn%CONTINUE%//
-ItemDisplay[SET !ID 2ax]:%GREEN%Berserker's Hatchet%CONTINUE%//
-ItemDisplay[SET !ID spl]:%GREEN%Berserker's Hauberk%CONTINUE%//
-ItemDisplay[SET !ID hlm]:%GREEN%Berserker's Headgear%CONTINUE%//
-ItemDisplay[SET !ID msk]:%GREEN%Cathan's Visage%CONTINUE%//
-ItemDisplay[SET !ID chn]:%GREEN%Cathan's Mesh%CONTINUE%//
-ItemDisplay[SET !ID bst]:%GREEN%Cathan's Rule%CONTINUE%//
-ItemDisplay[SET !ID gsc]:%GREEN%Civerb's Cudgel%CONTINUE%//
-ItemDisplay[SET !ID lrg]:%GREEN%Civerb's Ward%CONTINUE%//
-ItemDisplay[SET !ID sml]:%GREEN%Cleglaw's Claw%CONTINUE%//
-ItemDisplay[SET !ID mgl]:%GREEN%Cleglaw's Pincers%CONTINUE%//
-ItemDisplay[SET !ID lsd]:%GREEN%Cleglaw's Tooth%CONTINUE%//
-ItemDisplay[SET !ID rng]:%GREEN%Angelic Mantle%CONTINUE%//
-ItemDisplay[SET !ID sbr]:%GREEN%Angelic Sickle%CONTINUE%//
-ItemDisplay[SET !ID buc]:%GREEN%Hsaru's Iron Fist%CONTINUE%//
-ItemDisplay[SET !ID mbt]:%GREEN%Hsaru's Iron Heel%CONTINUE%//
-ItemDisplay[SET !ID dgr]:%GREEN%Infernal Spine%CONTINUE%//
-ItemDisplay[SET !ID gwn]:%GREEN%Infernal Torch%CONTINUE%//
-ItemDisplay[SET !ID fhl]:%GREEN%Isenhart's Horns%CONTINUE%//
-ItemDisplay[SET !ID brs]:%GREEN%Isenhart's Case%CONTINUE%//
-ItemDisplay[SET !ID bsd]:%GREEN%Isenhart's Lightbrand%CONTINUE%//
-ItemDisplay[SET !ID gts]:%GREEN%Isenhart's Parry%CONTINUE%//
-ItemDisplay[SET !ID kit]:%GREEN%Milabrega's Orb%CONTINUE%//
-ItemDisplay[SET !ID aar]:%GREEN%Milabrega's Robe %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID wsp]:%GREEN%Milabrega's Rod%CONTINUE%//
-ItemDisplay[SET !ID hgl]:%GREEN%Sigon's Gage%CONTINUE%//
-ItemDisplay[SET !ID tow]:%GREEN%Sigon's Guard%CONTINUE%//
-ItemDisplay[SET !ID hbt]:%GREEN%Sigon's Sabot%CONTINUE%//
-ItemDisplay[SET !ID gth]:%GREEN%Sigon's Shelter%CONTINUE%//
-ItemDisplay[SET !ID ghm]:%GREEN%Sigon's Visor%CONTINUE%//
-ItemDisplay[SET !ID hbl]:%GREEN%Sigon's Wrap%CONTINUE%//
-ItemDisplay[SET !ID mpi]:%GREEN%Tancred's Crowbill%CONTINUE%//
-ItemDisplay[SET !ID lbt]:%GREEN%Tancred's Hobnails%CONTINUE%//
-ItemDisplay[SET !ID bhm]:%GREEN%Tancred's Skull%CONTINUE%//
-ItemDisplay[SET !ID ful]:%GREEN%Tancred's Spine%CONTINUE%//
-ItemDisplay[SET !ID lbl]:%GREEN%Death's Guard%CONTINUE%//
-ItemDisplay[SET !ID lgl]:%GREEN%Death's Hand%CONTINUE%//
-ItemDisplay[SET !ID wsd]:%GREEN%Death's Touch%CONTINUE%//
-ItemDisplay[SET !ID lea]:%GREEN%Vidala's Ambush%CONTINUE%//
-ItemDisplay[SET !ID lbb]:%GREEN%Vidala's Barb%CONTINUE%//
-ItemDisplay[SET !ID tbt]:%GREEN%Vidala's Fetlock%CONTINUE%//
-ItemDisplay[SET !ID 7ma]:%GREEN%Dangoon's Teaching %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xrs]:%GREEN%Haemosu's Adament %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID uhm]:%GREEN%Ondal's Almighty %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID uts]:%GREEN%Taebaek's Glory %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID umc]:%GREEN%Credendum %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID uui]:%GREEN%Dark Adherent %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID ulg]:%GREEN%Laying of Hands %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xlb]:%GREEN%Rite of Passage%CONTINUE%//
-ItemDisplay[SET !ID 9vo]:%GREEN%Hwanin's Justice%CONTINUE%//
-ItemDisplay[SET !ID xcl]:%GREEN%Hwanin's Refuge %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xrn]:%GREEN%Hwanin's Splendor %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID stu]:%GREEN%Cow King's Hide%CONTINUE%//
-ItemDisplay[SET !ID xap]:%GREEN%Cow King's Horns%CONTINUE%//
-ItemDisplay[SET !ID ci0]:%GREEN%Naj's Circlet%CONTINUE%//
-ItemDisplay[SET !ID ult]:%GREEN%Naj's Light Plate %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID 6cs]:%GREEN%Naj's Puzzler %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID bwn]:%GREEN%Sander's Superstition%CONTINUE%//
-ItemDisplay[SET !ID vgl]:%GREEN%Sander's Taboo%CONTINUE%//
-ItemDisplay[SET !ID 7ls]:%GREEN%Sazabi's Cobalt Redeemer %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID upl]:%GREEN%Sazabi's Ghost Liberator %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID xhl]:%GREEN%Sazabi's Sazabi's Mental Sheath %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xhm]:%GREEN%Guillaume's Face %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xvg]:%GREEN%Magnus's Skin%CONTINUE%//
-ItemDisplay[SET !ID xml]:%GREEN%Whitstan's Guard%CONTINUE%//
-ItemDisplay[SET !ID ztb]:%GREEN%Wilhelm's Pride %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xtb]:%GREEN%Aldur's Advance %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID uul]:%GREEN%Aldur's Deception %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID 9mt]:%GREEN%Aldur's Rhythm%CONTINUE%//
-ItemDisplay[SET !ID dr8]:%GREEN%Aldur's Stony Gaze %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID 7gd]:%GREEN%Bul-kathos' Sacred Charge %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID 7fb]:%GREEN%Bul-kathos' Tribal Guardian %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID xar]:%GREEN%Griswold's Heart %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID paf]:%GREEN%Griswold's Honor %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID 7ws]:%GREEN%Griswold's Redemption %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID urn]:%GREEN%Griswold's Valor %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID amc]:%GREEN%M'avina's Caster %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID uld]:%GREEN%M'avina's Embrace %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID xtg]:%GREEN%M'avina's Icy Clutch %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID zvb]:%GREEN%M'avina's Tenet%CONTINUE%//
-ItemDisplay[SET !ID ci3]:%GREEN%M'avina's True Sight %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID 7qr]:%GREEN%Natalya's Mark %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID ucl]:%GREEN%Natalya's Shadow %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID xmb]:%GREEN%Natalya's Soul %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xh9]:%GREEN%Natalya's Totem %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID zmb]:%GREEN%Tal Rasha's Fine-Spun Cloth %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID uth]:%GREEN%Tal Rasha's Guardianship %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID xsk]:%GREEN%Tal Rasha's Horadric Crest %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID oba]:%GREEN%Tal Rasha's Lidless Eye %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xmg]:%GREEN%Trang-Oul's Claws %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID utc]:%GREEN%Trang-Oul's Girth %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID uh9]:%GREEN%Trang-Oul's Guise %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID xul]:%GREEN%Trang-Oul's Scales %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID ne9]:%GREEN%Trang-Oul's Wing %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID zhb]:%GREEN%Immortal King's Detail %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xhg]:%GREEN%Immortal King's Forge %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xhb]:%GREEN%Immortal King's Pillar %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID uar]:%GREEN%Immortal King's Soul Cage %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID 7m7]:%GREEN%Immortal King's Stone Crusher %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID ba5]:%GREEN%Immortal King's Will%CONTINUE%//
-ItemDisplay[UNI !ID rin]:%GOLD%%NAME%%CONTINUE%//
-ItemDisplay[UNI !ID amu]:%GOLD%%NAME%%CONTINUE%//
-ItemDisplay[UNI !ID cm1]:%GOLD%ooo Annihilus ooo%CONTINUE%//
-ItemDisplay[UNI !ID cm2]:%GOLD%ooo Hellfire Torch ooo%CONTINUE%//
-ItemDisplay[UNI !ID cm3]:%GOLD%Gheed's Fortune oo%CONTINUE%//
-ItemDisplay[UNI !ID jew]:%GOLD%Rainbow Facet %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID ci2]:%GOLD%Kira's Guardian %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID ci3]:%GOLD%Griffon's Eye %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID amd]:%GOLD%Stoneraven %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID am9]:%GOLD%Lycander's Flank %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID am7]:%GOLD%Lycander's Aim %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID ama]:%GOLD%Titan's Revenge %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID amf]:%GOLD%Thunderstroke %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID amb]:%GOLD%Blood Raven's Charge %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7cs]:%GOLD%Shadow Killer %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 9tw]:%GOLD%Bartuc's Cut-Throat %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 7wb]:%GOLD%Jade Talon %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7lw]:%GOLD%Firelizard's Talons %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID nea]:%GOLD%Homunculus %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID nef]:%GOLD%Darkforce Spawn %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID nee]:%GOLD%Boneflame %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID baa]:%GOLD%Arreat's Face %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID bac]:%GOLD%Wolfhowl %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID bad]:%GOLD%Demonhorn's Edge %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID bae]:%GOLD%Halaberd's Reign %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID oba]:%GOLD%The Oculus %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID obc]:%GOLD%Eschuta's Temper %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID obf]:%GOLD%Death's Fathom %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID dra]:%GOLD%Jalal's Mane %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID drb]:%GOLD%Cerebus' Bite %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID dre]:%GOLD%Ravenlore %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID drd]:%GOLD%Spirit Keeper %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID pac]:%GOLD%Alma Negra %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID pa9]:%GOLD%Herald of Zakarum %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID pae]:%GOLD%Dragonscale %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID cap]:%GOLD%Biggin's Bonnet%CONTINUE%//
-ItemDisplay[UNI !ID skp]:%GOLD%Tarnhelm%CONTINUE%//
-ItemDisplay[UNI !ID hlm]:%GOLD%Coif of Glory%CONTINUE%//
-ItemDisplay[UNI !ID fhl]:%GOLD%Duskdeep%CONTINUE%//
-ItemDisplay[UNI !ID ghm]:%GOLD%Howltusk%CONTINUE%//
-ItemDisplay[UNI !ID msk]:%GOLD%The Face of Horror%CONTINUE%//
-ItemDisplay[UNI !ID crn]:%GOLD%Undead Crown%CONTINUE%//
-ItemDisplay[UNI !ID bhm]:%GOLD%Wormskull%CONTINUE%//
-ItemDisplay[UNI !ID qui]:%GOLD%Greyform%CONTINUE%//
-ItemDisplay[UNI !ID lea]:%GOLD%Blinkbat's Form%CONTINUE%//
-ItemDisplay[UNI !ID hla]:%GOLD%The Centurion%CONTINUE%//
-ItemDisplay[UNI !ID stu]:%GOLD%Twitchthroe%CONTINUE%//
-ItemDisplay[UNI !ID rng]:%GOLD%Darkglow%CONTINUE%//
-ItemDisplay[UNI !ID scl]:%GOLD%Hawkmail%CONTINUE%//
-ItemDisplay[UNI !ID brs]:%GOLD%Venom Ward%CONTINUE%//
-ItemDisplay[UNI !ID chn]:%GOLD%Sparking Mail%CONTINUE%//
-ItemDisplay[UNI !ID spl]:%GOLD%Iceblink%CONTINUE%//
-ItemDisplay[UNI !ID ltp]:%GOLD%Heavenly Garb%CONTINUE%//
-ItemDisplay[UNI !ID fld]:%GOLD%Rockfleece%CONTINUE%//
-ItemDisplay[UNI !ID plt]:%GOLD%Boneflesh%CONTINUE%//
-ItemDisplay[UNI !ID gth]:%GOLD%Rattlecage%CONTINUE%//
-ItemDisplay[UNI !ID ful]:%GOLD%Goldskin%CONTINUE%//
-ItemDisplay[UNI !ID aar]:%GOLD%Silks of the Victor %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID buc]:%GOLD%Pelta Lunata%CONTINUE%//
-ItemDisplay[UNI !ID sml]:%GOLD%Umbral Disk%CONTINUE%//
-ItemDisplay[UNI !ID lrg]:%GOLD%Stormguild%CONTINUE%//
-ItemDisplay[UNI !ID kit]:%GOLD%Steelclash%CONTINUE%//
-ItemDisplay[UNI !ID spk]:%GOLD%Swordback Hold%CONTINUE%//
-ItemDisplay[UNI !ID tow]:%GOLD%Bverrit Keep%CONTINUE%//
-ItemDisplay[UNI !ID bsh]:%GOLD%Wall of the Eyeless%CONTINUE%//
-ItemDisplay[UNI !ID gts]:%GOLD%The Ward%CONTINUE%//
-ItemDisplay[UNI !ID lgl]:%GOLD%The Hand of Broc%CONTINUE%//
-ItemDisplay[UNI !ID vgl]:%GOLD%Bloodfist%CONTINUE%//
-ItemDisplay[UNI !ID mgl]:%GOLD%Chance Guards%CONTINUE%//
-ItemDisplay[UNI !ID tgl]:%GOLD%Magefist%CONTINUE%//
-ItemDisplay[UNI !ID hgl]:%GOLD%Frostburn%CONTINUE%//
-ItemDisplay[UNI !ID lbt]:%GOLD%Hotspur%CONTINUE%//
-ItemDisplay[UNI !ID vbt]:%GOLD%Gorefoot%CONTINUE%//
-ItemDisplay[UNI !ID mbt]:%GOLD%Treads of Cthon%CONTINUE%//
-ItemDisplay[UNI !ID tbt]:%GOLD%Goblin Toe%CONTINUE%//
-ItemDisplay[UNI !ID hbt]:%GOLD%Tearhaunch%CONTINUE%//
-ItemDisplay[UNI !ID lbl]:%GOLD%Lenymo%CONTINUE%//
-ItemDisplay[UNI !ID vbl]:%GOLD%Snakecord%CONTINUE%//
-ItemDisplay[UNI !ID mbl]:%GOLD%Nightsmoke%CONTINUE%//
-ItemDisplay[UNI !ID tbl]:%GOLD%Goldwrap%CONTINUE%//
-ItemDisplay[UNI !ID hbl]:%GOLD%Bladebuckle%CONTINUE%//
-ItemDisplay[UNI !ID hax]:%GOLD%The Gnasher%CONTINUE%//
-ItemDisplay[UNI !ID axe]:%GOLD%Deathspade%CONTINUE%//
-ItemDisplay[UNI !ID 2ax]:%GOLD%Bladebone%CONTINUE%//
-ItemDisplay[UNI !ID mpi]:%GOLD%Skull Splitter%CONTINUE%//
-ItemDisplay[UNI !ID wax]:%GOLD%Rakescar%CONTINUE%//
-ItemDisplay[UNI !ID lax]:%GOLD%Axe of Fechmar%CONTINUE%//
-ItemDisplay[UNI !ID bax]:%GOLD%Goreshovel%CONTINUE%//
-ItemDisplay[UNI !ID btx]:%GOLD%The Chieftain%CONTINUE%//
-ItemDisplay[UNI !ID gax]:%GOLD%Brainhew%CONTINUE%//
-ItemDisplay[UNI !ID gix]:%GOLD%Humongous%CONTINUE%//
-ItemDisplay[UNI !ID sbw]:%GOLD%Pluckeye%CONTINUE%//
-ItemDisplay[UNI !ID hbw]:%GOLD%Witherstring%CONTINUE%//
-ItemDisplay[UNI !ID lbw]:%GOLD%Raven Claw%CONTINUE%//
-ItemDisplay[UNI !ID cbw]:%GOLD%Rogue's Bow%CONTINUE%//
-ItemDisplay[UNI !ID sbb]:%GOLD%Stormstrike%CONTINUE%//
-ItemDisplay[UNI !ID lbb]:%GOLD%Wizendraw%CONTINUE%//
-ItemDisplay[UNI !ID swb]:%GOLD%Hellclap%CONTINUE%//
-ItemDisplay[UNI !ID lwb]:%GOLD%Blastbark%CONTINUE%//
-ItemDisplay[UNI !ID lxb]:%GOLD%Leadcrow%CONTINUE%//
-ItemDisplay[UNI !ID mxb]:%GOLD%Ichorsting%CONTINUE%//
-ItemDisplay[UNI !ID hxb]:%GOLD%Hellcast%CONTINUE%//
-ItemDisplay[UNI !ID rxb]:%GOLD%Doomslinger%CONTINUE%//
-ItemDisplay[UNI !ID dgr]:%GOLD%Gull%CONTINUE%//
-ItemDisplay[UNI !ID dir]:%GOLD%The Diggler%CONTINUE%//
-ItemDisplay[UNI !ID kri]:%GOLD%The Jade Tan Do%CONTINUE%//
-ItemDisplay[UNI !ID bld]:%GOLD%Spectral Shard%CONTINUE%//
-ItemDisplay[UNI !ID clb]:%GOLD%Felloak%CONTINUE%//
-ItemDisplay[UNI !ID spc]:%GOLD%Stoutnail%CONTINUE%//
-ItemDisplay[UNI !ID mac]:%GOLD%Crushflange%CONTINUE%//
-ItemDisplay[UNI !ID mst]:%GOLD%Bloodrise%CONTINUE%//
-ItemDisplay[UNI !ID fla]:%GOLD%The General's Tan Do Li Ga%CONTINUE%//
-ItemDisplay[UNI !ID whm]:%GOLD%Ironstone%CONTINUE%//
-ItemDisplay[UNI !ID mau]:%GOLD%Bonesnap%CONTINUE%//
-ItemDisplay[UNI !ID gma]:%GOLD%Steeldriver%CONTINUE%//
-ItemDisplay[UNI !ID bar]:%GOLD%Dimoak's Hew%CONTINUE%//
-ItemDisplay[UNI !ID vou]:%GOLD%Steelgoad%CONTINUE%//
-ItemDisplay[UNI !ID scy]:%GOLD%Soul Harvest%CONTINUE%//
-ItemDisplay[UNI !ID pax]:%GOLD%The Battlebranch%CONTINUE%//
-ItemDisplay[UNI !ID hal]:%GOLD%Woestave%CONTINUE%//
-ItemDisplay[UNI !ID wsc]:%GOLD%The Grim Reaper%CONTINUE%//
-ItemDisplay[UNI !ID scp]:%GOLD%Knell Striker%CONTINUE%//
-ItemDisplay[UNI !ID gsc]:%GOLD%Rusthandle%CONTINUE%//
-ItemDisplay[UNI !ID wsp]:%GOLD%Stormeye%CONTINUE%//
-ItemDisplay[UNI !ID spr]:%GOLD%The Dragon Chang%CONTINUE%//
-ItemDisplay[UNI !ID tri]:%GOLD%Razortine%CONTINUE%//
-ItemDisplay[UNI !ID brn]:%GOLD%Bloodthief%CONTINUE%//
-ItemDisplay[UNI !ID spt]:%GOLD%Lance of Yaggai%CONTINUE%//
-ItemDisplay[UNI !ID pik]:%GOLD%The Tannr Gorerod%CONTINUE%//
-ItemDisplay[UNI !ID sst]:%GOLD%Bane Ash%CONTINUE%//
-ItemDisplay[UNI !ID lst]:%GOLD%Serpent Lord%CONTINUE%//
-ItemDisplay[UNI !ID cst]:%GOLD%Spire of Lazarus%CONTINUE%//
-ItemDisplay[UNI !ID bst]:%GOLD%The Salamander%CONTINUE%//
-ItemDisplay[UNI !ID wst]:%GOLD%The Iron Jang Bong%CONTINUE%//
-ItemDisplay[UNI !ID ssd]:%GOLD%Rixot's Keen%CONTINUE%//
-ItemDisplay[UNI !ID scm]:%GOLD%Blood Crescent%CONTINUE%//
-ItemDisplay[UNI !ID sbr]:%GOLD%Skewer of Krintiz%CONTINUE%//
-ItemDisplay[UNI !ID flc]:%GOLD%Gleamscythe%CONTINUE%//
-ItemDisplay[UNI !ID crs]:%GOLD%Azurewrath%CONTINUE%//
-ItemDisplay[UNI !ID bsd]:%GOLD%Griswold's Edge%CONTINUE%//
-ItemDisplay[UNI !ID lsd]:%GOLD%Hellplague%CONTINUE%//
-ItemDisplay[UNI !ID wsd]:%GOLD%Culwen's Point%CONTINUE%//
-ItemDisplay[UNI !ID 2hs]:%GOLD%Shadowfang%CONTINUE%//
-ItemDisplay[UNI !ID clm]:%GOLD%Soulflay%CONTINUE%//
-ItemDisplay[UNI !ID gis]:%GOLD%Kinemil's Awl%CONTINUE%//
-ItemDisplay[UNI !ID bsw]:%GOLD%Blacktongue%CONTINUE%//
-ItemDisplay[UNI !ID flb]:%GOLD%Ripsaw%CONTINUE%//
-ItemDisplay[UNI !ID gsd]:%GOLD%The Patriarch%CONTINUE%//
-ItemDisplay[UNI !ID wnd]:%GOLD%Torch of Iro%CONTINUE%//
-ItemDisplay[UNI !ID ywn]:%GOLD%Maelstrom%CONTINUE%//
-ItemDisplay[UNI !ID bwn]:%GOLD%Gravenspine%CONTINUE%//
-ItemDisplay[UNI !ID gwn]:%GOLD%Ume's Lament%CONTINUE%//
-ItemDisplay[UNI !ID xap]:%GOLD%Peasant Crown%CONTINUE%//
-ItemDisplay[UNI !ID xkp]:%GOLD%Rockstopper%CONTINUE%//
-ItemDisplay[UNI !ID xlm]:%GOLD%Stealskull %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xhl]:%GOLD%Darksight Helm %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xhm]:%GOLD%Valkyrie Wing %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xsk]:%GOLD%Blackhorn's Face %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xrn]:%GOLD%Crown of Thieves %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xh9]:%GOLD%Vampire Gaze %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xui]:%GOLD%The Spirit Shroud%CONTINUE%//
-ItemDisplay[UNI !ID xea]:%GOLD%Skin of the Vipermagi%CONTINUE%//
-ItemDisplay[UNI !ID xla]:%GOLD%Skin of the Flayed One%CONTINUE%//
-ItemDisplay[UNI !ID xtu]:%GOLD%Iron Pelt %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xcl]:%GOLD%Crow Caw %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xng]:%GOLD%Spirit Forge %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xrs]:%GOLD%Duriel's Shell %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xhn]:%GOLD%Shaftstop %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xpl]:%GOLD%Skullder's Ire %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xtp]:%GOLD%Que-Hegan's Wisdom %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xld]:%GOLD%Toothrow %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xlt]:%GOLD%Guardian Angel %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xth]:%GOLD%Atma's Wail %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xul]:%GOLD%Black Hades %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xar]:%GOLD%Corpsemourn %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xuc]:%GOLD%Visceratuant%CONTINUE%//
-ItemDisplay[UNI !ID xml]:%GOLD%Moser's Blessed Circle%CONTINUE%//
-ItemDisplay[UNI !ID xrg]:%GOLD%Stormchaser %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xit]:%GOLD%Tiamat's Rebuke %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xpk]:%GOLD%Lance Guard %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xow]:%GOLD%Gerke's Sanctuary %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xsh]:%GOLD%Lidless Wall %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xts]:%GOLD%Radament's Sphere %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xlg]:%GOLD%Venom Grip%CONTINUE%//
-ItemDisplay[UNI !ID xvg]:%GOLD%Gravepalm%CONTINUE%//
-ItemDisplay[UNI !ID xmg]:%GOLD%Ghoulhide %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xtg]:%GOLD%Lava Gout %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xhg]:%GOLD%Hellmouth %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xlb]:%GOLD%Infernostride%CONTINUE%//
-ItemDisplay[UNI !ID xvb]:%GOLD%Waterwalk%CONTINUE%//
-ItemDisplay[UNI !ID xmb]:%GOLD%Silkweave %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xtb]:%GOLD%War Traveler %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID xhb]:%GOLD%Gore Rider %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID zlb]:%GOLD%String of Ears%CONTINUE%//
-ItemDisplay[UNI !ID zvb]:%GOLD%Razortail%CONTINUE%//
-ItemDisplay[UNI !ID zmb]:%GOLD%Gloom's Trap %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID ztb]:%GOLD%Snowclash %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID zhb]:%GOLD%Thundergod's Vigor %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9ha]:%GOLD%Coldkill %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9ax]:%GOLD%Butcher's Pupil %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 92a]:%GOLD%Islestrike %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9mp]:%GOLD%Pompeii's Wrath %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9wa]:%GOLD%Guardian Naga %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9la]:%GOLD%Warlord's Trust%CONTINUE%//
-ItemDisplay[UNI !ID 9ba]:%GOLD%Spellsteel %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9bt]:%GOLD%Stormrider %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9ga]:%GOLD%Boneslayer Blade %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9gi]:%GOLD%The Minotaur %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 8sb]:%GOLD%Skystrike%CONTINUE%//
-ItemDisplay[UNI !ID 8hb]:%GOLD%Riphook%CONTINUE%//
-ItemDisplay[UNI !ID 8lb]:%GOLD%Kuko Shakaku%CONTINUE%//
-ItemDisplay[UNI !ID 8cb]:%GOLD%Endlesshail%CONTINUE%//
-ItemDisplay[UNI !ID 8s8]:%GOLD%Witchwild String %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 8l8]:%GOLD%Cliffkiller %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 8sw]:%GOLD%Magewrath %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 8lw]:%GOLD%Goldstrike Arch %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 8lx]:%GOLD%Langer Briser%CONTINUE%//
-ItemDisplay[UNI !ID 8mx]:%GOLD%Pus Spitter %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 8hx]:%GOLD%Buriza-Do Kyanon %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 8rx]:%GOLD%Demon Machine %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9dg]:%GOLD%Spineripper%CONTINUE%//
-ItemDisplay[UNI !ID 9di]:%GOLD%Heart Carver %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9kr]:%GOLD%Blackbog's Sharp %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9bl]:%GOLD%Stormspike %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9cl]:%GOLD%Dark Clan Crusher%CONTINUE%//
-ItemDisplay[UNI !ID 9sp]:%GOLD%Fleshrender %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9ma]:%GOLD%Sureshrill Frost %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9mt]:%GOLD%Moonfall %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9fl]:%GOLD%Baezil's Vortex %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9wh]:%GOLD%Earthshaker %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9m9]:%GOLD%Bloodtree Stump %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9gm]:%GOLD%The Gavel Of Pain %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9b7]:%GOLD%The Meat Scraper %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9vo]:%GOLD%Blackleach Blade %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9s8]:%GOLD%Athena's Wrath %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9pa]:%GOLD%Pierre Tombale Couant %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9h9]:%GOLD%Husoldal Evo %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9wc]:%GOLD%Grim's Burning Dead %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9sc]:%GOLD%Zakarum's Hand %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9qs]:%GOLD%The Fetid Sprinkler %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9ws]:%GOLD%Hand of Blessed Light %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9sr]:%GOLD%The Impaler%CONTINUE%//
-ItemDisplay[UNI !ID 9tr]:%GOLD%Kelpie Snare%CONTINUE%//
-ItemDisplay[UNI !ID 9br]:%GOLD%Soulfeast Tine %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9st]:%GOLD%Hone Sundan %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9p9]:%GOLD%Spire of Honor %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 8ss]:%GOLD%Razorswitch%CONTINUE%//
-ItemDisplay[UNI !ID 8ls]:%GOLD%Ribcracker%CONTINUE%//
-ItemDisplay[UNI !ID 8cs]:%GOLD%Chromatic Ire%CONTINUE%//
-ItemDisplay[UNI !ID 8bs]:%GOLD%Warpspear %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 8ws]:%GOLD%Skull Collector %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9ss]:%GOLD%Bloodletter%CONTINUE%//
-ItemDisplay[UNI !ID 9sm]:%GOLD%Coldsteel Eye %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9sb]:%GOLD%Hexfire%CONTINUE%//
-ItemDisplay[UNI !ID 9fc]:%GOLD%Blade of Ali Baba%CONTINUE%//
-ItemDisplay[UNI !ID 9cr]:%GOLD%Ginther's Rift%CONTINUE%//
-ItemDisplay[UNI !ID 9bs]:%GOLD%Headstriker %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9ls]:%GOLD%Plague Bearer %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9wd]:%GOLD%The Atlantean %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 92h]:%GOLD%Crainte Vomir %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9cm]:%GOLD%Bing Sz Wang %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9gs]:%GOLD%The Vile Husk %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9b9]:%GOLD%Cloudcrack %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9fb]:%GOLD%Todesfaelle Flamme %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9gd]:%GOLD%Swordguard %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9tk]:%GOLD%Deathbit %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9ta]:%GOLD%The Scalper %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9wn]:%GOLD%Suicide Branch%CONTINUE%//
-ItemDisplay[UNI !ID 9yw]:%GOLD%Carin Shard%CONTINUE%//
-ItemDisplay[UNI !ID 9bw]:%GOLD%Arm of King Leoric %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID 9gw]:%GOLD%Blackhand Key %GRAY%nm%CONTINUE%//
-ItemDisplay[UNI !ID uap]:%GOLD%Harlequin Crest %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID ulm]:%GOLD%Steel Shade %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID uhm]:%GOLD%Veil of Steel %GRAY%h / %GOLD%Nightwing's Veil %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID usk]:%GOLD%Andariel's Visage %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID urn]:%GOLD%Crown of Ages %GRAY%h+%CONTINUE%//
-ItemDisplay[UNI !ID uh9]:%GOLD%Giant Skull %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID uui]:%GOLD%Ormus' Robes %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID utu]:%GOLD%The Gladiator's Bane %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID upl]:%GOLD%Arkaine's Valor %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID uld]:%GOLD%Leviathan %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID uul]:%GOLD%Steel Carapace %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID uar]:%GOLD%Templar's Might %GRAY%h / %GOLD%Tyrael's Might %GRAY%h+%CONTINUE%//
-ItemDisplay[UNI !ID uml]:%GOLD%Blackoak Shield %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID uit]:%GOLD%Stormshield %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID upk]:%GOLD%Spike Thorn %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID uow]:%GOLD%Medusa's Gaze %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID ush]:%GOLD%Head Hunter's Glory %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID uts]:%GOLD%Spirit Ward %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID uvg]:%GOLD%Dracul's Grasp %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID umg]:%GOLD%Soul Drainer %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID uhg]:%GOLD%Steelrend %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID uvb]:%GOLD%Sandstorm Trek %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID umb]:%GOLD%Marrowwalk %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID uhb]:%GOLD%Shadow Dancer %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID ulc]:%GOLD%Arachnid Mesh %GRAY%h+%CONTINUE%//
-ItemDisplay[UNI !ID uvc]:%GOLD%Nosferatu's Coil %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID umc]:%GOLD%Verdungo's Hearty Cord %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7ha]:%GOLD%Razor's Edge %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 72a]:%GOLD%Rune Master %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7mp]:%GOLD%Cranebeak %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7wa]:%GOLD%Death Cleaver %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7ba]:%GOLD%Ethereal Edge %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7bt]:%GOLD%Hellslayer %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7ga]:%GOLD%Messerschmidt's Reaver %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7gi]:%GOLD%Executioner's Justice %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 6l7]:%GOLD%Eaglehorn %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 6sw]:%GOLD%Widowmaker %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 6lw]:%GOLD%Windforce %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 6hx]:%GOLD%Hellrack %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 6rx]:%GOLD%Gut Siphon %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7dg]:%GOLD%Wizardspike %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7kr]:%GOLD%Fleshripper %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7bl]:%GOLD%Ghostflame %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7s7]:%GOLD%Demon's Arch %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7gl]:%GOLD%Wraith Flight %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7ts]:%GOLD%Gargoyle's Bite %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7cl]:%GOLD%Nord's Tenderizer %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7sp]:%GOLD%Demon Limb %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7mt]:%GOLD%Baranar's Star %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7fl]:%GOLD%Horizon's Tornado %GRAY%h / %GOLD%Stormlash %GRAY%h+%CONTINUE%//
-ItemDisplay[UNI !ID 7wh]:%GOLD%Stone Crusher %GRAY%h / %GOLD%Schaefer's Hammer %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7m7]:%GOLD%Windhammer %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7gm]:%GOLD%Earth Shifter %GRAY%h / %GOLD%The Cranium Basher %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7o7]:%GOLD%Bonehew %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7s8]:%GOLD%The Reaper's Toll %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7pa]:%GOLD%Tomb Reaver %GRAY%h+%CONTINUE%//
-ItemDisplay[UNI !ID 7wc]:%GOLD%Stormspire %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7sc]:%GOLD%Heaven's Light %GRAY%h / %GOLD%The Redeemer %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7ws]:%GOLD%Astreon's Iron Ward %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7sr]:%GOLD%Arioc's Needle %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7br]:%GOLD%Viperfork %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7p7]:%GOLD%Steel Pillar %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 6cs]:%GOLD%Ondal's Wisdom %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 6ws]:%GOLD%Mang Song's Lesson %GRAY%h+%CONTINUE%//
-ItemDisplay[UNI !ID 7sm]:%GOLD%Djinn Slayer %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7sb]:%GOLD%Bloodmoon %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7cr]:%GOLD%Lightsabre %GRAY%h / %GOLD%Azurewrath %GRAY%h+%CONTINUE%//
-ItemDisplay[UNI !ID 7ls]:%GOLD%Frostwind %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7gs]:%GOLD%Flamebellow %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7b7]:%GOLD%Doombringer %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7gd]:%GOLD%The Grandfather %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7bk]:%GOLD%Warshrike %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7ta]:%GOLD%Gimmershred %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7b8]:%GOLD%Lacerator %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7bw]:%GOLD%Boneshade %GRAY%h%CONTINUE%//
-ItemDisplay[UNI !ID 7gw]:%GOLD%Death's Web %%GRAY%h%CONTINUE%//
+ItemDisplay[rin !ID SET]:%GREEN%%NAME%%CONTINUE%//
+ItemDisplay[amu !ID SET]:%GREEN%%NAME%%CONTINUE%//
+ItemDisplay[tgl !ID SET]:%GREEN%Arctic/Iratha%CONTINUE%//
+ItemDisplay[cap !ID SET]:%GREEN%Infernal/Sander%CONTINUE%//
+ItemDisplay[crn !ID SET]:%GREEN%Iratha/Milabrega%CONTINUE%//
+ItemDisplay[vbt !ID SET]:%GREEN%Cow King/Sander%CONTINUE%//
+ItemDisplay[mbl !ID SET]:%GREEN%Hsaru/Hwanin%CONTINUE%//
+ItemDisplay[tbl !ID SET]:%GREEN%Infernal/Iratha%CONTINUE%//
+ItemDisplay[wst !ID SET]:%GREEN%Arcanna's Deathwand%CONTINUE%//
+ItemDisplay[ltp !ID SET]:%GREEN%Arcanna's Flesh%CONTINUE%//
+ItemDisplay[skp !ID SET]:%GREEN%Arcanna's Head%CONTINUE%//
+ItemDisplay[vbl !ID SET]:%GREEN%Arctic Binding%CONTINUE%//
+ItemDisplay[qui !ID SET]:%GREEN%Arctic Furs%CONTINUE%//
+ItemDisplay[swb !ID SET]:%GREEN%Arctic Horn%CONTINUE%//
+ItemDisplay[2ax !ID SET]:%GREEN%Berserker's Hatchet%CONTINUE%//
+ItemDisplay[spl !ID SET]:%GREEN%Berserker's Hauberk%CONTINUE%//
+ItemDisplay[hlm !ID SET]:%GREEN%Berserker's Headgear%CONTINUE%//
+ItemDisplay[msk !ID SET]:%GREEN%Cathan's Visage%CONTINUE%//
+ItemDisplay[chn !ID SET]:%GREEN%Cathan's Mesh%CONTINUE%//
+ItemDisplay[bst !ID SET]:%GREEN%Cathan's Rule%CONTINUE%//
+ItemDisplay[gsc !ID SET]:%GREEN%Civerb's Cudgel%CONTINUE%//
+ItemDisplay[lrg !ID SET]:%GREEN%Civerb's Ward%CONTINUE%//
+ItemDisplay[sml !ID SET]:%GREEN%Cleglaw's Claw%CONTINUE%//
+ItemDisplay[mgl !ID SET]:%GREEN%Cleglaw's Pincers%CONTINUE%//
+ItemDisplay[lsd !ID SET]:%GREEN%Cleglaw's Tooth%CONTINUE%//
+ItemDisplay[rng !ID SET]:%GREEN%Angelic Mantle%CONTINUE%//
+ItemDisplay[sbr !ID SET]:%GREEN%Angelic Sickle%CONTINUE%//
+ItemDisplay[buc !ID SET]:%GREEN%Hsaru's Iron Fist%CONTINUE%//
+ItemDisplay[mbt !ID SET]:%GREEN%Hsaru's Iron Heel%CONTINUE%//
+ItemDisplay[dgr !ID SET]:%GREEN%Infernal Spine%CONTINUE%//
+ItemDisplay[gwn !ID SET]:%GREEN%Infernal Torch%CONTINUE%//
+ItemDisplay[fhl !ID SET]:%GREEN%Isenhart's Horns%CONTINUE%//
+ItemDisplay[brs !ID SET]:%GREEN%Isenhart's Case%CONTINUE%//
+ItemDisplay[bsd !ID SET]:%GREEN%Isenhart's Lightbrand%CONTINUE%//
+ItemDisplay[gts !ID SET]:%GREEN%Isenhart's Parry%CONTINUE%//
+ItemDisplay[kit !ID SET]:%GREEN%Milabrega's Orb%CONTINUE%//
+ItemDisplay[aar !ID SET]:%GREEN%Milabrega's Robe %GRAY%nm%CONTINUE%//
+ItemDisplay[wsp !ID SET]:%GREEN%Milabrega's Rod%CONTINUE%//
+ItemDisplay[hgl !ID SET]:%GREEN%Sigon's Gage%CONTINUE%//
+ItemDisplay[tow !ID SET]:%GREEN%Sigon's Guard%CONTINUE%//
+ItemDisplay[hbt !ID SET]:%GREEN%Sigon's Sabot%CONTINUE%//
+ItemDisplay[gth !ID SET]:%GREEN%Sigon's Shelter%CONTINUE%//
+ItemDisplay[ghm !ID SET]:%GREEN%Sigon's Visor%CONTINUE%//
+ItemDisplay[hbl !ID SET]:%GREEN%Sigon's Wrap%CONTINUE%//
+ItemDisplay[mpi !ID SET]:%GREEN%Tancred's Crowbill%CONTINUE%//
+ItemDisplay[lbt !ID SET]:%GREEN%Tancred's Hobnails%CONTINUE%//
+ItemDisplay[bhm !ID SET]:%GREEN%Tancred's Skull%CONTINUE%//
+ItemDisplay[ful !ID SET]:%GREEN%Tancred's Spine%CONTINUE%//
+ItemDisplay[lbl !ID SET]:%GREEN%Death's Guard%CONTINUE%//
+ItemDisplay[lgl !ID SET]:%GREEN%Death's Hand%CONTINUE%//
+ItemDisplay[wsd !ID SET]:%GREEN%Death's Touch%CONTINUE%//
+ItemDisplay[lea !ID SET]:%GREEN%Vidala's Ambush%CONTINUE%//
+ItemDisplay[lbb !ID SET]:%GREEN%Vidala's Barb%CONTINUE%//
+ItemDisplay[tbt !ID SET]:%GREEN%Vidala's Fetlock%CONTINUE%//
+ItemDisplay[7ma !ID SET]:%GREEN%Dangoon's Teaching %GRAY%nm%CONTINUE%//
+ItemDisplay[xrs !ID SET]:%GREEN%Haemosu's Adament %GRAY%nm%CONTINUE%//
+ItemDisplay[uhm !ID SET]:%GREEN%Ondal's Almighty %GRAY%h%CONTINUE%//
+ItemDisplay[uts !ID SET]:%GREEN%Taebaek's Glory %GRAY%h%CONTINUE%//
+ItemDisplay[umc !ID SET]:%GREEN%Credendum %GRAY%h%CONTINUE%//
+ItemDisplay[uui !ID SET]:%GREEN%Dark Adherent %GRAY%nm%CONTINUE%//
+ItemDisplay[ulg !ID SET]:%GREEN%Laying of Hands %GRAY%nm%CONTINUE%//
+ItemDisplay[xlb !ID SET]:%GREEN%Rite of Passage%CONTINUE%//
+ItemDisplay[9vo !ID SET]:%GREEN%Hwanin's Justice%CONTINUE%//
+ItemDisplay[xcl !ID SET]:%GREEN%Hwanin's Refuge %GRAY%nm%CONTINUE%//
+ItemDisplay[xrn !ID SET]:%GREEN%Hwanin's Splendor %GRAY%nm%CONTINUE%//
+ItemDisplay[stu !ID SET]:%GREEN%Cow King's Hide%CONTINUE%//
+ItemDisplay[xap !ID SET]:%GREEN%Cow King's Horns%CONTINUE%//
+ItemDisplay[ci0 !ID SET]:%GREEN%Naj's Circlet%CONTINUE%//
+ItemDisplay[ult !ID SET]:%GREEN%Naj's Light Plate %GRAY%h%CONTINUE%//
+ItemDisplay[6cs !ID SET]:%GREEN%Naj's Puzzler %GRAY%h%CONTINUE%//
+ItemDisplay[bwn !ID SET]:%GREEN%Sander's Superstition%CONTINUE%//
+ItemDisplay[vgl !ID SET]:%GREEN%Sander's Taboo%CONTINUE%//
+ItemDisplay[7ls !ID SET]:%GREEN%Sazabi's Cobalt Redeemer %GRAY%h%CONTINUE%//
+ItemDisplay[upl !ID SET]:%GREEN%Sazabi's Ghost Liberator %GRAY%h%CONTINUE%//
+ItemDisplay[xhl !ID SET]:%GREEN%Sazabi's Sazabi's Mental Sheath %GRAY%nm%CONTINUE%//
+ItemDisplay[xhm !ID SET]:%GREEN%Guillaume's Face %GRAY%nm%CONTINUE%//
+ItemDisplay[xvg !ID SET]:%GREEN%Magnus's Skin%CONTINUE%//
+ItemDisplay[xml !ID SET]:%GREEN%Whitstan's Guard%CONTINUE%//
+ItemDisplay[ztb !ID SET]:%GREEN%Wilhelm's Pride %GRAY%nm%CONTINUE%//
+ItemDisplay[xtb !ID SET]:%GREEN%Aldur's Advance %GRAY%nm%CONTINUE%//
+ItemDisplay[uul !ID SET]:%GREEN%Aldur's Deception %GRAY%h%CONTINUE%//
+ItemDisplay[9mt !ID SET]:%GREEN%Aldur's Rhythm%CONTINUE%//
+ItemDisplay[dr8 !ID SET]:%GREEN%Aldur's Stony Gaze %GRAY%nm%CONTINUE%//
+ItemDisplay[7gd !ID SET]:%GREEN%Bul-kathos' Sacred Charge %GRAY%h%CONTINUE%//
+ItemDisplay[7fb !ID SET]:%GREEN%Bul-kathos' Tribal Guardian %GRAY%h%CONTINUE%//
+ItemDisplay[xar !ID SET]:%GREEN%Griswold's Heart %GRAY%nm%CONTINUE%//
+ItemDisplay[paf !ID SET]:%GREEN%Griswold's Honor %GRAY%h%CONTINUE%//
+ItemDisplay[7ws !ID SET]:%GREEN%Griswold's Redemption %GRAY%h%CONTINUE%//
+ItemDisplay[urn !ID SET]:%GREEN%Griswold's Valor %GRAY%h%CONTINUE%//
+ItemDisplay[amc !ID SET]:%GREEN%M'avina's Caster %GRAY%h%CONTINUE%//
+ItemDisplay[uld !ID SET]:%GREEN%M'avina's Embrace %GRAY%h%CONTINUE%//
+ItemDisplay[xtg !ID SET]:%GREEN%M'avina's Icy Clutch %GRAY%nm%CONTINUE%//
+ItemDisplay[zvb !ID SET]:%GREEN%M'avina's Tenet%CONTINUE%//
+ItemDisplay[ci3 !ID SET]:%GREEN%M'avina's True Sight %GRAY%h%CONTINUE%//
+ItemDisplay[7qr !ID SET]:%GREEN%Natalya's Mark %GRAY%h%CONTINUE%//
+ItemDisplay[ucl !ID SET]:%GREEN%Natalya's Shadow %GRAY%h%CONTINUE%//
+ItemDisplay[xmb !ID SET]:%GREEN%Natalya's Soul %GRAY%nm%CONTINUE%//
+ItemDisplay[xh9 !ID SET]:%GREEN%Natalya's Totem %GRAY%nm%CONTINUE%//
+ItemDisplay[zmb !ID SET]:%GREEN%Tal Rasha's Fine-Spun Cloth %GRAY%nm%CONTINUE%//
+ItemDisplay[uth !ID SET]:%GREEN%Tal Rasha's Guardianship %GRAY%h%CONTINUE%//
+ItemDisplay[xsk !ID SET]:%GREEN%Tal Rasha's Horadric Crest %GRAY%nm%CONTINUE%//
+ItemDisplay[oba !ID SET]:%GREEN%Tal Rasha's Lidless Eye %GRAY%nm%CONTINUE%//
+ItemDisplay[xmg !ID SET]:%GREEN%Trang-Oul's Claws %GRAY%nm%CONTINUE%//
+ItemDisplay[utc !ID SET]:%GREEN%Trang-Oul's Girth %GRAY%h%CONTINUE%//
+ItemDisplay[uh9 !ID SET]:%GREEN%Trang-Oul's Guise %GRAY%h%CONTINUE%//
+ItemDisplay[xul !ID SET]:%GREEN%Trang-Oul's Scales %GRAY%nm%CONTINUE%//
+ItemDisplay[ne9 !ID SET]:%GREEN%Trang-Oul's Wing %GRAY%nm%CONTINUE%//
+ItemDisplay[zhb !ID SET]:%GREEN%Immortal King's Detail %GRAY%nm%CONTINUE%//
+ItemDisplay[xhg !ID SET]:%GREEN%Immortal King's Forge %GRAY%nm%CONTINUE%//
+ItemDisplay[xhb !ID SET]:%GREEN%Immortal King's Pillar %GRAY%nm%CONTINUE%//
+ItemDisplay[uar !ID SET]:%GREEN%Immortal King's Soul Cage %GRAY%h%CONTINUE%//
+ItemDisplay[7m7 !ID SET]:%GREEN%Immortal King's Stone Crusher %GRAY%h%CONTINUE%//
+ItemDisplay[ba5 !ID SET]:%GREEN%Immortal King's Will%CONTINUE%//
+ItemDisplay[rin !ID UNI]:%GOLD%%NAME%%CONTINUE%//
+ItemDisplay[amu !ID UNI]:%GOLD%%NAME%%CONTINUE%//
+ItemDisplay[cm1 !ID UNI]:%GOLD%ooo Annihilus ooo%CONTINUE%//
+ItemDisplay[cm2 !ID UNI]:%GOLD%ooo Hellfire Torch ooo%CONTINUE%//
+ItemDisplay[cm3 !ID UNI]:%GOLD%Gheed's Fortune oo%CONTINUE%//
+ItemDisplay[jew !ID UNI]:%GOLD%Rainbow Facet %GRAY%h%CONTINUE%//
+ItemDisplay[ci2 !ID UNI]:%GOLD%Kira's Guardian %GRAY%h%CONTINUE%//
+ItemDisplay[ci3 !ID UNI]:%GOLD%Griffon's Eye %GRAY%h%CONTINUE%//
+ItemDisplay[amd !ID UNI]:%GOLD%Stoneraven %GRAY%h%CONTINUE%//
+ItemDisplay[am9 !ID UNI]:%GOLD%Lycander's Flank %GRAY%nm%CONTINUE%//
+ItemDisplay[am7 !ID UNI]:%GOLD%Lycander's Aim %GRAY%nm%CONTINUE%//
+ItemDisplay[ama !ID UNI]:%GOLD%Titan's Revenge %GRAY%nm%CONTINUE%//
+ItemDisplay[amf !ID UNI]:%GOLD%Thunderstroke %GRAY%h%CONTINUE%//
+ItemDisplay[amb !ID UNI]:%GOLD%Blood Raven's Charge %GRAY%h%CONTINUE%//
+ItemDisplay[7cs !ID UNI]:%GOLD%Shadow Killer %GRAY%h%CONTINUE%//
+ItemDisplay[9tw !ID UNI]:%GOLD%Bartuc's Cut-Throat %GRAY%nm%CONTINUE%//
+ItemDisplay[7wb !ID UNI]:%GOLD%Jade Talon %GRAY%h%CONTINUE%//
+ItemDisplay[7lw !ID UNI]:%GOLD%Firelizard's Talons %GRAY%h%CONTINUE%//
+ItemDisplay[nea !ID UNI]:%GOLD%Homunculus %GRAY%nm%CONTINUE%//
+ItemDisplay[nef !ID UNI]:%GOLD%Darkforce Spawn %GRAY%h%CONTINUE%//
+ItemDisplay[nee !ID UNI]:%GOLD%Boneflame %GRAY%h%CONTINUE%//
+ItemDisplay[baa !ID UNI]:%GOLD%Arreat's Face %GRAY%nm%CONTINUE%//
+ItemDisplay[bac !ID UNI]:%GOLD%Wolfhowl %GRAY%h%CONTINUE%//
+ItemDisplay[bad !ID UNI]:%GOLD%Demonhorn's Edge %GRAY%h%CONTINUE%//
+ItemDisplay[bae !ID UNI]:%GOLD%Halaberd's Reign %GRAY%h%CONTINUE%//
+ItemDisplay[oba !ID UNI]:%GOLD%The Oculus %GRAY%nm%CONTINUE%//
+ItemDisplay[obc !ID UNI]:%GOLD%Eschuta's Temper %GRAY%h%CONTINUE%//
+ItemDisplay[obf !ID UNI]:%GOLD%Death's Fathom %GRAY%h%CONTINUE%//
+ItemDisplay[dra !ID UNI]:%GOLD%Jalal's Mane %GRAY%nm%CONTINUE%//
+ItemDisplay[drb !ID UNI]:%GOLD%Cerebus' Bite %GRAY%h%CONTINUE%//
+ItemDisplay[dre !ID UNI]:%GOLD%Ravenlore %GRAY%h%CONTINUE%//
+ItemDisplay[drd !ID UNI]:%GOLD%Spirit Keeper %GRAY%h%CONTINUE%//
+ItemDisplay[pac !ID UNI]:%GOLD%Alma Negra %GRAY%h%CONTINUE%//
+ItemDisplay[pa9 !ID UNI]:%GOLD%Herald of Zakarum %GRAY%nm%CONTINUE%//
+ItemDisplay[pae !ID UNI]:%GOLD%Dragonscale %GRAY%h%CONTINUE%//
+ItemDisplay[cap !ID UNI]:%GOLD%Biggin's Bonnet%CONTINUE%//
+ItemDisplay[skp !ID UNI]:%GOLD%Tarnhelm%CONTINUE%//
+ItemDisplay[hlm !ID UNI]:%GOLD%Coif of Glory%CONTINUE%//
+ItemDisplay[fhl !ID UNI]:%GOLD%Duskdeep%CONTINUE%//
+ItemDisplay[ghm !ID UNI]:%GOLD%Howltusk%CONTINUE%//
+ItemDisplay[msk !ID UNI]:%GOLD%The Face of Horror%CONTINUE%//
+ItemDisplay[crn !ID UNI]:%GOLD%Undead Crown%CONTINUE%//
+ItemDisplay[bhm !ID UNI]:%GOLD%Wormskull%CONTINUE%//
+ItemDisplay[qui !ID UNI]:%GOLD%Greyform%CONTINUE%//
+ItemDisplay[lea !ID UNI]:%GOLD%Blinkbat's Form%CONTINUE%//
+ItemDisplay[hla !ID UNI]:%GOLD%The Centurion%CONTINUE%//
+ItemDisplay[stu !ID UNI]:%GOLD%Twitchthroe%CONTINUE%//
+ItemDisplay[rng !ID UNI]:%GOLD%Darkglow%CONTINUE%//
+ItemDisplay[scl !ID UNI]:%GOLD%Hawkmail%CONTINUE%//
+ItemDisplay[brs !ID UNI]:%GOLD%Venom Ward%CONTINUE%//
+ItemDisplay[chn !ID UNI]:%GOLD%Sparking Mail%CONTINUE%//
+ItemDisplay[spl !ID UNI]:%GOLD%Iceblink%CONTINUE%//
+ItemDisplay[ltp !ID UNI]:%GOLD%Heavenly Garb%CONTINUE%//
+ItemDisplay[fld !ID UNI]:%GOLD%Rockfleece%CONTINUE%//
+ItemDisplay[plt !ID UNI]:%GOLD%Boneflesh%CONTINUE%//
+ItemDisplay[gth !ID UNI]:%GOLD%Rattlecage%CONTINUE%//
+ItemDisplay[ful !ID UNI]:%GOLD%Goldskin%CONTINUE%//
+ItemDisplay[aar !ID UNI]:%GOLD%Silks of the Victor %GRAY%nm%CONTINUE%//
+ItemDisplay[buc !ID UNI]:%GOLD%Pelta Lunata%CONTINUE%//
+ItemDisplay[sml !ID UNI]:%GOLD%Umbral Disk%CONTINUE%//
+ItemDisplay[lrg !ID UNI]:%GOLD%Stormguild%CONTINUE%//
+ItemDisplay[kit !ID UNI]:%GOLD%Steelclash%CONTINUE%//
+ItemDisplay[spk !ID UNI]:%GOLD%Swordback Hold%CONTINUE%//
+ItemDisplay[tow !ID UNI]:%GOLD%Bverrit Keep%CONTINUE%//
+ItemDisplay[bsh !ID UNI]:%GOLD%Wall of the Eyeless%CONTINUE%//
+ItemDisplay[gts !ID UNI]:%GOLD%The Ward%CONTINUE%//
+ItemDisplay[lgl !ID UNI]:%GOLD%The Hand of Broc%CONTINUE%//
+ItemDisplay[vgl !ID UNI]:%GOLD%Bloodfist%CONTINUE%//
+ItemDisplay[mgl !ID UNI]:%GOLD%Chance Guards%CONTINUE%//
+ItemDisplay[tgl !ID UNI]:%GOLD%Magefist%CONTINUE%//
+ItemDisplay[hgl !ID UNI]:%GOLD%Frostburn%CONTINUE%//
+ItemDisplay[lbt !ID UNI]:%GOLD%Hotspur%CONTINUE%//
+ItemDisplay[vbt !ID UNI]:%GOLD%Gorefoot%CONTINUE%//
+ItemDisplay[mbt !ID UNI]:%GOLD%Treads of Cthon%CONTINUE%//
+ItemDisplay[tbt !ID UNI]:%GOLD%Goblin Toe%CONTINUE%//
+ItemDisplay[hbt !ID UNI]:%GOLD%Tearhaunch%CONTINUE%//
+ItemDisplay[lbl !ID UNI]:%GOLD%Lenymo%CONTINUE%//
+ItemDisplay[vbl !ID UNI]:%GOLD%Snakecord%CONTINUE%//
+ItemDisplay[mbl !ID UNI]:%GOLD%Nightsmoke%CONTINUE%//
+ItemDisplay[tbl !ID UNI]:%GOLD%Goldwrap%CONTINUE%//
+ItemDisplay[hbl !ID UNI]:%GOLD%Bladebuckle%CONTINUE%//
+ItemDisplay[hax !ID UNI]:%GOLD%The Gnasher%CONTINUE%//
+ItemDisplay[axe !ID UNI]:%GOLD%Deathspade%CONTINUE%//
+ItemDisplay[2ax !ID UNI]:%GOLD%Bladebone%CONTINUE%//
+ItemDisplay[mpi !ID UNI]:%GOLD%Skull Splitter%CONTINUE%//
+ItemDisplay[wax !ID UNI]:%GOLD%Rakescar%CONTINUE%//
+ItemDisplay[lax !ID UNI]:%GOLD%Axe of Fechmar%CONTINUE%//
+ItemDisplay[bax !ID UNI]:%GOLD%Goreshovel%CONTINUE%//
+ItemDisplay[btx !ID UNI]:%GOLD%The Chieftain%CONTINUE%//
+ItemDisplay[gax !ID UNI]:%GOLD%Brainhew%CONTINUE%//
+ItemDisplay[gix !ID UNI]:%GOLD%Humongous%CONTINUE%//
+ItemDisplay[sbw !ID UNI]:%GOLD%Pluckeye%CONTINUE%//
+ItemDisplay[hbw !ID UNI]:%GOLD%Witherstring%CONTINUE%//
+ItemDisplay[lbw !ID UNI]:%GOLD%Raven Claw%CONTINUE%//
+ItemDisplay[cbw !ID UNI]:%GOLD%Rogue's Bow%CONTINUE%//
+ItemDisplay[sbb !ID UNI]:%GOLD%Stormstrike%CONTINUE%//
+ItemDisplay[lbb !ID UNI]:%GOLD%Wizendraw%CONTINUE%//
+ItemDisplay[swb !ID UNI]:%GOLD%Hellclap%CONTINUE%//
+ItemDisplay[lwb !ID UNI]:%GOLD%Blastbark%CONTINUE%//
+ItemDisplay[lxb !ID UNI]:%GOLD%Leadcrow%CONTINUE%//
+ItemDisplay[mxb !ID UNI]:%GOLD%Ichorsting%CONTINUE%//
+ItemDisplay[hxb !ID UNI]:%GOLD%Hellcast%CONTINUE%//
+ItemDisplay[rxb !ID UNI]:%GOLD%Doomslinger%CONTINUE%//
+ItemDisplay[dgr !ID UNI]:%GOLD%Gull%CONTINUE%//
+ItemDisplay[dir !ID UNI]:%GOLD%The Diggler%CONTINUE%//
+ItemDisplay[kri !ID UNI]:%GOLD%The Jade Tan Do%CONTINUE%//
+ItemDisplay[bld !ID UNI]:%GOLD%Spectral Shard%CONTINUE%//
+ItemDisplay[clb !ID UNI]:%GOLD%Felloak%CONTINUE%//
+ItemDisplay[spc !ID UNI]:%GOLD%Stoutnail%CONTINUE%//
+ItemDisplay[mac !ID UNI]:%GOLD%Crushflange%CONTINUE%//
+ItemDisplay[mst !ID UNI]:%GOLD%Bloodrise%CONTINUE%//
+ItemDisplay[fla !ID UNI]:%GOLD%The General's Tan Do Li Ga%CONTINUE%//
+ItemDisplay[whm !ID UNI]:%GOLD%Ironstone%CONTINUE%//
+ItemDisplay[mau !ID UNI]:%GOLD%Bonesnap%CONTINUE%//
+ItemDisplay[gma !ID UNI]:%GOLD%Steeldriver%CONTINUE%//
+ItemDisplay[bar !ID UNI]:%GOLD%Dimoak's Hew%CONTINUE%//
+ItemDisplay[vou !ID UNI]:%GOLD%Steelgoad%CONTINUE%//
+ItemDisplay[scy !ID UNI]:%GOLD%Soul Harvest%CONTINUE%//
+ItemDisplay[pax !ID UNI]:%GOLD%The Battlebranch%CONTINUE%//
+ItemDisplay[hal !ID UNI]:%GOLD%Woestave%CONTINUE%//
+ItemDisplay[wsc !ID UNI]:%GOLD%The Grim Reaper%CONTINUE%//
+ItemDisplay[scp !ID UNI]:%GOLD%Knell Striker%CONTINUE%//
+ItemDisplay[gsc !ID UNI]:%GOLD%Rusthandle%CONTINUE%//
+ItemDisplay[wsp !ID UNI]:%GOLD%Stormeye%CONTINUE%//
+ItemDisplay[spr !ID UNI]:%GOLD%The Dragon Chang%CONTINUE%//
+ItemDisplay[tri !ID UNI]:%GOLD%Razortine%CONTINUE%//
+ItemDisplay[brn !ID UNI]:%GOLD%Bloodthief%CONTINUE%//
+ItemDisplay[spt !ID UNI]:%GOLD%Lance of Yaggai%CONTINUE%//
+ItemDisplay[pik !ID UNI]:%GOLD%The Tannr Gorerod%CONTINUE%//
+ItemDisplay[sst !ID UNI]:%GOLD%Bane Ash%CONTINUE%//
+ItemDisplay[lst !ID UNI]:%GOLD%Serpent Lord%CONTINUE%//
+ItemDisplay[cst !ID UNI]:%GOLD%Spire of Lazarus%CONTINUE%//
+ItemDisplay[bst !ID UNI]:%GOLD%The Salamander%CONTINUE%//
+ItemDisplay[wst !ID UNI]:%GOLD%The Iron Jang Bong%CONTINUE%//
+ItemDisplay[ssd !ID UNI]:%GOLD%Rixot's Keen%CONTINUE%//
+ItemDisplay[scm !ID UNI]:%GOLD%Blood Crescent%CONTINUE%//
+ItemDisplay[sbr !ID UNI]:%GOLD%Skewer of Krintiz%CONTINUE%//
+ItemDisplay[flc !ID UNI]:%GOLD%Gleamscythe%CONTINUE%//
+ItemDisplay[crs !ID UNI]:%GOLD%Azurewrath%CONTINUE%//
+ItemDisplay[bsd !ID UNI]:%GOLD%Griswold's Edge%CONTINUE%//
+ItemDisplay[lsd !ID UNI]:%GOLD%Hellplague%CONTINUE%//
+ItemDisplay[wsd !ID UNI]:%GOLD%Culwen's Point%CONTINUE%//
+ItemDisplay[2hs !ID UNI]:%GOLD%Shadowfang%CONTINUE%//
+ItemDisplay[clm !ID UNI]:%GOLD%Soulflay%CONTINUE%//
+ItemDisplay[gis !ID UNI]:%GOLD%Kinemil's Awl%CONTINUE%//
+ItemDisplay[bsw !ID UNI]:%GOLD%Blacktongue%CONTINUE%//
+ItemDisplay[flb !ID UNI]:%GOLD%Ripsaw%CONTINUE%//
+ItemDisplay[gsd !ID UNI]:%GOLD%The Patriarch%CONTINUE%//
+ItemDisplay[wnd !ID UNI]:%GOLD%Torch of Iro%CONTINUE%//
+ItemDisplay[ywn !ID UNI]:%GOLD%Maelstrom%CONTINUE%//
+ItemDisplay[bwn !ID UNI]:%GOLD%Gravenspine%CONTINUE%//
+ItemDisplay[gwn !ID UNI]:%GOLD%Ume's Lament%CONTINUE%//
+ItemDisplay[xap !ID UNI]:%GOLD%Peasant Crown%CONTINUE%//
+ItemDisplay[xkp !ID UNI]:%GOLD%Rockstopper%CONTINUE%//
+ItemDisplay[xlm !ID UNI]:%GOLD%Stealskull %GRAY%nm%CONTINUE%//
+ItemDisplay[xhl !ID UNI]:%GOLD%Darksight Helm %GRAY%nm%CONTINUE%//
+ItemDisplay[xhm !ID UNI]:%GOLD%Valkyrie Wing %GRAY%nm%CONTINUE%//
+ItemDisplay[xsk !ID UNI]:%GOLD%Blackhorn's Face %GRAY%nm%CONTINUE%//
+ItemDisplay[xrn !ID UNI]:%GOLD%Crown of Thieves %GRAY%nm%CONTINUE%//
+ItemDisplay[xh9 !ID UNI]:%GOLD%Vampire Gaze %GRAY%nm%CONTINUE%//
+ItemDisplay[xui !ID UNI]:%GOLD%The Spirit Shroud%CONTINUE%//
+ItemDisplay[xea !ID UNI]:%GOLD%Skin of the Vipermagi%CONTINUE%//
+ItemDisplay[xla !ID UNI]:%GOLD%Skin of the Flayed One%CONTINUE%//
+ItemDisplay[xtu !ID UNI]:%GOLD%Iron Pelt %GRAY%nm%CONTINUE%//
+ItemDisplay[xcl !ID UNI]:%GOLD%Crow Caw %GRAY%nm%CONTINUE%//
+ItemDisplay[xng !ID UNI]:%GOLD%Spirit Forge %GRAY%nm%CONTINUE%//
+ItemDisplay[xrs !ID UNI]:%GOLD%Duriel's Shell %GRAY%nm%CONTINUE%//
+ItemDisplay[xhn !ID UNI]:%GOLD%Shaftstop %GRAY%nm%CONTINUE%//
+ItemDisplay[xpl !ID UNI]:%GOLD%Skullder's Ire %GRAY%nm%CONTINUE%//
+ItemDisplay[xtp !ID UNI]:%GOLD%Que-Hegan's Wisdom %GRAY%nm%CONTINUE%//
+ItemDisplay[xld !ID UNI]:%GOLD%Toothrow %GRAY%nm%CONTINUE%//
+ItemDisplay[xlt !ID UNI]:%GOLD%Guardian Angel %GRAY%nm%CONTINUE%//
+ItemDisplay[xth !ID UNI]:%GOLD%Atma's Wail %GRAY%nm%CONTINUE%//
+ItemDisplay[xul !ID UNI]:%GOLD%Black Hades %GRAY%nm%CONTINUE%//
+ItemDisplay[xar !ID UNI]:%GOLD%Corpsemourn %GRAY%nm%CONTINUE%//
+ItemDisplay[xuc !ID UNI]:%GOLD%Visceratuant%CONTINUE%//
+ItemDisplay[xml !ID UNI]:%GOLD%Moser's Blessed Circle%CONTINUE%//
+ItemDisplay[xrg !ID UNI]:%GOLD%Stormchaser %GRAY%nm%CONTINUE%//
+ItemDisplay[xit !ID UNI]:%GOLD%Tiamat's Rebuke %GRAY%nm%CONTINUE%//
+ItemDisplay[xpk !ID UNI]:%GOLD%Lance Guard %GRAY%nm%CONTINUE%//
+ItemDisplay[xow !ID UNI]:%GOLD%Gerke's Sanctuary %GRAY%nm%CONTINUE%//
+ItemDisplay[xsh !ID UNI]:%GOLD%Lidless Wall %GRAY%nm%CONTINUE%//
+ItemDisplay[xts !ID UNI]:%GOLD%Radament's Sphere %GRAY%nm%CONTINUE%//
+ItemDisplay[xlg !ID UNI]:%GOLD%Venom Grip%CONTINUE%//
+ItemDisplay[xvg !ID UNI]:%GOLD%Gravepalm%CONTINUE%//
+ItemDisplay[xmg !ID UNI]:%GOLD%Ghoulhide %GRAY%nm%CONTINUE%//
+ItemDisplay[xtg !ID UNI]:%GOLD%Lava Gout %GRAY%nm%CONTINUE%//
+ItemDisplay[xhg !ID UNI]:%GOLD%Hellmouth %GRAY%nm%CONTINUE%//
+ItemDisplay[xlb !ID UNI]:%GOLD%Infernostride%CONTINUE%//
+ItemDisplay[xvb !ID UNI]:%GOLD%Waterwalk%CONTINUE%//
+ItemDisplay[xmb !ID UNI]:%GOLD%Silkweave %GRAY%nm%CONTINUE%//
+ItemDisplay[xtb !ID UNI]:%GOLD%War Traveler %GRAY%nm%CONTINUE%//
+ItemDisplay[xhb !ID UNI]:%GOLD%Gore Rider %GRAY%nm%CONTINUE%//
+ItemDisplay[zlb !ID UNI]:%GOLD%String of Ears%CONTINUE%//
+ItemDisplay[zvb !ID UNI]:%GOLD%Razortail%CONTINUE%//
+ItemDisplay[zmb !ID UNI]:%GOLD%Gloom's Trap %GRAY%nm%CONTINUE%//
+ItemDisplay[ztb !ID UNI]:%GOLD%Snowclash %GRAY%nm%CONTINUE%//
+ItemDisplay[zhb !ID UNI]:%GOLD%Thundergod's Vigor %GRAY%nm%CONTINUE%//
+ItemDisplay[9ha !ID UNI]:%GOLD%Coldkill %GRAY%nm%CONTINUE%//
+ItemDisplay[9ax !ID UNI]:%GOLD%Butcher's Pupil %GRAY%nm%CONTINUE%//
+ItemDisplay[92a !ID UNI]:%GOLD%Islestrike %GRAY%nm%CONTINUE%//
+ItemDisplay[9mp !ID UNI]:%GOLD%Pompeii's Wrath %GRAY%nm%CONTINUE%//
+ItemDisplay[9wa !ID UNI]:%GOLD%Guardian Naga %GRAY%nm%CONTINUE%//
+ItemDisplay[9la !ID UNI]:%GOLD%Warlord's Trust%CONTINUE%//
+ItemDisplay[9ba !ID UNI]:%GOLD%Spellsteel %GRAY%nm%CONTINUE%//
+ItemDisplay[9bt !ID UNI]:%GOLD%Stormrider %GRAY%nm%CONTINUE%//
+ItemDisplay[9ga !ID UNI]:%GOLD%Boneslayer Blade %GRAY%nm%CONTINUE%//
+ItemDisplay[9gi !ID UNI]:%GOLD%The Minotaur %GRAY%nm%CONTINUE%//
+ItemDisplay[8sb !ID UNI]:%GOLD%Skystrike%CONTINUE%//
+ItemDisplay[8hb !ID UNI]:%GOLD%Riphook%CONTINUE%//
+ItemDisplay[8lb !ID UNI]:%GOLD%Kuko Shakaku%CONTINUE%//
+ItemDisplay[8cb !ID UNI]:%GOLD%Endlesshail%CONTINUE%//
+ItemDisplay[8s8 !ID UNI]:%GOLD%Witchwild String %GRAY%nm%CONTINUE%//
+ItemDisplay[8l8 !ID UNI]:%GOLD%Cliffkiller %GRAY%nm%CONTINUE%//
+ItemDisplay[8sw !ID UNI]:%GOLD%Magewrath %GRAY%nm%CONTINUE%//
+ItemDisplay[8lw !ID UNI]:%GOLD%Goldstrike Arch %GRAY%nm%CONTINUE%//
+ItemDisplay[8lx !ID UNI]:%GOLD%Langer Briser%CONTINUE%//
+ItemDisplay[8mx !ID UNI]:%GOLD%Pus Spitter %GRAY%nm%CONTINUE%//
+ItemDisplay[8hx !ID UNI]:%GOLD%Buriza-Do Kyanon %GRAY%nm%CONTINUE%//
+ItemDisplay[8rx !ID UNI]:%GOLD%Demon Machine %GRAY%nm%CONTINUE%//
+ItemDisplay[9dg !ID UNI]:%GOLD%Spineripper%CONTINUE%//
+ItemDisplay[9di !ID UNI]:%GOLD%Heart Carver %GRAY%nm%CONTINUE%//
+ItemDisplay[9kr !ID UNI]:%GOLD%Blackbog's Sharp %GRAY%nm%CONTINUE%//
+ItemDisplay[9bl !ID UNI]:%GOLD%Stormspike %GRAY%nm%CONTINUE%//
+ItemDisplay[9cl !ID UNI]:%GOLD%Dark Clan Crusher%CONTINUE%//
+ItemDisplay[9sp !ID UNI]:%GOLD%Fleshrender %GRAY%nm%CONTINUE%//
+ItemDisplay[9ma !ID UNI]:%GOLD%Sureshrill Frost %GRAY%nm%CONTINUE%//
+ItemDisplay[9mt !ID UNI]:%GOLD%Moonfall %GRAY%nm%CONTINUE%//
+ItemDisplay[9fl !ID UNI]:%GOLD%Baezil's Vortex %GRAY%nm%CONTINUE%//
+ItemDisplay[9wh !ID UNI]:%GOLD%Earthshaker %GRAY%nm%CONTINUE%//
+ItemDisplay[9m9 !ID UNI]:%GOLD%Bloodtree Stump %GRAY%nm%CONTINUE%//
+ItemDisplay[9gm !ID UNI]:%GOLD%The Gavel Of Pain %GRAY%nm%CONTINUE%//
+ItemDisplay[9b7 !ID UNI]:%GOLD%The Meat Scraper %GRAY%nm%CONTINUE%//
+ItemDisplay[9vo !ID UNI]:%GOLD%Blackleach Blade %GRAY%nm%CONTINUE%//
+ItemDisplay[9s8 !ID UNI]:%GOLD%Athena's Wrath %GRAY%nm%CONTINUE%//
+ItemDisplay[9pa !ID UNI]:%GOLD%Pierre Tombale Couant %GRAY%nm%CONTINUE%//
+ItemDisplay[9h9 !ID UNI]:%GOLD%Husoldal Evo %GRAY%nm%CONTINUE%//
+ItemDisplay[9wc !ID UNI]:%GOLD%Grim's Burning Dead %GRAY%nm%CONTINUE%//
+ItemDisplay[9sc !ID UNI]:%GOLD%Zakarum's Hand %GRAY%nm%CONTINUE%//
+ItemDisplay[9qs !ID UNI]:%GOLD%The Fetid Sprinkler %GRAY%nm%CONTINUE%//
+ItemDisplay[9ws !ID UNI]:%GOLD%Hand of Blessed Light %GRAY%nm%CONTINUE%//
+ItemDisplay[9sr !ID UNI]:%GOLD%The Impaler%CONTINUE%//
+ItemDisplay[9tr !ID UNI]:%GOLD%Kelpie Snare%CONTINUE%//
+ItemDisplay[9br !ID UNI]:%GOLD%Soulfeast Tine %GRAY%nm%CONTINUE%//
+ItemDisplay[9st !ID UNI]:%GOLD%Hone Sundan %GRAY%nm%CONTINUE%//
+ItemDisplay[9p9 !ID UNI]:%GOLD%Spire of Honor %GRAY%nm%CONTINUE%//
+ItemDisplay[8ss !ID UNI]:%GOLD%Razorswitch%CONTINUE%//
+ItemDisplay[8ls !ID UNI]:%GOLD%Ribcracker%CONTINUE%//
+ItemDisplay[8cs !ID UNI]:%GOLD%Chromatic Ire%CONTINUE%//
+ItemDisplay[8bs !ID UNI]:%GOLD%Warpspear %GRAY%nm%CONTINUE%//
+ItemDisplay[8ws !ID UNI]:%GOLD%Skull Collector %GRAY%nm%CONTINUE%//
+ItemDisplay[9ss !ID UNI]:%GOLD%Bloodletter%CONTINUE%//
+ItemDisplay[9sm !ID UNI]:%GOLD%Coldsteel Eye %GRAY%nm%CONTINUE%//
+ItemDisplay[9sb !ID UNI]:%GOLD%Hexfire%CONTINUE%//
+ItemDisplay[9fc !ID UNI]:%GOLD%Blade of Ali Baba%CONTINUE%//
+ItemDisplay[9cr !ID UNI]:%GOLD%Ginther's Rift%CONTINUE%//
+ItemDisplay[9bs !ID UNI]:%GOLD%Headstriker %GRAY%nm%CONTINUE%//
+ItemDisplay[9ls !ID UNI]:%GOLD%Plague Bearer %GRAY%nm%CONTINUE%//
+ItemDisplay[9wd !ID UNI]:%GOLD%The Atlantean %GRAY%nm%CONTINUE%//
+ItemDisplay[92h !ID UNI]:%GOLD%Crainte Vomir %GRAY%nm%CONTINUE%//
+ItemDisplay[9cm !ID UNI]:%GOLD%Bing Sz Wang %GRAY%nm%CONTINUE%//
+ItemDisplay[9gs !ID UNI]:%GOLD%The Vile Husk %GRAY%nm%CONTINUE%//
+ItemDisplay[9b9 !ID UNI]:%GOLD%Cloudcrack %GRAY%nm%CONTINUE%//
+ItemDisplay[9fb !ID UNI]:%GOLD%Todesfaelle Flamme %GRAY%nm%CONTINUE%//
+ItemDisplay[9gd !ID UNI]:%GOLD%Swordguard %GRAY%nm%CONTINUE%//
+ItemDisplay[9tk !ID UNI]:%GOLD%Deathbit %GRAY%nm%CONTINUE%//
+ItemDisplay[9ta !ID UNI]:%GOLD%The Scalper %GRAY%nm%CONTINUE%//
+ItemDisplay[9wn !ID UNI]:%GOLD%Suicide Branch%CONTINUE%//
+ItemDisplay[9yw !ID UNI]:%GOLD%Carin Shard%CONTINUE%//
+ItemDisplay[9bw !ID UNI]:%GOLD%Arm of King Leoric %GRAY%nm%CONTINUE%//
+ItemDisplay[9gw !ID UNI]:%GOLD%Blackhand Key %GRAY%nm%CONTINUE%//
+ItemDisplay[uap !ID UNI]:%GOLD%Harlequin Crest %GRAY%h%CONTINUE%//
+ItemDisplay[ulm !ID UNI]:%GOLD%Steel Shade %GRAY%h%CONTINUE%//
+ItemDisplay[uhm !ID UNI]:%GOLD%Veil of Steel %GRAY%h / %GOLD%Nightwing's Veil %GRAY%h%CONTINUE%//
+ItemDisplay[usk !ID UNI]:%GOLD%Andariel's Visage %GRAY%h%CONTINUE%//
+ItemDisplay[urn !ID UNI]:%GOLD%Crown of Ages %GRAY%h+%CONTINUE%//
+ItemDisplay[uh9 !ID UNI]:%GOLD%Giant Skull %GRAY%h%CONTINUE%//
+ItemDisplay[uui !ID UNI]:%GOLD%Ormus' Robes %GRAY%h%CONTINUE%//
+ItemDisplay[utu !ID UNI]:%GOLD%The Gladiator's Bane %GRAY%h%CONTINUE%//
+ItemDisplay[upl !ID UNI]:%GOLD%Arkaine's Valor %GRAY%h%CONTINUE%//
+ItemDisplay[uld !ID UNI]:%GOLD%Leviathan %GRAY%h%CONTINUE%//
+ItemDisplay[uul !ID UNI]:%GOLD%Steel Carapace %GRAY%h%CONTINUE%//
+ItemDisplay[uar !ID UNI]:%GOLD%Templar's Might %GRAY%h / %GOLD%Tyrael's Might %GRAY%h+%CONTINUE%//
+ItemDisplay[uml !ID UNI]:%GOLD%Blackoak Shield %GRAY%h%CONTINUE%//
+ItemDisplay[uit !ID UNI]:%GOLD%Stormshield %GRAY%h%CONTINUE%//
+ItemDisplay[upk !ID UNI]:%GOLD%Spike Thorn %GRAY%h%CONTINUE%//
+ItemDisplay[uow !ID UNI]:%GOLD%Medusa's Gaze %GRAY%h%CONTINUE%//
+ItemDisplay[ush !ID UNI]:%GOLD%Head Hunter's Glory %GRAY%h%CONTINUE%//
+ItemDisplay[uts !ID UNI]:%GOLD%Spirit Ward %GRAY%h%CONTINUE%//
+ItemDisplay[uvg !ID UNI]:%GOLD%Dracul's Grasp %GRAY%h%CONTINUE%//
+ItemDisplay[umg !ID UNI]:%GOLD%Soul Drainer %GRAY%h%CONTINUE%//
+ItemDisplay[uhg !ID UNI]:%GOLD%Steelrend %GRAY%h%CONTINUE%//
+ItemDisplay[uvb !ID UNI]:%GOLD%Sandstorm Trek %GRAY%h%CONTINUE%//
+ItemDisplay[umb !ID UNI]:%GOLD%Marrowwalk %GRAY%h%CONTINUE%//
+ItemDisplay[uhb !ID UNI]:%GOLD%Shadow Dancer %GRAY%h%CONTINUE%//
+ItemDisplay[ulc !ID UNI]:%GOLD%Arachnid Mesh %GRAY%h+%CONTINUE%//
+ItemDisplay[uvc !ID UNI]:%GOLD%Nosferatu's Coil %GRAY%h%CONTINUE%//
+ItemDisplay[umc !ID UNI]:%GOLD%Verdungo's Hearty Cord %GRAY%h%CONTINUE%//
+ItemDisplay[7ha !ID UNI]:%GOLD%Razor's Edge %GRAY%h%CONTINUE%//
+ItemDisplay[72a !ID UNI]:%GOLD%Rune Master %GRAY%h%CONTINUE%//
+ItemDisplay[7mp !ID UNI]:%GOLD%Cranebeak %GRAY%h%CONTINUE%//
+ItemDisplay[7wa !ID UNI]:%GOLD%Death Cleaver %GRAY%h%CONTINUE%//
+ItemDisplay[7ba !ID UNI]:%GOLD%Ethereal Edge %GRAY%h%CONTINUE%//
+ItemDisplay[7bt !ID UNI]:%GOLD%Hellslayer %GRAY%h%CONTINUE%//
+ItemDisplay[7ga !ID UNI]:%GOLD%Messerschmidt's Reaver %GRAY%h%CONTINUE%//
+ItemDisplay[7gi !ID UNI]:%GOLD%Executioner's Justice %GRAY%h%CONTINUE%//
+ItemDisplay[6l7 !ID UNI]:%GOLD%Eaglehorn %GRAY%h%CONTINUE%//
+ItemDisplay[6sw !ID UNI]:%GOLD%Widowmaker %GRAY%h%CONTINUE%//
+ItemDisplay[6lw !ID UNI]:%GOLD%Windforce %GRAY%h%CONTINUE%//
+ItemDisplay[6hx !ID UNI]:%GOLD%Hellrack %GRAY%h%CONTINUE%//
+ItemDisplay[6rx !ID UNI]:%GOLD%Gut Siphon %GRAY%h%CONTINUE%//
+ItemDisplay[7dg !ID UNI]:%GOLD%Wizardspike %GRAY%h%CONTINUE%//
+ItemDisplay[7kr !ID UNI]:%GOLD%Fleshripper %GRAY%h%CONTINUE%//
+ItemDisplay[7bl !ID UNI]:%GOLD%Ghostflame %GRAY%h%CONTINUE%//
+ItemDisplay[7s7 !ID UNI]:%GOLD%Demon's Arch %GRAY%h%CONTINUE%//
+ItemDisplay[7gl !ID UNI]:%GOLD%Wraith Flight %GRAY%h%CONTINUE%//
+ItemDisplay[7ts !ID UNI]:%GOLD%Gargoyle's Bite %GRAY%h%CONTINUE%//
+ItemDisplay[7cl !ID UNI]:%GOLD%Nord's Tenderizer %GRAY%h%CONTINUE%//
+ItemDisplay[7sp !ID UNI]:%GOLD%Demon Limb %GRAY%h%CONTINUE%//
+ItemDisplay[7mt !ID UNI]:%GOLD%Baranar's Star %GRAY%h%CONTINUE%//
+ItemDisplay[7fl !ID UNI]:%GOLD%Horizon's Tornado %GRAY%h / %GOLD%Stormlash %GRAY%h+%CONTINUE%//
+ItemDisplay[7wh !ID UNI]:%GOLD%Stone Crusher %GRAY%h / %GOLD%Schaefer's Hammer %GRAY%h%CONTINUE%//
+ItemDisplay[7m7 !ID UNI]:%GOLD%Windhammer %GRAY%h%CONTINUE%//
+ItemDisplay[7gm !ID UNI]:%GOLD%Earth Shifter %GRAY%h / %GOLD%The Cranium Basher %GRAY%h%CONTINUE%//
+ItemDisplay[7o7 !ID UNI]:%GOLD%Bonehew %GRAY%h%CONTINUE%//
+ItemDisplay[7s8 !ID UNI]:%GOLD%The Reaper's Toll %GRAY%h%CONTINUE%//
+ItemDisplay[7pa !ID UNI]:%GOLD%Tomb Reaver %GRAY%h+%CONTINUE%//
+ItemDisplay[7wc !ID UNI]:%GOLD%Stormspire %GRAY%h%CONTINUE%//
+ItemDisplay[7sc !ID UNI]:%GOLD%Heaven's Light %GRAY%h / %GOLD%The Redeemer %GRAY%h%CONTINUE%//
+ItemDisplay[7ws !ID UNI]:%GOLD%Astreon's Iron Ward %GRAY%h%CONTINUE%//
+ItemDisplay[7sr !ID UNI]:%GOLD%Arioc's Needle %GRAY%h%CONTINUE%//
+ItemDisplay[7br !ID UNI]:%GOLD%Viperfork %GRAY%h%CONTINUE%//
+ItemDisplay[7p7 !ID UNI]:%GOLD%Steel Pillar %GRAY%h%CONTINUE%//
+ItemDisplay[6cs !ID UNI]:%GOLD%Ondal's Wisdom %GRAY%h%CONTINUE%//
+ItemDisplay[6ws !ID UNI]:%GOLD%Mang Song's Lesson %GRAY%h+%CONTINUE%//
+ItemDisplay[7sm !ID UNI]:%GOLD%Djinn Slayer %GRAY%h%CONTINUE%//
+ItemDisplay[7sb !ID UNI]:%GOLD%Bloodmoon %GRAY%h%CONTINUE%//
+ItemDisplay[7cr !ID UNI]:%GOLD%Lightsabre %GRAY%h / %GOLD%Azurewrath %GRAY%h+%CONTINUE%//
+ItemDisplay[7ls !ID UNI]:%GOLD%Frostwind %GRAY%h%CONTINUE%//
+ItemDisplay[7gs !ID UNI]:%GOLD%Flamebellow %GRAY%h%CONTINUE%//
+ItemDisplay[7b7 !ID UNI]:%GOLD%Doombringer %GRAY%h%CONTINUE%//
+ItemDisplay[7gd !ID UNI]:%GOLD%The Grandfather %GRAY%h%CONTINUE%//
+ItemDisplay[7bk !ID UNI]:%GOLD%Warshrike %GRAY%h%CONTINUE%//
+ItemDisplay[7ta !ID UNI]:%GOLD%Gimmershred %GRAY%h%CONTINUE%//
+ItemDisplay[7b8 !ID UNI]:%GOLD%Lacerator %GRAY%h%CONTINUE%//
+ItemDisplay[7bw !ID UNI]:%GOLD%Boneshade %GRAY%h%CONTINUE%//
+ItemDisplay[7gw !ID UNI]:%GOLD%Death's Web %%GRAY%h%CONTINUE%//
 ItemDisplay[leg]:%NAME%{%NAME%}//
 ItemDisplay[pk1]:%BORDER-60%%NAME%{%NAME%}//
 ItemDisplay[pk2]:%BORDER-60%%NAME%{%NAME%}//

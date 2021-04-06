@@ -1,56 +1,56 @@
 ///// Heaven's Brethren
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID 7ma]:%GREEN%Dangoon's Teaching %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xrs]:%GREEN%Haemosu's Adament %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID uhm]:%GREEN%Ondal's Almighty %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID uts]:%GREEN%Taebaek's Glory %GRAY%h%CONTINUE%//
+ItemDisplay[7ma !ID SET]:%GREEN%Dangoon's Teaching %GRAY%nm%CONTINUE%//
+ItemDisplay[xrs !ID SET]:%GREEN%Haemosu's Adament %GRAY%nm%CONTINUE%//
+ItemDisplay[uhm !ID SET]:%GREEN%Ondal's Almighty %GRAY%h%CONTINUE%//
+ItemDisplay[uts !ID SET]:%GREEN%Taebaek's Glory %GRAY%h%CONTINUE%//
 
 
 ///// The Disciple
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID umc]:%GREEN%Credendum %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID uui]:%GREEN%Dark Adherent %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID ulg]:%GREEN%Laying of Hands %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xlb]:%GREEN%Rite of Passage%CONTINUE%//
+ItemDisplay[umc !ID SET]:%GREEN%Credendum %GRAY%h%CONTINUE%//
+ItemDisplay[uui !ID SET]:%GREEN%Dark Adherent %GRAY%nm%CONTINUE%//
+ItemDisplay[ulg !ID SET]:%GREEN%Laying of Hands %GRAY%nm%CONTINUE%//
+ItemDisplay[xlb !ID SET]:%GREEN%Rite of Passage%CONTINUE%//
 
 
 ///// Hwanin's Majesty
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID 9vo]:%GREEN%Hwanin's Justice%CONTINUE%//
-ItemDisplay[SET !ID xcl]:%GREEN%Hwanin's Refuge %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xrn]:%GREEN%Hwanin's Splendor %GRAY%nm%CONTINUE%//
+ItemDisplay[9vo !ID SET]:%GREEN%Hwanin's Justice%CONTINUE%//
+ItemDisplay[xcl !ID SET]:%GREEN%Hwanin's Refuge %GRAY%nm%CONTINUE%//
+ItemDisplay[xrn !ID SET]:%GREEN%Hwanin's Splendor %GRAY%nm%CONTINUE%//
 
 
 ///// Cow King's Leathers
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID stu]:%GREEN%Cow King's Hide%CONTINUE%//
-ItemDisplay[SET !ID xap]:%GREEN%Cow King's Horns%CONTINUE%//
+ItemDisplay[stu !ID SET]:%GREEN%Cow King's Hide%CONTINUE%//
+ItemDisplay[xap !ID SET]:%GREEN%Cow King's Horns%CONTINUE%//
 
 
 ///// Naj's Ancient Vestige
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID ci0]:%GREEN%Naj's Circlet%CONTINUE%//
-ItemDisplay[SET !ID ult]:%GREEN%Naj's Light Plate %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID 6cs]:%GREEN%Naj's Puzzler %GRAY%h%CONTINUE%//
+ItemDisplay[ci0 !ID SET]:%GREEN%Naj's Circlet%CONTINUE%//
+ItemDisplay[ult !ID SET]:%GREEN%Naj's Light Plate %GRAY%h%CONTINUE%//
+ItemDisplay[6cs !ID SET]:%GREEN%Naj's Puzzler %GRAY%h%CONTINUE%//
 
 
 ///// Sander's Folly
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID bwn]:%GREEN%Sander's Superstition%CONTINUE%//
-ItemDisplay[SET !ID vgl]:%GREEN%Sander's Taboo%CONTINUE%//
+ItemDisplay[bwn !ID SET]:%GREEN%Sander's Superstition%CONTINUE%//
+ItemDisplay[vgl !ID SET]:%GREEN%Sander's Taboo%CONTINUE%//
 
 
 ///// Sazabi's Grand Tribute
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID 7ls]:%GREEN%Sazabi's Cobalt Redeemer %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID upl]:%GREEN%Sazabi's Ghost Liberator %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID xhl]:%GREEN%Sazabi's Sazabi's Mental Sheath %GRAY%nm%CONTINUE%//
+ItemDisplay[7ls !ID SET]:%GREEN%Sazabi's Cobalt Redeemer %GRAY%h%CONTINUE%//
+ItemDisplay[upl !ID SET]:%GREEN%Sazabi's Ghost Liberator %GRAY%h%CONTINUE%//
+ItemDisplay[xhl !ID SET]:%GREEN%Sazabi's Sazabi's Mental Sheath %GRAY%nm%CONTINUE%//
 
 
 ///// Orphan's Call
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID xhm]:%GREEN%Guillaume's Face %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xvg]:%GREEN%Magnus's Skin%CONTINUE%//
-ItemDisplay[SET !ID xml]:%GREEN%Whitstan's Guard%CONTINUE%//
-ItemDisplay[SET !ID ztb]:%GREEN%Wilhelm's Pride %GRAY%nm%CONTINUE%//
+ItemDisplay[xhm !ID SET]:%GREEN%Guillaume's Face %GRAY%nm%CONTINUE%//
+ItemDisplay[xvg !ID SET]:%GREEN%Magnus's Skin%CONTINUE%//
+ItemDisplay[xml !ID SET]:%GREEN%Whitstan's Guard%CONTINUE%//
+ItemDisplay[ztb !ID SET]:%GREEN%Wilhelm's Pride %GRAY%nm%CONTINUE%//
 

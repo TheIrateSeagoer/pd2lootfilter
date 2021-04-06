@@ -1,65 +1,65 @@
 ///// Aldur's Watchtower
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID xtb]:%GREEN%Aldur's Advance %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID uul]:%GREEN%Aldur's Deception %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID 9mt]:%GREEN%Aldur's Rhythm%CONTINUE%//
-ItemDisplay[SET !ID dr8]:%GREEN%Aldur's Stony Gaze %GRAY%nm%CONTINUE%//
+ItemDisplay[xtb !ID SET]:%GREEN%Aldur's Advance %GRAY%nm%CONTINUE%//
+ItemDisplay[uul !ID SET]:%GREEN%Aldur's Deception %GRAY%h%CONTINUE%//
+ItemDisplay[9mt !ID SET]:%GREEN%Aldur's Rhythm%CONTINUE%//
+ItemDisplay[dr8 !ID SET]:%GREEN%Aldur's Stony Gaze %GRAY%nm%CONTINUE%//
 
 
 ///// Bul-Kathos' Children
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID 7gd]:%GREEN%Bul-kathos' Sacred Charge %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID 7fb]:%GREEN%Bul-kathos' Tribal Guardian %GRAY%h%CONTINUE%//
+ItemDisplay[7gd !ID SET]:%GREEN%Bul-kathos' Sacred Charge %GRAY%h%CONTINUE%//
+ItemDisplay[7fb !ID SET]:%GREEN%Bul-kathos' Tribal Guardian %GRAY%h%CONTINUE%//
 
 
 ///// Griswold's Legacy
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID xar]:%GREEN%Griswold's Heart %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID paf]:%GREEN%Griswold's Honor %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID 7ws]:%GREEN%Griswold's Redemption %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID urn]:%GREEN%Griswold's Valor %GRAY%h%CONTINUE%//
+ItemDisplay[xar !ID SET]:%GREEN%Griswold's Heart %GRAY%nm%CONTINUE%//
+ItemDisplay[paf !ID SET]:%GREEN%Griswold's Honor %GRAY%h%CONTINUE%//
+ItemDisplay[7ws !ID SET]:%GREEN%Griswold's Redemption %GRAY%h%CONTINUE%//
+ItemDisplay[urn !ID SET]:%GREEN%Griswold's Valor %GRAY%h%CONTINUE%//
 
 
 ///// M'avina's Battle Hymn
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID amc]:%GREEN%M'avina's Caster %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID uld]:%GREEN%M'avina's Embrace %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID xtg]:%GREEN%M'avina's Icy Clutch %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID zvb]:%GREEN%M'avina's Tenet%CONTINUE%//
-ItemDisplay[SET !ID ci3]:%GREEN%M'avina's True Sight %GRAY%h%CONTINUE%//
+ItemDisplay[amc !ID SET]:%GREEN%M'avina's Caster %GRAY%h%CONTINUE%//
+ItemDisplay[uld !ID SET]:%GREEN%M'avina's Embrace %GRAY%h%CONTINUE%//
+ItemDisplay[xtg !ID SET]:%GREEN%M'avina's Icy Clutch %GRAY%nm%CONTINUE%//
+ItemDisplay[zvb !ID SET]:%GREEN%M'avina's Tenet%CONTINUE%//
+ItemDisplay[ci3 !ID SET]:%GREEN%M'avina's True Sight %GRAY%h%CONTINUE%//
 
 
 ///// Natalya's Odium
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID 7qr]:%GREEN%Natalya's Mark %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID ucl]:%GREEN%Natalya's Shadow %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID xmb]:%GREEN%Natalya's Soul %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xh9]:%GREEN%Natalya's Totem %GRAY%nm%CONTINUE%//
+ItemDisplay[7qr !ID SET]:%GREEN%Natalya's Mark %GRAY%h%CONTINUE%//
+ItemDisplay[ucl !ID SET]:%GREEN%Natalya's Shadow %GRAY%h%CONTINUE%//
+ItemDisplay[xmb !ID SET]:%GREEN%Natalya's Soul %GRAY%nm%CONTINUE%//
+ItemDisplay[xh9 !ID SET]:%GREEN%Natalya's Totem %GRAY%nm%CONTINUE%//
 
 
 ///// Tal Rasha's Wrappings
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID zmb]:%GREEN%Tal Rasha's Fine-Spun Cloth %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID uth]:%GREEN%Tal Rasha's Guardianship %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID xsk]:%GREEN%Tal Rasha's Horadric Crest %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID oba]:%GREEN%Tal Rasha's Lidless Eye %GRAY%nm%CONTINUE%//
+ItemDisplay[zmb !ID SET]:%GREEN%Tal Rasha's Fine-Spun Cloth %GRAY%nm%CONTINUE%//
+ItemDisplay[uth !ID SET]:%GREEN%Tal Rasha's Guardianship %GRAY%h%CONTINUE%//
+ItemDisplay[xsk !ID SET]:%GREEN%Tal Rasha's Horadric Crest %GRAY%nm%CONTINUE%//
+ItemDisplay[oba !ID SET]:%GREEN%Tal Rasha's Lidless Eye %GRAY%nm%CONTINUE%//
 
 
 ///// Trang-Oul's Avatar
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID xmg]:%GREEN%Trang-Oul's Claws %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID utc]:%GREEN%Trang-Oul's Girth %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID uh9]:%GREEN%Trang-Oul's Guise %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID xul]:%GREEN%Trang-Oul's Scales %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID ne9]:%GREEN%Trang-Oul's Wing %GRAY%nm%CONTINUE%//
+ItemDisplay[xmg !ID SET]:%GREEN%Trang-Oul's Claws %GRAY%nm%CONTINUE%//
+ItemDisplay[utc !ID SET]:%GREEN%Trang-Oul's Girth %GRAY%h%CONTINUE%//
+ItemDisplay[uh9 !ID SET]:%GREEN%Trang-Oul's Guise %GRAY%h%CONTINUE%//
+ItemDisplay[xul !ID SET]:%GREEN%Trang-Oul's Scales %GRAY%nm%CONTINUE%//
+ItemDisplay[ne9 !ID SET]:%GREEN%Trang-Oul's Wing %GRAY%nm%CONTINUE%//
 
 
 ///// Immortal King
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID zhb]:%GREEN%Immortal King's Detail %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xhg]:%GREEN%Immortal King's Forge %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID xhb]:%GREEN%Immortal King's Pillar %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID uar]:%GREEN%Immortal King's Soul Cage %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID 7m7]:%GREEN%Immortal King's Stone Crusher %GRAY%h%CONTINUE%//
-ItemDisplay[SET !ID ba5]:%GREEN%Immortal King's Will%CONTINUE%//
+ItemDisplay[zhb !ID SET]:%GREEN%Immortal King's Detail %GRAY%nm%CONTINUE%//
+ItemDisplay[xhg !ID SET]:%GREEN%Immortal King's Forge %GRAY%nm%CONTINUE%//
+ItemDisplay[xhb !ID SET]:%GREEN%Immortal King's Pillar %GRAY%nm%CONTINUE%//
+ItemDisplay[uar !ID SET]:%GREEN%Immortal King's Soul Cage %GRAY%h%CONTINUE%//
+ItemDisplay[7m7 !ID SET]:%GREEN%Immortal King's Stone Crusher %GRAY%h%CONTINUE%//
+ItemDisplay[ba5 !ID SET]:%GREEN%Immortal King's Will%CONTINUE%//
 

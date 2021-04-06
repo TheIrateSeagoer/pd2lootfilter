@@ -20,7 +20,6 @@ ItemDisplay[t32]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t33]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t34]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t35]:[T3] %NAME%%CONTINUE%//
-ItemDisplay[t36]:[T3] %NAME%%CONTINUE%//
 
 
 ///// Tier 4 Maps
@@ -36,6 +35,7 @@ ItemDisplay[upma]:%NAME%%CONTINUE%//
 ItemDisplay[rera]:%NAME%%CONTINUE%//
 ItemDisplay[scou]:%NAME%%CONTINUE%//
 ItemDisplay[upmp]:%NAME%%CONTINUE%//
+ItemDisplay[scrb]:%NAME%%CONTINUE%//
 
 
 ///// Diablo Clone

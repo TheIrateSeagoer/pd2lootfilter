@@ -1,104 +1,104 @@
 ///// Arcanna's Tricks
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID wst]:%GREEN%Arcanna's Deathwand%CONTINUE%//
-ItemDisplay[SET !ID ltp]:%GREEN%Arcanna's Flesh%CONTINUE%//
-ItemDisplay[SET !ID skp]:%GREEN%Arcanna's Head%CONTINUE%//
-ItemDisplay[SET !ID vbl]:%GREEN%Arctic Binding%CONTINUE%//
+ItemDisplay[wst !ID SET]:%GREEN%Arcanna's Deathwand%CONTINUE%//
+ItemDisplay[ltp !ID SET]:%GREEN%Arcanna's Flesh%CONTINUE%//
+ItemDisplay[skp !ID SET]:%GREEN%Arcanna's Head%CONTINUE%//
+ItemDisplay[vbl !ID SET]:%GREEN%Arctic Binding%CONTINUE%//
 
 
 ///// Arctic Gear
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID qui]:%GREEN%Arctic Furs%CONTINUE%//
-ItemDisplay[SET !ID swb]:%GREEN%Arctic Horn%CONTINUE%//
+ItemDisplay[qui !ID SET]:%GREEN%Arctic Furs%CONTINUE%//
+ItemDisplay[swb !ID SET]:%GREEN%Arctic Horn%CONTINUE%//
 
 
 ///// Berserker's Arsenal
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID 2ax]:%GREEN%Berserker's Hatchet%CONTINUE%//
-ItemDisplay[SET !ID spl]:%GREEN%Berserker's Hauberk%CONTINUE%//
-ItemDisplay[SET !ID hlm]:%GREEN%Berserker's Headgear%CONTINUE%//
+ItemDisplay[2ax !ID SET]:%GREEN%Berserker's Hatchet%CONTINUE%//
+ItemDisplay[spl !ID SET]:%GREEN%Berserker's Hauberk%CONTINUE%//
+ItemDisplay[hlm !ID SET]:%GREEN%Berserker's Headgear%CONTINUE%//
 
 
 ///// Cathan's Traps
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID msk]:%GREEN%Cathan's Visage%CONTINUE%//
-ItemDisplay[SET !ID chn]:%GREEN%Cathan's Mesh%CONTINUE%//
-ItemDisplay[SET !ID bst]:%GREEN%Cathan's Rule%CONTINUE%//
+ItemDisplay[msk !ID SET]:%GREEN%Cathan's Visage%CONTINUE%//
+ItemDisplay[chn !ID SET]:%GREEN%Cathan's Mesh%CONTINUE%//
+ItemDisplay[bst !ID SET]:%GREEN%Cathan's Rule%CONTINUE%//
 
 
 ///// Civerb's Vestments
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID gsc]:%GREEN%Civerb's Cudgel%CONTINUE%//
-ItemDisplay[SET !ID lrg]:%GREEN%Civerb's Ward%CONTINUE%//
+ItemDisplay[gsc !ID SET]:%GREEN%Civerb's Cudgel%CONTINUE%//
+ItemDisplay[lrg !ID SET]:%GREEN%Civerb's Ward%CONTINUE%//
 
 
 ///// Cleglaw's Brace
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID sml]:%GREEN%Cleglaw's Claw%CONTINUE%//
-ItemDisplay[SET !ID mgl]:%GREEN%Cleglaw's Pincers%CONTINUE%//
-ItemDisplay[SET !ID lsd]:%GREEN%Cleglaw's Tooth%CONTINUE%//
+ItemDisplay[sml !ID SET]:%GREEN%Cleglaw's Claw%CONTINUE%//
+ItemDisplay[mgl !ID SET]:%GREEN%Cleglaw's Pincers%CONTINUE%//
+ItemDisplay[lsd !ID SET]:%GREEN%Cleglaw's Tooth%CONTINUE%//
 
 
 ///// Angelic Raiment
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID rng]:%GREEN%Angelic Mantle%CONTINUE%//
-ItemDisplay[SET !ID sbr]:%GREEN%Angelic Sickle%CONTINUE%//
+ItemDisplay[rng !ID SET]:%GREEN%Angelic Mantle%CONTINUE%//
+ItemDisplay[sbr !ID SET]:%GREEN%Angelic Sickle%CONTINUE%//
 
 
 ///// Hsarus' Defense
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID buc]:%GREEN%Hsaru's Iron Fist%CONTINUE%//
-ItemDisplay[SET !ID mbt]:%GREEN%Hsaru's Iron Heel%CONTINUE%//
+ItemDisplay[buc !ID SET]:%GREEN%Hsaru's Iron Fist%CONTINUE%//
+ItemDisplay[mbt !ID SET]:%GREEN%Hsaru's Iron Heel%CONTINUE%//
 
 
 ///// Infernal Tools
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID dgr]:%GREEN%Infernal Spine%CONTINUE%//
-ItemDisplay[SET !ID gwn]:%GREEN%Infernal Torch%CONTINUE%//
+ItemDisplay[dgr !ID SET]:%GREEN%Infernal Spine%CONTINUE%//
+ItemDisplay[gwn !ID SET]:%GREEN%Infernal Torch%CONTINUE%//
 
 
 ///// Isenhart's Armory
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID fhl]:%GREEN%Isenhart's Horns%CONTINUE%//
-ItemDisplay[SET !ID brs]:%GREEN%Isenhart's Case%CONTINUE%//
-ItemDisplay[SET !ID bsd]:%GREEN%Isenhart's Lightbrand%CONTINUE%//
-ItemDisplay[SET !ID gts]:%GREEN%Isenhart's Parry%CONTINUE%//
+ItemDisplay[fhl !ID SET]:%GREEN%Isenhart's Horns%CONTINUE%//
+ItemDisplay[brs !ID SET]:%GREEN%Isenhart's Case%CONTINUE%//
+ItemDisplay[bsd !ID SET]:%GREEN%Isenhart's Lightbrand%CONTINUE%//
+ItemDisplay[gts !ID SET]:%GREEN%Isenhart's Parry%CONTINUE%//
 
 
 ///// Milabrega's Regalia
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID kit]:%GREEN%Milabrega's Orb%CONTINUE%//
-ItemDisplay[SET !ID aar]:%GREEN%Milabrega's Robe %GRAY%nm%CONTINUE%//
-ItemDisplay[SET !ID wsp]:%GREEN%Milabrega's Rod%CONTINUE%//
+ItemDisplay[kit !ID SET]:%GREEN%Milabrega's Orb%CONTINUE%//
+ItemDisplay[aar !ID SET]:%GREEN%Milabrega's Robe %GRAY%nm%CONTINUE%//
+ItemDisplay[wsp !ID SET]:%GREEN%Milabrega's Rod%CONTINUE%//
 
 
 ///// Sigon's Complete Steel
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID hgl]:%GREEN%Sigon's Gage%CONTINUE%//
-ItemDisplay[SET !ID tow]:%GREEN%Sigon's Guard%CONTINUE%//
-ItemDisplay[SET !ID hbt]:%GREEN%Sigon's Sabot%CONTINUE%//
-ItemDisplay[SET !ID gth]:%GREEN%Sigon's Shelter%CONTINUE%//
-ItemDisplay[SET !ID ghm]:%GREEN%Sigon's Visor%CONTINUE%//
-ItemDisplay[SET !ID hbl]:%GREEN%Sigon's Wrap%CONTINUE%//
+ItemDisplay[hgl !ID SET]:%GREEN%Sigon's Gage%CONTINUE%//
+ItemDisplay[tow !ID SET]:%GREEN%Sigon's Guard%CONTINUE%//
+ItemDisplay[hbt !ID SET]:%GREEN%Sigon's Sabot%CONTINUE%//
+ItemDisplay[gth !ID SET]:%GREEN%Sigon's Shelter%CONTINUE%//
+ItemDisplay[ghm !ID SET]:%GREEN%Sigon's Visor%CONTINUE%//
+ItemDisplay[hbl !ID SET]:%GREEN%Sigon's Wrap%CONTINUE%//
 
 ///// Tancred's Battlegear
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID mpi]:%GREEN%Tancred's Crowbill%CONTINUE%//
-ItemDisplay[SET !ID lbt]:%GREEN%Tancred's Hobnails%CONTINUE%//
-ItemDisplay[SET !ID bhm]:%GREEN%Tancred's Skull%CONTINUE%//
-ItemDisplay[SET !ID ful]:%GREEN%Tancred's Spine%CONTINUE%//
+ItemDisplay[mpi !ID SET]:%GREEN%Tancred's Crowbill%CONTINUE%//
+ItemDisplay[lbt !ID SET]:%GREEN%Tancred's Hobnails%CONTINUE%//
+ItemDisplay[bhm !ID SET]:%GREEN%Tancred's Skull%CONTINUE%//
+ItemDisplay[ful !ID SET]:%GREEN%Tancred's Spine%CONTINUE%//
 
 
 ///// Death's Disguise
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID lbl]:%GREEN%Death's Guard%CONTINUE%//
-ItemDisplay[SET !ID lgl]:%GREEN%Death's Hand%CONTINUE%//
-ItemDisplay[SET !ID wsd]:%GREEN%Death's Touch%CONTINUE%//
+ItemDisplay[lbl !ID SET]:%GREEN%Death's Guard%CONTINUE%//
+ItemDisplay[lgl !ID SET]:%GREEN%Death's Hand%CONTINUE%//
+ItemDisplay[wsd !ID SET]:%GREEN%Death's Touch%CONTINUE%//
 
 
 ///// Vidala's Rig
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[SET !ID lea]:%GREEN%Vidala's Ambush%CONTINUE%//
-ItemDisplay[SET !ID lbb]:%GREEN%Vidala's Barb%CONTINUE%//
-ItemDisplay[SET !ID tbt]:%GREEN%Vidala's Fetlock%CONTINUE%//
+ItemDisplay[lea !ID SET]:%GREEN%Vidala's Ambush%CONTINUE%//
+ItemDisplay[lbb !ID SET]:%GREEN%Vidala's Barb%CONTINUE%//
+ItemDisplay[tbt !ID SET]:%GREEN%Vidala's Fetlock%CONTINUE%//
 

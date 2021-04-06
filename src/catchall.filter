@@ -67,9 +67,6 @@ ItemDisplay[(glw OR glws)]:%MAP-60%%NAME%{%NAME%}//
 ItemDisplay[(skl OR skls)]:%MAP-60%%NAME%{%NAME%}//
 
 
-
-
-
 ///// High Value
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[UNI ETH !ID]:%GRAY%[Eth] %NAME%{%NAME%}//
