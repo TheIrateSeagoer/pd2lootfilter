@@ -8105,6 +8105,9 @@ ItemDisplay[cm2 ID STAT24=6]:%MAP%%RED%oooo %ORANGE%6 Max Dmg %RED%oooo%BLUE%%CO
 ItemDisplay[cm2 ID STAT24>6]:%MAP%%PURPLE%oooo %ORANGE%Max Dmg  %PURPLE%oooo%BLUE%%CONTINUE%//
 ItemDisplay[cm2 ID STAT24=6]:%MAP%%RED%oooo %ORANGE%6 Max Dmg %RED%oooo%BLUE%%CONTINUE%//
 ItemDisplay[cm2 ID STAT24=6 LIFE=35]:%MAP%%PURPLE%oooooo %ORANGE%3 Max Dmg/35 Life %PURPLE%oooooo%BLUE%%CONTINUE%//
+ItemDisplay[cm3 ID RES=13]:%MAP%%RED%ooooo %ORANGE%13 All Res %RED%ooooo%BLUE%%CONTINUE%//
+ItemDisplay[cm3 ID RES=14]:%MAP%%RED%ooooo %ORANGE%14 All Res %RED%ooooo%BLUE%%CONTINUE%//
+ItemDisplay[cm3 ID RES=15]:%MAP%%PURPLE%oooo %ORANGE%15 All Res %PURPLE%oooo%BLUE%%CONTINUE%//
 ItemDisplay[cm3 ID MANA=58]:%MAP%%RED%oooo %ORANGE%58 Mana %RED%oooo%BLUE%%CONTINUE%//
 ItemDisplay[cm3 ID MANA=59]:%MAP%%RED%ooooo %ORANGE%59 Mana %RED%ooooo%BLUE%%CONTINUE%//
 ItemDisplay[cm3 ID MANA=59 LIFE=45]:%MAP%%PURPLE%oooooo %ORANGE%59 Mana/45 Life%PURPLE%oooooo%BLUE%%CONTINUE%//

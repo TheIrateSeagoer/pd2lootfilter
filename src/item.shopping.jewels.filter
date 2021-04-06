@@ -310,6 +310,5 @@ ItemDisplay[jew ID MAG STAT18=40 DEX=9]:%MAP%%PURPLE%oooooo %ORANGE%40 ED / 9 De
 ItemDisplay[jew ID MAG STAT18=40 STAT23=10]:%MAP%%PURPLE%oooooo %ORANGE%40 ED / 10 Min Dmg %PURPLE%oooooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT18=40 STAT24=15]:%MAP%%PURPLE%oooooo %ORANGE%40 ED / 15 Max Dmg %PURPLE%oooooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT18=40 STAT91=-15]:%MAP%%PURPLE%oooooo %ORANGE%40 ED / Requirements %PURPLE%oooooo%BLUE%%CONTINUE%//
-
 ItemDisplay[jew ID MAG STAT23=18]:%MAP%%PURPLE%oooooo %ORANGE%10 Min Dmg / 8 Min Dmg %PURPLE%oooooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT24=30]:%MAP%%PURPLE%oooooo %ORANGE%15 Max Dmg / 15 Max Dmg %PURPLE%oooooo%BLUE%%CONTINUE%//
