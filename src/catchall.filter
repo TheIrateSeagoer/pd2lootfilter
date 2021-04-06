@@ -99,8 +99,8 @@ ItemDisplay[UNI !ID (7ba                                                        
 ItemDisplay[UNI !ID (7ax OR amd OR 7sc OR 7pi OR 7ma OR 6lb                                                                      )]:%DOT-0D%%PURPLE%o %NAME% %PURPLE%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (7sm OR 7sb OR 7wb                                                                                           )]:%NAME%{%NAME%}//
 //TC60  7dg OR 7sr OR 6ss OR 7ar OR 72h OR obb OR 7o7 OR 6hb
-ItemDisplay[UNI !ID (7dg OR 6ss OR 7ar OR 72h OR obb OR 6hb                                                                      )]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
-ItemDisplay[UNI !ID (7o7 OR 7sr                                                                                                  )]:%NAME%{%NAME%}//
+ItemDisplay[UNI !ID (7dg OR 6ss OR 7ar OR 72h OR obb OR 6hb OR 7o7                                                               )]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (7sr                                                                                                         )]:%NAME%{%NAME%}//
 //TC57  9wc OR 7wn OR 6sb OR 7ss OR 7ta OR 7la OR 7sp OR 6lx
 ItemDisplay[UNI !ID (7wn OR 6sb OR 7ss OR 7ta OR 7la OR 6lx                                                                      )]:%DOT-0D%%RED%o %NAME% %RED%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (7sp OR 9wc                                                                                                  )]:%NAME%{%NAME%}//
@@ -479,4 +479,9 @@ ItemDisplay[ETH NMAG ((fla) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[ETH SUP NMAG ((7gm OR 7wa OR 7gd OR 7bt) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ETH NMAG ((7gm OR 7wa OR 7gd OR 7bt) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
+
+
+///// Failed Elites
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[ulc STAT73=36 RARE]:%PX-20%%RED%Failed %YELLOW%Arachnid Mesh{%NAME%}//
 
