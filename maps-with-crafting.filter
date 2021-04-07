@@ -11153,7 +11153,7 @@ ItemDisplay[SET !ID (sml OR skp                                                 
 //ItemDisplay[SET !ID (                                                                      )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (lea OR lgl OR lbl OR lbt OR buc OR qui OR cap                            )]:%NAME%{%NAME%}//
 ItemDisplay[SET !ID (amu OR rin)]:%BORDER-81%%RED%ooooo %NAME% %RED%ooooo%GREEN%{%NAME%}//
-ItemDisplay[UNI !ID (amu OR rin)]:%BORDER-0D%%RED%ooooo %NAME% %RED%ooooo%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (amu OR rin OR jew OR cm1 OR cm2 OR cm3)]:%BORDER-0D%%RED%ooooo %NAME% %RED%ooooo%GOLD%{%NAME%}//
 ItemDisplay[SET !ID]:[%CODE%] %NAME%{%NAME%}//
 ItemDisplay[UNI !ID]:[%CODE%] %NAME%{%NAME%}//
 ItemDisplay[MAG !ID cm1]:%DOT-97%%RED%ooo %BLUE%%NAME% %RED%ooo%BLUE%//
