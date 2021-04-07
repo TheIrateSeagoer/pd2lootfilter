@@ -10891,6 +10891,7 @@ ItemDisplay[(glg OR glgs)]:%MAP-60%%NAME%{%NAME%}//
 ItemDisplay[(glr OR glrs)]:%MAP-60%%NAME%{%NAME%}//
 ItemDisplay[(glw OR glws)]:%MAP-60%%NAME%{%NAME%}//
 ItemDisplay[(skl OR skls)]:%MAP-60%%NAME%{%NAME%}//
+ItemDisplay[RW]:%NAME%{%NAME%}//
 ItemDisplay[UNI ETH !ID]:%GRAY%[Eth] %NAME%{%NAME%}//
 //TC90  7ws OR 7gi OR 7bl OR 7wd OR obf OR 6ws OR 7wc OR 7p7
 ItemDisplay[UNI !ID (7ws OR 7gi OR 7bl OR 7wd OR obf OR 6ws OR 7wc OR 7p7                                                        )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
