@@ -10480,6 +10480,7 @@ ItemDisplay[drd !ID UNI]:%GOLD%Spirit Keeper %GRAY%h%CONTINUE%//
 ItemDisplay[pac !ID UNI]:%GOLD%Alma Negra %GRAY%h%CONTINUE%//
 ItemDisplay[pa9 !ID UNI]:%GOLD%Herald of Zakarum %GRAY%nm%CONTINUE%//
 ItemDisplay[pae !ID UNI]:%GOLD%Dragonscale %GRAY%h%CONTINUE%//
+ItemDisplay[pa3 !ID UNI]:%GOLD%Sankekur's Fall%CONTINUE%//
 ItemDisplay[cap !ID UNI]:%GOLD%Biggin's Bonnet%CONTINUE%//
 ItemDisplay[skp !ID UNI]:%GOLD%Tarnhelm%CONTINUE%//
 ItemDisplay[hlm !ID UNI]:%GOLD%Coif of Glory%CONTINUE%//
