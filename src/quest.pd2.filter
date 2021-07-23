@@ -20,6 +20,8 @@ ItemDisplay[t32]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t33]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t34]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t35]:[T3] %NAME%%CONTINUE%//
+ItemDisplay[t36]:[T3] %NAME%%CONTINUE%//
+ItemDisplay[t37]:[T3] %NAME%%CONTINUE%//
 
 
 ///// Tier 4 Maps
@@ -44,6 +46,7 @@ ItemDisplay[dcho]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[dcso]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[dcbl]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[dcma]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
+ItemDisplay[ubtm]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 
 
 ///// Item Enhancements

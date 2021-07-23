@@ -46,6 +46,8 @@ ItemDisplay[t32]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t33]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t34]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t35]:[T3] %NAME%%CONTINUE%//
+ItemDisplay[t36]:[T3] %NAME%%CONTINUE%//
+ItemDisplay[t37]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t41]:[T4] %NAME%%CONTINUE%//
 ItemDisplay[imra]:%NAME%%CONTINUE%//
 ItemDisplay[imma]:%NAME%%CONTINUE%//
@@ -58,6 +60,7 @@ ItemDisplay[dcho]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[dcso]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[dcbl]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[dcma]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
+ItemDisplay[ubtm]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 ItemDisplay[wss QTY=1]:%RED%ooo %PURPLE%Worldstone Shard %RED%ooo%PURPLE%%CONTINUE%//
 ItemDisplay[wss QTY>1]:%RED%ooo %PURPLE%Worldstone Shard Stack %RED%ooo%PURPLE%%CONTINUE%//
 ItemDisplay[lbox QTY=1]:%PURPLE%ooooo %GOLD%Larzuk's Puzzlebox %PURPLE%ooooo%GOLD%%CONTINUE%//
@@ -10961,7 +10964,7 @@ ItemDisplay[UNI !ID (scy OR pik OR bld OR gax OR bsw OR wst OR hxb OR lbb       
 ItemDisplay[UNI !ID (gpm OR btl                                                                                                  )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (pax OR spt OR mpi OR fla OR wsp OR lsd OR gis OR mau                                                        )]:%NAME%{%NAME%}//
 //TC18  bal OR brn OR opm OR btx OR clm OR kri OR bst OR ob4 OR bwn OR sbb OR clw OR am1 OR am3
-ItemDisplay[UNI !ID (bal OR opm OR ob4 OR clw OR am1 OR am3                                                                     )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (bal OR opm OR ob4 OR clw OR am1 OR am3                                                                      )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (vou OR brn OR kri OR btx OR clm OR bst OR sbb OR bwn                                                        )]:%NAME%{%NAME%}//
 //TC15  2ax OR mst OR bkf OR gsc OR bsd OR ssp OR scy OR mxb OR ces
 ItemDisplay[UNI !ID (bkf OR ssp OR ces                                                                                           )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//

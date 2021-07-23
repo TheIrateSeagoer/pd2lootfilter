@@ -144,7 +144,7 @@ ItemDisplay[UNI !ID (scy OR pik OR bld OR gax OR bsw OR wst OR hxb OR lbb       
 ItemDisplay[UNI !ID (gpm OR btl                                                                                                  )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (pax OR spt OR mpi OR fla OR wsp OR lsd OR gis OR mau                                                        )]:%NAME%{%NAME%}//
 //TC18  bal OR brn OR opm OR btx OR clm OR kri OR bst OR ob4 OR bwn OR sbb OR clw OR am1 OR am3
-ItemDisplay[UNI !ID (bal OR opm OR ob4 OR clw OR am1 OR am3                                                                     )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
+ItemDisplay[UNI !ID (bal OR opm OR ob4 OR clw OR am1 OR am3                                                                      )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (vou OR brn OR kri OR btx OR clm OR bst OR sbb OR bwn                                                        )]:%NAME%{%NAME%}//
 //TC15  2ax OR mst OR bkf OR gsc OR bsd OR ssp OR scy OR mxb OR ces
 ItemDisplay[UNI !ID (bkf OR ssp OR ces                                                                                           )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
