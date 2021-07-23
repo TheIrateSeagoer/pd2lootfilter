@@ -9453,7 +9453,7 @@ ItemDisplay[fed]:%NAME%{%ORANGE%Token of Absolution%GRAY%: (%ORANGE%Destruction%
 ItemDisplay[dcho]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Black Soulstone%GRAY%+%ORANGE%Prime Evil Soul%GRAY%+%ORANGE%Pure Demonic Essence%GRAY%)%NL%%TAN%Complete an Uber}%CONTINUE%//
 ItemDisplay[dcso]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Prime Evil Soul%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Pure Demonic Essence%GRAY%)%NL%%TAN%Hell Diablo / Hell Baal}%CONTINUE%//
 ItemDisplay[dcbl]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Pure Demonic Essence%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Prime Evil Soul%GRAY%)%NL%%TAN%Map Bosses}%CONTINUE%//
-ItemDisplay[lbox]:%NAME%{%TAN%One-Handed: 1-2 Two-Handed: 1-4%NL%Helmet: 1-2 Chest: 1-2 Shield: 1-2}%CONTINUE%//
+ItemDisplay[lbox]:%NAME%{%TAN%One-Handed: 1-2 Two-Handed: 1-2%NL%Helmet: 1-2 Chest: 1-2 Shield: 1-2}%CONTINUE%//
 ItemDisplay[wss]:%NAME%{%TAN%Item: (Modifier: 50% Sockets: 25% Brick: 25%)%NL%Socketed Item: (Modifier: 75% Brick: 25%)%NL%Maps: (Modifier: 70% Brick: 30%)}%CONTINUE%//
 ItemDisplay[imra]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Zakarum Orb%GRAY%+%BLUE%Jewel%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%WHITE%Map%GRAY%)}%CONTINUE%//
 ItemDisplay[imma]:%NAME%{%BLUE%Map%GRAY%: (%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%+%WHITE%Map%GRAY%)}%CONTINUE%//
@@ -9464,16 +9464,18 @@ ItemDisplay[upmp]:%NAME%{%WHITE%Map%GRAY%: (%GOLD%Cartographer's Orb%GRAY%+%WHIT
 ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41) NMAG]:%NAME%{%BLUE%Map%GRAY%: (%WHITE%Map%GRAY%+%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%)}%CONTINUE%//
 ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41) MAG]:%NAME%{%BLUE%Map%WHITE%%GRAY%: (%BLUE%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%)}%CONTINUE%//
 ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41) RARE]:%NAME%{%YELLOW%Map%WHITE%%GRAY%: (%YELLOW%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%GOLD%Horadrim Orb%GRAY%)}%CONTINUE%//
-ItemDisplay[key]:%NAME%{%TAN%See Gem for uses%NL%See Rune/Item for uses%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Nef-Sol)%GRAY%+%BLUE%Item%GRAY%)}%CONTINUE%//
+ItemDisplay[key]:%NAME%{%TAN%See Gem for uses%NL%See Rune/Item for uses%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(El-Ko)%GRAY%+%BLUE%Item%GRAY%)}%CONTINUE%//
 ItemDisplay[gzv OR gzvs OR gpv OR gpvs]:%NAME%{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%CONTINUE%//
-ItemDisplay[gly OR glys OR gpy OR gpys]:%NAME%{%TAN%Reroll %BLUE%Grand Charm}%CONTINUE%//
+ItemDisplay[gly OR glys OR gpy OR gpys]:%NAME%{%TAN%Reroll %BLUE%Grand Charm%NL%%ORANGE%Bountiful Crafting}%CONTINUE%//
 ItemDisplay[glb OR glbs OR gpb OR gpbs]:%NAME%{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%CONTINUE%
 ItemDisplay[glg OR glgs OR gpg OR gpgs]:%NAME%{%TAN%Upgrade %GREEN%Weapon/%GOLD%Weapon%NL%%ORANGE%Safety Crafting}%CONTINUE%//
 ItemDisplay[glr OR glrs OR gpr OR gprs]:%NAME%{%ORANGE%Blood Crafting}%CONTINUE%//
 ItemDisplay[glw OR glws OR gpw OR gpws]:%NAME%{%TAN%Upgrade %GREEN%Armor/%GOLD%Armor%NL%%TAN%Reroll %BLUE%Grand Charm}%CONTINUE%//
-ItemDisplay[skl OR skls OR skz OR skzs]:%NAME%{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare}%CONTINUE%//
+ItemDisplay[skl OR skls OR skz OR skzs]:%NAME%{%TAN%Upgrade %BLUE%Map%NL%%TAN%Reroll %YELLOW%Rare%NL%%ORANGE%Vampiric Crafting}%CONTINUE%//
+ItemDisplay[r01 OR r01s]:%NAME%{%NAME%%ORANGE%Vampiric: Boots%NL%Bountiful: Belt}%CONTINUE%//
+ItemDisplay[r02 OR r02s]:%NAME%{%NAME%%ORANGE%Vampiric: Belt%NL%Bountiful: Armor}%CONTINUE%//
 ItemDisplay[r03 OR r03s]:%NAME%{%NAME%%ORANGE%Caster: Weapon%NL%Hit Power: Weapon}%CONTINUE%//
-ItemDisplay[r04 OR r04s]:%NAME%{%NAME%%ORANGE%Blood: Gloves%NL%Caster: Helm%NL%Hit Power: Body%NL%Safety: Shield}%CONTINUE%//
+ItemDisplay[r04 OR r04s]:%NAME%{%NAME%%ORANGE%Blood: Gloves%NL%Caster: Helm%NL%Hit Power: Body%NL%Safety: Shield%NL%Vampiric: Armor%NL%Bountiful: Helm}%CONTINUE%//
 ItemDisplay[r05 OR r05s]:%NAME%{%NAME%%ORANGE%Blood: Boots%NL%Caster: Shield%NL%Hit Power: Shield%NL%Safety: Body}%CONTINUE%//
 ItemDisplay[r06 OR r06s]:%NAME%{%NAME%%ORANGE%Blood: Shield%NL%Caster: Belt%NL%Hit Power: Helm%NL%Safety: Helm}%CONTINUE%//
 ItemDisplay[r07 OR r07s]:%NAME%{%NAME%%ORANGE%Blood: Belt%NL%Caster: Body%NL%Safety: Belt%NL%%TAN%Rune Number:  7}%CONTINUE%//
@@ -9481,7 +9483,13 @@ ItemDisplay[r08 OR r08s]:%NAME%{%NAME%%ORANGE%Blood: Helm%NL%Caster: Amulet%NL%H
 ItemDisplay[r09 OR r09s]:%NAME%{%NAME%%ORANGE%Blood: Weapon%NL%Caster: Gloves%NL%Hit Power: Gloves%NL%Safety: Boots}%CONTINUE%//
 ItemDisplay[r10 OR r10s]:%NAME%{%NAME%%ORANGE%Blood: Body%NL%Caster: Boots%NL%Hit Power: Amulet%NL%Safety: Amulet}%CONTINUE%//
 ItemDisplay[r11 OR r11s]:%NAME%{%NAME%%ORANGE%Blood: Amulet%NL%Caster: Ring%NL%Hit Power: Ring%NL%Safety: Ring}%CONTINUE%//
-ItemDisplay[r12 OR r12s]:%NAME%{%NAME%%ORANGE%Blood: Ring%NL%Safety: Crossbow/Bow}%CONTINUE%//
+ItemDisplay[r12 OR r12s]:%NAME%{%NAME%%ORANGE%Blood: Ring%NL%Safety: Crossbow/Bow%NL%Vampiric: Shield}%CONTINUE%//
+ItemDisplay[r13 OR r13s]:%NAME%{%NAME%%ORANGE%Vampiric: Weapon%NL%Bountiful: Weapon}%CONTINUE%//
+ItemDisplay[r14 OR r14s]:%NAME%{%NAME%%ORANGE%Vampiric: Amulet%NL%Bountiful: Shield}%CONTINUE%//
+ItemDisplay[r15 OR r15s]:%NAME%{%NAME%%ORANGE%Vampiric: Ring%NL%Bountiful: Gloves}%CONTINUE%//
+ItemDisplay[r16 OR r16s]:%NAME%{%NAME%%ORANGE%Vampiric: Gloves%NL%Bountiful: Boots}%CONTINUE%//
+ItemDisplay[r17 OR r17s]:%NAME%{%NAME%%ORANGE%Vampiric: Helm%NL%Bountiful: Ring}%CONTINUE%//
+ItemDisplay[r18 OR r18s]:%NAME%{%NAME%%ORANGE%Bountiful: Amulet}%CONTINUE%//
 ItemDisplay[WEAPON NORM RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ort%GRAY%+%ORANGE%Amn%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[ARMOR NORM RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%ORANGE%Ral%GRAY%+%ORANGE%Thul%GRAY%+%ORANGE%Perfect Amythest%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[WEAPON EXC RARE]:%NAME%{%NAME%%YELLOW%Upgrade%GRAY%: (%RED%Fal%GRAY%+%RED%Um%GRAY%+%ORANGE%Perfect Sapphire%GRAY%)%NL%}%CONTINUE%//
@@ -9502,16 +9510,16 @@ ItemDisplay[WEAPON !THROWING !leg SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRA
 ItemDisplay[SHIELD SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[HELM SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[CHEST SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[WEAPON (BOW OR XBOW) MAG]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir Safety: Sol%NL%}%CONTINUE%//
-ItemDisplay[WEAPON !BOW !XBOW MAG]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir%NL%}%CONTINUE%//
-ItemDisplay[HELM MAG]:%NAME%{%NAME%%ORANGE%Blood: Ral Caster: Nef Power: Ith Safety: Ith%NL%}%CONTINUE%//
-ItemDisplay[CHEST MAG]:%NAME%{%NAME%%ORANGE%Blood: Thul Caster: Tal Power: Nef Safety: Eth%NL%}%CONTINUE%//
-ItemDisplay[SHIELD MAG]:%NAME%{%NAME%%ORANGE%Blood: Ith Caster: Eth Power: Eth Safety: Nef%NL%}%CONTINUE%//
-ItemDisplay[GLOVES MAG]:%NAME%{%NAME%%ORANGE%Blood: Nef Caster: Ort Power: Ort Safety: Ral%NL%}%CONTINUE%//
-ItemDisplay[BELT MAG]:%NAME%{%NAME%%ORANGE%Blood: Tal Caster: Ith Power: Tal Safety: Tal%NL%}%CONTINUE%//
-ItemDisplay[BOOTS MAG]:%NAME%{%NAME%%ORANGE%Blood: Eth Caster: Thul Power: Ral Safety: Ort%NL%}%CONTINUE%//
-ItemDisplay[amu MAG]:%NAME%{%NAME%%ORANGE%Blood: Amn Caster: Ral Power: Thul Safety: Thul}%CONTINUE%//
-ItemDisplay[rin MAG]:%NAME%{%NAME%%ORANGE%Blood: Sol Caster: Amn Power: Amn Safety: Amn}%CONTINUE%//
+ItemDisplay[WEAPON (BOW OR XBOW) MAG]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir Safety: Sol%NL%Vampiric: Shael Bountiful: Shael%NL%}%CONTINUE%//
+ItemDisplay[WEAPON !BOW !XBOW MAG]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir%NL%Vampiric: Shael Bountiful: Shael%NL%}%CONTINUE%//
+ItemDisplay[HELM MAG]:%NAME%{%NAME%%ORANGE%Blood: Ral Caster: Nef Power: Ith Safety: Ith%NL%Vampiric: Lum Bountiful: Tir%NL%}%CONTINUE%//
+ItemDisplay[CHEST MAG]:%NAME%{%NAME%%ORANGE%Blood: Thul Caster: Tal Power: Nef Safety: Eth%NL%Vampiric: Tir Bountiful: Eld%NL%}%CONTINUE%//
+ItemDisplay[SHIELD MAG]:%NAME%{%NAME%%ORANGE%Blood: Ith Caster: Eth Power: Eth Safety: Nef%NL%Vampiric: Sol Bountiful: Dol%NL%}%CONTINUE%//
+ItemDisplay[GLOVES MAG]:%NAME%{%NAME%%ORANGE%Blood: Nef Caster: Ort Power: Ort Safety: Ral%NL%Vampiric: io Bountiful: Hel%NL%}%CONTINUE%//
+ItemDisplay[BELT MAG]:%NAME%{%NAME%%ORANGE%Blood: Tal Caster: Ith Power: Tal Safety: Tal%NL%Vampiric: Eld Bountiful: El%NL%}%CONTINUE%//
+ItemDisplay[BOOTS MAG]:%NAME%{%NAME%%ORANGE%Blood: Eth Caster: Thul Power: Ral Safety: Ort%NL%Vampiric: El Bountiful: io%NL%}%CONTINUE%//
+ItemDisplay[amu MAG]:%NAME%{%NAME%%ORANGE%Blood: Amn Caster: Ral Power: Thul Safety: Thul%NL%Vampiric: Dol Bountiful: Ko%NL%}%CONTINUE%//
+ItemDisplay[rin MAG]:%NAME%{%NAME%%ORANGE%Blood: Sol Caster: Amn Power: Amn Safety: Amn%NL%Vampiric: Hel Bountiful: Lum%NL%}%CONTINUE%//
 ItemDisplay[ci0 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 20-30 Sockets: 1}%CONTINUE%//
 ItemDisplay[ci0 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 20-30 Sockets: 2}%CONTINUE%//
 ItemDisplay[ci1 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 30-40 Sockets: 1}%CONTINUE%//
