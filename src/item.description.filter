@@ -36,7 +36,7 @@ ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 
 
 ///// Common
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[key]:%NAME%{%TAN%See Gem for uses%NL%See Rune/Item for uses%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(El-Ko)%GRAY%+%BLUE%Item%GRAY%)}%CONTINUE%//
+ItemDisplay[key]:%NAME%{%TAN%See Gem for uses%NL%See Rune/Item for uses%ORANGE%%NL%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(El-Ko)%GRAY%+%BLUE%Item%GRAY%)}%CONTINUE%//
 
 ItemDisplay[gzv OR gzvs OR gpv OR gpvs]:%NAME%{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%CONTINUE%//
 ItemDisplay[gly OR glys OR gpy OR gpys]:%NAME%{%TAN%Reroll %BLUE%Grand Charm%NL%%ORANGE%Bountiful Crafting}%CONTINUE%//

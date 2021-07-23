@@ -9464,7 +9464,7 @@ ItemDisplay[upmp]:%NAME%{%WHITE%Map%GRAY%: (%GOLD%Cartographer's Orb%GRAY%+%WHIT
 ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41) NMAG]:%NAME%{%BLUE%Map%GRAY%: (%WHITE%Map%GRAY%+%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%)}%CONTINUE%//
 ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41) MAG]:%NAME%{%BLUE%Map%WHITE%%GRAY%: (%BLUE%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%)}%CONTINUE%//
 ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41) RARE]:%NAME%{%YELLOW%Map%WHITE%%GRAY%: (%YELLOW%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%GOLD%Horadrim Orb%GRAY%)}%CONTINUE%//
-ItemDisplay[key]:%NAME%{%TAN%See Gem for uses%NL%See Rune/Item for uses%ORANGE%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(El-Ko)%GRAY%+%BLUE%Item%GRAY%)}%CONTINUE%//
+ItemDisplay[key]:%NAME%{%TAN%See Gem for uses%NL%See Rune/Item for uses%ORANGE%%NL%Crafting%GRAY%: (%BLUE%Jewel%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(El-Ko)%GRAY%+%BLUE%Item%GRAY%)}%CONTINUE%//
 ItemDisplay[gzv OR gzvs OR gpv OR gpvs]:%NAME%{%TAN%Upgrade %YELLOW%Armor%NL%%ORANGE%Caster Crafting}%CONTINUE%//
 ItemDisplay[gly OR glys OR gpy OR gpys]:%NAME%{%TAN%Reroll %BLUE%Grand Charm%NL%%ORANGE%Bountiful Crafting}%CONTINUE%//
 ItemDisplay[glb OR glbs OR gpb OR gpbs]:%NAME%{%TAN%Upgrade %YELLOW%Weapon%NL%%ORANGE%Power Crafting}%CONTINUE%
