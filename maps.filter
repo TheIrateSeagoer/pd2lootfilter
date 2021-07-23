@@ -4568,8 +4568,8 @@ ItemDisplay[SHIELD MAG]:%NAME%{%NAME%%ORANGE%Blood: Ith Caster: Eth Power: Eth S
 ItemDisplay[GLOVES MAG]:%NAME%{%NAME%%ORANGE%Blood: Nef Caster: Ort Power: Ort Safety: Ral%NL%Vampiric: io Bountiful: Hel%NL%}%CONTINUE%//
 ItemDisplay[BELT MAG]:%NAME%{%NAME%%ORANGE%Blood: Tal Caster: Ith Power: Tal Safety: Tal%NL%Vampiric: Eld Bountiful: El%NL%}%CONTINUE%//
 ItemDisplay[BOOTS MAG]:%NAME%{%NAME%%ORANGE%Blood: Eth Caster: Thul Power: Ral Safety: Ort%NL%Vampiric: El Bountiful: io%NL%}%CONTINUE%//
-ItemDisplay[amu MAG]:%NAME%{%NAME%%ORANGE%Blood: Amn Caster: Ral Power: Thul Safety: Thul%NL%Vampiric: Dol Bountiful: Ko%NL%}%CONTINUE%//
-ItemDisplay[rin MAG]:%NAME%{%NAME%%ORANGE%Blood: Sol Caster: Amn Power: Amn Safety: Amn%NL%Vampiric: Hel Bountiful: Lum%NL%}%CONTINUE%//
+ItemDisplay[amu MAG]:%NAME%{%NAME%%ORANGE%Blood: Amn Caster: Ral Power: Thul Safety: Thul%NL%Vampiric: Dol Bountiful: Ko}%CONTINUE%//
+ItemDisplay[rin MAG]:%NAME%{%NAME%%ORANGE%Blood: Sol Caster: Amn Power: Amn Safety: Amn%NL%Vampiric: Hel Bountiful: Lum}%CONTINUE%//
 ItemDisplay[ci0 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 20-30 Sockets: 1}%CONTINUE%//
 ItemDisplay[ci0 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 20-30 Sockets: 2}%CONTINUE%//
 ItemDisplay[ci1 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 30-40 Sockets: 1}%CONTINUE%//
