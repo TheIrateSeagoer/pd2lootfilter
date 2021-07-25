@@ -28,6 +28,7 @@ ItemDisplay[upma]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Angelic Orb%GRAY%+%ORANGE%Run
 ItemDisplay[rera]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Horadrim Orb%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%YELLOW%Map%GRAY%)}%CONTINUE%//
 ItemDisplay[scou]:%NAME%{%WHITE%Map%GRAY%: (%GOLD%Orb of Destruction%GRAY%+%ORANGE%Hel%GRAY%+%BLUE%MAP%GRAY%)%NL%%WHITE%Map%GRAY%: %GRAY%(%GOLD%Orb of Destruction%GRAY%+%ORANGE%Hel%GRAY%+%YELLOW%MAP%GRAY%)}%CONTINUE%//
 ItemDisplay[upmp]:%NAME%{%WHITE%Map%GRAY%: (%GOLD%Cartographer's Orb%GRAY%+%WHITE%Map%GRAY%+%WHITE%Map%GRAY%+%WHITE%Map%GRAY%)%NL%%TAN%Use 3 maps of the same tier to get a higher tier}%CONTINUE%//
+ItemDisplay[scrb]:%NAME%{Use near the blood fountain in Harrogath}%CONTINUE%//
 
 ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41) NMAG]:%NAME%{%BLUE%Map%GRAY%: (%WHITE%Map%GRAY%+%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%)}%CONTINUE%//
 ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41) MAG]:%NAME%{%BLUE%Map%WHITE%%GRAY%: (%BLUE%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%)}%CONTINUE%//

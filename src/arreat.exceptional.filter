@@ -177,20 +177,20 @@ ItemDisplay[paa ILVL>25        ]:%NAME%{%NAME%%TAN%Defense: 156-181 Sockets: 4}%
 
 ///// Necromancer Shrunken Heads
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[ne6                ]:%NAME%{%NAME%%TAN%Defense: 38-48 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne6                ]:%NAME%{%NAME%%TAN%Defense: 38-48 Sockets: 2 (3)}%CONTINUE%//
 
-ItemDisplay[ne7                ]:%NAME%{%NAME%%TAN%Defense: 41-52 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne7                ]:%NAME%{%NAME%%TAN%Defense: 41-52 Sockets: 2 (3)}%CONTINUE%//
 
-ItemDisplay[ne8                ]:%NAME%{%NAME%%TAN%Defense: 44-55 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne8                ]:%NAME%{%NAME%%TAN%Defense: 44-55 Sockets: 2 (3)}%CONTINUE%//
 
-ItemDisplay[ne9                ]:%NAME%{%NAME%%TAN%Defense: 50-64 Sockets: 2}%CONTINUE%//
+ItemDisplay[ne9                ]:%NAME%{%NAME%%TAN%Defense: 50-64 Sockets: 2 (3)}%CONTINUE%//
 
-ItemDisplay[nea                ]:%NAME%{%NAME%%TAN%Defense: 58-70 Sockets: 2}%CONTINUE%//
+ItemDisplay[nea                ]:%NAME%{%NAME%%TAN%Defense: 58-70 Sockets: 2 (3)}%CONTINUE%//
 
 
 ///// Axes
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[9ha                ]:%NAME%{%NAME%%TAN%Damage: 10-21 Sockets: 2}%CONTINUE%//
+ItemDisplay[9ha                ]:%NAME%{%NAME%%TAN%Damage: 10-21 Sockets: 2 (3)}%CONTINUE%//
                 
 ItemDisplay[9ax                ]:%NAME%{%NAME%%TAN%Damage: 10-33 Sockets: 4}%CONTINUE%//
 
@@ -205,7 +205,7 @@ ItemDisplay[9wa ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 16-45 Sockets: 4}%CON
 ItemDisplay[9wa ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 16-45 Sockets: 5}%CONTINUE%//
 ItemDisplay[9wa ILVL>40        ]:%NAME%{%NAME%%TAN%Damage: 16-45 Sockets: 6}%CONTINUE%//
 
-ItemDisplay[9la                ]:%NAME%{%NAME%%TAN%Damage: 14-34 Sockets: 4}%CONTINUE%//
+ItemDisplay[9la                ]:%NAME%{%NAME%%TAN%Damage: 14-34 Sockets: 4 (5)}%CONTINUE%//
 
 ItemDisplay[9ba ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 21-49 Sockets: 4}%CONTINUE%//
 ItemDisplay[9ba ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 21-49 Sockets: 5}%CONTINUE%//
@@ -224,7 +224,7 @@ ItemDisplay[9gi ILVL>40        ]:%NAME%{%NAME%%TAN%Damage: 43-85 Sockets: 6}%CON
 
 ///// Bows
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[8sb                ]:%NAME%{%NAME%%TAN%Damage: 6-19 Sockets: 3}%CONTINUE%//
+ItemDisplay[8sb                ]:%NAME%{%NAME%%TAN%Damage: 6-19 Sockets: 3 (4)}%CONTINUE%//
 
 ItemDisplay[8hb ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 8-22 Sockets: 3}%CONTINUE%//
 ItemDisplay[8hb ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 8-22 Sockets: 4}%CONTINUE%//
@@ -255,7 +255,7 @@ ItemDisplay[8lw ILVL>40        ]:%NAME%{%NAME%%TAN%Damage: 10-50 Sockets: 6}%CON
 
 ///// Crossbows
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[8lx                ]:%NAME%{%NAME%%TAN%Damage: 14-27 Sockets: 3}%CONTINUE%//
+ItemDisplay[8lx                ]:%NAME%{%NAME%%TAN%Damage: 14-27 Sockets: 3 (4)}%CONTINUE%//
 
 ItemDisplay[8mx ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 20-42 Sockets: 3}%CONTINUE%//
 ItemDisplay[8mx ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 20-42 Sockets: 4}%CONTINUE%//
@@ -271,9 +271,9 @@ ItemDisplay[8rx ILVL>40        ]:%NAME%{%NAME%%TAN%Damage: 14-32 Sockets: 5}%CON
 
 ///// Daggers
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[9dg                ]:%NAME%{%NAME%%TAN%Damage: 6-8 Sockets: 1}%CONTINUE%//
+ItemDisplay[9dg                ]:%NAME%{%NAME%%TAN%Damage: 6-8 Sockets: 1 (2)}%CONTINUE%//
                 
-ItemDisplay[9di                ]:%NAME%{%NAME%%TAN%Damage: 10-26 Sockets: 1}%CONTINUE%//
+ItemDisplay[9di                ]:%NAME%{%NAME%%TAN%Damage: 10-26 Sockets: 1 (2)}%CONTINUE%//
 
 ItemDisplay[9kr ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 15-31 Sockets: 2}%CONTINUE%//
 ItemDisplay[9kr ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 15-31 Sockets: 3}%CONTINUE%//
@@ -296,11 +296,11 @@ ItemDisplay[9ts                ]:%NAME%{%NAME%%TAN%Throw: 18-54 One-Hand: 13-35}
 
 ///// Maces
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[9cl                ]:%NAME%{%NAME%%TAN%Damage: 6-21 Sockets: 2}%CONTINUE%//
+ItemDisplay[9cl                ]:%NAME%{%NAME%%TAN%Damage: 6-21 Sockets: 2 (3)}%CONTINUE%//
                 
 ItemDisplay[9sp                ]:%NAME%{%NAME%%TAN%Damage: 13-25 Sockets: 3}%CONTINUE%//
                 
-ItemDisplay[9ma                ]:%NAME%{%NAME%%TAN%Damage: 15-23 Sockets: 2}%CONTINUE%//
+ItemDisplay[9ma                ]:%NAME%{%NAME%%TAN%Damage: 15-23 Sockets: 2 (3)}%CONTINUE%//
                 
 ItemDisplay[9mt                ]:%NAME%{%NAME%%TAN%Damage: 20-31 Sockets: 3}%CONTINUE%//
 
@@ -322,7 +322,7 @@ ItemDisplay[9gm ILVL>40        ]:%NAME%{%NAME%%TAN%Damage: 61-99 Sockets: 6}%CON
 
 ///// Polearms
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[9b7                ]:%NAME%{%NAME%%TAN%Damage: 6-58 Sockets: 3}%CONTINUE%//
+ItemDisplay[9b7                ]:%NAME%{%NAME%%TAN%Damage: 6-58 Sockets: 3 (4)}%CONTINUE%//
 
 ItemDisplay[9vo ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 14-53 Sockets: 3}%CONTINUE%//
 ItemDisplay[9vo ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 14-53 Sockets: 4}%CONTINUE%//
@@ -346,7 +346,7 @@ ItemDisplay[9wc ILVL>40        ]:%NAME%{%NAME%%TAN%Damage: 30-70 Sockets: 6}%CON
 
 ///// Scepters
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[9sc                ]:%NAME%{%NAME%%TAN%Damage: 13-24 Sockets: 2}%CONTINUE%//
+ItemDisplay[9sc                ]:%NAME%{%NAME%%TAN%Damage: 13-24 Sockets: 2 (3)}%CONTINUE%//
 
 ItemDisplay[9qs                ]:%NAME%{%NAME%%TAN%Damage: 14-36 Sockets: 3}%CONTINUE%//
 
@@ -376,7 +376,7 @@ ItemDisplay[9p9 ILVL>40        ]:%NAME%{%NAME%%TAN%Damage: 27-114 Sockets: 6}%CO
 
 ///// Staves
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[8ss                ]:%NAME%{%NAME%%TAN%Damage: 6-21 Sockets: 2}%CONTINUE%//
+ItemDisplay[8ss                ]:%NAME%{%NAME%%TAN%Damage: 6-21 Sockets: 2 (3)}%CONTINUE%//
 
 ItemDisplay[8ls                ]:%NAME%{%NAME%%TAN%Damage: 8-26 Sockets: 3}%CONTINUE%//
 
@@ -390,13 +390,13 @@ ItemDisplay[8ws ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 24-58 Sockets: 6}%CON
 
 ///// Swords
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[9ss                ]:%NAME%{%NAME%%TAN%Damage: 8-22 Sockets: 2}%CONTINUE%//
+ItemDisplay[9ss                ]:%NAME%{%NAME%%TAN%Damage: 8-22 Sockets: 2 (3)}%CONTINUE%//
 
-ItemDisplay[9sm                ]:%NAME%{%NAME%%TAN%Damage: 8-21 Sockets: 2}%CONTINUE%//
+ItemDisplay[9sm                ]:%NAME%{%NAME%%TAN%Damage: 8-21 Sockets: 2 (3)}%CONTINUE%//
 
-ItemDisplay[9sb                ]:%NAME%{%NAME%%TAN%Damage: 10-24 Sockets: 2}%CONTINUE%//
+ItemDisplay[9sb                ]:%NAME%{%NAME%%TAN%Damage: 10-24 Sockets: 2 (3)}%CONTINUE%//
 
-ItemDisplay[9fc                ]:%NAME%{%NAME%%TAN%Damage: 16-35 Sockets: 2}%CONTINUE%//
+ItemDisplay[9fc                ]:%NAME%{%NAME%%TAN%Damage: 16-35 Sockets: 2 (3)}%CONTINUE%//
 
 ItemDisplay[9cr ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 13-35 Sockets: 3}%CONTINUE%//
 ItemDisplay[9cr ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 13-35 Sockets: 4}%CONTINUE%//
@@ -478,9 +478,9 @@ ItemDisplay[ama                ]:%NAME%{%NAME%%TAN%Throw: 18-54 One-Hand: 18-35}
 ItemDisplay[9ar ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 11-24 Sockets: 2 Skills: No}%CONTINUE%//
 ItemDisplay[9ar ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 11-24 Sockets: 3 Skills: No}%CONTINUE%//
 
-ItemDisplay[9wb                ]:%NAME%{%NAME%%TAN%Damage: 13-27 Sockets: 2 Skills: No}%CONTINUE%//
-ItemDisplay[9xf                ]:%NAME%{%NAME%%TAN%Damage: 8-37 Sockets: 2 Skills: No}%CONTINUE%//
-ItemDisplay[9cs                ]:%NAME%{%NAME%%TAN%Damage: 16-37 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[9wb                ]:%NAME%{%NAME%%TAN%Damage: 13-27 Sockets: 2 (3) Skills: No}%CONTINUE%//
+ItemDisplay[9xf                ]:%NAME%{%NAME%%TAN%Damage: 8-37 Sockets: 2 (3) Skills: No}%CONTINUE%//
+ItemDisplay[9cs                ]:%NAME%{%NAME%%TAN%Damage: 16-37 Sockets: 2 (3) Skills: Yes}%CONTINUE%//
 
 ItemDisplay[9lw ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 18-37 Sockets: 2 Skills: Yes}%CONTINUE%//
 ItemDisplay[9lw ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 18-37 Sockets: 3 Skills: Yes}%CONTINUE%//
