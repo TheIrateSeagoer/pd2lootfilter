@@ -113,6 +113,12 @@ ItemDisplay[jew ID MAG STAT124>24 STAT124<45]:%GRAY%AR vs Undead %NAME%%CONTINUE
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[jew ID MAG STAT89=1]:%PURPLE%Bright %NAME%%CONTINUE%//
 
+///// Mana Per Kill (Season 3)
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[jew ID RARE MAEK=5]:%PURPLE%Mana Per Kill %NAME%%CONTINUE%//
+ItemDisplay[jew ID RARE MAEK>3 MAEK<5]:%RED%Mana Per Kill %NAME%%CONTINUE%//
+ItemDisplay[jew ID RARE MAEK>0 MAEK<4]:%GRAY%Mana Per Kill %NAME%%CONTINUE%//
+
 ///// Magic Find
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[jew ID MAG MFIND=7 (STAT49>0 OR STAT51>0 OR STAT55>0 OR STAT58>0 OR FHR>0 OR IAS>0 OR GFIND>0 OR LIFE>0 OR REPLIFE>0 OR STAT1>0 OR STR>0 OR DEX>0 OR STAT78>0 OR STAT91=-15)]:%PURPLE%Magic Find %NAME%%CONTINUE%//
@@ -212,6 +218,14 @@ ItemDisplay[jew ID MAG REPLIFE>0 REPLIFE<3]:%NAME% %GRAY%Replenish Life%CONTINUE
 ItemDisplay[jew ID MAG STAT78=5]:%NAME% %PURPLE%Attacker Takes Damage%CONTINUE%//
 ItemDisplay[jew ID MAG STAT78>3 STAT78<5]:%NAME% %RED%Attacker Takes Damage%CONTINUE%//
 ItemDisplay[jew ID MAG STAT78>0 STAT78<4]:%NAME% %GRAY%Attacker Takes Damage%CONTINUE%//
+
+
+///// Life Per Kill (Season 3)
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[jew ID RARE STAT86=3]:%NAME% %PURPLE%Life per Kill%CONTINUE%//
+ItemDisplay[jew ID RARE STAT86>1 STAT86<3]:%NAME% %RED%Life per Kill%CONTINUE%//
+ItemDisplay[jew ID RARE STAT86>0 STAT86<2]:%NAME% %GRAY%Life per Kill%CONTINUE%//
+
 
 ///// Magic Find
 ////////////////////////////////////////////////////////////////////////////////
