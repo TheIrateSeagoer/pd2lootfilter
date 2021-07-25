@@ -34,6 +34,8 @@ ItemDisplay[am7 !ID UNI]:%GOLD%Lycander's Aim %GRAY%nm%CONTINUE%//
 ItemDisplay[ama !ID UNI]:%GOLD%Titan's Revenge %GRAY%nm%CONTINUE%//
 ItemDisplay[amf !ID UNI]:%GOLD%Thunderstroke %GRAY%h%CONTINUE%//
 ItemDisplay[amb !ID UNI]:%GOLD%Blood Raven's Charge %GRAY%h%CONTINUE%//
+ItemDisplay[am5 !ID UNI]:%GOLD%True Silver %GRAY%s3%CONTINUE%//
+
 
 ///// Assassin
 ////////////////////////////////////////////////////////////////////////////////
@@ -41,6 +43,7 @@ ItemDisplay[7cs !ID UNI]:%GOLD%Shadow Killer %GRAY%h%CONTINUE%//
 ItemDisplay[9tw !ID UNI]:%GOLD%Bartuc's Cut-Throat %GRAY%nm%CONTINUE%//
 ItemDisplay[7wb !ID UNI]:%GOLD%Jade Talon %GRAY%h%CONTINUE%//
 ItemDisplay[7lw !ID UNI]:%GOLD%Firelizard's Talons %GRAY%h%CONTINUE%//
+ItemDisplay[9ar !ID UNI]:%GOLD%Mage Slayer %GRAY%s3%CONTINUE%//
 
 
 /////Necromancer
@@ -48,6 +51,7 @@ ItemDisplay[7lw !ID UNI]:%GOLD%Firelizard's Talons %GRAY%h%CONTINUE%//
 ItemDisplay[nea !ID UNI]:%GOLD%Homunculus %GRAY%nm%CONTINUE%//
 ItemDisplay[nef !ID UNI]:%GOLD%Darkforce Spawn %GRAY%h%CONTINUE%//
 ItemDisplay[nee !ID UNI]:%GOLD%Boneflame %GRAY%h%CONTINUE%//
+ItemDisplay[ne6 !ID UNI]:%GOLD%Kalan's Legacy %GRAY%s3%CONTINUE%//
 
 
 ///// Barbarian
@@ -56,6 +60,7 @@ ItemDisplay[baa !ID UNI]:%GOLD%Arreat's Face %GRAY%nm%CONTINUE%//
 ItemDisplay[bac !ID UNI]:%GOLD%Wolfhowl %GRAY%h%CONTINUE%//
 ItemDisplay[bad !ID UNI]:%GOLD%Demonhorn's Edge %GRAY%h%CONTINUE%//
 ItemDisplay[bae !ID UNI]:%GOLD%Halaberd's Reign %GRAY%h%CONTINUE%//
+ItemDisplay[ba6 !ID UNI]:%GOLD%Cyclopean Roar %GRAY%s3%CONTINUE%//
 
 
 ///// Sorceress
@@ -63,6 +68,7 @@ ItemDisplay[bae !ID UNI]:%GOLD%Halaberd's Reign %GRAY%h%CONTINUE%//
 ItemDisplay[oba !ID UNI]:%GOLD%The Oculus %GRAY%nm%CONTINUE%//
 ItemDisplay[obc !ID UNI]:%GOLD%Eschuta's Temper %GRAY%h%CONTINUE%//
 ItemDisplay[obf !ID UNI]:%GOLD%Death's Fathom %GRAY%h%CONTINUE%//
+ItemDisplay[ob6 !ID UNI]:%GOLD%Tempest %GRAY%s3%CONTINUE%//
 
 
 ///// Druid
@@ -71,6 +77,7 @@ ItemDisplay[dra !ID UNI]:%GOLD%Jalal's Mane %GRAY%nm%CONTINUE%//
 ItemDisplay[drb !ID UNI]:%GOLD%Cerebus' Bite %GRAY%h%CONTINUE%//
 ItemDisplay[dre !ID UNI]:%GOLD%Ravenlore %GRAY%h%CONTINUE%//
 ItemDisplay[drd !ID UNI]:%GOLD%Spirit Keeper %GRAY%h%CONTINUE%//
+ItemDisplay[dr2 !ID UNI]:%GOLD%Quetzalcoatl %GRAY%s3%CONTINUE%//
 
 
 ///// Paladin
@@ -78,5 +85,5 @@ ItemDisplay[drd !ID UNI]:%GOLD%Spirit Keeper %GRAY%h%CONTINUE%//
 ItemDisplay[pac !ID UNI]:%GOLD%Alma Negra %GRAY%h%CONTINUE%//
 ItemDisplay[pa9 !ID UNI]:%GOLD%Herald of Zakarum %GRAY%nm%CONTINUE%//
 ItemDisplay[pae !ID UNI]:%GOLD%Dragonscale %GRAY%h%CONTINUE%//
-ItemDisplay[pa3 !ID UNI]:%GOLD%Sankekur's Fall%CONTINUE%//
+ItemDisplay[pa3 !ID UNI]:%GOLD%Sankekur's Fall %GRAY%s3%CONTINUE%//
 
