@@ -2581,6 +2581,11 @@ ItemDisplay[!RW (WEAPON OR ARMOR OR rin OR amu) PRICE>29999 PRICE<35000]:%NAME% 
 ItemDisplay[!RW (WEAPON OR ARMOR OR rin OR amu) PRICE>34999]:%NAME% %DARK_GREEN%$35k%CONTINUE%//
 
 
+///// Crafted Level
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[MAG !(cm1 OR cm2 OR cm3 OR jew)]:%NAME% %ORANGE%c%CRAFTALVL%%CONTINUE%//
+
+
 ///// Sleepy Gamer Reminder
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[SOCK>1 MAG]:%RED%NOT A RUNEWORD CANDIDATE%BLUE%%CONTINUE%//
