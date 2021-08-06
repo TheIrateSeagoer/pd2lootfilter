@@ -275,7 +275,7 @@ ItemDisplay[CLVL>79 !RW NMAG uar ED=0 DEF>570 DEF<600]:{%NAME%}//
 ItemDisplay[CLVL>80 hp4]://
 ItemDisplay[CLVL>80 mp4]://
 
-ItemDisplay[CLVL>80 MAG !ID CRAFTALVL<72]:{%NAME%}//
+ItemDisplay[CLVL>80 MAG !ID CRAFTALVL<72 !(cm1 OR cm2 OR cm3 OR jew)]:{%NAME%}//
 
 
 ///// Level 90

@@ -3,3 +3,8 @@ ItemDisplay[tsc]://
 ItemDisplay[isc]://
 ItemDisplay[hp4]://
 ItemDisplay[mp4]://
+
+ItemDisplay[ARMOR SOCK=3]:%MAP%%NAME%%CONTINUE%//
+ItemDisplay[ARMOR SOCK=4]:%MAP%%NAME%%CONTINUE%//
+
+ItemDisplay[CLVL>60 MAG !ID CRAFTALVL<72 !(cm1 OR cm2 OR cm3 OR jew)]:{%NAME%}//
