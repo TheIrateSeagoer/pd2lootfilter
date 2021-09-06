@@ -37,7 +37,7 @@ ItemDisplay[lea                ]:%NAME%{%NAME%%TAN%Defense: 14-17 Sockets: 2}%CO
 
 ItemDisplay[hla                ]:%NAME%{%NAME%%TAN%Defense: 21-24 Sockets: 2}%CONTINUE%//
 
-ItemDisplay[stu                ]:%NAME%{%NAME%%TAN%Defense: 32-25 Sockets: 2}%CONTINUE%//
+ItemDisplay[stu                ]:%NAME%{%NAME%%TAN%Defense: 32-35 Sockets: 2}%CONTINUE%//
 
 ItemDisplay[rng                ]:%NAME%{%NAME%%TAN%Defense: 45-48 Sockets: 3}%CONTINUE%//
 
