@@ -9,12 +9,12 @@ ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wc SOCK=3  ]:%NAME% %RED%Malice%C
 ///// TC 87 ///// Thunder Maul, Berserker Axe, Colossus Blade
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=6   ]:%NAME% %PURPLE%Breath of the Dying%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=5   ]:%NAME% %PURPLE%Death%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=4   ]:%NAME% %PURPLE%Oath%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=4   ]:%NAME% %PURPLE%Famine%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
 
 ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=6  ]:%NAME% %RED%Breath of the Dying%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=5  ]:%NAME% %RED%Death%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=4  ]:%NAME% %RED%Oath%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=4  ]:%NAME% %RED%Famine%CONTINUE%//
 ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
 
 ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=6   ]:%NAME% %PURPLE%Breath of the Dying%CONTINUE%//
