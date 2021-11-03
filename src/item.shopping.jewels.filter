@@ -310,10 +310,10 @@ ItemDisplay[jew ID MAG STAT24>0 STAT24<13 STAT23>0 (DEF=0 MANA=0 RES=0 STAT39=0 
 ///// Value Items
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[jew ID MAG RES>10]:%MAP%%RED%oooo %ORANGE%All Resist%RED%oooo%BLUE%%CONTINUE%//
-ItemDisplay[jew ID MAG STAT24=15]:%MAP%%RED%oooo %ORANGE%Max Damage%RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[jew ID MAG RES>10]:%MAP%%RED%oooo %ORANGE%All Resist %RED%oooo%BLUE%%CONTINUE%//
+ItemDisplay[jew ID MAG STAT24=15]:%MAP%%RED%oooo %ORANGE%Max Damage %RED%oooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT18>35]:%MAP%%RED%ooooo %ORANGE%ED %RED%ooooo%BLUE%%CONTINUE%//
-ItemDisplay[jew ID MAG RES=15]:%MAP%%RED%ooooo %ORANGE%15 All Resist%RED%ooooo%BLUE%%CONTINUE%//
+ItemDisplay[jew ID MAG RES=15]:%MAP%%RED%ooooo %ORANGE%15 All Resist %RED%ooooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT18>30 IAS=15]:%MAP%%RED%ooooo %ORANGE%ED %RED%ooooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT121>24 IAS=15]:%MAP%%PURPLE%ooooo %ORANGE%ED Demons / IAS %PURPLE%ooooo%BLUE%%CONTINUE%//
 ItemDisplay[jew ID MAG STAT121=40 IAS=15]:%MAP%%PURPLE%oooooo %ORANGE%40 ED Demons / IAS %PURPLE%oooooo%BLUE%%CONTINUE%//
