@@ -6306,6 +6306,17 @@ ItemDisplay[RARE !ID jew]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID rin]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID amu]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID CIRC]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
+ItemDisplay[xtp SOCK=3]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[uui (SOCK=3 OR SOCK=4)]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[uea (SOCK=3 OR SOCK=4)]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[ula (SOCK=3 OR SOCK=4)]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[utp (SOCK=3 OR SOCK=4)]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[uh9 SOCK=3]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[urn SOCK=3]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[ci3 SOCK=3]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[ush SOCK=3]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[uit (SOCK=3 OR SOCK=4)]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[paf (SOCK=3 OR SOCK=4)]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP NMAG ((7wc OR 9wc OR wsc) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP NMAG ((7h7 OR 9h9 OR hal) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP NMAG ((7pa OR 9pa OR pax) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
