@@ -1,8 +1,8 @@
-ItemDisplay[key]://
-ItemDisplay[tsc]://
-ItemDisplay[isc]://
-ItemDisplay[hp4]://
-ItemDisplay[mp4]://
+// ItemDisplay[key]://
+// ItemDisplay[tsc]://
+// ItemDisplay[isc]://
+// ItemDisplay[hp4]://
+// ItemDisplay[mp4]://
 
 // ItemDisplay[HELM SOCK=3]:%MAP%%NAME%{%NAME%}%CONTINUE%//
 // ItemDisplay[ARMOR SOCK=4]:%MAP%%NAME%{%NAME%}%CONTINUE%//

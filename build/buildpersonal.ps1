@@ -12,9 +12,10 @@ ForEach-Object{
     $outputPath = '.\obj\' + $_.Name
     $inputPath = '..\src\' + $_.Name
     
-    Get-Content -Path $inputPath | Where-Object {$_.trim() -ne "" } | Set-Content -Path $outputPath 
+    (Get-Content -Path $inputPath -Raw).Replace("\`n", "") | Set-Content -Path $outputPath
+    (Get-Content -Path $outputPath | Where-Object {$_.trim() -ne "" }) | Set-Content -Path $outputPath 
     (Get-Content -Path $outputPath | Select-String -pattern '/////' -notmatch) | Set-Content -Path $outputPath
-    (Get-Content -Path $outputPath).replace("`t","").replace("    ]","]").replace(" ]","]").replace(" ]","]")| Set-Content -Path $outputPath 
+    (Get-Content -Path $outputPath).replace("`t","").replace("    ]","]").replace(" ]","]").replace(" ]","]") | Set-Content -Path $outputPath 
 }
 ################################################################################
 Write-Host "Done"

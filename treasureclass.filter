@@ -41,6 +41,7 @@ ItemDisplay[t21]:[T2] %NAME%%CONTINUE%//
 ItemDisplay[t22]:[T2] %NAME%%CONTINUE%//
 ItemDisplay[t23]:[T2] %NAME%%CONTINUE%//
 ItemDisplay[t24]:[T2] %NAME%%CONTINUE%//
+ItemDisplay[t25]:[T2] %NAME%%CONTINUE%//
 ItemDisplay[t31]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t32]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t33]:[T3] %NAME%%CONTINUE%//
@@ -4573,7 +4574,7 @@ ItemDisplay[dcho]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Black Soulstone%G
 ItemDisplay[dcso]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Prime Evil Soul%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Pure Demonic Essence%GRAY%)%NL%%TAN%Hell Diablo / Hell Baal}%CONTINUE%//
 ItemDisplay[dcbl]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Pure Demonic Essence%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Prime Evil Soul%GRAY%)%NL%%TAN%Map Bosses}%CONTINUE%//
 ItemDisplay[lbox]:%NAME%{%TAN%One-Handed: 1-2 Two-Handed: 1-2%NL%Helmet: 1-2 Chest: 1-2 Shield: 1-2}%CONTINUE%//
-ItemDisplay[wss]:%NAME%{%TAN%Item: (Modifier: 50% Sockets: 25% Brick: 25%)%NL%Socketed Item: (Modifier: 75% Brick: 25%)%NL%Maps: (Modifier: 70% Brick: 30%)}%CONTINUE%//
+ItemDisplay[wss]:%NAME%{%TAN%Item: (Modifier: 50% Sockets: 25% %RED%Brick: 25%%TAN%)%NL%Socketed Item: (Modifier: 75% %RED%Brick: 25%%TAN%)%NL%Maps: (Modifier: 70% %RED%Brick: 30%%TAN%)}%CONTINUE%//
 ItemDisplay[imra]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Zakarum Orb%GRAY%+%BLUE%Jewel%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%WHITE%Map%GRAY%)}%CONTINUE%//
 ItemDisplay[imma]:%NAME%{%BLUE%Map%GRAY%: (%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%+%WHITE%Map%GRAY%)}%CONTINUE%//
 ItemDisplay[upma]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Angelic Orb%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%ORANGE%Perfect Skull%GRAY%+%BLUE%Map%GRAY%)}%CONTINUE%//
@@ -4630,16 +4631,16 @@ ItemDisplay[WEAPON !THROWING !leg SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRA
 ItemDisplay[SHIELD SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[HELM SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[CHEST SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[WEAPON (BOW OR XBOW) MAG]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir Safety: Sol%NL%Vampiric: Shael Bountiful: Shael%NL%}%CONTINUE%//
-ItemDisplay[WEAPON !BOW !XBOW MAG]:%NAME%{%NAME%%ORANGE%Blood: Ort Caster: Tir Power: Tir%NL%Vampiric: Shael Bountiful: Shael%NL%}%CONTINUE%//
-ItemDisplay[HELM MAG]:%NAME%{%NAME%%ORANGE%Blood: Ral Caster: Nef Power: Ith Safety: Ith%NL%Vampiric: Lum Bountiful: Tir%NL%}%CONTINUE%//
-ItemDisplay[CHEST MAG]:%NAME%{%NAME%%ORANGE%Blood: Thul Caster: Tal Power: Nef Safety: Eth%NL%Vampiric: Tir Bountiful: Eld%NL%}%CONTINUE%//
-ItemDisplay[SHIELD MAG]:%NAME%{%NAME%%ORANGE%Blood: Ith Caster: Eth Power: Eth Safety: Nef%NL%Vampiric: Sol Bountiful: Dol%NL%}%CONTINUE%//
-ItemDisplay[GLOVES MAG]:%NAME%{%NAME%%ORANGE%Blood: Nef Caster: Ort Power: Ort Safety: Ral%NL%Vampiric: io Bountiful: Hel%NL%}%CONTINUE%//
-ItemDisplay[BELT MAG]:%NAME%{%NAME%%ORANGE%Blood: Tal Caster: Ith Power: Tal Safety: Tal%NL%Vampiric: Eld Bountiful: El%NL%}%CONTINUE%//
-ItemDisplay[BOOTS MAG]:%NAME%{%NAME%%ORANGE%Blood: Eth Caster: Thul Power: Ral Safety: Ort%NL%Vampiric: El Bountiful: io%NL%}%CONTINUE%//
-ItemDisplay[amu MAG]:%NAME%{%NAME%%ORANGE%Blood: Amn Caster: Ral Power: Thul Safety: Thul%NL%Vampiric: Dol Bountiful: Ko}%CONTINUE%//
-ItemDisplay[rin MAG]:%NAME%{%NAME%%ORANGE%Blood: Sol Caster: Amn Power: Amn Safety: Amn%NL%Vampiric: Hel Bountiful: Lum}%CONTINUE%//
+ItemDisplay[WEAPON (BOW OR XBOW) MAG]:%NAME%{%NAME%%ORANGE%Blood: \%TAN%Ort %ORANGE%Caster: %TAN%Tir%NL%%ORANGE%Power: %TAN%Tir %ORANGE%Safety: %TAN%Sol%NL%%ORANGE%Vampiric: %TAN%Shael %ORANGE%Bountiful: %TAN%Shael%NL%}%CONTINUE%//
+ItemDisplay[WEAPON !BOW !XBOW MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Ort %ORANGE%Caster: %TAN%Tir%NL%%ORANGE%Power: %TAN%Tir%NL%%ORANGE%Vampiric: %TAN%Shael %ORANGE%Bountiful: %TAN%Shael%NL%}%CONTINUE%//
+ItemDisplay[HELM MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Ral %ORANGE%Caster: %TAN%Nef%NL%%ORANGE%Power: %TAN%Ith %ORANGE%Safety: %TAN%Ith%NL%%ORANGE%Vampiric: %TAN%Lum %ORANGE%Bountiful: %TAN%Tir%NL%}%CONTINUE%//
+ItemDisplay[CHEST MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Thul %ORANGE%Caster: %TAN%Tal%NL%%ORANGE%Power: %TAN%Nef %ORANGE%Safety: %TAN%Eth%NL%%ORANGE%Vampiric: %TAN%Tir %ORANGE%Bountiful: %TAN%Eld%NL%}%CONTINUE%//
+ItemDisplay[SHIELD MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Ith %ORANGE%Caster: %TAN%Eth%NL%%ORANGE%Power: %TAN%Eth %ORANGE%Safety: %TAN%Nef%NL%%ORANGE%Vampiric: %TAN%Sol %ORANGE%Bountiful: %TAN%Dol%NL%}%CONTINUE%//
+ItemDisplay[GLOVES MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Nef %ORANGE%Caster: %TAN%Ort%NL%%ORANGE%Power: %TAN%Ort %ORANGE%Safety: %TAN%Ral%NL%%ORANGE%Vampiric: %TAN%io %ORANGE%Bountiful: %TAN%Hel%NL%}%CONTINUE%//
+ItemDisplay[BELT MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Tal %ORANGE%Caster: %TAN%Ith%NL%%ORANGE%Power: %TAN%Tal %ORANGE%Safety: %TAN%Tal%NL%%ORANGE%Vampiric: %TAN%Eld %ORANGE%Bountiful: %TAN%El%NL%}%CONTINUE%//
+ItemDisplay[BOOTS MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Eth %ORANGE%Caster: %TAN%Thul%NL%%ORANGE%Power: %TAN%Ral %ORANGE%Safety: %TAN%Ort%NL%%ORANGE%Vampiric: %TAN%El %ORANGE%Bountiful: %TAN%io%NL%}%CONTINUE%//
+ItemDisplay[amu MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Amn %ORANGE%Caster: %TAN%Ral%NL%%ORANGE%Power: %TAN%Thul %ORANGE%Safety: %TAN%Thul%NL%%ORANGE%Vampiric: %TAN%Dol %ORANGE%Bountiful: %TAN%Ko}%CONTINUE%//
+ItemDisplay[rin MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Sol %ORANGE%Caster: %TAN%Amn%NL%%ORANGE%Power: %TAN%Amn %ORANGE%Safety: %TAN%Amn%NL%%ORANGE%Vampiric: %TAN%Hel %ORANGE%Bountiful: %TAN%Lum}%CONTINUE%//
 ItemDisplay[ci0 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 20-30 Sockets: 1}%CONTINUE%//
 ItemDisplay[ci0 ILVL>25  ]:%NAME%{%NAME%%TAN%Defense: 20-30 Sockets: 2}%CONTINUE%//
 ItemDisplay[ci1 ILVL<26  ]:%NAME%{%NAME%%TAN%Defense: 30-40 Sockets: 1}%CONTINUE%//
