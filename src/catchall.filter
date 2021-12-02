@@ -1,6 +1,7 @@
 ///// Quest
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[leg]:%NAME%{%NAME%}//
+ItemDisplay[box]:%NAME%{%NAME%}//
 
 ItemDisplay[pk1]:%BORDER-60%%NAME%{%NAME%}//
 ItemDisplay[pk2]:%BORDER-60%%NAME%{%NAME%}//

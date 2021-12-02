@@ -5861,6 +5861,7 @@ ItemDisplay[7b8 !ID UNI]:%GOLD%Lacerator %GRAY%h%CONTINUE%//
 ItemDisplay[7bw !ID UNI]:%GOLD%Boneshade %GRAY%h%CONTINUE%//
 ItemDisplay[7gw !ID UNI]:%GOLD%Death's Web %%GRAY%h%CONTINUE%//
 ItemDisplay[leg]:%NAME%{%NAME%}//
+ItemDisplay[box]:%NAME%{%NAME%}//
 ItemDisplay[pk1]:%BORDER-60%%NAME%{%NAME%}//
 ItemDisplay[pk2]:%BORDER-60%%NAME%{%NAME%}//
 ItemDisplay[pk3]:%BORDER-60%%NAME%{%NAME%}//
