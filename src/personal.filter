@@ -9,9 +9,13 @@
 // ItemDisplay[SOCK=4]:%MAP%%NAME%{%NAME%}%CONTINUE%//
 
 // ItemDisplay[CLVL>60 !ID CRAFTALVL<72 !(cm1 OR cm2 OR cm3 OR jew)]:{%NAME%}//
-ItemDisplay[!SHOP]:NOT SHOP %NAME%{%NAME%} %CONTINUE%//
-ItemDisplay[SHOP]:SHOP %NAME%{%NAME%} %CONTINUE%//
-ItemDisplay[1H]:ONE HAND %NAME%{%NAME%} %CONTINUE%//
+
+// ItemDisplay[!EQUIPPED]:NOEQUIPPED %NAME%{%NAME%} %CONTINUE%//
+// ItemDisplay[EQUIPPED]:EQUIPPED %NAME%{%NAME%} %CONTINUE%//
+
+// ItemDisplay[!SHOP]:NOT SHOP %NAME%{%NAME%} %CONTINUE%//
+// ItemDisplay[SHOP]:SHOP %NAME%{%NAME%} %CONTINUE%//
+// ItemDisplay[1H]:ONE HAND %NAME%{%NAME%} %CONTINUE%//
 // ItemDisplay[2H]:TWO HAND %NAME%{%NAME%} %CONTINUE%//
 
 // ItemDisplay[key]:PalaAma %NAME%{Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \

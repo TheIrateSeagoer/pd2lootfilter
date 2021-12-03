@@ -342,3 +342,13 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG CL5 (SK251=0 AND SK252=0 AND SK253=0 AND SK
 ItemDisplay[NMAG SOCK=1 !WAND !STAFF !SCEPTER !ZON !SIN !SOR !CIRC !BAR !DRU]:{%NAME%}//
 ItemDisplay[INF]:{%NAME%}//
 
+
+///// Gold
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[CLVL>89 GOLD<4000]://
+ItemDisplay[CLVL>79 GOLD<3000]://
+ItemDisplay[CLVL>39 GOLD<2000]://
+ItemDisplay[CLVL>19 GOLD<1000]://
+ItemDisplay[CLVL>9 GOLD<500]://
+ItemDisplay[GOLD<100]://
+

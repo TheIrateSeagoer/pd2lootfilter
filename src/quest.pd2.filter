@@ -58,3 +58,6 @@ ItemDisplay[wss QTY>1]:%RED%ooo %PURPLE%Worldstone Shard Stack %RED%ooo%PURPLE%%
 ItemDisplay[lbox QTY=1]:%PURPLE%ooooo %GOLD%Larzuk's Puzzlebox %PURPLE%ooooo%GOLD%%CONTINUE%//
 ItemDisplay[lbox QTY>1]:%PURPLE%ooooo %GOLD%Larzuk's Puzzlebox Stack %PURPLE%ooooo%GOLD%%CONTINUE%//
 
+ItemDisplay[jewf QTY=1]:%ORANGE%Jewel Fragment %WHITE%%CONTINUE%//
+ItemDisplay[jewf QTY>1]:%ORANGE%Jewel Fragment Stack %WHITE%%CONTINUE%//
+
