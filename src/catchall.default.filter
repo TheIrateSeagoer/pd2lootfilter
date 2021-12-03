@@ -139,8 +139,8 @@ ItemDisplay[DIFF=2 mp5]:%BLUE%@%WHITE%MP//
 
 ///// Level 5
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[CLVL>4 cqv]://
-ItemDisplay[CLVL>4 aqv]://
+ItemDisplay[CLVL>4 NMAG cqv]://
+ItemDisplay[CLVL>4 NMAG aqv]://
 
 
 ///// Level 20

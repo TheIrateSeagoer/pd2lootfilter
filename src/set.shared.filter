@@ -21,7 +21,8 @@ ItemDisplay[crn !ID SET]:%GREEN%Iratha/Milabrega%CONTINUE%//
 
 ///// Boots
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[vbt !ID SET]:%GREEN%Cow King/Sander%CONTINUE%//
+ItemDisplay[vbt !ID SET !(MAPID=39)]:%GREEN%Sander's Riprap%CONTINUE%//
+ItemDisplay[vbt !ID SET (MAPID=39)]:%GREEN%Cow King/Sander%CONTINUE%//
 
 
 ///// Belts

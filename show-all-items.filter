@@ -50,6 +50,9 @@ ItemDisplay[t35]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t36]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t37]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t41]:[T4] %NAME%%CONTINUE%//
+ItemDisplay[t42]:[T4] %NAME%%CONTINUE%//
+ItemDisplay[t61]:[PvP] %NAME%%CONTINUE%//
+ItemDisplay[t62]:[PvP] %NAME%%CONTINUE%//
 ItemDisplay[imra]:%NAME%%CONTINUE%//
 ItemDisplay[imma]:%NAME%%CONTINUE%//
 ItemDisplay[upma]:%NAME%%CONTINUE%//
@@ -5400,7 +5403,8 @@ ItemDisplay[amu !ID SET]:%GREEN%%NAME%%CONTINUE%//
 ItemDisplay[tgl !ID SET]:%GREEN%Arctic/Iratha%CONTINUE%//
 ItemDisplay[cap !ID SET]:%GREEN%Infernal/Sander%CONTINUE%//
 ItemDisplay[crn !ID SET]:%GREEN%Iratha/Milabrega%CONTINUE%//
-ItemDisplay[vbt !ID SET]:%GREEN%Cow King/Sander%CONTINUE%//
+ItemDisplay[vbt !ID SET !(MAPID=39)]:%GREEN%Sander's Riprap%CONTINUE%//
+ItemDisplay[vbt !ID SET (MAPID=39)]:%GREEN%Cow King/Sander%CONTINUE%//
 ItemDisplay[mbl !ID SET]:%GREEN%Hsaru/Hwanin%CONTINUE%//
 ItemDisplay[tbl !ID SET]:%GREEN%Infernal/Iratha%CONTINUE%//
 ItemDisplay[wst !ID SET]:%GREEN%Arcanna's Deathwand%CONTINUE%//
