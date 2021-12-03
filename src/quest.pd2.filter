@@ -28,6 +28,13 @@ ItemDisplay[t37]:[T3] %NAME%%CONTINUE%//
 ///// Tier 4 Maps
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[t41]:[T4] %NAME%%CONTINUE%//
+ItemDisplay[t42]:[T4] %NAME%%CONTINUE%//
+
+
+///// PvP Maps
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[t61]:[PvP] %NAME%%CONTINUE%//
+ItemDisplay[t62]:[PvP] %NAME%%CONTINUE%//
 
 
 ///// Map Reagents
