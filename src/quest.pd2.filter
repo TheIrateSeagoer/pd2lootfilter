@@ -59,6 +59,7 @@ ItemDisplay[dcma]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 ItemDisplay[ubtm]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 
 ItemDisplay[rtmo]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
+ItemDisplay[rtma]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 
 
 ///// Item Enhancements
