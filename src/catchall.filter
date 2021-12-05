@@ -47,6 +47,9 @@ ItemDisplay[dcbl]:%BORDER-60%%NAME%{%NAME%}//
 
 ItemDisplay[dcma]:%BORDER-0A%%NAME%{%NAME%}//
 
+ItemDisplay[rtmo]:%BORDER-0A%%NAME%{%NAME%}//
+
+
 ItemDisplay[lbox]:%BORDER-0D%%NAME%{%NAME%}//
 ItemDisplay[wss]:%BORDER-9B%%NAME%{%NAME%}//
 

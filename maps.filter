@@ -67,6 +67,7 @@ ItemDisplay[dcso]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[dcbl]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[dcma]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 ItemDisplay[ubtm]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
+ItemDisplay[rtmo]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 ItemDisplay[wss QTY=1]:%RED%ooo %PURPLE%Worldstone Shard %RED%ooo%PURPLE%%CONTINUE%//
 ItemDisplay[wss QTY>1]:%RED%ooo %PURPLE%Worldstone Shard Stack %RED%ooo%PURPLE%%CONTINUE%//
 ItemDisplay[lbox QTY=1]:%PURPLE%ooooo %GOLD%Larzuk's Puzzlebox %PURPLE%ooooo%GOLD%%CONTINUE%//
@@ -5909,6 +5910,7 @@ ItemDisplay[dcho]:%BORDER-60%%NAME%{%NAME%}//
 ItemDisplay[dcso]:%BORDER-60%%NAME%{%NAME%}//
 ItemDisplay[dcbl]:%BORDER-60%%NAME%{%NAME%}//
 ItemDisplay[dcma]:%BORDER-0A%%NAME%{%NAME%}//
+ItemDisplay[rtmo]:%BORDER-0A%%NAME%{%NAME%}//
 ItemDisplay[lbox]:%BORDER-0D%%NAME%{%NAME%}//
 ItemDisplay[wss]:%BORDER-9B%%NAME%{%NAME%}//
 ItemDisplay[cwss]:%BORDER-9B%%NAME%{%NAME%}//
