@@ -35,14 +35,16 @@ ForEach-Object {
 
         if ($line.Contains("#HIDE"))
         {
-            $split = ($line.Split(']:')[0]).Trim()
-            if ($split.Length -lt 127)
-            {
-                $line = $line.Replace("#HIDE", "{%NAME%%NL%%RED%" + $split + "}//")
-            }
-            else {
-                $line = $line.Replace("#HIDE", "{%NAME%%NL%%RED% " + $_.Name + ":" + $lineNumber + "}//")
-            }  
+            # $split = ($line.Split(']:')[0]).Trim()
+            # if ($split.Length -lt 127)
+            # {
+            #     $line = $line.Replace("#HIDE", "{%NAME%%NL%%RED%" + $split + "}//")
+            # }
+            # else {
+            #     $line = $line.Replace("#HIDE", "{%NAME%%NL%%RED% " + $_.Name + ":" + $lineNumber + "}//")
+            # }  
+
+            $line = $line.Replace("#HIDE", "{%NAME%%NL%%RED% " + $_.Name + ":" + $lineNumber + "}//")
         }
 
         if ($writeLine -eq 1)

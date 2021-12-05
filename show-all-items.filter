@@ -6304,4 +6304,4 @@ ItemDisplay[ETH NMAG ((fla) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP NMAG ((7gm OR 7wa OR 7gd OR 7bt) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ETH NMAG ((7gm OR 7wa OR 7gd OR 7bt) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ulc STAT73=36 RARE]:%PX-20%%RED%Failed %YELLOW%Arachnid Mesh{%NAME%}//
-ItemDisplay[NMAG SOCK=1]:{%NAME%%NL%%RED%ItemDisplay[NMAG SOCK=1}////
+ItemDisplay[NMAG SOCK=1]:{%NAME%%NL%%RED% catchall.showall.filter:3}////
