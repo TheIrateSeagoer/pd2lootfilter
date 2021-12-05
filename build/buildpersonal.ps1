@@ -12,10 +12,12 @@ ForEach-Object {
     $outputPath = '.\obj\' + $_.Name
     $inputPath = '.\src\' + $_.Name
 
+    $lineNumber = 0;
     [System.IO.StreamReader] $sr = [System.IO.File]::Open($inputPath, [System.IO.FileMode]::Open)
     while (-not $sr.EndOfStream)
     {
         $line = $sr.ReadLine()
+        $lineNumber++;
 
         $writeLine = 1
         if ($line -eq "") 
@@ -34,7 +36,13 @@ ForEach-Object {
         if ($line.Contains("#HIDE"))
         {
             $split = ($line.Split(']:')[0]).Trim()
-            $line = $line.Replace("#HIDE", "{%NAME%%NL%%RED%" + $split + "}//")
+            if ($split.Length -lt 127)
+            {
+                $line = $line.Replace("#HIDE", "{%NAME%%NL%%RED%" + $split + "}//")
+            }
+            else {
+                $line = $line.Replace("#HIDE", "{%NAME%%NL%%RED% " + $_.Name + ":" + $lineNumber + "}//")
+            }  
         }
 
         if ($writeLine -eq 1)
@@ -123,10 +131,9 @@ Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter',
 '.\obj\arreat.normal.filter', '.\obj\arreat.exceptional.filter', '.\obj\arreat.elite.filter', 
 '.\obj\set.shared.filter', '.\obj\set.normal.filter', '.\obj\set.exceptional.filter', '.\obj\set.elite.filter', 
 '.\obj\unique.shared.filter', '.\obj\unique.normal.filter', '.\obj\unique.exceptional.filter', '.\obj\unique.elite.filter', 
-'.\obj\personal.filter'
+'.\obj\personal.filter',
 #'.\obj\item.treasureclass.filter', 
-#'.\obj\catchall.filter', '.\obj\catchall.default.filter' 
-| Set-Content '.\bin\personal.filter'
+'.\obj\catchall.filter', '.\obj\catchall.default.filter' | Set-Content '.\bin\personal.filter'
 
 #(Get-Content -Path '.\bin\personal.filter').replace("%DOT-81%","%DOT-81%[%CODE%] ").replace("%DOT-0D%","%DOT-0D%[%CODE%] ") | Set-Content -Path '.\bin\personal.filter'
 

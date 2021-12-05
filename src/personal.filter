@@ -1,35 +1,22 @@
-ItemDisplay[NMAG cqv]:#HIDE//
-ItemDisplay[NMAG aqv]:#HIDE//
-ItemDisplay[NMAG ARMOR SOCK=1]:#HIDE//
-ItemDisplay[NMAG ARMOR SOCK=0]:#HIDE//
-ItemDisplay[NMAG WEAPON SOCK=1]:#HIDE//
-ItemDisplay[NMAG WEAPON SOCK=0]:#HIDE//
+// ItemDisplay[NMAG cqv]:#HIDE//
+// ItemDisplay[NMAG aqv]:#HIDE//
+// ItemDisplay[NMAG ARMOR SOCK=1]:#HIDE//
+// ItemDisplay[NMAG ARMOR SOCK=0]:#HIDE//
+// ItemDisplay[NMAG WEAPON SOCK=1]:#HIDE//
+// ItemDisplay[NMAG WEAPON SOCK=0]:#HIDE//
 
 
 
 
 
-///// Gold
-////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[CLVL>89 GOLD<4000]://
-ItemDisplay[CLVL>79 GOLD<3000]://
-ItemDisplay[CLVL>39 GOLD<2000]://
-ItemDisplay[CLVL>19 GOLD<1000]://
-ItemDisplay[CLVL>9 GOLD<500]://
-ItemDisplay[GOLD<100]://
-
-
-
-
-
-
-
-
-
-
-
-
-
+// ///// Gold
+// ////////////////////////////////////////////////////////////////////////////////
+// ItemDisplay[CLVL>89 GOLD<4000]://
+// ItemDisplay[CLVL>79 GOLD<3000]://
+// ItemDisplay[CLVL>39 GOLD<2000]://
+// ItemDisplay[CLVL>19 GOLD<1000]://
+// ItemDisplay[CLVL>9 GOLD<500]://
+// ItemDisplay[GOLD<100]://
 
 
 //ItemDisplay[SUFFIX=1]:%NAME% S1 %CONTINUE%
