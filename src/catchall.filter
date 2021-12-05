@@ -25,6 +25,7 @@ ItemDisplay[t21]:%MAP%%NAME%{%NAME%}//
 ItemDisplay[t22]:%MAP%%NAME%{%NAME%}//
 ItemDisplay[t23]:%MAP%%NAME%{%NAME%}//
 ItemDisplay[t24]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t25]:%MAP%%NAME%{%NAME%}//
 
 ItemDisplay[t31]:%MAP%%NAME%{%NAME%}//
 ItemDisplay[t32]:%MAP%%NAME%{%NAME%}//
@@ -32,8 +33,13 @@ ItemDisplay[t33]:%MAP%%NAME%{%NAME%}//
 ItemDisplay[t34]:%MAP%%NAME%{%NAME%}//
 ItemDisplay[t35]:%MAP%%NAME%{%NAME%}//
 ItemDisplay[t36]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t37]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t38]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t39]:%MAP%%NAME%{%NAME%}//
 
 ItemDisplay[t41]:%MAP%%NAME%{%NAME%}//
+ItemDisplay[t42]:%MAP%%NAME%{%NAME%}//
+
 
 ItemDisplay[dcho]:%BORDER-60%%NAME%{%NAME%}//
 ItemDisplay[dcso]:%BORDER-60%%NAME%{%NAME%}//
@@ -43,6 +49,10 @@ ItemDisplay[dcma]:%BORDER-0A%%NAME%{%NAME%}//
 
 ItemDisplay[lbox]:%BORDER-0D%%NAME%{%NAME%}//
 ItemDisplay[wss]:%BORDER-9B%%NAME%{%NAME%}//
+
+ItemDisplay[cwss]:%BORDER-9B%%NAME%{%NAME%}//
+ItemDisplay[rid]:%BORDER-9B%%NAME%{%NAME%}//
+ItemDisplay[rtp]:%BORDER-9B%%NAME%{%NAME%}//
 
 
 ///// Common

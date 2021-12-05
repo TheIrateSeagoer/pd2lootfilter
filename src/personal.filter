@@ -1,35 +1,38 @@
-// ItemDisplay[key]:ZUG%NAME%%CONTINUE%//
-// ItemDisplay[key]:ZUG//
-// ItemDisplay[tsc]://
-// ItemDisplay[isc]://
-// ItemDisplay[hp4]://
-// ItemDisplay[mp4]://
+ItemDisplay[NMAG cqv]:#HIDE//
+ItemDisplay[NMAG aqv]:#HIDE//
+ItemDisplay[NMAG ARMOR SOCK=1]:#HIDE//
+ItemDisplay[NMAG ARMOR SOCK=0]:#HIDE//
+ItemDisplay[NMAG WEAPON SOCK=1]:#HIDE//
+ItemDisplay[NMAG WEAPON SOCK=0]:#HIDE//
 
-// ItemDisplay[HELM SOCK=3]:%MAP%%NAME%{%NAME%}%CONTINUE%//
-// ItemDisplay[SOCK=4]:%MAP%%NAME%{%NAME%}%CONTINUE%//
 
-// ItemDisplay[CLVL>60 !ID CRAFTALVL<72 !(cm1 OR cm2 OR cm3 OR jew)]:{%NAME%}//
 
-// ItemDisplay[!EQUIPPED]:NOEQUIPPED %NAME%{%NAME%} %CONTINUE%//
-// ItemDisplay[EQUIPPED]:EQUIPPED %NAME%{%NAME%} %CONTINUE%//
 
-// ItemDisplay[!SHOP]:NOT SHOP %NAME%{%NAME%} %CONTINUE%//
-// ItemDisplay[SHOP]:SHOP %NAME%{%NAME%} %CONTINUE%//
-// ItemDisplay[1H]:ONE HAND %NAME%{%NAME%} %CONTINUE%//
-// ItemDisplay[2H]:TWO HAND %NAME%{%NAME%} %CONTINUE%//
 
-// ItemDisplay[key]:PalaAma %NAME%{Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \
-// %NL%Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \
-// %NL%Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \
-// %NL%Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\
-// %NL%\
-// %NL%Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \
-// %NL%Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \
-// %NL%Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \
-// %NL%Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\
-// }//
+///// Gold
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[CLVL>89 GOLD<4000]://
+ItemDisplay[CLVL>79 GOLD<3000]://
+ItemDisplay[CLVL>39 GOLD<2000]://
+ItemDisplay[CLVL>19 GOLD<1000]://
+ItemDisplay[CLVL>9 GOLD<500]://
+ItemDisplay[GOLD<100]://
 
-ItemDisplay[SUFFIX=1]:%NAME% S1 %CONTINUE%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//ItemDisplay[SUFFIX=1]:%NAME% S1 %CONTINUE%
 ItemDisplay[SUFFIX=2]:%NAME% S2 %CONTINUE%
 ItemDisplay[SUFFIX=3]:%NAME% S3 %CONTINUE%
 ItemDisplay[SUFFIX=4]:%NAME% S4 %CONTINUE%

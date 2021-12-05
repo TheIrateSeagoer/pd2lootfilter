@@ -8,14 +8,46 @@ New-Item -ItemType Directory -Path 'obj' | Out-Null
 New-Item -ItemType Directory -Path 'bin' | Out-Null
 
 Get-ChildItem -Path ..\src\*.filter | 
-ForEach-Object{
+ForEach-Object {
     $outputPath = '.\obj\' + $_.Name
-    $inputPath = '..\src\' + $_.Name
-    
-    (Get-Content -Path $inputPath -Raw).Replace("\`n", "") | Set-Content -Path $outputPath
-    (Get-Content -Path $outputPath | Where-Object {$_.trim() -ne "" }) | Set-Content -Path $outputPath 
-    (Get-Content -Path $outputPath | Select-String -pattern '/////' -notmatch) | Set-Content -Path $outputPath
-    (Get-Content -Path $outputPath).replace("`t","").replace("    ]","]").replace(" ]","]").replace(" ]","]") | Set-Content -Path $outputPath 
+    $inputPath = '.\src\' + $_.Name
+
+    [System.IO.StreamReader] $sr = [System.IO.File]::Open($inputPath, [System.IO.FileMode]::Open)
+    while (-not $sr.EndOfStream)
+    {
+        $line = $sr.ReadLine()
+
+        $writeLine = 1
+        if ($line -eq "") 
+        {
+            $writeLine = 0
+        }
+        elseif ($line.Trim() -eq "") 
+        {
+            $writeLine = 0
+        }
+        elseif ($line.StartsWith("/////"))
+        {
+            $writeLine = 0    
+        }
+
+        if ($line.Contains("#HIDE"))
+        {
+            $split = ($line.Split(']:')[0]).Trim()
+            $line = $line.Replace("#HIDE", "{%NAME%%NL%%RED%" + $split + "}//")
+        }
+
+        if ($writeLine -eq 1)
+        {
+            if ($line.EndsWith('\')) {
+                Add-Content -Path $outputPath -Value $line.Substring(0,$line.Length-1) -NoNewline
+            }
+            else {
+                Add-Content -Path $outputPath -Value $line
+            }
+        }
+    }
+    $sr.Close() 
 }
 ################################################################################
 Write-Host "Done"
@@ -91,9 +123,10 @@ Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter',
 '.\obj\arreat.normal.filter', '.\obj\arreat.exceptional.filter', '.\obj\arreat.elite.filter', 
 '.\obj\set.shared.filter', '.\obj\set.normal.filter', '.\obj\set.exceptional.filter', '.\obj\set.elite.filter', 
 '.\obj\unique.shared.filter', '.\obj\unique.normal.filter', '.\obj\unique.exceptional.filter', '.\obj\unique.elite.filter', 
-'.\obj\personal.filter', 
+'.\obj\personal.filter'
 #'.\obj\item.treasureclass.filter', 
-'.\obj\catchall.filter', '.\obj\catchall.default.filter' | Set-Content '.\bin\personal.filter'
+#'.\obj\catchall.filter', '.\obj\catchall.default.filter' 
+| Set-Content '.\bin\personal.filter'
 
 #(Get-Content -Path '.\bin\personal.filter').replace("%DOT-81%","%DOT-81%[%CODE%] ").replace("%DOT-0D%","%DOT-0D%[%CODE%] ") | Set-Content -Path '.\bin\personal.filter'
 

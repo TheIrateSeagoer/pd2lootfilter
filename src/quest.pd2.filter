@@ -23,6 +23,8 @@ ItemDisplay[t34]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t35]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t36]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t37]:[T3] %NAME%%CONTINUE%//
+ItemDisplay[t38]:[T3] %NAME%%CONTINUE%//
+ItemDisplay[t39]:[T3] %NAME%%CONTINUE%//
 
 
 ///// Tier 4 Maps
@@ -67,4 +69,7 @@ ItemDisplay[lbox QTY>1]:%PURPLE%ooooo %GOLD%Larzuk's Puzzlebox Stack %PURPLE%ooo
 
 ItemDisplay[jewf QTY=1]:%ORANGE%Jewel Fragment %WHITE%%CONTINUE%//
 ItemDisplay[jewf QTY>1]:%ORANGE%Jewel Fragment Stack %WHITE%%CONTINUE%//
+
+ItemDisplay[cwss QTY=1]:%RED%ooo %PURPLE%Tainted Worldstone Shard %RED%ooo%PURPLE%%CONTINUE%//
+ItemDisplay[cwss QTY>1]:%RED%ooo %PURPLE%Tainted Worldstone Shard Stack %RED%ooo%PURPLE%%CONTINUE%//
 
