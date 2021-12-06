@@ -5,11 +5,6 @@
 // ItemDisplay[NMAG WEAPON SOCK=1]:#HIDE//
 // ItemDisplay[NMAG WEAPON SOCK=0]:#HIDE//
 
-
-ItemDisplay[PRICE>0]:%NAME%{%NAME%%NL%%DARK_GREEN%Sell Value: %PRICE%}%CONTINUE%//
-
-
-
 // ///// Gold
 // ////////////////////////////////////////////////////////////////////////////////
 // ItemDisplay[CLVL>89 GOLD<4000]://

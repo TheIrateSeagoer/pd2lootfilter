@@ -792,7 +792,7 @@ ItemDisplay[CHEST SOCK=0 SUP NMAG]:%NAME%{%NAME%\
 ///// Crafting 
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[WEAPON (BOW OR XBOW) MAG]:%NAME%{%NAME%\
-%ORANGE%Blood: \\
+%ORANGE%Blood: \
 %TAN%Ort \
 %ORANGE%Caster: \
 %TAN%Tir\

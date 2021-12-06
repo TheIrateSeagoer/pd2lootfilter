@@ -4582,9 +4582,9 @@ ItemDisplay[WEAPON !THROWING !leg SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRA
 ItemDisplay[SHIELD SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[HELM SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[CHEST SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
-ItemDisplay[WEAPON (BOW OR XBOW) MAG]:%NAME%{%NAME%%ORANGE%Blood: \%TAN%Ort %ORANGE%Caster: %TAN%Tir%NL%%ORANGE%Power: %TAN%Tir %ORANGE%Safety: %TAN%Sol%NL%%ORANGE%Vampiric: %TAN%Shael %ORANGE%Bountiful: %TAN%Shael%NL%}%CONTINUE%//
+ItemDisplay[WEAPON (BOW OR XBOW) MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Ort %ORANGE%Caster: %TAN%Tir%NL%%ORANGE%Power: %TAN%Tir %ORANGE%Safety: %TAN%Sol%NL%%ORANGE%Vampiric: %TAN%Shael %ORANGE%Bountiful: %TAN%Shael%NL%}%CONTINUE%//
 ItemDisplay[WEAPON !BOW !XBOW MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Ort %ORANGE%Caster: %TAN%Tir%NL%%ORANGE%Power: %TAN%Tir%NL%%ORANGE%Vampiric: %TAN%Shael %ORANGE%Bountiful: %TAN%Shael%NL%}%CONTINUE%//
-ItemDisplay[HELM MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Ral %ORANGE%Caster: %TAN%Nef%NL%%ORANGE%Power: %TAN%Ith %ORANGE%Safety: %TAN%Ith%NL%%ORANGE%Vampiric: %TAN%Lum %ORANGE%Bountiful: %TAN%Tir%NL%}%CONTINUE%//
+ItemDisplay[HELM MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Ral%ORANGE%Caster: %TAN%Nef%NL%%ORANGE%Power: %TAN%Ith %ORANGE%Safety: %TAN%Ith%NL%%ORANGE%Vampiric: %TAN%Lum %ORANGE%Bountiful: %TAN%Tir%NL%}%CONTINUE%//
 ItemDisplay[CHEST MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Thul %ORANGE%Caster: %TAN%Tal%NL%%ORANGE%Power: %TAN%Nef %ORANGE%Safety: %TAN%Eth%NL%%ORANGE%Vampiric: %TAN%Tir %ORANGE%Bountiful: %TAN%Eld%NL%}%CONTINUE%//
 ItemDisplay[SHIELD MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Ith %ORANGE%Caster: %TAN%Eth%NL%%ORANGE%Power: %TAN%Eth %ORANGE%Safety: %TAN%Nef%NL%%ORANGE%Vampiric: %TAN%Sol %ORANGE%Bountiful: %TAN%Dol%NL%}%CONTINUE%//
 ItemDisplay[GLOVES MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Nef %ORANGE%Caster: %TAN%Ort%NL%%ORANGE%Power: %TAN%Ort %ORANGE%Safety: %TAN%Ral%NL%%ORANGE%Vampiric: %TAN%io %ORANGE%Bountiful: %TAN%Hel%NL%}%CONTINUE%//
