@@ -267,6 +267,940 @@ ItemDisplay[r30s QTY=1]:%PURPLE%ooooooooo [30] Ber Rune ooooooooo%ORANGE%%CONTIN
 ItemDisplay[r31s QTY=1]:%PURPLE%oooooooooo [31] Jah Rune oooooooooo%ORANGE%%CONTINUE%//
 ItemDisplay[r32s QTY=1]:%PURPLE%ooooooooooo [32] Cham Rune ooooooooooo%ORANGE%%CONTINUE%//
 ItemDisplay[r33s QTY=1]:%PURPLE%oooooooooooo [33] Zod Rune oooooooooooo%ORANGE%%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=4   ]:%NAME% %PURPLE%Infinity%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wc SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wc SOCK=4  ]:%NAME% %RED%Infinity%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wc SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=6   ]:%NAME% %PURPLE%Breath of the Dying%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=5   ]:%NAME% %PURPLE%Death%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=4   ]:%NAME% %PURPLE%Famine%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=6  ]:%NAME% %RED%Breath of the Dying%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=5  ]:%NAME% %RED%Death%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=4  ]:%NAME% %RED%Famine%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=6   ]:%NAME% %PURPLE%Breath of the Dying%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=5   ]:%NAME% %PURPLE%Death%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=4   ]:%NAME% %PURPLE%Oath%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wa SOCK=6  ]:%NAME% %RED%Breath of the Dying%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wa SOCK=5  ]:%NAME% %RED%Death%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wa SOCK=4  ]:%NAME% %RED%Oath%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wa SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=6   ]:%NAME% %PURPLE%Breath of the Dying%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=5   ]:%NAME% %PURPLE%Death%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=4   ]:%NAME% %PURPLE%Oath%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gd SOCK=6  ]:%NAME% %RED%Breath of the Dying%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gd SOCK=5  ]:%NAME% %RED%Death%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gd SOCK=4  ]:%NAME% %RED%Oath%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gd SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7h7 SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7h7 SOCK=4   ]:%NAME% %PURPLE%Infinity%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7h7 SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7h7 SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7h7 SOCK=4  ]:%NAME% %RED%Infinity%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7h7 SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7pa SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7pa SOCK=4   ]:%NAME% %PURPLE%Infinity%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7pa SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7pa SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7pa SOCK=4  ]:%NAME% %RED%Infinity%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7pa SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7fb SOCK=5   ]:%NAME% %PURPLE%Death%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7fb SOCK=4   ]:%NAME% %PURPLE%Oath%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7fb SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7fb SOCK=5  ]:%NAME% %RED%Death%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7fb SOCK=4  ]:%NAME% %RED%Oath%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7fb SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG ush SOCK=4  ]:%NAME% %TAN%Spirit%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG ush SOCK=3  ]:%NAME% %TAN%Ancients%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG ush SOCK=2  ]:%NAME% %TAN%Rhyme%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG ush SOCK=4  ]:%NAME% %WHITE%Spirit%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG ush SOCK=3  ]:%NAME% %WHITE%Ancients%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG ush SOCK=2  ]:%NAME% %WHITE%Rhyme%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7br SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7br SOCK=4   ]:%NAME% %PURPLE%Infinity%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7br SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7br SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7br SOCK=4  ]:%NAME% %RED%Infinity%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7br SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7cr SOCK=6   ]:%NAME% %PURPLE%Last Wish%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7cr SOCK=5   ]:%NAME% %PURPLE%Call to Arms%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7cr SOCK=4   ]:%NAME% %PURPLE%Spirit%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7cr SOCK=6  ]:%NAME% %RED%Last Wish%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7cr SOCK=5  ]:%NAME% %RED%Call to Arms%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7cr SOCK=4  ]:%NAME% %RED%Spirit%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7bt SOCK=5   ]:%NAME% %PURPLE%Death%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7bt SOCK=4   ]:%NAME% %PURPLE%Oath%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7bt SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7bt SOCK=5  ]:%NAME% %RED%Death%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7bt SOCK=4  ]:%NAME% %RED%Oath%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7bt SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG uit SOCK=4  ]:%NAME% %TAN%Spirit%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG uit SOCK=3  ]:%NAME% %TAN%Ancients%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG uit SOCK=2  ]:%NAME% %TAN%Rhyme%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG uit SOCK=4 ]:%NAME% %WHITE%Spirit%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG uit SOCK=3 ]:%NAME% %WHITE%Ancients%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG uit SOCK=2 ]:%NAME% %WHITE%Rhyme%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7s8 SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7s8 SOCK=4   ]:%NAME% %PURPLE%Infinity%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7s8 SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7s8 SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7s8 SOCK=4  ]:%NAME% %RED%Infinity%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7s8 SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7vo SOCK=4   ]:%NAME% %PURPLE%Infinity%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7vo SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7vo SOCK=4  ]:%NAME% %RED%Infinity%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7vo SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9wc SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9wc SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9wc SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9wc SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9wc SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9wc SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9h9 SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9h9 SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9h9 SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9h9 SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9h9 SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9h9 SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG xsh SOCK=2  ]:%NAME% %TAN%Rhyme%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG xsh SOCK=2 ]:%NAME% %WHITE%Rhyme%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9br SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9br SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9br SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9br SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9br SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9br SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9s8 SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9s8 SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9s8 SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9s8 SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9s8 SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9s8 SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9vo SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9vo SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9vo SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9vo SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9cr SOCK=6   ]:%NAME% %PURPLE%Last Wish%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9cr SOCK=5   ]:%NAME% %PURPLE%Call to Arms%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9cr SOCK=4   ]:%NAME% %PURPLE%Spirit%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9cr SOCK=6  ]:%NAME% %RED%Last Wish%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9cr SOCK=5  ]:%NAME% %RED%Call to Arms%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9cr SOCK=4  ]:%NAME% %RED%Spirit%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9pa SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9pa SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9pa SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9pa SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9pa SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9pa SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG wsc SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG wsc SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG wsc SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG wsc SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG wsc SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG wsc SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG hal SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG hal SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG hal SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG hal SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG hal SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG hal SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG pax SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG pax SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG pax SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG pax SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG pax SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG pax SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG fla SOCK=5   ]:%NAME% %PURPLE%Call to Arms%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG fla SOCK=4   ]:%NAME% %PURPLE%Heart of the Oak%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG fla SOCK=5  ]:%NAME% %RED%Call to Arms%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG fla SOCK=4  ]:%NAME% %RED%Heart of the Oak%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG fla SOCK=5  ]:%NAME% %TAN%Call to Arms%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG fla SOCK=4  ]:%NAME% %TAN%Heart of the Oak%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG fla SOCK=5 ]:%NAME% %WHITE%Call to Arms%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG fla SOCK=4 ]:%NAME% %WHITE%Heart of the Oak%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG bsh SOCK=2  ]:%NAME% %TAN%Rhyme%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG bsh SOCK=2 ]:%NAME% %WHITE%Rhyme%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG brn SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG brn SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG brn SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG brn SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG brn SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG brn SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG scy SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG scy SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG scy SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG scy SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG scy SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG scy SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG vou SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG vou SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG vou SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG vou SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG crs SOCK=6   ]:%NAME% %PURPLE%Last Wish%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG crs SOCK=5   ]:%NAME% %PURPLE%Call to Arms%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG crs SOCK=4   ]:%NAME% %PURPLE%Spirit%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG crs SOCK=6  ]:%NAME% %RED%Last Wish%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG crs SOCK=5  ]:%NAME% %RED%Call to Arms%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG crs SOCK=4  ]:%NAME% %RED%Spirit%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=6  ]:%NAME% %TAN%6x Ist%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=5  ]:%NAME% %TAN%Call to Arms%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=4  ]:%NAME% %TAN%Spirit%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=6  ]:%NAME% %WHITE%6x Ist%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=5  ]:%NAME% %WHITE%Call to Arms%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=4  ]:%NAME% %WHITE%Spirit%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wc SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wc SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wc SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wc SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wc SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gm SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gm SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gm SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gm SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gm SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gm SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wa SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wa SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wa SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wa SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wa SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gd SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gd SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gd SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gd SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gd SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gd SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gd SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gd SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gd SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7h7 SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7h7 SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7h7 SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7h7 SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7h7 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7h7 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7h7 SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7h7 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7h7 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7h7 SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7h7 SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7h7 SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7pa SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7pa SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7pa SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7pa SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7pa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7pa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7pa SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7pa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7pa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7pa SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7pa SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7pa SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7fb SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7fb SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7fb SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7fb SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7fb SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7fb SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7fb SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7fb SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7fb SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7fb SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7fb SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7fb SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7br SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7br SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7br SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7br SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7br SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7br SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7br SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7br SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7br SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7br SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7br SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7br SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7cr SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7cr SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7cr SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7cr SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7cr SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7cr SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7cr SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7cr SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7cr SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7cr SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7cr SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7cr SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG uit SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG uit SOCK=0 ILVL>40        ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7s8 SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7s8 SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7s8 SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7s8 SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7s8 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7s8 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7s8 SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7s8 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7s8 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7s8 SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7s8 SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7s8 SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7vo SOCK=0 ILVL>25          ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7vo SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7vo SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7vo SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7vo SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7vo SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7vo SOCK=0 ILVL>25        ]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7vo SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9wc SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9wc SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9wc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9wc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9wc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9wc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9wc SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9wc SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9h9 SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9h9 SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9h9 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9h9 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9h9 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9h9 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9h9 SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9h9 SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9br SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9br SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9br SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9br SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9br SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9br SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9br SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9br SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9br SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9br SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9br SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9br SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9s8 SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9s8 SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9s8 SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9s8 SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9s8 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9s8 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9s8 SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9s8 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9s8 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9s8 SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9s8 SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9s8 SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9vo SOCK=0 ILVL>25          ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9vo SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9vo SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9vo SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9vo SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9vo SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9vo SOCK=0 ILVL>25        ]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9vo SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9cr SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9cr SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9cr SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9cr SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9cr SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9cr SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9cr SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9cr SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9cr SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9cr SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9cr SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9cr SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9pa SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9pa SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9pa SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9pa SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9pa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9pa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9pa SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9pa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9pa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9pa SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9pa SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9pa SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG wsc SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG wsc SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG wsc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG wsc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG wsc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG wsc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG wsc SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG wsc SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG hal SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG hal SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG hal SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG hal SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG hal SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG hal SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG hal SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG hal SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG pax SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG pax SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG pax SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG pax SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG pax SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG pax SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG pax SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG pax SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG pax SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG pax SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG pax SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG pax SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG fla SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG fla SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG fla SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG fla SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG brn SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG brn SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG brn SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG brn SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG brn SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG brn SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG brn SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG brn SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG brn SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG brn SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG brn SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG brn SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG scy SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG scy SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG scy SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG scy SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG scy SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG scy SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG scy SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG scy SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG scy SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG scy SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG scy SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG scy SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG vou SOCK=0 ILVL>25          ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG vou SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG vou SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG vou SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG vou SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG vou SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG vou SOCK=0 ILVL>25        ]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG vou SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG crs SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG crs SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG crs SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG crs SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG crs SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG crs SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
+ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
+ItemDisplay[rin !ID SET]:%GREEN%%NAME%%CONTINUE%//
+ItemDisplay[amu !ID SET]:%GREEN%%NAME%%CONTINUE%//
+ItemDisplay[tgl !ID SET]:%GREEN%Arctic/Iratha%CONTINUE%//
+ItemDisplay[cap !ID SET]:%GREEN%Infernal/Sander%CONTINUE%//
+ItemDisplay[crn !ID SET]:%GREEN%Iratha/Milabrega%CONTINUE%//
+ItemDisplay[vbt !ID SET !(MAPID=39)]:%GREEN%Sander's Riprap%CONTINUE%//
+ItemDisplay[vbt !ID SET (MAPID=39)]:%GREEN%Cow King/Sander%CONTINUE%//
+ItemDisplay[mbl !ID SET]:%GREEN%Hsaru/Hwanin%CONTINUE%//
+ItemDisplay[tbl !ID SET]:%GREEN%Infernal/Iratha%CONTINUE%//
+ItemDisplay[wst !ID SET]:%GREEN%Arcanna's Deathwand%CONTINUE%//
+ItemDisplay[ltp !ID SET]:%GREEN%Arcanna's Flesh%CONTINUE%//
+ItemDisplay[skp !ID SET]:%GREEN%Arcanna's Head%CONTINUE%//
+ItemDisplay[vbl !ID SET]:%GREEN%Arctic Binding%CONTINUE%//
+ItemDisplay[qui !ID SET]:%GREEN%Arctic Furs%CONTINUE%//
+ItemDisplay[swb !ID SET]:%GREEN%Arctic Horn%CONTINUE%//
+ItemDisplay[2ax !ID SET]:%GREEN%Berserker's Hatchet%CONTINUE%//
+ItemDisplay[spl !ID SET]:%GREEN%Berserker's Hauberk%CONTINUE%//
+ItemDisplay[hlm !ID SET]:%GREEN%Berserker's Headgear%CONTINUE%//
+ItemDisplay[msk !ID SET]:%GREEN%Cathan's Visage%CONTINUE%//
+ItemDisplay[chn !ID SET]:%GREEN%Cathan's Mesh%CONTINUE%//
+ItemDisplay[bst !ID SET]:%GREEN%Cathan's Rule%CONTINUE%//
+ItemDisplay[gsc !ID SET]:%GREEN%Civerb's Cudgel%CONTINUE%//
+ItemDisplay[lrg !ID SET]:%GREEN%Civerb's Ward%CONTINUE%//
+ItemDisplay[sml !ID SET]:%GREEN%Cleglaw's Claw%CONTINUE%//
+ItemDisplay[mgl !ID SET]:%GREEN%Cleglaw's Pincers%CONTINUE%//
+ItemDisplay[lsd !ID SET]:%GREEN%Cleglaw's Tooth%CONTINUE%//
+ItemDisplay[rng !ID SET]:%GREEN%Angelic Mantle%CONTINUE%//
+ItemDisplay[sbr !ID SET]:%GREEN%Angelic Sickle%CONTINUE%//
+ItemDisplay[buc !ID SET]:%GREEN%Hsaru's Iron Fist%CONTINUE%//
+ItemDisplay[mbt !ID SET]:%GREEN%Hsaru's Iron Heel%CONTINUE%//
+ItemDisplay[dgr !ID SET]:%GREEN%Infernal Spine%CONTINUE%//
+ItemDisplay[gwn !ID SET]:%GREEN%Infernal Torch%CONTINUE%//
+ItemDisplay[fhl !ID SET]:%GREEN%Isenhart's Horns%CONTINUE%//
+ItemDisplay[brs !ID SET]:%GREEN%Isenhart's Case%CONTINUE%//
+ItemDisplay[bsd !ID SET]:%GREEN%Isenhart's Lightbrand%CONTINUE%//
+ItemDisplay[gts !ID SET]:%GREEN%Isenhart's Parry%CONTINUE%//
+ItemDisplay[kit !ID SET]:%GREEN%Milabrega's Orb%CONTINUE%//
+ItemDisplay[aar !ID SET]:%GREEN%Milabrega's Robe %GRAY%nm%CONTINUE%//
+ItemDisplay[wsp !ID SET]:%GREEN%Milabrega's Rod%CONTINUE%//
+ItemDisplay[hgl !ID SET]:%GREEN%Sigon's Gage%CONTINUE%//
+ItemDisplay[tow !ID SET]:%GREEN%Sigon's Guard%CONTINUE%//
+ItemDisplay[hbt !ID SET]:%GREEN%Sigon's Sabot%CONTINUE%//
+ItemDisplay[gth !ID SET]:%GREEN%Sigon's Shelter%CONTINUE%//
+ItemDisplay[ghm !ID SET]:%GREEN%Sigon's Visor%CONTINUE%//
+ItemDisplay[hbl !ID SET]:%GREEN%Sigon's Wrap%CONTINUE%//
+ItemDisplay[mpi !ID SET]:%GREEN%Tancred's Crowbill%CONTINUE%//
+ItemDisplay[lbt !ID SET]:%GREEN%Tancred's Hobnails%CONTINUE%//
+ItemDisplay[bhm !ID SET]:%GREEN%Tancred's Skull%CONTINUE%//
+ItemDisplay[ful !ID SET]:%GREEN%Tancred's Spine%CONTINUE%//
+ItemDisplay[lbl !ID SET]:%GREEN%Death's Guard%CONTINUE%//
+ItemDisplay[lgl !ID SET]:%GREEN%Death's Hand%CONTINUE%//
+ItemDisplay[wsd !ID SET]:%GREEN%Death's Touch%CONTINUE%//
+ItemDisplay[lea !ID SET]:%GREEN%Vidala's Ambush%CONTINUE%//
+ItemDisplay[lbb !ID SET]:%GREEN%Vidala's Barb%CONTINUE%//
+ItemDisplay[tbt !ID SET]:%GREEN%Vidala's Fetlock%CONTINUE%//
+ItemDisplay[7ma !ID SET]:%GREEN%Dangoon's Teaching %GRAY%nm%CONTINUE%//
+ItemDisplay[xrs !ID SET]:%GREEN%Haemosu's Adament %GRAY%nm%CONTINUE%//
+ItemDisplay[uhm !ID SET]:%GREEN%Ondal's Almighty %GRAY%h%CONTINUE%//
+ItemDisplay[uts !ID SET]:%GREEN%Taebaek's Glory %GRAY%h%CONTINUE%//
+ItemDisplay[umc !ID SET]:%GREEN%Credendum %GRAY%h%CONTINUE%//
+ItemDisplay[uui !ID SET]:%GREEN%Dark Adherent %GRAY%nm%CONTINUE%//
+ItemDisplay[ulg !ID SET]:%GREEN%Laying of Hands %GRAY%nm%CONTINUE%//
+ItemDisplay[xlb !ID SET]:%GREEN%Rite of Passage%CONTINUE%//
+ItemDisplay[9vo !ID SET]:%GREEN%Hwanin's Justice%CONTINUE%//
+ItemDisplay[xcl !ID SET]:%GREEN%Hwanin's Refuge %GRAY%nm%CONTINUE%//
+ItemDisplay[xrn !ID SET]:%GREEN%Hwanin's Splendor %GRAY%nm%CONTINUE%//
+ItemDisplay[stu !ID SET]:%GREEN%Cow King's Hide%CONTINUE%//
+ItemDisplay[xap !ID SET]:%GREEN%Cow King's Horns%CONTINUE%//
+ItemDisplay[ci0 !ID SET]:%GREEN%Naj's Circlet%CONTINUE%//
+ItemDisplay[ult !ID SET]:%GREEN%Naj's Light Plate %GRAY%h%CONTINUE%//
+ItemDisplay[6cs !ID SET]:%GREEN%Naj's Puzzler %GRAY%h%CONTINUE%//
+ItemDisplay[bwn !ID SET]:%GREEN%Sander's Superstition%CONTINUE%//
+ItemDisplay[vgl !ID SET]:%GREEN%Sander's Taboo%CONTINUE%//
+ItemDisplay[7ls !ID SET]:%GREEN%Sazabi's Cobalt Redeemer %GRAY%h%CONTINUE%//
+ItemDisplay[upl !ID SET]:%GREEN%Sazabi's Ghost Liberator %GRAY%h%CONTINUE%//
+ItemDisplay[xhl !ID SET]:%GREEN%Sazabi's Sazabi's Mental Sheath %GRAY%nm%CONTINUE%//
+ItemDisplay[xhm !ID SET]:%GREEN%Guillaume's Face %GRAY%nm%CONTINUE%//
+ItemDisplay[xvg !ID SET]:%GREEN%Magnus's Skin%CONTINUE%//
+ItemDisplay[xml !ID SET]:%GREEN%Whitstan's Guard%CONTINUE%//
+ItemDisplay[ztb !ID SET]:%GREEN%Wilhelm's Pride %GRAY%nm%CONTINUE%//
+ItemDisplay[xtb !ID SET]:%GREEN%Aldur's Advance %GRAY%nm%CONTINUE%//
+ItemDisplay[uul !ID SET]:%GREEN%Aldur's Deception %GRAY%h%CONTINUE%//
+ItemDisplay[9mt !ID SET]:%GREEN%Aldur's Rhythm%CONTINUE%//
+ItemDisplay[dr8 !ID SET]:%GREEN%Aldur's Stony Gaze %GRAY%nm%CONTINUE%//
+ItemDisplay[7gd !ID SET]:%GREEN%Bul-kathos' Sacred Charge %GRAY%h%CONTINUE%//
+ItemDisplay[7fb !ID SET]:%GREEN%Bul-kathos' Tribal Guardian %GRAY%h%CONTINUE%//
+ItemDisplay[xar !ID SET]:%GREEN%Griswold's Heart %GRAY%nm%CONTINUE%//
+ItemDisplay[paf !ID SET]:%GREEN%Griswold's Honor %GRAY%h%CONTINUE%//
+ItemDisplay[7ws !ID SET]:%GREEN%Griswold's Redemption %GRAY%h%CONTINUE%//
+ItemDisplay[urn !ID SET]:%GREEN%Griswold's Valor %GRAY%h%CONTINUE%//
+ItemDisplay[amc !ID SET]:%GREEN%M'avina's Caster %GRAY%h%CONTINUE%//
+ItemDisplay[uld !ID SET]:%GREEN%M'avina's Embrace %GRAY%h%CONTINUE%//
+ItemDisplay[xtg !ID SET]:%GREEN%M'avina's Icy Clutch %GRAY%nm%CONTINUE%//
+ItemDisplay[zvb !ID SET]:%GREEN%M'avina's Tenet%CONTINUE%//
+ItemDisplay[ci3 !ID SET]:%GREEN%M'avina's True Sight %GRAY%h%CONTINUE%//
+ItemDisplay[7qr !ID SET]:%GREEN%Natalya's Mark %GRAY%h%CONTINUE%//
+ItemDisplay[ucl !ID SET]:%GREEN%Natalya's Shadow %GRAY%h%CONTINUE%//
+ItemDisplay[xmb !ID SET]:%GREEN%Natalya's Soul %GRAY%nm%CONTINUE%//
+ItemDisplay[xh9 !ID SET]:%GREEN%Natalya's Totem %GRAY%nm%CONTINUE%//
+ItemDisplay[zmb !ID SET]:%GREEN%Tal Rasha's Fine-Spun Cloth %GRAY%nm%CONTINUE%//
+ItemDisplay[uth !ID SET]:%GREEN%Tal Rasha's Guardianship %GRAY%h%CONTINUE%//
+ItemDisplay[xsk !ID SET]:%GREEN%Tal Rasha's Horadric Crest %GRAY%nm%CONTINUE%//
+ItemDisplay[oba !ID SET]:%GREEN%Tal Rasha's Lidless Eye %GRAY%nm%CONTINUE%//
+ItemDisplay[xmg !ID SET]:%GREEN%Trang-Oul's Claws %GRAY%nm%CONTINUE%//
+ItemDisplay[utc !ID SET]:%GREEN%Trang-Oul's Girth %GRAY%h%CONTINUE%//
+ItemDisplay[uh9 !ID SET]:%GREEN%Trang-Oul's Guise %GRAY%h%CONTINUE%//
+ItemDisplay[xul !ID SET]:%GREEN%Trang-Oul's Scales %GRAY%nm%CONTINUE%//
+ItemDisplay[ne9 !ID SET]:%GREEN%Trang-Oul's Wing %GRAY%nm%CONTINUE%//
+ItemDisplay[zhb !ID SET]:%GREEN%Immortal King's Detail %GRAY%nm%CONTINUE%//
+ItemDisplay[xhg !ID SET]:%GREEN%Immortal King's Forge %GRAY%nm%CONTINUE%//
+ItemDisplay[xhb !ID SET]:%GREEN%Immortal King's Pillar %GRAY%nm%CONTINUE%//
+ItemDisplay[uar !ID SET]:%GREEN%Immortal King's Soul Cage %GRAY%h%CONTINUE%//
+ItemDisplay[7m7 !ID SET]:%GREEN%Immortal King's Stone Crusher %GRAY%h%CONTINUE%//
+ItemDisplay[ba5 !ID SET]:%GREEN%Immortal King's Will%CONTINUE%//
+ItemDisplay[rin !ID UNI]:%GOLD%%NAME%%CONTINUE%//
+ItemDisplay[amu !ID UNI]:%GOLD%%NAME%%CONTINUE%//
+ItemDisplay[cm1 !ID UNI]:%GOLD%ooo Annihilus ooo%CONTINUE%//
+ItemDisplay[cm2 !ID UNI]:%GOLD%ooo Hellfire Torch ooo%CONTINUE%//
+ItemDisplay[cm3 !ID UNI]:%GOLD%Gheed's Fortune oo%CONTINUE%//
+ItemDisplay[jew !ID UNI]:%GOLD%Rainbow Facet %GRAY%h%CONTINUE%//
+ItemDisplay[ci2 !ID UNI]:%GOLD%Kira's Guardian %GRAY%h%CONTINUE%//
+ItemDisplay[ci3 !ID UNI]:%GOLD%Griffon's Eye %GRAY%h%CONTINUE%//
+ItemDisplay[amd !ID UNI]:%GOLD%Stoneraven %GRAY%h%CONTINUE%//
+ItemDisplay[am9 !ID UNI]:%GOLD%Lycander's Flank %GRAY%nm%CONTINUE%//
+ItemDisplay[am7 !ID UNI]:%GOLD%Lycander's Aim %GRAY%nm%CONTINUE%//
+ItemDisplay[ama !ID UNI]:%GOLD%Titan's Revenge %GRAY%nm%CONTINUE%//
+ItemDisplay[amf !ID UNI]:%GOLD%Thunderstroke %GRAY%h%CONTINUE%//
+ItemDisplay[amb !ID UNI]:%GOLD%Blood Raven's Charge %GRAY%h%CONTINUE%//
+ItemDisplay[am5 !ID UNI]:%GOLD%True Silver %GRAY%s3%CONTINUE%//
+ItemDisplay[7cs !ID UNI]:%GOLD%Shadow Killer %GRAY%h%CONTINUE%//
+ItemDisplay[9tw !ID UNI]:%GOLD%Bartuc's Cut-Throat %GRAY%nm%CONTINUE%//
+ItemDisplay[7wb !ID UNI]:%GOLD%Jade Talon %GRAY%h%CONTINUE%//
+ItemDisplay[7lw !ID UNI]:%GOLD%Firelizard's Talons %GRAY%h%CONTINUE%//
+ItemDisplay[9ar !ID UNI]:%GOLD%Mage Slayer %GRAY%s3%CONTINUE%//
+ItemDisplay[nea !ID UNI]:%GOLD%Homunculus %GRAY%nm%CONTINUE%//
+ItemDisplay[nef !ID UNI]:%GOLD%Darkforce Spawn %GRAY%h%CONTINUE%//
+ItemDisplay[nee !ID UNI]:%GOLD%Boneflame %GRAY%h%CONTINUE%//
+ItemDisplay[ne6 !ID UNI]:%GOLD%Kalan's Legacy %GRAY%s3%CONTINUE%//
+ItemDisplay[baa !ID UNI]:%GOLD%Arreat's Face %GRAY%nm%CONTINUE%//
+ItemDisplay[bac !ID UNI]:%GOLD%Wolfhowl %GRAY%h%CONTINUE%//
+ItemDisplay[bad !ID UNI]:%GOLD%Demonhorn's Edge %GRAY%h%CONTINUE%//
+ItemDisplay[bae !ID UNI]:%GOLD%Halaberd's Reign %GRAY%h%CONTINUE%//
+ItemDisplay[ba6 !ID UNI]:%GOLD%Cyclopean Roar %GRAY%s3%CONTINUE%//
+ItemDisplay[oba !ID UNI]:%GOLD%The Oculus %GRAY%nm%CONTINUE%//
+ItemDisplay[obc !ID UNI]:%GOLD%Eschuta's Temper %GRAY%h%CONTINUE%//
+ItemDisplay[obf !ID UNI]:%GOLD%Death's Fathom %GRAY%h%CONTINUE%//
+ItemDisplay[ob6 !ID UNI]:%GOLD%Tempest %GRAY%s3%CONTINUE%//
+ItemDisplay[dra !ID UNI]:%GOLD%Jalal's Mane %GRAY%nm%CONTINUE%//
+ItemDisplay[drb !ID UNI]:%GOLD%Cerebus' Bite %GRAY%h%CONTINUE%//
+ItemDisplay[dre !ID UNI]:%GOLD%Ravenlore %GRAY%h%CONTINUE%//
+ItemDisplay[drd !ID UNI]:%GOLD%Spirit Keeper %GRAY%h%CONTINUE%//
+ItemDisplay[dr2 !ID UNI]:%GOLD%Quetzalcoatl %GRAY%s3%CONTINUE%//
+ItemDisplay[pac !ID UNI]:%GOLD%Alma Negra %GRAY%h%CONTINUE%//
+ItemDisplay[pa9 !ID UNI]:%GOLD%Herald of Zakarum %GRAY%nm%CONTINUE%//
+ItemDisplay[pae !ID UNI]:%GOLD%Dragonscale %GRAY%h%CONTINUE%//
+ItemDisplay[pa3 !ID UNI]:%GOLD%Sankekur's Fall %GRAY%s3%CONTINUE%//
+ItemDisplay[cap !ID UNI]:%GOLD%Biggin's Bonnet%CONTINUE%//
+ItemDisplay[skp !ID UNI]:%GOLD%Tarnhelm%CONTINUE%//
+ItemDisplay[hlm !ID UNI]:%GOLD%Coif of Glory%CONTINUE%//
+ItemDisplay[fhl !ID UNI]:%GOLD%Duskdeep%CONTINUE%//
+ItemDisplay[ghm !ID UNI]:%GOLD%Howltusk%CONTINUE%//
+ItemDisplay[msk !ID UNI]:%GOLD%The Face of Horror%CONTINUE%//
+ItemDisplay[crn !ID UNI]:%GOLD%Undead Crown%CONTINUE%//
+ItemDisplay[bhm !ID UNI]:%GOLD%Wormskull%CONTINUE%//
+ItemDisplay[qui !ID UNI]:%GOLD%Greyform%CONTINUE%//
+ItemDisplay[lea !ID UNI]:%GOLD%Blinkbat's Form%CONTINUE%//
+ItemDisplay[hla !ID UNI]:%GOLD%The Centurion%CONTINUE%//
+ItemDisplay[stu !ID UNI]:%GOLD%Twitchthroe%CONTINUE%//
+ItemDisplay[rng !ID UNI]:%GOLD%Darkglow%CONTINUE%//
+ItemDisplay[scl !ID UNI]:%GOLD%Hawkmail%CONTINUE%//
+ItemDisplay[brs !ID UNI]:%GOLD%Venom Ward%CONTINUE%//
+ItemDisplay[chn !ID UNI]:%GOLD%Sparking Mail%CONTINUE%//
+ItemDisplay[spl !ID UNI]:%GOLD%Iceblink%CONTINUE%//
+ItemDisplay[ltp !ID UNI]:%GOLD%Heavenly Garb%CONTINUE%//
+ItemDisplay[fld !ID UNI]:%GOLD%Rockfleece%CONTINUE%//
+ItemDisplay[plt !ID UNI]:%GOLD%Boneflesh%CONTINUE%//
+ItemDisplay[gth !ID UNI]:%GOLD%Rattlecage%CONTINUE%//
+ItemDisplay[ful !ID UNI]:%GOLD%Goldskin%CONTINUE%//
+ItemDisplay[aar !ID UNI]:%GOLD%Silks of the Victor %GRAY%nm%CONTINUE%//
+ItemDisplay[buc !ID UNI]:%GOLD%Pelta Lunata%CONTINUE%//
+ItemDisplay[sml !ID UNI]:%GOLD%Umbral Disk%CONTINUE%//
+ItemDisplay[lrg !ID UNI]:%GOLD%Stormguild%CONTINUE%//
+ItemDisplay[kit !ID UNI]:%GOLD%Steelclash%CONTINUE%//
+ItemDisplay[spk !ID UNI]:%GOLD%Swordback Hold%CONTINUE%//
+ItemDisplay[tow !ID UNI]:%GOLD%Bverrit Keep%CONTINUE%//
+ItemDisplay[bsh !ID UNI]:%GOLD%Wall of the Eyeless%CONTINUE%//
+ItemDisplay[gts !ID UNI]:%GOLD%The Ward%CONTINUE%//
+ItemDisplay[lgl !ID UNI]:%GOLD%The Hand of Broc%CONTINUE%//
+ItemDisplay[vgl !ID UNI]:%GOLD%Bloodfist%CONTINUE%//
+ItemDisplay[mgl !ID UNI]:%GOLD%Chance Guards%CONTINUE%//
+ItemDisplay[tgl !ID UNI]:%GOLD%Magefist%CONTINUE%//
+ItemDisplay[hgl !ID UNI]:%GOLD%Frostburn%CONTINUE%//
+ItemDisplay[lbt !ID UNI]:%GOLD%Hotspur%CONTINUE%//
+ItemDisplay[vbt !ID UNI]:%GOLD%Gorefoot%CONTINUE%//
+ItemDisplay[mbt !ID UNI]:%GOLD%Treads of Cthon%CONTINUE%//
+ItemDisplay[tbt !ID UNI]:%GOLD%Goblin Toe%CONTINUE%//
+ItemDisplay[hbt !ID UNI]:%GOLD%Tearhaunch%CONTINUE%//
+ItemDisplay[lbl !ID UNI]:%GOLD%Lenymo%CONTINUE%//
+ItemDisplay[vbl !ID UNI]:%GOLD%Snakecord%CONTINUE%//
+ItemDisplay[mbl !ID UNI]:%GOLD%Nightsmoke%CONTINUE%//
+ItemDisplay[tbl !ID UNI]:%GOLD%Goldwrap%CONTINUE%//
+ItemDisplay[hbl !ID UNI]:%GOLD%Bladebuckle%CONTINUE%//
+ItemDisplay[hax !ID UNI]:%GOLD%The Gnasher%CONTINUE%//
+ItemDisplay[axe !ID UNI]:%GOLD%Deathspade%CONTINUE%//
+ItemDisplay[2ax !ID UNI]:%GOLD%Bladebone%CONTINUE%//
+ItemDisplay[mpi !ID UNI]:%GOLD%Skull Splitter%CONTINUE%//
+ItemDisplay[wax !ID UNI]:%GOLD%Rakescar%CONTINUE%//
+ItemDisplay[lax !ID UNI]:%GOLD%Axe of Fechmar%CONTINUE%//
+ItemDisplay[bax !ID UNI]:%GOLD%Goreshovel%CONTINUE%//
+ItemDisplay[btx !ID UNI]:%GOLD%The Chieftain%CONTINUE%//
+ItemDisplay[gax !ID UNI]:%GOLD%Brainhew%CONTINUE%//
+ItemDisplay[gix !ID UNI]:%GOLD%Humongous%CONTINUE%//
+ItemDisplay[sbw !ID UNI]:%GOLD%Pluckeye%CONTINUE%//
+ItemDisplay[hbw !ID UNI]:%GOLD%Witherstring%CONTINUE%//
+ItemDisplay[lbw !ID UNI]:%GOLD%Raven Claw%CONTINUE%//
+ItemDisplay[cbw !ID UNI]:%GOLD%Rogue's Bow%CONTINUE%//
+ItemDisplay[sbb !ID UNI]:%GOLD%Stormstrike%CONTINUE%//
+ItemDisplay[lbb !ID UNI]:%GOLD%Wizendraw%CONTINUE%//
+ItemDisplay[swb !ID UNI]:%GOLD%Hellclap%CONTINUE%//
+ItemDisplay[lwb !ID UNI]:%GOLD%Blastbark%CONTINUE%//
+ItemDisplay[lxb !ID UNI]:%GOLD%Leadcrow%CONTINUE%//
+ItemDisplay[mxb !ID UNI]:%GOLD%Ichorsting%CONTINUE%//
+ItemDisplay[hxb !ID UNI]:%GOLD%Hellcast%CONTINUE%//
+ItemDisplay[rxb !ID UNI]:%GOLD%Doomslinger%CONTINUE%//
+ItemDisplay[dgr !ID UNI]:%GOLD%Gull%CONTINUE%//
+ItemDisplay[dir !ID UNI]:%GOLD%The Diggler%CONTINUE%//
+ItemDisplay[kri !ID UNI]:%GOLD%The Jade Tan Do%CONTINUE%//
+ItemDisplay[bld !ID UNI]:%GOLD%Spectral Shard%CONTINUE%//
+ItemDisplay[clb !ID UNI]:%GOLD%Felloak%CONTINUE%//
+ItemDisplay[spc !ID UNI]:%GOLD%Stoutnail%CONTINUE%//
+ItemDisplay[mac !ID UNI]:%GOLD%Crushflange%CONTINUE%//
+ItemDisplay[mst !ID UNI]:%GOLD%Bloodrise%CONTINUE%//
+ItemDisplay[fla !ID UNI]:%GOLD%The General's Tan Do Li Ga%CONTINUE%//
+ItemDisplay[whm !ID UNI]:%GOLD%Ironstone%CONTINUE%//
+ItemDisplay[mau !ID UNI]:%GOLD%Bonesnap%CONTINUE%//
+ItemDisplay[gma !ID UNI]:%GOLD%Steeldriver%CONTINUE%//
+ItemDisplay[bar !ID UNI]:%GOLD%Dimoak's Hew%CONTINUE%//
+ItemDisplay[vou !ID UNI]:%GOLD%Steelgoad%CONTINUE%//
+ItemDisplay[scy !ID UNI]:%GOLD%Soul Harvest%CONTINUE%//
+ItemDisplay[pax !ID UNI]:%GOLD%The Battlebranch%CONTINUE%//
+ItemDisplay[hal !ID UNI]:%GOLD%Woestave%CONTINUE%//
+ItemDisplay[wsc !ID UNI]:%GOLD%The Grim Reaper%CONTINUE%//
+ItemDisplay[scp !ID UNI]:%GOLD%Knell Striker%CONTINUE%//
+ItemDisplay[gsc !ID UNI]:%GOLD%Rusthandle%CONTINUE%//
+ItemDisplay[wsp !ID UNI]:%GOLD%Stormeye%CONTINUE%//
+ItemDisplay[spr !ID UNI]:%GOLD%The Dragon Chang%CONTINUE%//
+ItemDisplay[tri !ID UNI]:%GOLD%Razortine%CONTINUE%//
+ItemDisplay[brn !ID UNI]:%GOLD%Bloodthief%CONTINUE%//
+ItemDisplay[spt !ID UNI]:%GOLD%Lance of Yaggai%CONTINUE%//
+ItemDisplay[pik !ID UNI]:%GOLD%The Tannr Gorerod%CONTINUE%//
+ItemDisplay[sst !ID UNI]:%GOLD%Bane Ash%CONTINUE%//
+ItemDisplay[lst !ID UNI]:%GOLD%Serpent Lord%CONTINUE%//
+ItemDisplay[cst !ID UNI]:%GOLD%Spire of Lazarus%CONTINUE%//
+ItemDisplay[bst !ID UNI]:%GOLD%The Salamander%CONTINUE%//
+ItemDisplay[wst !ID UNI]:%GOLD%The Iron Jang Bong%CONTINUE%//
+ItemDisplay[ssd !ID UNI]:%GOLD%Rixot's Keen%CONTINUE%//
+ItemDisplay[scm !ID UNI]:%GOLD%Blood Crescent%CONTINUE%//
+ItemDisplay[sbr !ID UNI]:%GOLD%Skewer of Krintiz%CONTINUE%//
+ItemDisplay[flc !ID UNI]:%GOLD%Gleamscythe%CONTINUE%//
+ItemDisplay[crs !ID UNI]:%GOLD%Azurewrath%CONTINUE%//
+ItemDisplay[bsd !ID UNI]:%GOLD%Griswold's Edge%CONTINUE%//
+ItemDisplay[lsd !ID UNI]:%GOLD%Hellplague%CONTINUE%//
+ItemDisplay[wsd !ID UNI]:%GOLD%Culwen's Point%CONTINUE%//
+ItemDisplay[2hs !ID UNI]:%GOLD%Shadowfang%CONTINUE%//
+ItemDisplay[clm !ID UNI]:%GOLD%Soulflay%CONTINUE%//
+ItemDisplay[gis !ID UNI]:%GOLD%Kinemil's Awl%CONTINUE%//
+ItemDisplay[bsw !ID UNI]:%GOLD%Blacktongue%CONTINUE%//
+ItemDisplay[flb !ID UNI]:%GOLD%Ripsaw%CONTINUE%//
+ItemDisplay[gsd !ID UNI]:%GOLD%The Patriarch%CONTINUE%//
+ItemDisplay[wnd !ID UNI]:%GOLD%Torch of Iro%CONTINUE%//
+ItemDisplay[ywn !ID UNI]:%GOLD%Maelstrom%CONTINUE%//
+ItemDisplay[bwn !ID UNI]:%GOLD%Gravenspine%CONTINUE%//
+ItemDisplay[gwn !ID UNI]:%GOLD%Ume's Lament%CONTINUE%//
+ItemDisplay[xap !ID UNI]:%GOLD%Peasant Crown%CONTINUE%//
+ItemDisplay[xkp !ID UNI]:%GOLD%Rockstopper%CONTINUE%//
+ItemDisplay[xlm !ID UNI]:%GOLD%Stealskull %GRAY%nm%CONTINUE%//
+ItemDisplay[xhl !ID UNI]:%GOLD%Darksight Helm %GRAY%nm%CONTINUE%//
+ItemDisplay[xhm !ID UNI]:%GOLD%Valkyrie Wing %GRAY%nm%CONTINUE%//
+ItemDisplay[xsk !ID UNI]:%GOLD%Blackhorn's Face %GRAY%nm%CONTINUE%//
+ItemDisplay[xrn !ID UNI]:%GOLD%Crown of Thieves %GRAY%nm%CONTINUE%//
+ItemDisplay[xh9 !ID UNI]:%GOLD%Vampire Gaze %GRAY%nm%CONTINUE%//
+ItemDisplay[xui !ID UNI]:%GOLD%The Spirit Shroud%CONTINUE%//
+ItemDisplay[xea !ID UNI]:%GOLD%Skin of the Vipermagi%CONTINUE%//
+ItemDisplay[xla !ID UNI]:%GOLD%Skin of the Flayed One%CONTINUE%//
+ItemDisplay[xtu !ID UNI]:%GOLD%Iron Pelt %GRAY%nm%CONTINUE%//
+ItemDisplay[xcl !ID UNI]:%GOLD%Crow Caw %GRAY%nm%CONTINUE%//
+ItemDisplay[xng !ID UNI]:%GOLD%Spirit Forge %GRAY%nm%CONTINUE%//
+ItemDisplay[xrs !ID UNI]:%GOLD%Duriel's Shell %GRAY%nm%CONTINUE%//
+ItemDisplay[xhn !ID UNI]:%GOLD%Shaftstop %GRAY%nm%CONTINUE%//
+ItemDisplay[xpl !ID UNI]:%GOLD%Skullder's Ire %GRAY%nm%CONTINUE%//
+ItemDisplay[xtp !ID UNI]:%GOLD%Que-Hegan's Wisdom %GRAY%nm%CONTINUE%//
+ItemDisplay[xld !ID UNI]:%GOLD%Toothrow %GRAY%nm%CONTINUE%//
+ItemDisplay[xlt !ID UNI]:%GOLD%Guardian Angel %GRAY%nm%CONTINUE%//
+ItemDisplay[xth !ID UNI]:%GOLD%Atma's Wail %GRAY%nm%CONTINUE%//
+ItemDisplay[xul !ID UNI]:%GOLD%Black Hades %GRAY%nm%CONTINUE%//
+ItemDisplay[xar !ID UNI]:%GOLD%Corpsemourn %GRAY%nm%CONTINUE%//
+ItemDisplay[xuc !ID UNI]:%GOLD%Visceratuant%CONTINUE%//
+ItemDisplay[xml !ID UNI]:%GOLD%Moser's Blessed Circle%CONTINUE%//
+ItemDisplay[xrg !ID UNI]:%GOLD%Stormchaser %GRAY%nm%CONTINUE%//
+ItemDisplay[xit !ID UNI]:%GOLD%Tiamat's Rebuke %GRAY%nm%CONTINUE%//
+ItemDisplay[xpk !ID UNI]:%GOLD%Lance Guard %GRAY%nm%CONTINUE%//
+ItemDisplay[xow !ID UNI]:%GOLD%Gerke's Sanctuary %GRAY%nm%CONTINUE%//
+ItemDisplay[xsh !ID UNI]:%GOLD%Lidless Wall %GRAY%nm%CONTINUE%//
+ItemDisplay[xts !ID UNI]:%GOLD%Radament's Sphere %GRAY%nm%CONTINUE%//
+ItemDisplay[xlg !ID UNI]:%GOLD%Venom Grip%CONTINUE%//
+ItemDisplay[xvg !ID UNI]:%GOLD%Gravepalm%CONTINUE%//
+ItemDisplay[xmg !ID UNI]:%GOLD%Ghoulhide %GRAY%nm%CONTINUE%//
+ItemDisplay[xtg !ID UNI]:%GOLD%Lava Gout %GRAY%nm%CONTINUE%//
+ItemDisplay[xhg !ID UNI]:%GOLD%Hellmouth %GRAY%nm%CONTINUE%//
+ItemDisplay[xlb !ID UNI]:%GOLD%Infernostride%CONTINUE%//
+ItemDisplay[xvb !ID UNI]:%GOLD%Waterwalk%CONTINUE%//
+ItemDisplay[xmb !ID UNI]:%GOLD%Silkweave %GRAY%nm%CONTINUE%//
+ItemDisplay[xtb !ID UNI]:%GOLD%War Traveler %GRAY%nm%CONTINUE%//
+ItemDisplay[xhb !ID UNI]:%GOLD%Gore Rider %GRAY%nm%CONTINUE%//
+ItemDisplay[zlb !ID UNI]:%GOLD%String of Ears%CONTINUE%//
+ItemDisplay[zvb !ID UNI]:%GOLD%Razortail%CONTINUE%//
+ItemDisplay[zmb !ID UNI]:%GOLD%Gloom's Trap %GRAY%nm%CONTINUE%//
+ItemDisplay[ztb !ID UNI]:%GOLD%Snowclash %GRAY%nm%CONTINUE%//
+ItemDisplay[zhb !ID UNI]:%GOLD%Thundergod's Vigor %GRAY%nm%CONTINUE%//
+ItemDisplay[9ha !ID UNI]:%GOLD%Coldkill %GRAY%nm%CONTINUE%//
+ItemDisplay[9ax !ID UNI]:%GOLD%Butcher's Pupil %GRAY%nm%CONTINUE%//
+ItemDisplay[92a !ID UNI]:%GOLD%Islestrike %GRAY%nm%CONTINUE%//
+ItemDisplay[9mp !ID UNI]:%GOLD%Pompeii's Wrath %GRAY%nm%CONTINUE%//
+ItemDisplay[9wa !ID UNI]:%GOLD%Guardian Naga %GRAY%nm%CONTINUE%//
+ItemDisplay[9la !ID UNI]:%GOLD%Warlord's Trust%CONTINUE%//
+ItemDisplay[9ba !ID UNI]:%GOLD%Spellsteel %GRAY%nm%CONTINUE%//
+ItemDisplay[9bt !ID UNI]:%GOLD%Stormrider %GRAY%nm%CONTINUE%//
+ItemDisplay[9ga !ID UNI]:%GOLD%Boneslayer Blade %GRAY%nm%CONTINUE%//
+ItemDisplay[9gi !ID UNI]:%GOLD%The Minotaur %GRAY%nm%CONTINUE%//
+ItemDisplay[8sb !ID UNI]:%GOLD%Skystrike%CONTINUE%//
+ItemDisplay[8hb !ID UNI]:%GOLD%Riphook%CONTINUE%//
+ItemDisplay[8lb !ID UNI]:%GOLD%Kuko Shakaku%CONTINUE%//
+ItemDisplay[8cb !ID UNI]:%GOLD%Endlesshail%CONTINUE%//
+ItemDisplay[8s8 !ID UNI]:%GOLD%Witchwild String %GRAY%nm%CONTINUE%//
+ItemDisplay[8l8 !ID UNI]:%GOLD%Cliffkiller %GRAY%nm%CONTINUE%//
+ItemDisplay[8sw !ID UNI]:%GOLD%Magewrath %GRAY%nm%CONTINUE%//
+ItemDisplay[8lw !ID UNI]:%GOLD%Goldstrike Arch %GRAY%nm%CONTINUE%//
+ItemDisplay[8lx !ID UNI]:%GOLD%Langer Briser%CONTINUE%//
+ItemDisplay[8mx !ID UNI]:%GOLD%Pus Spitter %GRAY%nm%CONTINUE%//
+ItemDisplay[8hx !ID UNI]:%GOLD%Buriza-Do Kyanon %GRAY%nm%CONTINUE%//
+ItemDisplay[8rx !ID UNI]:%GOLD%Demon Machine %GRAY%nm%CONTINUE%//
+ItemDisplay[9dg !ID UNI]:%GOLD%Spineripper%CONTINUE%//
+ItemDisplay[9di !ID UNI]:%GOLD%Heart Carver %GRAY%nm%CONTINUE%//
+ItemDisplay[9kr !ID UNI]:%GOLD%Blackbog's Sharp %GRAY%nm%CONTINUE%//
+ItemDisplay[9bl !ID UNI]:%GOLD%Stormspike %GRAY%nm%CONTINUE%//
+ItemDisplay[9cl !ID UNI]:%GOLD%Dark Clan Crusher%CONTINUE%//
+ItemDisplay[9sp !ID UNI]:%GOLD%Fleshrender %GRAY%nm%CONTINUE%//
+ItemDisplay[9ma !ID UNI]:%GOLD%Sureshrill Frost %GRAY%nm%CONTINUE%//
+ItemDisplay[9mt !ID UNI]:%GOLD%Moonfall %GRAY%nm%CONTINUE%//
+ItemDisplay[9fl !ID UNI]:%GOLD%Baezil's Vortex %GRAY%nm%CONTINUE%//
+ItemDisplay[9wh !ID UNI]:%GOLD%Earthshaker %GRAY%nm%CONTINUE%//
+ItemDisplay[9m9 !ID UNI]:%GOLD%Bloodtree Stump %GRAY%nm%CONTINUE%//
+ItemDisplay[9gm !ID UNI]:%GOLD%The Gavel Of Pain %GRAY%nm%CONTINUE%//
+ItemDisplay[9b7 !ID UNI]:%GOLD%The Meat Scraper %GRAY%nm%CONTINUE%//
+ItemDisplay[9vo !ID UNI]:%GOLD%Blackleach Blade %GRAY%nm%CONTINUE%//
+ItemDisplay[9s8 !ID UNI]:%GOLD%Athena's Wrath %GRAY%nm%CONTINUE%//
+ItemDisplay[9pa !ID UNI]:%GOLD%Pierre Tombale Couant %GRAY%nm%CONTINUE%//
+ItemDisplay[9h9 !ID UNI]:%GOLD%Husoldal Evo %GRAY%nm%CONTINUE%//
+ItemDisplay[9wc !ID UNI]:%GOLD%Grim's Burning Dead %GRAY%nm%CONTINUE%//
+ItemDisplay[9sc !ID UNI]:%GOLD%Zakarum's Hand %GRAY%nm%CONTINUE%//
+ItemDisplay[9qs !ID UNI]:%GOLD%The Fetid Sprinkler %GRAY%nm%CONTINUE%//
+ItemDisplay[9ws !ID UNI]:%GOLD%Hand of Blessed Light %GRAY%nm%CONTINUE%//
+ItemDisplay[9sr !ID UNI]:%GOLD%The Impaler%CONTINUE%//
+ItemDisplay[9tr !ID UNI]:%GOLD%Kelpie Snare%CONTINUE%//
+ItemDisplay[9br !ID UNI]:%GOLD%Soulfeast Tine %GRAY%nm%CONTINUE%//
+ItemDisplay[9st !ID UNI]:%GOLD%Hone Sundan %GRAY%nm%CONTINUE%//
+ItemDisplay[9p9 !ID UNI]:%GOLD%Spire of Honor %GRAY%nm%CONTINUE%//
+ItemDisplay[8ss !ID UNI]:%GOLD%Razorswitch%CONTINUE%//
+ItemDisplay[8ls !ID UNI]:%GOLD%Ribcracker%CONTINUE%//
+ItemDisplay[8cs !ID UNI]:%GOLD%Chromatic Ire%CONTINUE%//
+ItemDisplay[8bs !ID UNI]:%GOLD%Warpspear %GRAY%nm%CONTINUE%//
+ItemDisplay[8ws !ID UNI]:%GOLD%Skull Collector %GRAY%nm%CONTINUE%//
+ItemDisplay[9ss !ID UNI]:%GOLD%Bloodletter%CONTINUE%//
+ItemDisplay[9sm !ID UNI]:%GOLD%Coldsteel Eye %GRAY%nm%CONTINUE%//
+ItemDisplay[9sb !ID UNI]:%GOLD%Hexfire%CONTINUE%//
+ItemDisplay[9fc !ID UNI]:%GOLD%Blade of Ali Baba%CONTINUE%//
+ItemDisplay[9cr !ID UNI]:%GOLD%Ginther's Rift%CONTINUE%//
+ItemDisplay[9bs !ID UNI]:%GOLD%Headstriker %GRAY%nm%CONTINUE%//
+ItemDisplay[9ls !ID UNI]:%GOLD%Plague Bearer %GRAY%nm%CONTINUE%//
+ItemDisplay[9wd !ID UNI]:%GOLD%The Atlantean %GRAY%nm%CONTINUE%//
+ItemDisplay[92h !ID UNI]:%GOLD%Crainte Vomir %GRAY%nm%CONTINUE%//
+ItemDisplay[9cm !ID UNI]:%GOLD%Bing Sz Wang %GRAY%nm%CONTINUE%//
+ItemDisplay[9gs !ID UNI]:%GOLD%The Vile Husk %GRAY%nm%CONTINUE%//
+ItemDisplay[9b9 !ID UNI]:%GOLD%Cloudcrack %GRAY%nm%CONTINUE%//
+ItemDisplay[9fb !ID UNI]:%GOLD%Todesfaelle Flamme %GRAY%nm%CONTINUE%//
+ItemDisplay[9gd !ID UNI]:%GOLD%Swordguard %GRAY%nm%CONTINUE%//
+ItemDisplay[9tk !ID UNI]:%GOLD%Deathbit %GRAY%nm%CONTINUE%//
+ItemDisplay[9ta !ID UNI]:%GOLD%The Scalper %GRAY%nm%CONTINUE%//
+ItemDisplay[9wn !ID UNI]:%GOLD%Suicide Branch%CONTINUE%//
+ItemDisplay[9yw !ID UNI]:%GOLD%Carin Shard%CONTINUE%//
+ItemDisplay[9bw !ID UNI]:%GOLD%Arm of King Leoric %GRAY%nm%CONTINUE%//
+ItemDisplay[9gw !ID UNI]:%GOLD%Blackhand Key %GRAY%nm%CONTINUE%//
+ItemDisplay[uap !ID UNI]:%GOLD%Harlequin Crest %GRAY%h%CONTINUE%//
+ItemDisplay[ulm !ID UNI]:%GOLD%Steel Shade %GRAY%h%CONTINUE%//
+ItemDisplay[uhm !ID UNI]:%GOLD%Veil of Steel %GRAY%h / %GOLD%Nightwing's Veil %GRAY%h%CONTINUE%//
+ItemDisplay[usk !ID UNI]:%GOLD%Andariel's Visage %GRAY%h%CONTINUE%//
+ItemDisplay[urn !ID UNI]:%GOLD%Crown of Ages %GRAY%h+%CONTINUE%//
+ItemDisplay[uh9 !ID UNI]:%GOLD%Giant Skull %GRAY%h%CONTINUE%//
+ItemDisplay[uui !ID UNI]:%GOLD%Ormus' Robes %GRAY%h%CONTINUE%//
+ItemDisplay[utu !ID UNI]:%GOLD%The Gladiator's Bane %GRAY%h%CONTINUE%//
+ItemDisplay[upl !ID UNI]:%GOLD%Arkaine's Valor %GRAY%h%CONTINUE%//
+ItemDisplay[uld !ID UNI]:%GOLD%Leviathan %GRAY%h%CONTINUE%//
+ItemDisplay[uul !ID UNI]:%GOLD%Steel Carapace %GRAY%h%CONTINUE%//
+ItemDisplay[uar !ID UNI]:%GOLD%Templar's Might %GRAY%h / %GOLD%Tyrael's Might %GRAY%h+%CONTINUE%//
+ItemDisplay[uhn !ID UNI]:%GOLD%Cage of the Unsullied %GRAY%h%CONTINUE%//
+ItemDisplay[uml !ID UNI]:%GOLD%Blackoak Shield %GRAY%h%CONTINUE%//
+ItemDisplay[uit !ID UNI]:%GOLD%Stormshield %GRAY%h%CONTINUE%//
+ItemDisplay[upk !ID UNI]:%GOLD%Spike Thorn %GRAY%h%CONTINUE%//
+ItemDisplay[uow !ID UNI]:%GOLD%Medusa's Gaze %GRAY%h%CONTINUE%//
+ItemDisplay[ush !ID UNI]:%GOLD%Head Hunter's Glory %GRAY%h%CONTINUE%//
+ItemDisplay[uts !ID UNI]:%GOLD%Spirit Ward %GRAY%h%CONTINUE%//
+ItemDisplay[uvg !ID UNI]:%GOLD%Dracul's Grasp %GRAY%h%CONTINUE%//
+ItemDisplay[umg !ID UNI]:%GOLD%Soul Drainer %GRAY%h%CONTINUE%//
+ItemDisplay[uhg !ID UNI]:%GOLD%Steelrend %GRAY%h%CONTINUE%//
+ItemDisplay[uvb !ID UNI]:%GOLD%Sandstorm Trek %GRAY%h%CONTINUE%//
+ItemDisplay[umb !ID UNI]:%GOLD%Marrowwalk %GRAY%h%CONTINUE%//
+ItemDisplay[uhb !ID UNI]:%GOLD%Shadow Dancer %GRAY%h%CONTINUE%//
+ItemDisplay[ulc !ID UNI]:%GOLD%Arachnid Mesh %GRAY%h+%CONTINUE%//
+ItemDisplay[uvc !ID UNI]:%GOLD%Nosferatu's Coil %GRAY%h%CONTINUE%//
+ItemDisplay[umc !ID UNI]:%GOLD%Verdungo's Hearty Cord %GRAY%h%CONTINUE%//
+ItemDisplay[utc !ID UNI]:%GOLD%Band of Skulls %GRAY%h%CONTINUE%//
+ItemDisplay[7ha !ID UNI]:%GOLD%Razor's Edge %GRAY%h%CONTINUE%//
+ItemDisplay[72a !ID UNI]:%GOLD%Rune Master %GRAY%h%CONTINUE%//
+ItemDisplay[7mp !ID UNI]:%GOLD%Cranebeak %GRAY%h%CONTINUE%//
+ItemDisplay[7wa !ID UNI]:%GOLD%Death Cleaver %GRAY%h%CONTINUE%//
+ItemDisplay[7ba !ID UNI]:%GOLD%Ethereal Edge %GRAY%h%CONTINUE%//
+ItemDisplay[7bt !ID UNI]:%GOLD%Hellslayer %GRAY%h%CONTINUE%//
+ItemDisplay[7ga !ID UNI]:%GOLD%Messerschmidt's Reaver %GRAY%h%CONTINUE%//
+ItemDisplay[7gi !ID UNI]:%GOLD%Executioner's Justice %GRAY%h%CONTINUE%//
+ItemDisplay[6l7 !ID UNI]:%GOLD%Eaglehorn %GRAY%h%CONTINUE%//
+ItemDisplay[6sw !ID UNI]:%GOLD%Widowmaker %GRAY%h%CONTINUE%//
+ItemDisplay[6lw !ID UNI]:%GOLD%Windforce %GRAY%h%CONTINUE%//
+ItemDisplay[6hx !ID UNI]:%GOLD%Hellrack %GRAY%h%CONTINUE%//
+ItemDisplay[6rx !ID UNI]:%GOLD%Gut Siphon %GRAY%h%CONTINUE%//
+ItemDisplay[7dg !ID UNI]:%GOLD%Wizardspike %GRAY%h%CONTINUE%//
+ItemDisplay[7kr !ID UNI]:%GOLD%Fleshripper %GRAY%h%CONTINUE%//
+ItemDisplay[7bl !ID UNI]:%GOLD%Ghostflame %GRAY%h%CONTINUE%//
+ItemDisplay[7s7 !ID UNI]:%GOLD%Demon's Arch %GRAY%h%CONTINUE%//
+ItemDisplay[7gl !ID UNI]:%GOLD%Wraith Flight %GRAY%h%CONTINUE%//
+ItemDisplay[7ts !ID UNI]:%GOLD%Gargoyle's Bite %GRAY%h%CONTINUE%//
+ItemDisplay[7cl !ID UNI]:%GOLD%Nord's Tenderizer %GRAY%h%CONTINUE%//
+ItemDisplay[7sp !ID UNI]:%GOLD%Demon Limb %GRAY%h%CONTINUE%//
+ItemDisplay[7mt !ID UNI]:%GOLD%Baranar's Star %GRAY%h%CONTINUE%//
+ItemDisplay[7fl !ID UNI]:%GOLD%Horizon's Tornado %GRAY%h / %GOLD%Stormlash %GRAY%h+%CONTINUE%//
+ItemDisplay[7wh !ID UNI]:%GOLD%Stone Crusher %GRAY%h / %GOLD%Schaefer's Hammer %GRAY%h%CONTINUE%//
+ItemDisplay[7m7 !ID UNI]:%GOLD%Windhammer %GRAY%h%CONTINUE%//
+ItemDisplay[7gm !ID UNI]:%GOLD%Earth Shifter %GRAY%h / %GOLD%The Cranium Basher %GRAY%h%CONTINUE%//
+ItemDisplay[7o7 !ID UNI]:%GOLD%Bonehew %GRAY%h%CONTINUE%//
+ItemDisplay[7s8 !ID UNI]:%GOLD%The Reaper's Toll %GRAY%h%CONTINUE%//
+ItemDisplay[7pa !ID UNI]:%GOLD%Tomb Reaver %GRAY%h+%CONTINUE%//
+ItemDisplay[7wc !ID UNI]:%GOLD%Stormspire %GRAY%h%CONTINUE%//
+ItemDisplay[7sc !ID UNI]:%GOLD%Heaven's Light %GRAY%h / %GOLD%The Redeemer %GRAY%h%CONTINUE%//
+ItemDisplay[7ws !ID UNI]:%GOLD%Astreon's Iron Ward %GRAY%h%CONTINUE%//
+ItemDisplay[7sr !ID UNI]:%GOLD%Arioc's Needle %GRAY%h%CONTINUE%//
+ItemDisplay[7br !ID UNI]:%GOLD%Viperfork %GRAY%h%CONTINUE%//
+ItemDisplay[7p7 !ID UNI]:%GOLD%Steel Pillar %GRAY%h%CONTINUE%//
+ItemDisplay[6cs !ID UNI]:%GOLD%Ondal's Wisdom %GRAY%h%CONTINUE%//
+ItemDisplay[6ws !ID UNI]:%GOLD%Mang Song's Lesson %GRAY%h+%CONTINUE%//
+ItemDisplay[7sm !ID UNI]:%GOLD%Djinn Slayer %GRAY%h%CONTINUE%//
+ItemDisplay[7sb !ID UNI]:%GOLD%Bloodmoon %GRAY%h%CONTINUE%//
+ItemDisplay[7cr !ID UNI]:%GOLD%Lightsabre %GRAY%h / %GOLD%Azurewrath %GRAY%h+%CONTINUE%//
+ItemDisplay[7ls !ID UNI]:%GOLD%Frostwind %GRAY%h%CONTINUE%//
+ItemDisplay[7gs !ID UNI]:%GOLD%Flamebellow %GRAY%h%CONTINUE%//
+ItemDisplay[7b7 !ID UNI]:%GOLD%Doombringer %GRAY%h%CONTINUE%//
+ItemDisplay[7gd !ID UNI]:%GOLD%The Grandfather %GRAY%h%CONTINUE%//
+ItemDisplay[7bk !ID UNI]:%GOLD%Warshrike %GRAY%h%CONTINUE%//
+ItemDisplay[7ta !ID UNI]:%GOLD%Gimmershred %GRAY%h%CONTINUE%//
+ItemDisplay[7b8 !ID UNI]:%GOLD%Lacerator %GRAY%h%CONTINUE%//
+ItemDisplay[7bw !ID UNI]:%GOLD%Boneshade %GRAY%h%CONTINUE%//
+ItemDisplay[7gw !ID UNI]:%GOLD%Death's Web %%GRAY%h%CONTINUE%//
 ItemDisplay[ETH SUP SOCK=0 ED<5      ]:[Eth] %GRAY%0ed %GRAY%%NAME%%CONTINUE%//
 ItemDisplay[ETH SUP SOCK=0 ED=5      ]:[Eth] %GRAY%5ed %GRAY%%NAME%%CONTINUE%//
 ItemDisplay[ETH SUP SOCK=0 ED=6      ]:[Eth] %GRAY%6ed %GRAY%%NAME%%CONTINUE%//
@@ -4036,479 +4970,6 @@ ItemDisplay[UNI]:%NAME%%GOLD%%CONTINUE%//
 ItemDisplay[SET]:%NAME%%GREEN%%CONTINUE%//
 ItemDisplay[CRAFT]:%NAME%%ORANGE%%CONTINUE%//
 ItemDisplay[RW]:%NAME%%GOLD%%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=4   ]:%NAME% %PURPLE%Infinity%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wc SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wc SOCK=4  ]:%NAME% %RED%Infinity%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wc SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=6   ]:%NAME% %PURPLE%Breath of the Dying%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=5   ]:%NAME% %PURPLE%Death%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=4   ]:%NAME% %PURPLE%Famine%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=6  ]:%NAME% %RED%Breath of the Dying%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=5  ]:%NAME% %RED%Death%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=4  ]:%NAME% %RED%Famine%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=6   ]:%NAME% %PURPLE%Breath of the Dying%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=5   ]:%NAME% %PURPLE%Death%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=4   ]:%NAME% %PURPLE%Oath%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wa SOCK=6  ]:%NAME% %RED%Breath of the Dying%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wa SOCK=5  ]:%NAME% %RED%Death%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wa SOCK=4  ]:%NAME% %RED%Oath%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wa SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=6   ]:%NAME% %PURPLE%Breath of the Dying%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=5   ]:%NAME% %PURPLE%Death%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=4   ]:%NAME% %PURPLE%Oath%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gd SOCK=6  ]:%NAME% %RED%Breath of the Dying%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gd SOCK=5  ]:%NAME% %RED%Death%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gd SOCK=4  ]:%NAME% %RED%Oath%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gd SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7h7 SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7h7 SOCK=4   ]:%NAME% %PURPLE%Infinity%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7h7 SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7h7 SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7h7 SOCK=4  ]:%NAME% %RED%Infinity%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7h7 SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7pa SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7pa SOCK=4   ]:%NAME% %PURPLE%Infinity%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7pa SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7pa SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7pa SOCK=4  ]:%NAME% %RED%Infinity%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7pa SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7fb SOCK=5   ]:%NAME% %PURPLE%Death%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7fb SOCK=4   ]:%NAME% %PURPLE%Oath%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7fb SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7fb SOCK=5  ]:%NAME% %RED%Death%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7fb SOCK=4  ]:%NAME% %RED%Oath%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7fb SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG ush SOCK=4  ]:%NAME% %TAN%Spirit%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG ush SOCK=3  ]:%NAME% %TAN%Ancients%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG ush SOCK=2  ]:%NAME% %TAN%Rhyme%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG ush SOCK=4  ]:%NAME% %WHITE%Spirit%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG ush SOCK=3  ]:%NAME% %WHITE%Ancients%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG ush SOCK=2  ]:%NAME% %WHITE%Rhyme%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7br SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7br SOCK=4   ]:%NAME% %PURPLE%Infinity%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7br SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7br SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7br SOCK=4  ]:%NAME% %RED%Infinity%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7br SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7cr SOCK=6   ]:%NAME% %PURPLE%Last Wish%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7cr SOCK=5   ]:%NAME% %PURPLE%Call to Arms%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7cr SOCK=4   ]:%NAME% %PURPLE%Spirit%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7cr SOCK=6  ]:%NAME% %RED%Last Wish%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7cr SOCK=5  ]:%NAME% %RED%Call to Arms%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7cr SOCK=4  ]:%NAME% %RED%Spirit%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7bt SOCK=5   ]:%NAME% %PURPLE%Death%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7bt SOCK=4   ]:%NAME% %PURPLE%Oath%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7bt SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7bt SOCK=5  ]:%NAME% %RED%Death%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7bt SOCK=4  ]:%NAME% %RED%Oath%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7bt SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG uit SOCK=4  ]:%NAME% %TAN%Spirit%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG uit SOCK=3  ]:%NAME% %TAN%Ancients%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG uit SOCK=2  ]:%NAME% %TAN%Rhyme%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG uit SOCK=4 ]:%NAME% %WHITE%Spirit%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG uit SOCK=3 ]:%NAME% %WHITE%Ancients%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG uit SOCK=2 ]:%NAME% %WHITE%Rhyme%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7s8 SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7s8 SOCK=4   ]:%NAME% %PURPLE%Infinity%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7s8 SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7s8 SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7s8 SOCK=4  ]:%NAME% %RED%Infinity%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7s8 SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7vo SOCK=4   ]:%NAME% %PURPLE%Infinity%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7vo SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7vo SOCK=4  ]:%NAME% %RED%Infinity%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7vo SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9wc SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9wc SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9wc SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9wc SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9wc SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9wc SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9h9 SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9h9 SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9h9 SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9h9 SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9h9 SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9h9 SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG xsh SOCK=2  ]:%NAME% %TAN%Rhyme%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG xsh SOCK=2 ]:%NAME% %WHITE%Rhyme%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9br SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9br SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9br SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9br SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9br SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9br SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9s8 SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9s8 SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9s8 SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9s8 SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9s8 SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9s8 SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9vo SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9vo SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9vo SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9vo SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9cr SOCK=6   ]:%NAME% %PURPLE%Last Wish%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9cr SOCK=5   ]:%NAME% %PURPLE%Call to Arms%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9cr SOCK=4   ]:%NAME% %PURPLE%Spirit%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9cr SOCK=6  ]:%NAME% %RED%Last Wish%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9cr SOCK=5  ]:%NAME% %RED%Call to Arms%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9cr SOCK=4  ]:%NAME% %RED%Spirit%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9pa SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9pa SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9pa SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9pa SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9pa SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9pa SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG wsc SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG wsc SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG wsc SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG wsc SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG wsc SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG wsc SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG hal SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG hal SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG hal SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG hal SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG hal SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG hal SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG pax SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG pax SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG pax SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG pax SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG pax SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG pax SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG fla SOCK=5   ]:%NAME% %PURPLE%Call to Arms%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG fla SOCK=4   ]:%NAME% %PURPLE%Heart of the Oak%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG fla SOCK=5  ]:%NAME% %RED%Call to Arms%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG fla SOCK=4  ]:%NAME% %RED%Heart of the Oak%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG fla SOCK=5  ]:%NAME% %TAN%Call to Arms%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG fla SOCK=4  ]:%NAME% %TAN%Heart of the Oak%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG fla SOCK=5 ]:%NAME% %WHITE%Call to Arms%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG fla SOCK=4 ]:%NAME% %WHITE%Heart of the Oak%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG bsh SOCK=2  ]:%NAME% %TAN%Rhyme%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG bsh SOCK=2 ]:%NAME% %WHITE%Rhyme%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG brn SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG brn SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG brn SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG brn SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG brn SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG brn SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG scy SOCK=5   ]:%NAME% %PURPLE%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG scy SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG scy SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG scy SOCK=5  ]:%NAME% %RED%Obedience%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG scy SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG scy SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG vou SOCK=4   ]:%NAME% %PURPLE%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG vou SOCK=3   ]:%NAME% %PURPLE%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG vou SOCK=4  ]:%NAME% %RED%Insight%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG vou SOCK=3  ]:%NAME% %RED%Malice%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG crs SOCK=6   ]:%NAME% %PURPLE%Last Wish%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG crs SOCK=5   ]:%NAME% %PURPLE%Call to Arms%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG crs SOCK=4   ]:%NAME% %PURPLE%Spirit%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG crs SOCK=6  ]:%NAME% %RED%Last Wish%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG crs SOCK=5  ]:%NAME% %RED%Call to Arms%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG crs SOCK=4  ]:%NAME% %RED%Spirit%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=6  ]:%NAME% %TAN%6x Ist%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=5  ]:%NAME% %TAN%Call to Arms%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=4  ]:%NAME% %TAN%Spirit%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=6  ]:%NAME% %WHITE%6x Ist%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=5  ]:%NAME% %WHITE%Call to Arms%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=4  ]:%NAME% %WHITE%Spirit%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wc SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wc SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wc SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wc SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wc SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wc SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gm SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gm SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gm SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gm SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gm SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gm SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gm SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gm SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7wa SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wa SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7wa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wa SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7wa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wa SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wa SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7wa SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7gd SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gd SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gd SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7gd SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gd SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gd SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7gd SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gd SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gd SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7gd SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7h7 SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7h7 SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7h7 SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7h7 SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7h7 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7h7 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7h7 SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7h7 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7h7 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7h7 SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7h7 SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7h7 SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7pa SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7pa SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7pa SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7pa SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7pa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7pa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7pa SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7pa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7pa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7pa SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7pa SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7pa SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7fb SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7fb SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7fb SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7fb SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7fb SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7fb SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7fb SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7fb SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7fb SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7fb SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7fb SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7fb SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7br SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7br SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7br SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7br SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7br SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7br SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7br SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7br SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7br SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7br SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7br SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7br SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7cr SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7cr SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7cr SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7cr SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7cr SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7cr SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7cr SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7cr SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7cr SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7cr SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7cr SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7cr SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG uit SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG uit SOCK=0 ILVL>40        ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7s8 SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7s8 SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7s8 SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7s8 SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7s8 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7s8 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7s8 SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7s8 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7s8 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7s8 SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7s8 SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7s8 SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7vo SOCK=0 ILVL>25          ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 7vo SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7vo SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 7vo SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7vo SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 7vo SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7vo SOCK=0 ILVL>25        ]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 7vo SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9wc SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9wc SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9wc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9wc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9wc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9wc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9wc SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9wc SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9h9 SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9h9 SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9h9 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9h9 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9h9 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9h9 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9h9 SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9h9 SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9br SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9br SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9br SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9br SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9br SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9br SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9br SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9br SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9br SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9br SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9br SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9br SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9s8 SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9s8 SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9s8 SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9s8 SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9s8 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9s8 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9s8 SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9s8 SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9s8 SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9s8 SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9s8 SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9s8 SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9vo SOCK=0 ILVL>25          ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9vo SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9vo SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9vo SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9vo SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9vo SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9vo SOCK=0 ILVL>25        ]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9vo SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9cr SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9cr SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9cr SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9cr SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9cr SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9cr SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9cr SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9cr SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9cr SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9cr SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9cr SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9cr SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9pa SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9pa SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG 9pa SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9pa SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9pa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG 9pa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9pa SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9pa SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG 9pa SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9pa SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9pa SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG 9pa SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG wsc SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG wsc SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG wsc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG wsc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG wsc SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG wsc SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG wsc SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG wsc SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG hal SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG hal SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG hal SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG hal SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG hal SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG hal SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG hal SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG hal SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG pax SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG pax SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG pax SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG pax SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG pax SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG pax SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG pax SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG pax SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG pax SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG pax SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG pax SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG pax SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG fla SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG fla SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG fla SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG fla SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG brn SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG brn SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG brn SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG brn SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG brn SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG brn SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG brn SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG brn SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG brn SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG brn SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG brn SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG brn SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG scy SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG scy SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG scy SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG scy SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG scy SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG scy SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG scy SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG scy SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG scy SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG scy SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 5os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG scy SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG scy SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG vou SOCK=0 ILVL>25          ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG vou SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG vou SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG vou SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG vou SOCK=0 ILVL>25         ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG vou SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG vou SOCK=0 ILVL>25        ]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG vou SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG crs SOCK=0 ILVL>40          ]:%NAME% %RED%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG crs SOCK=0 ILVL>25 ILVL<41  ]:%NAME% %RED%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH SUP NMAG crs SOCK=0 ILVL<26          ]:%NAME% %RED%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG crs SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG crs SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET ETH !SUP NMAG crs SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=0 ILVL>40         ]:%NAME% %TAN%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=0 ILVL>25 ILVL<41 ]:%NAME% %TAN%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH SUP NMAG crs SOCK=0 ILVL<26         ]:%NAME% %TAN%Larzuk 3os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL>40        ]:%NAME% %GRAY%Larzuk 6os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL>25 ILVL<41]:%NAME% %GRAY%Larzuk 4os%CONTINUE%//
-ItemDisplay[!RW !RARE !UNI !SET !ETH !SUP NMAG crs SOCK=0 ILVL<26        ]:%NAME% %GRAY%Larzuk 3os%CONTINUE%//
-ItemDisplay[SOCK=0 NMAG]:%NAME%%WHITE%%CONTINUE%//
-ItemDisplay[!RW SOCK>0 NMAG]:%NAME%%GRAY%%CONTINUE%//
-ItemDisplay[ETH NMAG]:%NAME%%GRAY%%CONTINUE%//
-ItemDisplay[MAG]:%NAME%%BLUE%%CONTINUE%//
-ItemDisplay[RARE]:%NAME%%YELLOW%%CONTINUE%//
-ItemDisplay[UNI]:%NAME%%GOLD%%CONTINUE%//
-ItemDisplay[SET]:%NAME%%GREEN%%CONTINUE%//
-ItemDisplay[CRAFT]:%NAME%%ORANGE%%CONTINUE%//
-ItemDisplay[RW]:%NAME%%GOLD%%CONTINUE%//
 ItemDisplay[leg]:%NAME%{%RED%Cows%GRAY%: (%GOLD%Wirt's Leg%GRAY%+%WHITE%Town%GRAY%)}%CONTINUE%//
 ItemDisplay[pk1]:%NAME%{%RED%Pandemonium%GRAY%: (%ORANGE%Terror%GRAY%+%ORANGE%Hate%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%Countess/Blood Raven}%CONTINUE%//
 ItemDisplay[pk2]:%NAME%{%RED%Pandemonium%GRAY%: (%ORANGE%Hate%GRAY%+%ORANGE%Terror%GRAY%+%ORANGE%Destruction%GRAY%)%NL%%TAN%The Summoner/Bloodwitch}%CONTINUE%//
@@ -4584,7 +5045,7 @@ ItemDisplay[HELM SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask La
 ItemDisplay[CHEST SOCK=0 SUP NMAG]:%NAME%{%NAME%%GOLD%Socket%GRAY%: (%GRAY%Ask Larzuk%GRAY%)%NL%}%CONTINUE%//
 ItemDisplay[WEAPON (BOW OR XBOW) MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Ort %ORANGE%Caster: %TAN%Tir%NL%%ORANGE%Power: %TAN%Tir %ORANGE%Safety: %TAN%Sol%NL%%ORANGE%Vampiric: %TAN%Shael %ORANGE%Bountiful: %TAN%Shael%NL%}%CONTINUE%//
 ItemDisplay[WEAPON !BOW !XBOW MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Ort %ORANGE%Caster: %TAN%Tir%NL%%ORANGE%Power: %TAN%Tir%NL%%ORANGE%Vampiric: %TAN%Shael %ORANGE%Bountiful: %TAN%Shael%NL%}%CONTINUE%//
-ItemDisplay[HELM MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Ral%ORANGE%Caster: %TAN%Nef%NL%%ORANGE%Power: %TAN%Ith %ORANGE%Safety: %TAN%Ith%NL%%ORANGE%Vampiric: %TAN%Lum %ORANGE%Bountiful: %TAN%Tir%NL%}%CONTINUE%//
+ItemDisplay[HELM MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Ral %ORANGE%Caster: %TAN%Nef%NL%%ORANGE%Power: %TAN%Ith %ORANGE%Safety: %TAN%Ith%NL%%ORANGE%Vampiric: %TAN%Lum %ORANGE%Bountiful: %TAN%Tir%NL%}%CONTINUE%//
 ItemDisplay[CHEST MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Thul %ORANGE%Caster: %TAN%Tal%NL%%ORANGE%Power: %TAN%Nef %ORANGE%Safety: %TAN%Eth%NL%%ORANGE%Vampiric: %TAN%Tir %ORANGE%Bountiful: %TAN%Eld%NL%}%CONTINUE%//
 ItemDisplay[SHIELD MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Ith %ORANGE%Caster: %TAN%Eth%NL%%ORANGE%Power: %TAN%Eth %ORANGE%Safety: %TAN%Nef%NL%%ORANGE%Vampiric: %TAN%Sol %ORANGE%Bountiful: %TAN%Dol%NL%}%CONTINUE%//
 ItemDisplay[GLOVES MAG]:%NAME%{%NAME%%ORANGE%Blood: %TAN%Nef %ORANGE%Caster: %TAN%Ort%NL%%ORANGE%Power: %TAN%Ort %ORANGE%Safety: %TAN%Ral%NL%%ORANGE%Vampiric: %TAN%io %ORANGE%Bountiful: %TAN%Hel%NL%}%CONTINUE%//
@@ -5404,476 +5865,6 @@ ItemDisplay[obd                ]:%NAME%{%NAME%%TAN%Damage: 23-55 Sockets: 2}%CON
 ItemDisplay[obe                ]:%NAME%{%NAME%%TAN%Damage: 12-66 Sockets: 2}%CONTINUE%//
 ItemDisplay[obf ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 30-53 Sockets: 2}%CONTINUE%//
 ItemDisplay[obf ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 30-53 Sockets: 3}%CONTINUE%//
-ItemDisplay[rin !ID SET]:%GREEN%%NAME%%CONTINUE%//
-ItemDisplay[amu !ID SET]:%GREEN%%NAME%%CONTINUE%//
-ItemDisplay[tgl !ID SET]:%GREEN%Arctic/Iratha%CONTINUE%//
-ItemDisplay[cap !ID SET]:%GREEN%Infernal/Sander%CONTINUE%//
-ItemDisplay[crn !ID SET]:%GREEN%Iratha/Milabrega%CONTINUE%//
-ItemDisplay[vbt !ID SET !(MAPID=39)]:%GREEN%Sander's Riprap%CONTINUE%//
-ItemDisplay[vbt !ID SET (MAPID=39)]:%GREEN%Cow King/Sander%CONTINUE%//
-ItemDisplay[mbl !ID SET]:%GREEN%Hsaru/Hwanin%CONTINUE%//
-ItemDisplay[tbl !ID SET]:%GREEN%Infernal/Iratha%CONTINUE%//
-ItemDisplay[wst !ID SET]:%GREEN%Arcanna's Deathwand%CONTINUE%//
-ItemDisplay[ltp !ID SET]:%GREEN%Arcanna's Flesh%CONTINUE%//
-ItemDisplay[skp !ID SET]:%GREEN%Arcanna's Head%CONTINUE%//
-ItemDisplay[vbl !ID SET]:%GREEN%Arctic Binding%CONTINUE%//
-ItemDisplay[qui !ID SET]:%GREEN%Arctic Furs%CONTINUE%//
-ItemDisplay[swb !ID SET]:%GREEN%Arctic Horn%CONTINUE%//
-ItemDisplay[2ax !ID SET]:%GREEN%Berserker's Hatchet%CONTINUE%//
-ItemDisplay[spl !ID SET]:%GREEN%Berserker's Hauberk%CONTINUE%//
-ItemDisplay[hlm !ID SET]:%GREEN%Berserker's Headgear%CONTINUE%//
-ItemDisplay[msk !ID SET]:%GREEN%Cathan's Visage%CONTINUE%//
-ItemDisplay[chn !ID SET]:%GREEN%Cathan's Mesh%CONTINUE%//
-ItemDisplay[bst !ID SET]:%GREEN%Cathan's Rule%CONTINUE%//
-ItemDisplay[gsc !ID SET]:%GREEN%Civerb's Cudgel%CONTINUE%//
-ItemDisplay[lrg !ID SET]:%GREEN%Civerb's Ward%CONTINUE%//
-ItemDisplay[sml !ID SET]:%GREEN%Cleglaw's Claw%CONTINUE%//
-ItemDisplay[mgl !ID SET]:%GREEN%Cleglaw's Pincers%CONTINUE%//
-ItemDisplay[lsd !ID SET]:%GREEN%Cleglaw's Tooth%CONTINUE%//
-ItemDisplay[rng !ID SET]:%GREEN%Angelic Mantle%CONTINUE%//
-ItemDisplay[sbr !ID SET]:%GREEN%Angelic Sickle%CONTINUE%//
-ItemDisplay[buc !ID SET]:%GREEN%Hsaru's Iron Fist%CONTINUE%//
-ItemDisplay[mbt !ID SET]:%GREEN%Hsaru's Iron Heel%CONTINUE%//
-ItemDisplay[dgr !ID SET]:%GREEN%Infernal Spine%CONTINUE%//
-ItemDisplay[gwn !ID SET]:%GREEN%Infernal Torch%CONTINUE%//
-ItemDisplay[fhl !ID SET]:%GREEN%Isenhart's Horns%CONTINUE%//
-ItemDisplay[brs !ID SET]:%GREEN%Isenhart's Case%CONTINUE%//
-ItemDisplay[bsd !ID SET]:%GREEN%Isenhart's Lightbrand%CONTINUE%//
-ItemDisplay[gts !ID SET]:%GREEN%Isenhart's Parry%CONTINUE%//
-ItemDisplay[kit !ID SET]:%GREEN%Milabrega's Orb%CONTINUE%//
-ItemDisplay[aar !ID SET]:%GREEN%Milabrega's Robe %GRAY%nm%CONTINUE%//
-ItemDisplay[wsp !ID SET]:%GREEN%Milabrega's Rod%CONTINUE%//
-ItemDisplay[hgl !ID SET]:%GREEN%Sigon's Gage%CONTINUE%//
-ItemDisplay[tow !ID SET]:%GREEN%Sigon's Guard%CONTINUE%//
-ItemDisplay[hbt !ID SET]:%GREEN%Sigon's Sabot%CONTINUE%//
-ItemDisplay[gth !ID SET]:%GREEN%Sigon's Shelter%CONTINUE%//
-ItemDisplay[ghm !ID SET]:%GREEN%Sigon's Visor%CONTINUE%//
-ItemDisplay[hbl !ID SET]:%GREEN%Sigon's Wrap%CONTINUE%//
-ItemDisplay[mpi !ID SET]:%GREEN%Tancred's Crowbill%CONTINUE%//
-ItemDisplay[lbt !ID SET]:%GREEN%Tancred's Hobnails%CONTINUE%//
-ItemDisplay[bhm !ID SET]:%GREEN%Tancred's Skull%CONTINUE%//
-ItemDisplay[ful !ID SET]:%GREEN%Tancred's Spine%CONTINUE%//
-ItemDisplay[lbl !ID SET]:%GREEN%Death's Guard%CONTINUE%//
-ItemDisplay[lgl !ID SET]:%GREEN%Death's Hand%CONTINUE%//
-ItemDisplay[wsd !ID SET]:%GREEN%Death's Touch%CONTINUE%//
-ItemDisplay[lea !ID SET]:%GREEN%Vidala's Ambush%CONTINUE%//
-ItemDisplay[lbb !ID SET]:%GREEN%Vidala's Barb%CONTINUE%//
-ItemDisplay[tbt !ID SET]:%GREEN%Vidala's Fetlock%CONTINUE%//
-ItemDisplay[7ma !ID SET]:%GREEN%Dangoon's Teaching %GRAY%nm%CONTINUE%//
-ItemDisplay[xrs !ID SET]:%GREEN%Haemosu's Adament %GRAY%nm%CONTINUE%//
-ItemDisplay[uhm !ID SET]:%GREEN%Ondal's Almighty %GRAY%h%CONTINUE%//
-ItemDisplay[uts !ID SET]:%GREEN%Taebaek's Glory %GRAY%h%CONTINUE%//
-ItemDisplay[umc !ID SET]:%GREEN%Credendum %GRAY%h%CONTINUE%//
-ItemDisplay[uui !ID SET]:%GREEN%Dark Adherent %GRAY%nm%CONTINUE%//
-ItemDisplay[ulg !ID SET]:%GREEN%Laying of Hands %GRAY%nm%CONTINUE%//
-ItemDisplay[xlb !ID SET]:%GREEN%Rite of Passage%CONTINUE%//
-ItemDisplay[9vo !ID SET]:%GREEN%Hwanin's Justice%CONTINUE%//
-ItemDisplay[xcl !ID SET]:%GREEN%Hwanin's Refuge %GRAY%nm%CONTINUE%//
-ItemDisplay[xrn !ID SET]:%GREEN%Hwanin's Splendor %GRAY%nm%CONTINUE%//
-ItemDisplay[stu !ID SET]:%GREEN%Cow King's Hide%CONTINUE%//
-ItemDisplay[xap !ID SET]:%GREEN%Cow King's Horns%CONTINUE%//
-ItemDisplay[ci0 !ID SET]:%GREEN%Naj's Circlet%CONTINUE%//
-ItemDisplay[ult !ID SET]:%GREEN%Naj's Light Plate %GRAY%h%CONTINUE%//
-ItemDisplay[6cs !ID SET]:%GREEN%Naj's Puzzler %GRAY%h%CONTINUE%//
-ItemDisplay[bwn !ID SET]:%GREEN%Sander's Superstition%CONTINUE%//
-ItemDisplay[vgl !ID SET]:%GREEN%Sander's Taboo%CONTINUE%//
-ItemDisplay[7ls !ID SET]:%GREEN%Sazabi's Cobalt Redeemer %GRAY%h%CONTINUE%//
-ItemDisplay[upl !ID SET]:%GREEN%Sazabi's Ghost Liberator %GRAY%h%CONTINUE%//
-ItemDisplay[xhl !ID SET]:%GREEN%Sazabi's Sazabi's Mental Sheath %GRAY%nm%CONTINUE%//
-ItemDisplay[xhm !ID SET]:%GREEN%Guillaume's Face %GRAY%nm%CONTINUE%//
-ItemDisplay[xvg !ID SET]:%GREEN%Magnus's Skin%CONTINUE%//
-ItemDisplay[xml !ID SET]:%GREEN%Whitstan's Guard%CONTINUE%//
-ItemDisplay[ztb !ID SET]:%GREEN%Wilhelm's Pride %GRAY%nm%CONTINUE%//
-ItemDisplay[xtb !ID SET]:%GREEN%Aldur's Advance %GRAY%nm%CONTINUE%//
-ItemDisplay[uul !ID SET]:%GREEN%Aldur's Deception %GRAY%h%CONTINUE%//
-ItemDisplay[9mt !ID SET]:%GREEN%Aldur's Rhythm%CONTINUE%//
-ItemDisplay[dr8 !ID SET]:%GREEN%Aldur's Stony Gaze %GRAY%nm%CONTINUE%//
-ItemDisplay[7gd !ID SET]:%GREEN%Bul-kathos' Sacred Charge %GRAY%h%CONTINUE%//
-ItemDisplay[7fb !ID SET]:%GREEN%Bul-kathos' Tribal Guardian %GRAY%h%CONTINUE%//
-ItemDisplay[xar !ID SET]:%GREEN%Griswold's Heart %GRAY%nm%CONTINUE%//
-ItemDisplay[paf !ID SET]:%GREEN%Griswold's Honor %GRAY%h%CONTINUE%//
-ItemDisplay[7ws !ID SET]:%GREEN%Griswold's Redemption %GRAY%h%CONTINUE%//
-ItemDisplay[urn !ID SET]:%GREEN%Griswold's Valor %GRAY%h%CONTINUE%//
-ItemDisplay[amc !ID SET]:%GREEN%M'avina's Caster %GRAY%h%CONTINUE%//
-ItemDisplay[uld !ID SET]:%GREEN%M'avina's Embrace %GRAY%h%CONTINUE%//
-ItemDisplay[xtg !ID SET]:%GREEN%M'avina's Icy Clutch %GRAY%nm%CONTINUE%//
-ItemDisplay[zvb !ID SET]:%GREEN%M'avina's Tenet%CONTINUE%//
-ItemDisplay[ci3 !ID SET]:%GREEN%M'avina's True Sight %GRAY%h%CONTINUE%//
-ItemDisplay[7qr !ID SET]:%GREEN%Natalya's Mark %GRAY%h%CONTINUE%//
-ItemDisplay[ucl !ID SET]:%GREEN%Natalya's Shadow %GRAY%h%CONTINUE%//
-ItemDisplay[xmb !ID SET]:%GREEN%Natalya's Soul %GRAY%nm%CONTINUE%//
-ItemDisplay[xh9 !ID SET]:%GREEN%Natalya's Totem %GRAY%nm%CONTINUE%//
-ItemDisplay[zmb !ID SET]:%GREEN%Tal Rasha's Fine-Spun Cloth %GRAY%nm%CONTINUE%//
-ItemDisplay[uth !ID SET]:%GREEN%Tal Rasha's Guardianship %GRAY%h%CONTINUE%//
-ItemDisplay[xsk !ID SET]:%GREEN%Tal Rasha's Horadric Crest %GRAY%nm%CONTINUE%//
-ItemDisplay[oba !ID SET]:%GREEN%Tal Rasha's Lidless Eye %GRAY%nm%CONTINUE%//
-ItemDisplay[xmg !ID SET]:%GREEN%Trang-Oul's Claws %GRAY%nm%CONTINUE%//
-ItemDisplay[utc !ID SET]:%GREEN%Trang-Oul's Girth %GRAY%h%CONTINUE%//
-ItemDisplay[uh9 !ID SET]:%GREEN%Trang-Oul's Guise %GRAY%h%CONTINUE%//
-ItemDisplay[xul !ID SET]:%GREEN%Trang-Oul's Scales %GRAY%nm%CONTINUE%//
-ItemDisplay[ne9 !ID SET]:%GREEN%Trang-Oul's Wing %GRAY%nm%CONTINUE%//
-ItemDisplay[zhb !ID SET]:%GREEN%Immortal King's Detail %GRAY%nm%CONTINUE%//
-ItemDisplay[xhg !ID SET]:%GREEN%Immortal King's Forge %GRAY%nm%CONTINUE%//
-ItemDisplay[xhb !ID SET]:%GREEN%Immortal King's Pillar %GRAY%nm%CONTINUE%//
-ItemDisplay[uar !ID SET]:%GREEN%Immortal King's Soul Cage %GRAY%h%CONTINUE%//
-ItemDisplay[7m7 !ID SET]:%GREEN%Immortal King's Stone Crusher %GRAY%h%CONTINUE%//
-ItemDisplay[ba5 !ID SET]:%GREEN%Immortal King's Will%CONTINUE%//
-ItemDisplay[rin !ID UNI]:%GOLD%%NAME%%CONTINUE%//
-ItemDisplay[amu !ID UNI]:%GOLD%%NAME%%CONTINUE%//
-ItemDisplay[cm1 !ID UNI]:%GOLD%ooo Annihilus ooo%CONTINUE%//
-ItemDisplay[cm2 !ID UNI]:%GOLD%ooo Hellfire Torch ooo%CONTINUE%//
-ItemDisplay[cm3 !ID UNI]:%GOLD%Gheed's Fortune oo%CONTINUE%//
-ItemDisplay[jew !ID UNI]:%GOLD%Rainbow Facet %GRAY%h%CONTINUE%//
-ItemDisplay[ci2 !ID UNI]:%GOLD%Kira's Guardian %GRAY%h%CONTINUE%//
-ItemDisplay[ci3 !ID UNI]:%GOLD%Griffon's Eye %GRAY%h%CONTINUE%//
-ItemDisplay[amd !ID UNI]:%GOLD%Stoneraven %GRAY%h%CONTINUE%//
-ItemDisplay[am9 !ID UNI]:%GOLD%Lycander's Flank %GRAY%nm%CONTINUE%//
-ItemDisplay[am7 !ID UNI]:%GOLD%Lycander's Aim %GRAY%nm%CONTINUE%//
-ItemDisplay[ama !ID UNI]:%GOLD%Titan's Revenge %GRAY%nm%CONTINUE%//
-ItemDisplay[amf !ID UNI]:%GOLD%Thunderstroke %GRAY%h%CONTINUE%//
-ItemDisplay[amb !ID UNI]:%GOLD%Blood Raven's Charge %GRAY%h%CONTINUE%//
-ItemDisplay[am5 !ID UNI]:%GOLD%True Silver %GRAY%s3%CONTINUE%//
-ItemDisplay[7cs !ID UNI]:%GOLD%Shadow Killer %GRAY%h%CONTINUE%//
-ItemDisplay[9tw !ID UNI]:%GOLD%Bartuc's Cut-Throat %GRAY%nm%CONTINUE%//
-ItemDisplay[7wb !ID UNI]:%GOLD%Jade Talon %GRAY%h%CONTINUE%//
-ItemDisplay[7lw !ID UNI]:%GOLD%Firelizard's Talons %GRAY%h%CONTINUE%//
-ItemDisplay[9ar !ID UNI]:%GOLD%Mage Slayer %GRAY%s3%CONTINUE%//
-ItemDisplay[nea !ID UNI]:%GOLD%Homunculus %GRAY%nm%CONTINUE%//
-ItemDisplay[nef !ID UNI]:%GOLD%Darkforce Spawn %GRAY%h%CONTINUE%//
-ItemDisplay[nee !ID UNI]:%GOLD%Boneflame %GRAY%h%CONTINUE%//
-ItemDisplay[ne6 !ID UNI]:%GOLD%Kalan's Legacy %GRAY%s3%CONTINUE%//
-ItemDisplay[baa !ID UNI]:%GOLD%Arreat's Face %GRAY%nm%CONTINUE%//
-ItemDisplay[bac !ID UNI]:%GOLD%Wolfhowl %GRAY%h%CONTINUE%//
-ItemDisplay[bad !ID UNI]:%GOLD%Demonhorn's Edge %GRAY%h%CONTINUE%//
-ItemDisplay[bae !ID UNI]:%GOLD%Halaberd's Reign %GRAY%h%CONTINUE%//
-ItemDisplay[ba6 !ID UNI]:%GOLD%Cyclopean Roar %GRAY%s3%CONTINUE%//
-ItemDisplay[oba !ID UNI]:%GOLD%The Oculus %GRAY%nm%CONTINUE%//
-ItemDisplay[obc !ID UNI]:%GOLD%Eschuta's Temper %GRAY%h%CONTINUE%//
-ItemDisplay[obf !ID UNI]:%GOLD%Death's Fathom %GRAY%h%CONTINUE%//
-ItemDisplay[ob6 !ID UNI]:%GOLD%Tempest %GRAY%s3%CONTINUE%//
-ItemDisplay[dra !ID UNI]:%GOLD%Jalal's Mane %GRAY%nm%CONTINUE%//
-ItemDisplay[drb !ID UNI]:%GOLD%Cerebus' Bite %GRAY%h%CONTINUE%//
-ItemDisplay[dre !ID UNI]:%GOLD%Ravenlore %GRAY%h%CONTINUE%//
-ItemDisplay[drd !ID UNI]:%GOLD%Spirit Keeper %GRAY%h%CONTINUE%//
-ItemDisplay[dr2 !ID UNI]:%GOLD%Quetzalcoatl %GRAY%s3%CONTINUE%//
-ItemDisplay[pac !ID UNI]:%GOLD%Alma Negra %GRAY%h%CONTINUE%//
-ItemDisplay[pa9 !ID UNI]:%GOLD%Herald of Zakarum %GRAY%nm%CONTINUE%//
-ItemDisplay[pae !ID UNI]:%GOLD%Dragonscale %GRAY%h%CONTINUE%//
-ItemDisplay[pa3 !ID UNI]:%GOLD%Sankekur's Fall %GRAY%s3%CONTINUE%//
-ItemDisplay[cap !ID UNI]:%GOLD%Biggin's Bonnet%CONTINUE%//
-ItemDisplay[skp !ID UNI]:%GOLD%Tarnhelm%CONTINUE%//
-ItemDisplay[hlm !ID UNI]:%GOLD%Coif of Glory%CONTINUE%//
-ItemDisplay[fhl !ID UNI]:%GOLD%Duskdeep%CONTINUE%//
-ItemDisplay[ghm !ID UNI]:%GOLD%Howltusk%CONTINUE%//
-ItemDisplay[msk !ID UNI]:%GOLD%The Face of Horror%CONTINUE%//
-ItemDisplay[crn !ID UNI]:%GOLD%Undead Crown%CONTINUE%//
-ItemDisplay[bhm !ID UNI]:%GOLD%Wormskull%CONTINUE%//
-ItemDisplay[qui !ID UNI]:%GOLD%Greyform%CONTINUE%//
-ItemDisplay[lea !ID UNI]:%GOLD%Blinkbat's Form%CONTINUE%//
-ItemDisplay[hla !ID UNI]:%GOLD%The Centurion%CONTINUE%//
-ItemDisplay[stu !ID UNI]:%GOLD%Twitchthroe%CONTINUE%//
-ItemDisplay[rng !ID UNI]:%GOLD%Darkglow%CONTINUE%//
-ItemDisplay[scl !ID UNI]:%GOLD%Hawkmail%CONTINUE%//
-ItemDisplay[brs !ID UNI]:%GOLD%Venom Ward%CONTINUE%//
-ItemDisplay[chn !ID UNI]:%GOLD%Sparking Mail%CONTINUE%//
-ItemDisplay[spl !ID UNI]:%GOLD%Iceblink%CONTINUE%//
-ItemDisplay[ltp !ID UNI]:%GOLD%Heavenly Garb%CONTINUE%//
-ItemDisplay[fld !ID UNI]:%GOLD%Rockfleece%CONTINUE%//
-ItemDisplay[plt !ID UNI]:%GOLD%Boneflesh%CONTINUE%//
-ItemDisplay[gth !ID UNI]:%GOLD%Rattlecage%CONTINUE%//
-ItemDisplay[ful !ID UNI]:%GOLD%Goldskin%CONTINUE%//
-ItemDisplay[aar !ID UNI]:%GOLD%Silks of the Victor %GRAY%nm%CONTINUE%//
-ItemDisplay[buc !ID UNI]:%GOLD%Pelta Lunata%CONTINUE%//
-ItemDisplay[sml !ID UNI]:%GOLD%Umbral Disk%CONTINUE%//
-ItemDisplay[lrg !ID UNI]:%GOLD%Stormguild%CONTINUE%//
-ItemDisplay[kit !ID UNI]:%GOLD%Steelclash%CONTINUE%//
-ItemDisplay[spk !ID UNI]:%GOLD%Swordback Hold%CONTINUE%//
-ItemDisplay[tow !ID UNI]:%GOLD%Bverrit Keep%CONTINUE%//
-ItemDisplay[bsh !ID UNI]:%GOLD%Wall of the Eyeless%CONTINUE%//
-ItemDisplay[gts !ID UNI]:%GOLD%The Ward%CONTINUE%//
-ItemDisplay[lgl !ID UNI]:%GOLD%The Hand of Broc%CONTINUE%//
-ItemDisplay[vgl !ID UNI]:%GOLD%Bloodfist%CONTINUE%//
-ItemDisplay[mgl !ID UNI]:%GOLD%Chance Guards%CONTINUE%//
-ItemDisplay[tgl !ID UNI]:%GOLD%Magefist%CONTINUE%//
-ItemDisplay[hgl !ID UNI]:%GOLD%Frostburn%CONTINUE%//
-ItemDisplay[lbt !ID UNI]:%GOLD%Hotspur%CONTINUE%//
-ItemDisplay[vbt !ID UNI]:%GOLD%Gorefoot%CONTINUE%//
-ItemDisplay[mbt !ID UNI]:%GOLD%Treads of Cthon%CONTINUE%//
-ItemDisplay[tbt !ID UNI]:%GOLD%Goblin Toe%CONTINUE%//
-ItemDisplay[hbt !ID UNI]:%GOLD%Tearhaunch%CONTINUE%//
-ItemDisplay[lbl !ID UNI]:%GOLD%Lenymo%CONTINUE%//
-ItemDisplay[vbl !ID UNI]:%GOLD%Snakecord%CONTINUE%//
-ItemDisplay[mbl !ID UNI]:%GOLD%Nightsmoke%CONTINUE%//
-ItemDisplay[tbl !ID UNI]:%GOLD%Goldwrap%CONTINUE%//
-ItemDisplay[hbl !ID UNI]:%GOLD%Bladebuckle%CONTINUE%//
-ItemDisplay[hax !ID UNI]:%GOLD%The Gnasher%CONTINUE%//
-ItemDisplay[axe !ID UNI]:%GOLD%Deathspade%CONTINUE%//
-ItemDisplay[2ax !ID UNI]:%GOLD%Bladebone%CONTINUE%//
-ItemDisplay[mpi !ID UNI]:%GOLD%Skull Splitter%CONTINUE%//
-ItemDisplay[wax !ID UNI]:%GOLD%Rakescar%CONTINUE%//
-ItemDisplay[lax !ID UNI]:%GOLD%Axe of Fechmar%CONTINUE%//
-ItemDisplay[bax !ID UNI]:%GOLD%Goreshovel%CONTINUE%//
-ItemDisplay[btx !ID UNI]:%GOLD%The Chieftain%CONTINUE%//
-ItemDisplay[gax !ID UNI]:%GOLD%Brainhew%CONTINUE%//
-ItemDisplay[gix !ID UNI]:%GOLD%Humongous%CONTINUE%//
-ItemDisplay[sbw !ID UNI]:%GOLD%Pluckeye%CONTINUE%//
-ItemDisplay[hbw !ID UNI]:%GOLD%Witherstring%CONTINUE%//
-ItemDisplay[lbw !ID UNI]:%GOLD%Raven Claw%CONTINUE%//
-ItemDisplay[cbw !ID UNI]:%GOLD%Rogue's Bow%CONTINUE%//
-ItemDisplay[sbb !ID UNI]:%GOLD%Stormstrike%CONTINUE%//
-ItemDisplay[lbb !ID UNI]:%GOLD%Wizendraw%CONTINUE%//
-ItemDisplay[swb !ID UNI]:%GOLD%Hellclap%CONTINUE%//
-ItemDisplay[lwb !ID UNI]:%GOLD%Blastbark%CONTINUE%//
-ItemDisplay[lxb !ID UNI]:%GOLD%Leadcrow%CONTINUE%//
-ItemDisplay[mxb !ID UNI]:%GOLD%Ichorsting%CONTINUE%//
-ItemDisplay[hxb !ID UNI]:%GOLD%Hellcast%CONTINUE%//
-ItemDisplay[rxb !ID UNI]:%GOLD%Doomslinger%CONTINUE%//
-ItemDisplay[dgr !ID UNI]:%GOLD%Gull%CONTINUE%//
-ItemDisplay[dir !ID UNI]:%GOLD%The Diggler%CONTINUE%//
-ItemDisplay[kri !ID UNI]:%GOLD%The Jade Tan Do%CONTINUE%//
-ItemDisplay[bld !ID UNI]:%GOLD%Spectral Shard%CONTINUE%//
-ItemDisplay[clb !ID UNI]:%GOLD%Felloak%CONTINUE%//
-ItemDisplay[spc !ID UNI]:%GOLD%Stoutnail%CONTINUE%//
-ItemDisplay[mac !ID UNI]:%GOLD%Crushflange%CONTINUE%//
-ItemDisplay[mst !ID UNI]:%GOLD%Bloodrise%CONTINUE%//
-ItemDisplay[fla !ID UNI]:%GOLD%The General's Tan Do Li Ga%CONTINUE%//
-ItemDisplay[whm !ID UNI]:%GOLD%Ironstone%CONTINUE%//
-ItemDisplay[mau !ID UNI]:%GOLD%Bonesnap%CONTINUE%//
-ItemDisplay[gma !ID UNI]:%GOLD%Steeldriver%CONTINUE%//
-ItemDisplay[bar !ID UNI]:%GOLD%Dimoak's Hew%CONTINUE%//
-ItemDisplay[vou !ID UNI]:%GOLD%Steelgoad%CONTINUE%//
-ItemDisplay[scy !ID UNI]:%GOLD%Soul Harvest%CONTINUE%//
-ItemDisplay[pax !ID UNI]:%GOLD%The Battlebranch%CONTINUE%//
-ItemDisplay[hal !ID UNI]:%GOLD%Woestave%CONTINUE%//
-ItemDisplay[wsc !ID UNI]:%GOLD%The Grim Reaper%CONTINUE%//
-ItemDisplay[scp !ID UNI]:%GOLD%Knell Striker%CONTINUE%//
-ItemDisplay[gsc !ID UNI]:%GOLD%Rusthandle%CONTINUE%//
-ItemDisplay[wsp !ID UNI]:%GOLD%Stormeye%CONTINUE%//
-ItemDisplay[spr !ID UNI]:%GOLD%The Dragon Chang%CONTINUE%//
-ItemDisplay[tri !ID UNI]:%GOLD%Razortine%CONTINUE%//
-ItemDisplay[brn !ID UNI]:%GOLD%Bloodthief%CONTINUE%//
-ItemDisplay[spt !ID UNI]:%GOLD%Lance of Yaggai%CONTINUE%//
-ItemDisplay[pik !ID UNI]:%GOLD%The Tannr Gorerod%CONTINUE%//
-ItemDisplay[sst !ID UNI]:%GOLD%Bane Ash%CONTINUE%//
-ItemDisplay[lst !ID UNI]:%GOLD%Serpent Lord%CONTINUE%//
-ItemDisplay[cst !ID UNI]:%GOLD%Spire of Lazarus%CONTINUE%//
-ItemDisplay[bst !ID UNI]:%GOLD%The Salamander%CONTINUE%//
-ItemDisplay[wst !ID UNI]:%GOLD%The Iron Jang Bong%CONTINUE%//
-ItemDisplay[ssd !ID UNI]:%GOLD%Rixot's Keen%CONTINUE%//
-ItemDisplay[scm !ID UNI]:%GOLD%Blood Crescent%CONTINUE%//
-ItemDisplay[sbr !ID UNI]:%GOLD%Skewer of Krintiz%CONTINUE%//
-ItemDisplay[flc !ID UNI]:%GOLD%Gleamscythe%CONTINUE%//
-ItemDisplay[crs !ID UNI]:%GOLD%Azurewrath%CONTINUE%//
-ItemDisplay[bsd !ID UNI]:%GOLD%Griswold's Edge%CONTINUE%//
-ItemDisplay[lsd !ID UNI]:%GOLD%Hellplague%CONTINUE%//
-ItemDisplay[wsd !ID UNI]:%GOLD%Culwen's Point%CONTINUE%//
-ItemDisplay[2hs !ID UNI]:%GOLD%Shadowfang%CONTINUE%//
-ItemDisplay[clm !ID UNI]:%GOLD%Soulflay%CONTINUE%//
-ItemDisplay[gis !ID UNI]:%GOLD%Kinemil's Awl%CONTINUE%//
-ItemDisplay[bsw !ID UNI]:%GOLD%Blacktongue%CONTINUE%//
-ItemDisplay[flb !ID UNI]:%GOLD%Ripsaw%CONTINUE%//
-ItemDisplay[gsd !ID UNI]:%GOLD%The Patriarch%CONTINUE%//
-ItemDisplay[wnd !ID UNI]:%GOLD%Torch of Iro%CONTINUE%//
-ItemDisplay[ywn !ID UNI]:%GOLD%Maelstrom%CONTINUE%//
-ItemDisplay[bwn !ID UNI]:%GOLD%Gravenspine%CONTINUE%//
-ItemDisplay[gwn !ID UNI]:%GOLD%Ume's Lament%CONTINUE%//
-ItemDisplay[xap !ID UNI]:%GOLD%Peasant Crown%CONTINUE%//
-ItemDisplay[xkp !ID UNI]:%GOLD%Rockstopper%CONTINUE%//
-ItemDisplay[xlm !ID UNI]:%GOLD%Stealskull %GRAY%nm%CONTINUE%//
-ItemDisplay[xhl !ID UNI]:%GOLD%Darksight Helm %GRAY%nm%CONTINUE%//
-ItemDisplay[xhm !ID UNI]:%GOLD%Valkyrie Wing %GRAY%nm%CONTINUE%//
-ItemDisplay[xsk !ID UNI]:%GOLD%Blackhorn's Face %GRAY%nm%CONTINUE%//
-ItemDisplay[xrn !ID UNI]:%GOLD%Crown of Thieves %GRAY%nm%CONTINUE%//
-ItemDisplay[xh9 !ID UNI]:%GOLD%Vampire Gaze %GRAY%nm%CONTINUE%//
-ItemDisplay[xui !ID UNI]:%GOLD%The Spirit Shroud%CONTINUE%//
-ItemDisplay[xea !ID UNI]:%GOLD%Skin of the Vipermagi%CONTINUE%//
-ItemDisplay[xla !ID UNI]:%GOLD%Skin of the Flayed One%CONTINUE%//
-ItemDisplay[xtu !ID UNI]:%GOLD%Iron Pelt %GRAY%nm%CONTINUE%//
-ItemDisplay[xcl !ID UNI]:%GOLD%Crow Caw %GRAY%nm%CONTINUE%//
-ItemDisplay[xng !ID UNI]:%GOLD%Spirit Forge %GRAY%nm%CONTINUE%//
-ItemDisplay[xrs !ID UNI]:%GOLD%Duriel's Shell %GRAY%nm%CONTINUE%//
-ItemDisplay[xhn !ID UNI]:%GOLD%Shaftstop %GRAY%nm%CONTINUE%//
-ItemDisplay[xpl !ID UNI]:%GOLD%Skullder's Ire %GRAY%nm%CONTINUE%//
-ItemDisplay[xtp !ID UNI]:%GOLD%Que-Hegan's Wisdom %GRAY%nm%CONTINUE%//
-ItemDisplay[xld !ID UNI]:%GOLD%Toothrow %GRAY%nm%CONTINUE%//
-ItemDisplay[xlt !ID UNI]:%GOLD%Guardian Angel %GRAY%nm%CONTINUE%//
-ItemDisplay[xth !ID UNI]:%GOLD%Atma's Wail %GRAY%nm%CONTINUE%//
-ItemDisplay[xul !ID UNI]:%GOLD%Black Hades %GRAY%nm%CONTINUE%//
-ItemDisplay[xar !ID UNI]:%GOLD%Corpsemourn %GRAY%nm%CONTINUE%//
-ItemDisplay[xuc !ID UNI]:%GOLD%Visceratuant%CONTINUE%//
-ItemDisplay[xml !ID UNI]:%GOLD%Moser's Blessed Circle%CONTINUE%//
-ItemDisplay[xrg !ID UNI]:%GOLD%Stormchaser %GRAY%nm%CONTINUE%//
-ItemDisplay[xit !ID UNI]:%GOLD%Tiamat's Rebuke %GRAY%nm%CONTINUE%//
-ItemDisplay[xpk !ID UNI]:%GOLD%Lance Guard %GRAY%nm%CONTINUE%//
-ItemDisplay[xow !ID UNI]:%GOLD%Gerke's Sanctuary %GRAY%nm%CONTINUE%//
-ItemDisplay[xsh !ID UNI]:%GOLD%Lidless Wall %GRAY%nm%CONTINUE%//
-ItemDisplay[xts !ID UNI]:%GOLD%Radament's Sphere %GRAY%nm%CONTINUE%//
-ItemDisplay[xlg !ID UNI]:%GOLD%Venom Grip%CONTINUE%//
-ItemDisplay[xvg !ID UNI]:%GOLD%Gravepalm%CONTINUE%//
-ItemDisplay[xmg !ID UNI]:%GOLD%Ghoulhide %GRAY%nm%CONTINUE%//
-ItemDisplay[xtg !ID UNI]:%GOLD%Lava Gout %GRAY%nm%CONTINUE%//
-ItemDisplay[xhg !ID UNI]:%GOLD%Hellmouth %GRAY%nm%CONTINUE%//
-ItemDisplay[xlb !ID UNI]:%GOLD%Infernostride%CONTINUE%//
-ItemDisplay[xvb !ID UNI]:%GOLD%Waterwalk%CONTINUE%//
-ItemDisplay[xmb !ID UNI]:%GOLD%Silkweave %GRAY%nm%CONTINUE%//
-ItemDisplay[xtb !ID UNI]:%GOLD%War Traveler %GRAY%nm%CONTINUE%//
-ItemDisplay[xhb !ID UNI]:%GOLD%Gore Rider %GRAY%nm%CONTINUE%//
-ItemDisplay[zlb !ID UNI]:%GOLD%String of Ears%CONTINUE%//
-ItemDisplay[zvb !ID UNI]:%GOLD%Razortail%CONTINUE%//
-ItemDisplay[zmb !ID UNI]:%GOLD%Gloom's Trap %GRAY%nm%CONTINUE%//
-ItemDisplay[ztb !ID UNI]:%GOLD%Snowclash %GRAY%nm%CONTINUE%//
-ItemDisplay[zhb !ID UNI]:%GOLD%Thundergod's Vigor %GRAY%nm%CONTINUE%//
-ItemDisplay[9ha !ID UNI]:%GOLD%Coldkill %GRAY%nm%CONTINUE%//
-ItemDisplay[9ax !ID UNI]:%GOLD%Butcher's Pupil %GRAY%nm%CONTINUE%//
-ItemDisplay[92a !ID UNI]:%GOLD%Islestrike %GRAY%nm%CONTINUE%//
-ItemDisplay[9mp !ID UNI]:%GOLD%Pompeii's Wrath %GRAY%nm%CONTINUE%//
-ItemDisplay[9wa !ID UNI]:%GOLD%Guardian Naga %GRAY%nm%CONTINUE%//
-ItemDisplay[9la !ID UNI]:%GOLD%Warlord's Trust%CONTINUE%//
-ItemDisplay[9ba !ID UNI]:%GOLD%Spellsteel %GRAY%nm%CONTINUE%//
-ItemDisplay[9bt !ID UNI]:%GOLD%Stormrider %GRAY%nm%CONTINUE%//
-ItemDisplay[9ga !ID UNI]:%GOLD%Boneslayer Blade %GRAY%nm%CONTINUE%//
-ItemDisplay[9gi !ID UNI]:%GOLD%The Minotaur %GRAY%nm%CONTINUE%//
-ItemDisplay[8sb !ID UNI]:%GOLD%Skystrike%CONTINUE%//
-ItemDisplay[8hb !ID UNI]:%GOLD%Riphook%CONTINUE%//
-ItemDisplay[8lb !ID UNI]:%GOLD%Kuko Shakaku%CONTINUE%//
-ItemDisplay[8cb !ID UNI]:%GOLD%Endlesshail%CONTINUE%//
-ItemDisplay[8s8 !ID UNI]:%GOLD%Witchwild String %GRAY%nm%CONTINUE%//
-ItemDisplay[8l8 !ID UNI]:%GOLD%Cliffkiller %GRAY%nm%CONTINUE%//
-ItemDisplay[8sw !ID UNI]:%GOLD%Magewrath %GRAY%nm%CONTINUE%//
-ItemDisplay[8lw !ID UNI]:%GOLD%Goldstrike Arch %GRAY%nm%CONTINUE%//
-ItemDisplay[8lx !ID UNI]:%GOLD%Langer Briser%CONTINUE%//
-ItemDisplay[8mx !ID UNI]:%GOLD%Pus Spitter %GRAY%nm%CONTINUE%//
-ItemDisplay[8hx !ID UNI]:%GOLD%Buriza-Do Kyanon %GRAY%nm%CONTINUE%//
-ItemDisplay[8rx !ID UNI]:%GOLD%Demon Machine %GRAY%nm%CONTINUE%//
-ItemDisplay[9dg !ID UNI]:%GOLD%Spineripper%CONTINUE%//
-ItemDisplay[9di !ID UNI]:%GOLD%Heart Carver %GRAY%nm%CONTINUE%//
-ItemDisplay[9kr !ID UNI]:%GOLD%Blackbog's Sharp %GRAY%nm%CONTINUE%//
-ItemDisplay[9bl !ID UNI]:%GOLD%Stormspike %GRAY%nm%CONTINUE%//
-ItemDisplay[9cl !ID UNI]:%GOLD%Dark Clan Crusher%CONTINUE%//
-ItemDisplay[9sp !ID UNI]:%GOLD%Fleshrender %GRAY%nm%CONTINUE%//
-ItemDisplay[9ma !ID UNI]:%GOLD%Sureshrill Frost %GRAY%nm%CONTINUE%//
-ItemDisplay[9mt !ID UNI]:%GOLD%Moonfall %GRAY%nm%CONTINUE%//
-ItemDisplay[9fl !ID UNI]:%GOLD%Baezil's Vortex %GRAY%nm%CONTINUE%//
-ItemDisplay[9wh !ID UNI]:%GOLD%Earthshaker %GRAY%nm%CONTINUE%//
-ItemDisplay[9m9 !ID UNI]:%GOLD%Bloodtree Stump %GRAY%nm%CONTINUE%//
-ItemDisplay[9gm !ID UNI]:%GOLD%The Gavel Of Pain %GRAY%nm%CONTINUE%//
-ItemDisplay[9b7 !ID UNI]:%GOLD%The Meat Scraper %GRAY%nm%CONTINUE%//
-ItemDisplay[9vo !ID UNI]:%GOLD%Blackleach Blade %GRAY%nm%CONTINUE%//
-ItemDisplay[9s8 !ID UNI]:%GOLD%Athena's Wrath %GRAY%nm%CONTINUE%//
-ItemDisplay[9pa !ID UNI]:%GOLD%Pierre Tombale Couant %GRAY%nm%CONTINUE%//
-ItemDisplay[9h9 !ID UNI]:%GOLD%Husoldal Evo %GRAY%nm%CONTINUE%//
-ItemDisplay[9wc !ID UNI]:%GOLD%Grim's Burning Dead %GRAY%nm%CONTINUE%//
-ItemDisplay[9sc !ID UNI]:%GOLD%Zakarum's Hand %GRAY%nm%CONTINUE%//
-ItemDisplay[9qs !ID UNI]:%GOLD%The Fetid Sprinkler %GRAY%nm%CONTINUE%//
-ItemDisplay[9ws !ID UNI]:%GOLD%Hand of Blessed Light %GRAY%nm%CONTINUE%//
-ItemDisplay[9sr !ID UNI]:%GOLD%The Impaler%CONTINUE%//
-ItemDisplay[9tr !ID UNI]:%GOLD%Kelpie Snare%CONTINUE%//
-ItemDisplay[9br !ID UNI]:%GOLD%Soulfeast Tine %GRAY%nm%CONTINUE%//
-ItemDisplay[9st !ID UNI]:%GOLD%Hone Sundan %GRAY%nm%CONTINUE%//
-ItemDisplay[9p9 !ID UNI]:%GOLD%Spire of Honor %GRAY%nm%CONTINUE%//
-ItemDisplay[8ss !ID UNI]:%GOLD%Razorswitch%CONTINUE%//
-ItemDisplay[8ls !ID UNI]:%GOLD%Ribcracker%CONTINUE%//
-ItemDisplay[8cs !ID UNI]:%GOLD%Chromatic Ire%CONTINUE%//
-ItemDisplay[8bs !ID UNI]:%GOLD%Warpspear %GRAY%nm%CONTINUE%//
-ItemDisplay[8ws !ID UNI]:%GOLD%Skull Collector %GRAY%nm%CONTINUE%//
-ItemDisplay[9ss !ID UNI]:%GOLD%Bloodletter%CONTINUE%//
-ItemDisplay[9sm !ID UNI]:%GOLD%Coldsteel Eye %GRAY%nm%CONTINUE%//
-ItemDisplay[9sb !ID UNI]:%GOLD%Hexfire%CONTINUE%//
-ItemDisplay[9fc !ID UNI]:%GOLD%Blade of Ali Baba%CONTINUE%//
-ItemDisplay[9cr !ID UNI]:%GOLD%Ginther's Rift%CONTINUE%//
-ItemDisplay[9bs !ID UNI]:%GOLD%Headstriker %GRAY%nm%CONTINUE%//
-ItemDisplay[9ls !ID UNI]:%GOLD%Plague Bearer %GRAY%nm%CONTINUE%//
-ItemDisplay[9wd !ID UNI]:%GOLD%The Atlantean %GRAY%nm%CONTINUE%//
-ItemDisplay[92h !ID UNI]:%GOLD%Crainte Vomir %GRAY%nm%CONTINUE%//
-ItemDisplay[9cm !ID UNI]:%GOLD%Bing Sz Wang %GRAY%nm%CONTINUE%//
-ItemDisplay[9gs !ID UNI]:%GOLD%The Vile Husk %GRAY%nm%CONTINUE%//
-ItemDisplay[9b9 !ID UNI]:%GOLD%Cloudcrack %GRAY%nm%CONTINUE%//
-ItemDisplay[9fb !ID UNI]:%GOLD%Todesfaelle Flamme %GRAY%nm%CONTINUE%//
-ItemDisplay[9gd !ID UNI]:%GOLD%Swordguard %GRAY%nm%CONTINUE%//
-ItemDisplay[9tk !ID UNI]:%GOLD%Deathbit %GRAY%nm%CONTINUE%//
-ItemDisplay[9ta !ID UNI]:%GOLD%The Scalper %GRAY%nm%CONTINUE%//
-ItemDisplay[9wn !ID UNI]:%GOLD%Suicide Branch%CONTINUE%//
-ItemDisplay[9yw !ID UNI]:%GOLD%Carin Shard%CONTINUE%//
-ItemDisplay[9bw !ID UNI]:%GOLD%Arm of King Leoric %GRAY%nm%CONTINUE%//
-ItemDisplay[9gw !ID UNI]:%GOLD%Blackhand Key %GRAY%nm%CONTINUE%//
-ItemDisplay[uap !ID UNI]:%GOLD%Harlequin Crest %GRAY%h%CONTINUE%//
-ItemDisplay[ulm !ID UNI]:%GOLD%Steel Shade %GRAY%h%CONTINUE%//
-ItemDisplay[uhm !ID UNI]:%GOLD%Veil of Steel %GRAY%h / %GOLD%Nightwing's Veil %GRAY%h%CONTINUE%//
-ItemDisplay[usk !ID UNI]:%GOLD%Andariel's Visage %GRAY%h%CONTINUE%//
-ItemDisplay[urn !ID UNI]:%GOLD%Crown of Ages %GRAY%h+%CONTINUE%//
-ItemDisplay[uh9 !ID UNI]:%GOLD%Giant Skull %GRAY%h%CONTINUE%//
-ItemDisplay[uui !ID UNI]:%GOLD%Ormus' Robes %GRAY%h%CONTINUE%//
-ItemDisplay[utu !ID UNI]:%GOLD%The Gladiator's Bane %GRAY%h%CONTINUE%//
-ItemDisplay[upl !ID UNI]:%GOLD%Arkaine's Valor %GRAY%h%CONTINUE%//
-ItemDisplay[uld !ID UNI]:%GOLD%Leviathan %GRAY%h%CONTINUE%//
-ItemDisplay[uul !ID UNI]:%GOLD%Steel Carapace %GRAY%h%CONTINUE%//
-ItemDisplay[uar !ID UNI]:%GOLD%Templar's Might %GRAY%h / %GOLD%Tyrael's Might %GRAY%h+%CONTINUE%//
-ItemDisplay[uhn !ID UNI]:%GOLD%Cage of the Unsullied %GRAY%h%CONTINUE%//
-ItemDisplay[uml !ID UNI]:%GOLD%Blackoak Shield %GRAY%h%CONTINUE%//
-ItemDisplay[uit !ID UNI]:%GOLD%Stormshield %GRAY%h%CONTINUE%//
-ItemDisplay[upk !ID UNI]:%GOLD%Spike Thorn %GRAY%h%CONTINUE%//
-ItemDisplay[uow !ID UNI]:%GOLD%Medusa's Gaze %GRAY%h%CONTINUE%//
-ItemDisplay[ush !ID UNI]:%GOLD%Head Hunter's Glory %GRAY%h%CONTINUE%//
-ItemDisplay[uts !ID UNI]:%GOLD%Spirit Ward %GRAY%h%CONTINUE%//
-ItemDisplay[uvg !ID UNI]:%GOLD%Dracul's Grasp %GRAY%h%CONTINUE%//
-ItemDisplay[umg !ID UNI]:%GOLD%Soul Drainer %GRAY%h%CONTINUE%//
-ItemDisplay[uhg !ID UNI]:%GOLD%Steelrend %GRAY%h%CONTINUE%//
-ItemDisplay[uvb !ID UNI]:%GOLD%Sandstorm Trek %GRAY%h%CONTINUE%//
-ItemDisplay[umb !ID UNI]:%GOLD%Marrowwalk %GRAY%h%CONTINUE%//
-ItemDisplay[uhb !ID UNI]:%GOLD%Shadow Dancer %GRAY%h%CONTINUE%//
-ItemDisplay[ulc !ID UNI]:%GOLD%Arachnid Mesh %GRAY%h+%CONTINUE%//
-ItemDisplay[uvc !ID UNI]:%GOLD%Nosferatu's Coil %GRAY%h%CONTINUE%//
-ItemDisplay[umc !ID UNI]:%GOLD%Verdungo's Hearty Cord %GRAY%h%CONTINUE%//
-ItemDisplay[utc !ID UNI]:%GOLD%Band of Skulls %GRAY%h%CONTINUE%//
-ItemDisplay[7ha !ID UNI]:%GOLD%Razor's Edge %GRAY%h%CONTINUE%//
-ItemDisplay[72a !ID UNI]:%GOLD%Rune Master %GRAY%h%CONTINUE%//
-ItemDisplay[7mp !ID UNI]:%GOLD%Cranebeak %GRAY%h%CONTINUE%//
-ItemDisplay[7wa !ID UNI]:%GOLD%Death Cleaver %GRAY%h%CONTINUE%//
-ItemDisplay[7ba !ID UNI]:%GOLD%Ethereal Edge %GRAY%h%CONTINUE%//
-ItemDisplay[7bt !ID UNI]:%GOLD%Hellslayer %GRAY%h%CONTINUE%//
-ItemDisplay[7ga !ID UNI]:%GOLD%Messerschmidt's Reaver %GRAY%h%CONTINUE%//
-ItemDisplay[7gi !ID UNI]:%GOLD%Executioner's Justice %GRAY%h%CONTINUE%//
-ItemDisplay[6l7 !ID UNI]:%GOLD%Eaglehorn %GRAY%h%CONTINUE%//
-ItemDisplay[6sw !ID UNI]:%GOLD%Widowmaker %GRAY%h%CONTINUE%//
-ItemDisplay[6lw !ID UNI]:%GOLD%Windforce %GRAY%h%CONTINUE%//
-ItemDisplay[6hx !ID UNI]:%GOLD%Hellrack %GRAY%h%CONTINUE%//
-ItemDisplay[6rx !ID UNI]:%GOLD%Gut Siphon %GRAY%h%CONTINUE%//
-ItemDisplay[7dg !ID UNI]:%GOLD%Wizardspike %GRAY%h%CONTINUE%//
-ItemDisplay[7kr !ID UNI]:%GOLD%Fleshripper %GRAY%h%CONTINUE%//
-ItemDisplay[7bl !ID UNI]:%GOLD%Ghostflame %GRAY%h%CONTINUE%//
-ItemDisplay[7s7 !ID UNI]:%GOLD%Demon's Arch %GRAY%h%CONTINUE%//
-ItemDisplay[7gl !ID UNI]:%GOLD%Wraith Flight %GRAY%h%CONTINUE%//
-ItemDisplay[7ts !ID UNI]:%GOLD%Gargoyle's Bite %GRAY%h%CONTINUE%//
-ItemDisplay[7cl !ID UNI]:%GOLD%Nord's Tenderizer %GRAY%h%CONTINUE%//
-ItemDisplay[7sp !ID UNI]:%GOLD%Demon Limb %GRAY%h%CONTINUE%//
-ItemDisplay[7mt !ID UNI]:%GOLD%Baranar's Star %GRAY%h%CONTINUE%//
-ItemDisplay[7fl !ID UNI]:%GOLD%Horizon's Tornado %GRAY%h / %GOLD%Stormlash %GRAY%h+%CONTINUE%//
-ItemDisplay[7wh !ID UNI]:%GOLD%Stone Crusher %GRAY%h / %GOLD%Schaefer's Hammer %GRAY%h%CONTINUE%//
-ItemDisplay[7m7 !ID UNI]:%GOLD%Windhammer %GRAY%h%CONTINUE%//
-ItemDisplay[7gm !ID UNI]:%GOLD%Earth Shifter %GRAY%h / %GOLD%The Cranium Basher %GRAY%h%CONTINUE%//
-ItemDisplay[7o7 !ID UNI]:%GOLD%Bonehew %GRAY%h%CONTINUE%//
-ItemDisplay[7s8 !ID UNI]:%GOLD%The Reaper's Toll %GRAY%h%CONTINUE%//
-ItemDisplay[7pa !ID UNI]:%GOLD%Tomb Reaver %GRAY%h+%CONTINUE%//
-ItemDisplay[7wc !ID UNI]:%GOLD%Stormspire %GRAY%h%CONTINUE%//
-ItemDisplay[7sc !ID UNI]:%GOLD%Heaven's Light %GRAY%h / %GOLD%The Redeemer %GRAY%h%CONTINUE%//
-ItemDisplay[7ws !ID UNI]:%GOLD%Astreon's Iron Ward %GRAY%h%CONTINUE%//
-ItemDisplay[7sr !ID UNI]:%GOLD%Arioc's Needle %GRAY%h%CONTINUE%//
-ItemDisplay[7br !ID UNI]:%GOLD%Viperfork %GRAY%h%CONTINUE%//
-ItemDisplay[7p7 !ID UNI]:%GOLD%Steel Pillar %GRAY%h%CONTINUE%//
-ItemDisplay[6cs !ID UNI]:%GOLD%Ondal's Wisdom %GRAY%h%CONTINUE%//
-ItemDisplay[6ws !ID UNI]:%GOLD%Mang Song's Lesson %GRAY%h+%CONTINUE%//
-ItemDisplay[7sm !ID UNI]:%GOLD%Djinn Slayer %GRAY%h%CONTINUE%//
-ItemDisplay[7sb !ID UNI]:%GOLD%Bloodmoon %GRAY%h%CONTINUE%//
-ItemDisplay[7cr !ID UNI]:%GOLD%Lightsabre %GRAY%h / %GOLD%Azurewrath %GRAY%h+%CONTINUE%//
-ItemDisplay[7ls !ID UNI]:%GOLD%Frostwind %GRAY%h%CONTINUE%//
-ItemDisplay[7gs !ID UNI]:%GOLD%Flamebellow %GRAY%h%CONTINUE%//
-ItemDisplay[7b7 !ID UNI]:%GOLD%Doombringer %GRAY%h%CONTINUE%//
-ItemDisplay[7gd !ID UNI]:%GOLD%The Grandfather %GRAY%h%CONTINUE%//
-ItemDisplay[7bk !ID UNI]:%GOLD%Warshrike %GRAY%h%CONTINUE%//
-ItemDisplay[7ta !ID UNI]:%GOLD%Gimmershred %GRAY%h%CONTINUE%//
-ItemDisplay[7b8 !ID UNI]:%GOLD%Lacerator %GRAY%h%CONTINUE%//
-ItemDisplay[7bw !ID UNI]:%GOLD%Boneshade %GRAY%h%CONTINUE%//
-ItemDisplay[7gw !ID UNI]:%GOLD%Death's Web %%GRAY%h%CONTINUE%//
 ItemDisplay[leg]:%NAME%{%NAME%}//
 ItemDisplay[box]:%NAME%{%NAME%}//
 ItemDisplay[pk1]:%BORDER-60%%NAME%{%NAME%}//
@@ -5921,6 +5912,7 @@ ItemDisplay[rtp]:%BORDER-9B%%NAME%{%NAME%}//
 ItemDisplay[RUNE<15]:%DOT-60%%NAME%{%NAME%}//
 ItemDisplay[RUNE>14 RUNE<25]:%MAP-0A%%NAME%{%NAME%}//
 ItemDisplay[RUNE>24]:%BORDER-9B%%NAME%{%NAME%}//
+ItemDisplay[jewf]:%DOT-60%%NAME%{%NAME%}//
 ItemDisplay[(gpv OR gpvs)]:%DOT-0A%%NAME%{%NAME%}//
 ItemDisplay[(gpy OR gpys)]:%DOT-0A%%NAME%{%NAME%}//
 ItemDisplay[(gpb OR gpbs)]:%DOT-0A%%NAME%{%NAME%}//
@@ -5936,7 +5928,7 @@ ItemDisplay[(glr OR glrs)]:%MAP-60%%NAME%{%NAME%}//
 ItemDisplay[(glw OR glws)]:%MAP-60%%NAME%{%NAME%}//
 ItemDisplay[(skl OR skls)]:%MAP-60%%NAME%{%NAME%}//
 ItemDisplay[RW]:%NAME%{%NAME%}//
-ItemDisplay[UNI ETH !ID]:%GRAY%[Eth] %NAME%{%NAME%}//
+ItemDisplay[UNI ETH !ID]:%NAME%{%NAME%}//
 //TC90  7ws OR 7gi OR 7bl OR 7wd OR obf OR 6ws OR 7wc OR 7p7
 ItemDisplay[UNI !ID (7ws OR 7gi OR 7bl OR 7wd OR obf OR 6ws OR 7wc OR 7p7                                                        )]:%DOT-0D%%PURPLE%ooooo %NAME% %PURPLE%ooooo%GOLD%{%NAME%}//
 //TC87  7qr OR 7wa OR 7gm OR 7gd OR 7ts OR 6lw OR 7gw

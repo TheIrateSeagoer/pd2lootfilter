@@ -94,6 +94,13 @@ Write-Host -NoNewline "Default ... "
 Write-Host "Done"
 ################################################################################
 
+################################################################################
+Write-Host -NoNewline "Season 3 ... "
+################################################################################
+.\pd2season3.ps1
+################################################################################
+Write-Host "Done"
+################################################################################
 
 ################################################################################
 Write-Host -NoNewline "Maps ... "
@@ -101,7 +108,7 @@ Write-Host -NoNewline "Maps ... "
 
 $outputPath = '.\obj\catchall.maps.filter'
 $inputPath = '.\obj\catchall.default.filter'
-(Get-Content -Path $inputPath).replace("CLVL>94","CLVL>1").replace("CLVL>89","CLVL>1").replace("CLVL>80","CLVL>1").replace("CLVL>79","CLVL>1").replace("CLVL>69","CLVL>1").replace("CLVL>49","CLVL>1").replace("CLVL>29","CLVL>1").replace("CLVL>19","CLVL>1").replace("CLVL>9","CLVL>1").replace("CLVL>4","CLVL>1") | Set-Content -Path $outputPath 
+(Get-Content -Path $inputPath).replace("CLVL>94","CLVL>1").replace("CLVL>89","CLVL>1").replace("CLVL>80","CLVL>1").replace("CLVL>79","CLVL>1").replace("CLVL>69","CLVL>1").replace("CLVL>49","CLVL>1").replace("CLVL>29","CLVL>1").replace("CLVL>19","CLVL>1").replace("CLVL>14","CLVL>1").replace("CLVL>9","CLVL>1").replace("CLVL>4","CLVL>1") | Set-Content -Path $outputPath 
 
 .\pd2maps.ps1
 
@@ -121,18 +128,17 @@ Write-Host "Done"
 Write-Host -NoNewline "Personal ... "
 ################################################################################
 
-Get-Content '.\obj\quest.lod.filter', '.\obj\quest.pd2.filter', 
-'.\obj\common.lod.filter', '.\obj\common.pd2.filter', 
+Get-Content '.\obj\1.quest.lod.filter', '.\obj\1.quest.pd2.filter', 
+'.\obj\1.common.lod.filter', '.\obj\1.common.pd2.filter', 
+'.\obj\1.bases.filter', '.\obj\1.bases.larzuk.filter', 
+'.\obj\1.set.shared.filter', '.\obj\1.set.normal.filter', '.\obj\1.set.exceptional.filter', '.\obj\1.set.elite.filter', 
+'.\obj\1.unique.shared.filter', '.\obj\1.unique.normal.filter', '.\obj\1.unique.exceptional.filter', '.\obj\1.unique.elite.filter', 
 '.\obj\item.prefix.filter',
 '.\obj\item.suffix.filter', 
 '.\obj\item.shopping.charms.filter', '.\obj\item.shopping.jewels.filter', '.\obj\item.shopping.filter', 
 '.\obj\item.colorfix.filter', 
-'.\obj\bases.filter', '.\obj\bases.larzuk.filter', 
-'.\obj\item.colorfix.filter', 
 '.\obj\item.description.filter', 
 '.\obj\arreat.normal.filter', '.\obj\arreat.exceptional.filter', '.\obj\arreat.elite.filter', 
-'.\obj\set.shared.filter', '.\obj\set.normal.filter', '.\obj\set.exceptional.filter', '.\obj\set.elite.filter', 
-'.\obj\unique.shared.filter', '.\obj\unique.normal.filter', '.\obj\unique.exceptional.filter', '.\obj\unique.elite.filter', 
 '.\obj\personal.filter',
 #'.\obj\item.treasureclass.filter', 
 '.\obj\catchall.filter', '.\obj\catchall.default.filter' | Set-Content '.\bin\personal.filter'

@@ -66,6 +66,8 @@ ItemDisplay[RUNE<15]:%DOT-60%%NAME%{%NAME%}//
 ItemDisplay[RUNE>14 RUNE<25]:%MAP-0A%%NAME%{%NAME%}//
 ItemDisplay[RUNE>24]:%BORDER-9B%%NAME%{%NAME%}//
 
+ItemDisplay[jewf]:%DOT-60%%NAME%{%NAME%}//
+
 ItemDisplay[(gpv OR gpvs)]:%DOT-0A%%NAME%{%NAME%}//
 ItemDisplay[(gpy OR gpys)]:%DOT-0A%%NAME%{%NAME%}//
 ItemDisplay[(gpb OR gpbs)]:%DOT-0A%%NAME%{%NAME%}//
@@ -88,7 +90,7 @@ ItemDisplay[RW]:%NAME%{%NAME%}//
 
 ///// High Value
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[UNI ETH !ID]:%GRAY%[Eth] %NAME%{%NAME%}//
+ItemDisplay[UNI ETH !ID]:%NAME%{%NAME%}//
 
 ///// Weapons
 ////////////////////////////////////////////////////////////////////////////////
@@ -262,7 +264,6 @@ ItemDisplay[UNI !ID (sml OR hla OR skp                                          
 //TC3   cap OR qui OR buc OR lea OR lgl OR lbt OR lbl
 ItemDisplay[UNI !ID (lbt                                                                      )]:%DOT-0D%%ORANGE%o %NAME% %ORANGE%o%GOLD%{%NAME%}//
 ItemDisplay[UNI !ID (buc OR qui OR lea OR cap OR lgl OR lbl                                   )]:%NAME%{%NAME%}//
-
 
 
 

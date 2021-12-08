@@ -1,5 +1,16 @@
+// ItemDisplay[GEMMED]:GEMMED %NAME% %CONTINUE%
+// ItemDisplay[!GEMMED]:NOT GEMMED %NAME% %CONTINUE%
+
+// ItemDisplay[1H]:1G %NAME% %CONTINUE%
+// ItemDisplay[!1H]:NOT 1H %NAME% %CONTINUE%
+
+// ItemDisplay[hp4 CLVL>49]:#HIDE//
+// ItemDisplay[mp4 CLVL>49]:#HIDE//
+// ItemDisplay[cqv MAG CLVL>49]:#HIDE//
+// ItemDisplay[aqv MAG CLVL>49]:#HIDE//
+
 // ItemDisplay[NMAG cqv]:#HIDE//
-// ItemDisplay[NMAG aqv]:#HIDE//
+// ItemDisplay[NMAG ]:#HIDE//
 // ItemDisplay[NMAG ARMOR SOCK=1]:#HIDE//
 // ItemDisplay[NMAG ARMOR SOCK=0]:#HIDE//
 // ItemDisplay[NMAG WEAPON SOCK=1]:#HIDE//

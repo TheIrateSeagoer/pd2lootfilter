@@ -1270,66 +1270,6 @@ ItemDisplay[!ETH !SUP SOCK>0 UNI     ]:%GRAY%%SOCKETS%os %GOLD%%NAME%%CONTINUE%/
 ItemDisplay[!ETH !SUP SOCK>0 SET     ]:%GRAY%%SOCKETS%os %GREEN%%NAME%%CONTINUE%//
 ItemDisplay[!ETH !SUP SOCK>0 CRAFT   ]:%GRAY%%SOCKETS%os %ORANGE%%NAME%%CONTINUE%//
 ItemDisplay[INF]:%WHITE%[Inf] %NAME%%CONTINUE%//
-ItemDisplay[7ws OR 7gi OR 7bl OR 7wd OR obf OR 6ws OR 7wc OR 7p7                                                        ]:[TC90] %NAME%%CONTINUE%//
-ItemDisplay[7qr OR 7wa OR 7gm OR 7gd OR 7ts OR 6lw OR 7gw                                                               ]:[TC87] %NAME%%CONTINUE%//
-ItemDisplay[7ga OR 7wh OR 7ls OR 7kr OR 7st OR 6bs OR 7h7 OR 6rx OR obe                                                 ]:[TC84] %NAME%%CONTINUE%//
-ItemDisplay[7mp OR 7gl OR 7pa OR 7fb OR 7b8 OR 6sw OR 7tw OR ame                                                        ]:[TC81] %NAME%%CONTINUE%//
-ItemDisplay[7qs OR 7fl OR 7b7 OR 7bk OR 6l7 OR 7lw OR 7bs OR amc                                                        ]:[TC78] %NAME%%CONTINUE%//
-ItemDisplay[7cs OR 7bt OR 7cr OR 7br OR 6cs OR 7bw OR 6hx OR obd                                                        ]:[TC75] %NAME%%CONTINUE%//
-ItemDisplay[72a OR 7mt OR 7di OR 7gs OR 7s7 OR 7s8 OR 6s7                                                               ]:[TC72] %NAME%%CONTINUE%//
-ItemDisplay[6mx OR obc OR 7xf OR 6cb OR 7m7 OR 7fc                                                                      ]:[TC69] %NAME%%CONTINUE%//
-ItemDisplay[7tk OR 7vo OR 7ba OR 7yw OR amf OR 7cm OR 7tr OR 6ls                                                        ]:[TC66] %NAME%%CONTINUE%//
-ItemDisplay[7ax OR 7sm OR amd OR 7wb OR 7sc OR 7pi OR 7ma OR 7sb OR 6lb                                                 ]:[TC63] %NAME%%CONTINUE%//
-ItemDisplay[7dg OR 7sr OR 6ss OR 7ar OR 72h OR obb OR 7o7 OR 6hb                                                        ]:[TC60] %NAME%%CONTINUE%//
-ItemDisplay[9wc OR 7wn OR 6sb OR 7ss OR 7ta OR 7la OR 7sp OR 6lx                                                        ]:[TC57] %NAME%%CONTINUE%//
-ItemDisplay[8lw OR 7cl OR 9gm OR amb OR 9gd OR 8rx OR 9qr OR 7ha OR 7ja                                                 ]:[TC54] %NAME%%CONTINUE%//
-ItemDisplay[9gw OR 9wd OR 9fb OR 8sw OR 9tw OR oba OR 9gi OR 9ts OR 9h9 OR am9                                          ]:[TC51] %NAME%%CONTINUE%//
-ItemDisplay[9ga OR 9bl OR 9gl OR 8l8 OR ob9 OR 9p9 OR 8ws OR 8hx OR am7 OR 9wa OR 9wh OR 9b9                            ]:[TC48] %NAME%%CONTINUE%//
-ItemDisplay[9mp OR 9bw OR 9fl OR 9sm OR 8s8 OR am8 OR 9ls OR 9st OR 9ws OR 9m9 OR 9gs OR 9lw                            ]:[TC45] %NAME%%CONTINUE%//
-ItemDisplay[9qs OR 9bs OR 9s9 OR 9s8 OR 8mx OR 9b8 OR 9br OR 9cs OR ob8 OR 9bt OR 9cm OR 9kr OR 8bs                     ]:[TC42] %NAME%%CONTINUE%//
-ItemDisplay[9fc OR 9cr OR 92h OR 9pi OR 9vo OR ob7 OR 9ba OR 9yw OR 8cs OR 92a OR 9mt OR 9bk OR 8cb OR am6              ]:[TC39] %NAME%%CONTINUE%//
-ItemDisplay[wsc OR 9ax OR 9la OR 9ta OR 8lx OR 9ma OR 9sb OR 9pa OR 8ls OR 8lb OR ama OR 9di OR 9tr OR 9xf              ]:[TC36] %NAME%%CONTINUE%//
-ItemDisplay[lwb OR 9ha OR 9wn OR 9sc OR 9dg OR 9tk OR gma OR gps OR 9sp OR 9wb OR ob6 OR gsd OR rxb OR 9sr OR 9b7 OR 8hb]:[TC33] %NAME%%CONTINUE%//
-ItemDisplay[ops OR 9ar OR tsp OR hal OR 9cl OR 9ss OR 9ja OR 8ss OR 8sb                                                 ]:[TC30] %NAME%%CONTINUE%//
-ItemDisplay[wax OR whm OR gwn OR gix OR wsd OR flb OR swb OR am2 OR am4                                                 ]:[TC27] %NAME%%CONTINUE%//
-ItemDisplay[gax OR bld OR glv OR lbb OR am5 OR bsw OR pik OR wst OR hxb OR skr OR ob5                                   ]:[TC24] %NAME%%CONTINUE%//
-ItemDisplay[mpi OR fla OR lsd OR spt OR gpm OR wsp OR mau OR gis OR pax OR btl                                          ]:[TC21] %NAME%%CONTINUE%//
-ItemDisplay[bal OR brn OR opm OR btx OR clm OR kri OR bst OR ob4 OR bwn OR sbb OR clw OR am1 OR am3                     ]:[TC18] %NAME%%CONTINUE%//
-ItemDisplay[2ax OR mst OR bkf OR gsc OR bsd OR ssp OR scy OR mxb OR ces                                                 ]:[TC15] %NAME%%CONTINUE%//
-ItemDisplay[2hs OR pil OR flc OR crs OR vou OR bax OR ywn OR cst OR cbw OR axf OR ob3                                   ]:[TC12] %NAME%%CONTINUE%//
-ItemDisplay[axe OR tax OR mac OR sbr OR lst OR lbw OR gpl OR ob2 OR dir OR tri OR wrb                                   ]:[TC9] %NAME%%CONTINUE%//
-ItemDisplay[spc OR opl OR scm OR spr OR bar OR hbw OR lax OR lxb                                                        ]:[TC6] %NAME%%CONTINUE%//
-ItemDisplay[clb OR ssd OR jav OR sst OR sbw OR ktr OR ob1 OR wnd OR tkf OR hax OR scp OR dgr                            ]:[TC3] %NAME%%CONTINUE%//
-ItemDisplay[uar OR uhc OR urn OR paf OR drf                                                                             ]:[TC90] %NAME%%CONTINUE%//
-ItemDisplay[uul OR uhg OR ci3 OR uhb OR baf OR nef                                                                      ]:[TC87] %NAME%%CONTINUE%//
-ItemDisplay[uth OR utc OR pae OR dre OR utp OR uts OR uh9                                                               ]:[TC84] %NAME%%CONTINUE%//
-ItemDisplay[uhm OR uow OR bae OR uld OR utb OR nee                                                                      ]:[TC81] %NAME%%CONTINUE%//
-ItemDisplay[upl OR utg OR ush OR drd OR ult                                                                             ]:[TC78] %NAME%%CONTINUE%//
-ItemDisplay[ucl OR bad OR usk OR pad OR urs OR umc                                                                      ]:[TC75] %NAME%%CONTINUE%//
-ItemDisplay[ci2 OR utu OR pac OR ung OR uit OR umb                                                                      ]:[TC72] %NAME%%CONTINUE%//
-ItemDisplay[uea OR neg OR ulm OR ula OR uvc OR upk OR umg OR drc                                                        ]:[TC69] %NAME%%CONTINUE%//
-ItemDisplay[xar OR urg OR uui OR uvb OR bac OR ned                                                                      ]:[TC66] %NAME%%CONTINUE%//
-ItemDisplay[xul OR uml OR ulc OR uhn OR drb OR ukp OR uvg OR pab                                                        ]:[TC63] %NAME%%CONTINUE%//
-ItemDisplay[xth OR uap OR uuc OR neb OR xtp OR ulb OR bab                                                               ]:[TC60] %NAME%%CONTINUE%//
-ItemDisplay[xrn OR xld OR dra OR paa OR xts OR ulg                                                                      ]:[TC57] %NAME%%CONTINUE%//
-ItemDisplay[xlt OR ci1 OR xhg OR xhb OR zhb OR uhl OR baa OR nea                                                        ]:[TC54] %NAME%%CONTINUE%//
-ItemDisplay[xpl OR xtg OR xtb OR ztb OR ba9 OR ne9 OR xow OR xh9 OR dr9 OR xhm OR pa9                                   ]:[TC51] %NAME%%CONTINUE%//
-ItemDisplay[dr8 OR pa8 OR xrs OR xsk OR xsh                                                                             ]:[TC48] %NAME%%CONTINUE%//
-ItemDisplay[xcl OR xmg OR xmb OR zmb OR ba8 OR xhl OR xhn OR xit OR ne8                                                 ]:[TC45] %NAME%%CONTINUE%//
-ItemDisplay[aar OR xtu OR dr7 OR pa7 OR xlm OR xng OR xrg OR xpk                                                        ]:[TC42] %NAME%%CONTINUE%//
-ItemDisplay[ful OR xkp OR xla OR xml OR ba7 OR xvg OR xvb OR zvb OR ne7                                                 ]:[TC39] %NAME%%CONTINUE%//
-ItemDisplay[xap OR xui OR xuc OR ltp OR dr6 OR pa6 OR xea OR xlb OR zlb                                                 ]:[TC36] %NAME%%CONTINUE%//
-ItemDisplay[gth OR xlg OR ba6 OR ne6                                                                                    ]:[TC33] %NAME%%CONTINUE%//
-ItemDisplay[fld OR crn OR gts                                                                                           ]:[TC30] %NAME%%CONTINUE%//
-ItemDisplay[hgl OR hbt OR hbl                                                                                           ]:[TC27] %NAME%%CONTINUE%//
-ItemDisplay[tow OR bhm OR ghm OR plt OR dr5 OR ba5 OR pa5 OR ne5 OR ci0                                                 ]:[TC24] %NAME%%CONTINUE%//
-ItemDisplay[msk OR bsh OR spl OR tgl OR tbt OR tbl OR dr4 OR ba4 OR pa4 OR ne4                                          ]:[TC21] %NAME%%CONTINUE%//
-ItemDisplay[dr3 OR ba3 OR pa3 OR ne3 OR brs                                                                             ]:[TC18] %NAME%%CONTINUE%//
-ItemDisplay[scl OR fhl OR chn OR kit                                                                                    ]:[TC15] %NAME%%CONTINUE%//
-ItemDisplay[hlm OR rng OR lrg OR spk OR mgl OR mbt OR mbl                                                               ]:[TC12] %NAME%%CONTINUE%//
-ItemDisplay[vgl OR vbt OR vbl OR stu OR dr2 OR ba2 OR pa2 OR ne2                                                        ]:[TC9] %NAME%%CONTINUE%//
-ItemDisplay[dr1 OR ba1 OR pa1 OR ne1 OR skp OR hla OR sml                                                               ]:[TC6] %NAME%%CONTINUE%//
-ItemDisplay[cap OR qui OR buc OR lea OR lgl OR lbt OR lbl                                                               ]:[TC3] %NAME%%CONTINUE%//
 ItemDisplay[NMAG cap ED=0 DEF=5  ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG skp ED=0 DEF=11 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
 ItemDisplay[NMAG hlm ED=0 DEF=18 ]:%NAME% %PURPLE%Perfect%CONTINUE%//
@@ -6360,4 +6300,91 @@ ItemDisplay[ETH NMAG ((fla) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP NMAG ((7gm OR 7wa OR 7gd OR 7bt) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ETH NMAG ((7gm OR 7wa OR 7gd OR 7bt) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ulc STAT73=36 RARE]:%PX-20%%RED%Failed %YELLOW%Arachnid Mesh{%NAME%}//
-ItemDisplay[NMAG SOCK=1]:{%NAME%%NL%%RED% catchall.showall.filter:3}////
+ItemDisplay[DIFF>0 !ETH !SUP NMAG (WP1 OR WP3 OR WP4 OR WP5 OR WP6 OR WP7 OR WP8 OR WP9 OR WP10)]:{%NAME%%NL%%RED% catchall.default.filter:3}////
+ItemDisplay[DIFF>0 !ETH !SUP NMAG (WP2 AND !clb AND !spc AND !9cl AND !9sp AND !7cl AND !7sp)]:{%NAME%%NL%%RED% catchall.default.filter:4}////
+ItemDisplay[DIFF>0 ETH !SUP NMAG (WP1 OR WP3 OR WP4 OR WP5 OR WP6 OR WP7 OR WP8 OR WP9 OR WP10)]:{%NAME%%NL%%RED% catchall.default.filter:5}////
+ItemDisplay[DIFF>0 ETH !SUP NMAG (WP2 AND !clb AND !spc AND !9cl AND !9sp AND !7cl AND !7sp)]:{%NAME%%NL%%RED% catchall.default.filter:6}////
+ItemDisplay[DIFF>0 !ETH SUP NMAG (WP1 OR WP3 OR WP4 OR WP5 OR WP6 OR WP7 OR WP8 OR WP9 OR WP10)]:{%NAME%%NL%%RED% catchall.default.filter:7}////
+ItemDisplay[DIFF>0 !ETH SUP NMAG (WP2 AND !clb AND !spc AND !9cl AND !9sp AND !7cl AND !7sp)]:{%NAME%%NL%%RED% catchall.default.filter:8}////
+ItemDisplay[CLVL>4 NMAG aqv]:{%NAME%%NL%%RED% catchall.default.filter:13}////
+ItemDisplay[CLVL>4 NMAG cqv]:{%NAME%%NL%%RED% catchall.default.filter:14}////
+ItemDisplay[CLVL>4 NMAG (EQ1 OR EQ2 OR EQ3) SOCK=1]:{%NAME%%NL%%RED% catchall.default.filter:16}//// Helms Armors Shields
+ItemDisplay[CLVL>4 NMAG (WP1 OR WP3 OR WP4 OR WP5 OR WP6 OR WP7 OR WP8 OR WP9 OR WP10) SOCK=1]:{%NAME%%NL%%RED% catchall.default.filter:17}////
+ItemDisplay[CLVL>4 NMAG (WP2 AND !clb AND !spc AND !9cl AND !9sp AND !7cl AND !7sp) SOCK=1]:{%NAME%%NL%%RED% catchall.default.filter:18}////
+ItemDisplay[CLVL>4 NMAG (EQ4 OR EQ5 OR EQ6)]:{%NAME%%NL%%RED% catchall.default.filter:20}//// Gloves Boots Belts
+ItemDisplay[CLVL>4 !ETH !SUP NMAG (WP1 OR WP3 OR WP4 OR WP5 OR WP6 OR WP7 OR WP8 OR WP9 OR WP10) SOCK=0]:{%NAME%%NL%%RED% catchall.default.filter:22}////
+ItemDisplay[CLVL>4 !ETH !SUP NMAG (WP2 AND !clb AND !spc AND !9cl AND !9sp AND !7cl AND !7sp) SOCK=0]:{%NAME%%NL%%RED% catchall.default.filter:23}////
+ItemDisplay[CLVL>4 SUP SOCK=0 ED=0]:{%NAME%%NL%%RED% catchall.default.filter:25}////
+ItemDisplay[CLVL>9 vps]:{%NAME%%NL%%RED% catchall.default.filter:30}////
+ItemDisplay[CLVL>9 opl]:{%NAME%%NL%%RED% catchall.default.filter:31}////
+ItemDisplay[CLVL>9 opm]:{%NAME%%NL%%RED% catchall.default.filter:32}////
+ItemDisplay[CLVL>9 ops]:{%NAME%%NL%%RED% catchall.default.filter:33}////
+ItemDisplay[CLVL>9 gpl]:{%NAME%%NL%%RED% catchall.default.filter:34}////
+ItemDisplay[CLVL>9 gpm]:{%NAME%%NL%%RED% catchall.default.filter:35}////
+ItemDisplay[CLVL>9 gps]:{%NAME%%NL%%RED% catchall.default.filter:36}////
+ItemDisplay[CLVL>9 !SUP NMAG EQ1 NORM SOCK=0]:{%NAME%%NL%%RED% catchall.default.filter:38}//// Helm
+ItemDisplay[CLVL>9 !SUP NMAG EQ2 NORM SOCK=0]:{%NAME%%NL%%RED% catchall.default.filter:39}//// Armor
+ItemDisplay[CLVL>9 !SUP NMAG EQ3 NORM SOCK=0]:{%NAME%%NL%%RED% catchall.default.filter:40}//// Shields
+ItemDisplay[CLVL>14 MAG aqv]:{%NAME%%NL%%RED% catchall.default.filter:45}////
+ItemDisplay[CLVL>14 MAG cqv]:{%NAME%%NL%%RED% catchall.default.filter:46}////
+ItemDisplay[CLVL>14 hp1]:{%NAME%%NL%%RED% catchall.default.filter:47}////
+ItemDisplay[CLVL>14 mp1]:{%NAME%%NL%%RED% catchall.default.filter:48}////
+ItemDisplay[CLVL>14 GEMLEVEL<3]:{%NAME%%NL%%RED% catchall.default.filter:49}////
+ItemDisplay[CLVL>14 NMAG ((ktr OR wrb OR axf OR ces OR clw OR btl OR skr) OR (9ar OR 9wb OR 9xf))]:{%NAME%%NL%%RED% catchall.default.filter:51}////
+ItemDisplay[CLVL>24 key]:{%NAME%%NL%%RED% catchall.default.filter:56}////
+ItemDisplay[CLVL>24 isc]:{%NAME%%NL%%RED% catchall.default.filter:57}////
+ItemDisplay[CLVL>24 tsc]:{%NAME%%NL%%RED% catchall.default.filter:58}////
+ItemDisplay[CLVL>24 hp2]:{%NAME%%NL%%RED% catchall.default.filter:59}////
+ItemDisplay[CLVL>24 mp2]:{%NAME%%NL%%RED% catchall.default.filter:60}////
+ItemDisplay[CLVL>24 !RW !UNI !SET !RARE NMAG CL6 (SK36<2 AND SK37<2 AND SK38<2 AND SK39<2 AND SK40<2 AND SK41<2 AND SK42<2 AND SK43<2 AND SK44<2 AND SK45<2 AND SK46<2 AND SK47<2 AND SK48<2 AND SK49<2 AND SK50<2 AND SK51<2 AND SK52<2 AND SK53<2 AND SK54<2 AND SK55<2 AND SK56<2 AND SK57<2 AND SK58<2 AND SK59<2 AND SK60<2 AND SK61<2 AND SK62<2 AND SK63<2 AND SK64<2 AND SK65<2 AND SK369<2 AND SK376<2 AND SK383<2)]:{%NAME%%NL%%RED% catchall.default.filter:62}////
+ItemDisplay[CLVL>24 !RW !UNI !SET !RARE NMAG WP11 (SK36<2 AND SK37<2 AND SK38<2 AND SK39<2 AND SK40<2 AND SK41<2 AND SK42<2 AND SK43<2 AND SK44<2 AND SK45<2 AND SK46<2 AND SK47<2 AND SK48<2 AND SK49<2 AND SK50<2 AND SK51<2 AND SK52<2 AND SK53<2 AND SK54<2 AND SK55<2 AND SK56<2 AND SK57<2 AND SK58<2 AND SK59<2 AND SK60<2 AND SK61<2 AND SK62<2 AND SK63<2 AND SK64<2 AND SK65<2 AND SK369<2 AND SK376<2 AND SK383<2)]:{%NAME%%NL%%RED% catchall.default.filter:63}////
+ItemDisplay[CLVL>24 !RW !UNI !SET !RARE NMAG CL4 (SK66<2 AND SK67<2 AND SK68<2 AND SK69<2 AND SK70<2 AND SK71<2 AND SK72<2 AND SK73<2 AND SK74<2 AND SK75<2 AND SK76<2 AND SK77<2 AND SK78<2 AND SK79<2 AND SK80<2 AND SK81<2 AND SK82<2 AND SK83<2 AND SK84<2 AND SK85<2 AND SK86<2 AND SK87<2 AND SK88<2 AND SK89<2 AND SK90<2 AND SK91<2 AND SK92<2 AND SK93<2 AND SK94<2 AND SK95<2 AND SK367<2 AND SK374<2 AND SK381<2)]:{%NAME%%NL%%RED% catchall.default.filter:64}////
+ItemDisplay[CLVL>24 !RW !UNI !SET !RARE NMAG WP12 (SK66<2 AND SK67<2 AND SK68<2 AND SK69<2 AND SK70<2 AND SK71<2 AND SK72<2 AND SK73<2 AND SK74<2 AND SK75<2 AND SK76<2 AND SK77<2 AND SK78<2 AND SK79<2 AND SK80<2 AND SK81<2 AND SK82<2 AND SK83<2 AND SK84<2 AND SK85<2 AND SK86<2 AND SK87<2 AND SK88<2 AND SK89<2 AND SK90<2 AND SK91<2 AND SK92<2 AND SK93<2 AND SK94<2 AND SK95<2 AND SK367<2 AND SK374<2 AND SK381<2)]:{%NAME%%NL%%RED% catchall.default.filter:65}////
+ItemDisplay[CLVL>24 !RW !UNI !SET !RARE NMAG WP13 (SK96<2 AND SK97<2 AND SK98<2 AND SK99<2 AND SK100<2 AND SK101<2 AND SK102<2 AND SK103<2 AND SK104<2 AND SK105<2 AND SK106<2 AND SK107<2 AND SK108<2 AND SK109<2 AND SK110<2 AND SK111<2 AND SK112<2 AND SK113<2 AND SK114<2 AND SK115<2 AND SK116<2 AND SK117<2 AND SK118<2 AND SK119<2 AND SK120<2 AND SK121<2 AND SK122<2 AND SK123<2 AND SK124<2 AND SK125<2 AND SK364<2 AND SK371<2 AND SK378<2)]:{%NAME%%NL%%RED% catchall.default.filter:66}////
+ItemDisplay[CLVL>24 !RW !UNI !SET !RARE NMAG CL2 (SK126<2 AND SK127<2 AND SK128<2 AND SK129<2 AND SK130<2 AND SK131<2 AND SK132<2 AND SK133<2 AND SK134<2 AND SK135<2 AND SK136<2 AND SK137<2 AND SK138<2 AND SK139<2 AND SK140<2 AND SK141<2 AND SK142<2 AND SK143<2 AND SK144<2 AND SK145<2 AND SK146<2 AND SK147<2 AND SK148<2 AND SK149<2 AND SK150<2 AND SK151<2 AND SK152<2 AND SK153<2 AND SK154<2 AND SK155<2)]:{%NAME%%NL%%RED% catchall.default.filter:67}////
+ItemDisplay[CLVL>24 !RW !UNI !SET !RARE NMAG CL1 (SK221<2 AND SK222<2 AND SK223<2 AND SK224<2 AND SK225<2 AND SK226<2 AND SK227<2 AND SK228<2 AND SK229<2 AND SK230<2 AND SK231<2 AND SK232<2 AND SK233<2 AND SK234<2 AND SK235<2 AND SK236<2 AND SK237<2 AND SK238<2 AND SK239<2 AND SK240<2 AND SK241<2 AND SK242<2 AND SK243<2 AND SK244<2 AND SK245<2 AND SK246<2 AND SK247<2 AND SK248<2 AND SK249<2 AND SK250<2 AND SK370<2)]:{%NAME%%NL%%RED% catchall.default.filter:68}////
+ItemDisplay[CLVL>24 !RW !UNI !SET !RARE NMAG (clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) (SK221<2 AND SK222<2 AND SK223<2 AND SK224<2 AND SK225<2 AND SK226<2 AND SK227<2 AND SK228<2 AND SK229<2 AND SK230<2 AND SK231<2 AND SK232<2 AND SK233<2 AND SK234<2 AND SK235<2 AND SK236<2 AND SK237<2 AND SK238<2 AND SK239<2 AND SK240<2 AND SK241<2 AND SK242<2 AND SK243<2 AND SK244<2 AND SK245<2 AND SK246<2 AND SK247<2 AND SK248<2 AND SK249<2 AND SK250<2 AND SK370<2)]:{%NAME%%NL%%RED% catchall.default.filter:69}////
+ItemDisplay[CLVL>24 !RW !UNI !SET !RARE NMAG CL5 (SK251<2 AND SK252<2 AND SK253<2 AND SK254<2 AND SK255<2 AND SK256<2 AND SK257<2 AND SK258<2 AND SK259<2 AND SK260<2 AND SK261<2 AND SK262<2 AND SK263<2 AND SK264<2 AND SK265<2 AND SK266<2 AND SK267<2 AND SK268<2 AND SK269<2 AND SK270<2 AND SK271<2 AND SK272<2 AND SK273<2 AND SK274<2 AND SK275<2 AND SK276<2 AND SK277<2 AND SK278<2 AND SK279<2 AND SK280<2 AND SK366<2)]:{%NAME%%NL%%RED% catchall.default.filter:70}////
+ItemDisplay[CLVL>39 hp3]:{%NAME%%NL%%RED% catchall.default.filter:75}////
+ItemDisplay[CLVL>39 mp3]:{%NAME%%NL%%RED% catchall.default.filter:76}////
+ItemDisplay[CLVL>39 !RW !UNI !SET !RARE NMAG CL6 (SK36<3 AND SK37<3 AND SK38<3 AND SK39<3 AND SK40<3 AND SK41<3 AND SK42<3 AND SK43<3 AND SK44<3 AND SK45<3 AND SK46<3 AND SK47<3 AND SK48<3 AND SK49<3 AND SK50<3 AND SK51<3 AND SK52<3 AND SK53<3 AND SK54<3 AND SK55<3 AND SK56<3 AND SK57<3 AND SK58<3 AND SK59<3 AND SK60<3 AND SK61<3 AND SK62<3 AND SK63<3 AND SK64<3 AND SK65<3 AND SK369<3 AND SK376<3 AND SK383<3)]:{%NAME%%NL%%RED% catchall.default.filter:78}////
+ItemDisplay[CLVL>39 !RW !UNI !SET !RARE NMAG WP11 (SK36<3 AND SK37<3 AND SK38<3 AND SK39<3 AND SK40<3 AND SK41<3 AND SK42<3 AND SK43<3 AND SK44<3 AND SK45<3 AND SK46<3 AND SK47<3 AND SK48<3 AND SK49<3 AND SK50<3 AND SK51<3 AND SK52<3 AND SK53<3 AND SK54<3 AND SK55<3 AND SK56<3 AND SK57<3 AND SK58<3 AND SK59<3 AND SK60<3 AND SK61<3 AND SK62<3 AND SK63<3 AND SK64<3 AND SK65<3 AND SK369<3 AND SK376<3 AND SK383<3)]:{%NAME%%NL%%RED% catchall.default.filter:79}////
+ItemDisplay[CLVL>39 !RW !UNI !SET !RARE NMAG CL4 (SK66<3 AND SK67<3 AND SK68<3 AND SK69<3 AND SK70<3 AND SK71<3 AND SK72<3 AND SK73<3 AND SK74<3 AND SK75<3 AND SK76<3 AND SK77<3 AND SK78<3 AND SK79<3 AND SK80<3 AND SK81<3 AND SK82<3 AND SK83<3 AND SK84<3 AND SK85<3 AND SK86<3 AND SK87<3 AND SK88<3 AND SK89<3 AND SK90<3 AND SK91<3 AND SK92<3 AND SK93<3 AND SK94<3 AND SK95<3 AND SK367<3 AND SK374<3 AND SK381<3)]:{%NAME%%NL%%RED% catchall.default.filter:80}////
+ItemDisplay[CLVL>39 !RW !UNI !SET !RARE NMAG WP12 (SK66<3 AND SK67<3 AND SK68<3 AND SK69<3 AND SK70<3 AND SK71<3 AND SK72<3 AND SK73<3 AND SK74<3 AND SK75<3 AND SK76<3 AND SK77<3 AND SK78<3 AND SK79<3 AND SK80<3 AND SK81<3 AND SK82<3 AND SK83<3 AND SK84<3 AND SK85<3 AND SK86<3 AND SK87<3 AND SK88<3 AND SK89<3 AND SK90<3 AND SK91<3 AND SK92<3 AND SK93<3 AND SK94<3 AND SK95<3 AND SK367<3 AND SK374<3 AND SK381<3)]:{%NAME%%NL%%RED% catchall.default.filter:81}////
+ItemDisplay[CLVL>39 !RW !UNI !SET !RARE NMAG WP13 (SK96<3 AND SK97<3 AND SK98<3 AND SK99<3 AND SK100<3 AND SK101<3 AND SK102<3 AND SK103<3 AND SK104<3 AND SK105<3 AND SK106<3 AND SK107<3 AND SK108<3 AND SK109<3 AND SK110<3 AND SK111<3 AND SK112<3 AND SK113<3 AND SK114<3 AND SK115<3 AND SK116<3 AND SK117<3 AND SK118<3 AND SK119<3 AND SK120<3 AND SK121<3 AND SK122<3 AND SK123<3 AND SK124<3 AND SK125<3 AND SK364<3 AND SK371<3 AND SK378<3)]:{%NAME%%NL%%RED% catchall.default.filter:82}////
+ItemDisplay[CLVL>39 !RW !UNI !SET !RARE NMAG CL2 (SK126<3 AND SK127<3 AND SK128<3 AND SK129<3 AND SK130<3 AND SK131<3 AND SK132<3 AND SK133<3 AND SK134<3 AND SK135<3 AND SK136<3 AND SK137<3 AND SK138<3 AND SK139<3 AND SK140<3 AND SK141<3 AND SK142<3 AND SK143<3 AND SK144<3 AND SK145<3 AND SK146<3 AND SK147<3 AND SK148<3 AND SK149<3 AND SK150<3 AND SK151<3 AND SK152<3 AND SK153<3 AND SK154<3 AND SK155<3)]:{%NAME%%NL%%RED% catchall.default.filter:83}////
+ItemDisplay[CLVL>39 !RW !UNI !SET !RARE NMAG CL1 (SK221<3 AND SK222<3 AND SK223<3 AND SK224<3 AND SK225<3 AND SK226<3 AND SK227<3 AND SK228<3 AND SK229<3 AND SK230<3 AND SK231<3 AND SK232<3 AND SK233<3 AND SK234<3 AND SK235<3 AND SK236<3 AND SK237<3 AND SK238<3 AND SK239<3 AND SK240<3 AND SK241<3 AND SK242<3 AND SK243<3 AND SK244<3 AND SK245<3 AND SK246<3 AND SK247<3 AND SK248<3 AND SK249<3 AND SK250<3 AND SK370<3)]:{%NAME%%NL%%RED% catchall.default.filter:84}////
+ItemDisplay[CLVL>39 !RW !UNI !SET !RARE NMAG (clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) (SK221<3 AND SK222<3 AND SK223<3 AND SK224<3 AND SK225<3 AND SK226<3 AND SK227<3 AND SK228<3 AND SK229<3 AND SK230<3 AND SK231<3 AND SK232<3 AND SK233<3 AND SK234<3 AND SK235<3 AND SK236<3 AND SK237<3 AND SK238<3 AND SK239<3 AND SK240<3 AND SK241<3 AND SK242<3 AND SK243<3 AND SK244<3 AND SK245<3 AND SK246<3 AND SK247<3 AND SK248<3 AND SK249<3 AND SK250<3 AND SK370<3)]:{%NAME%%NL%%RED% catchall.default.filter:85}////
+ItemDisplay[CLVL>39 !RW !UNI !SET !RARE NMAG CL5 (SK251<3 AND SK252<3 AND SK253<3 AND SK254<3 AND SK255<3 AND SK256<3 AND SK257<3 AND SK258<3 AND SK259<3 AND SK260<3 AND SK261<3 AND SK262<3 AND SK263<3 AND SK264<3 AND SK265<3 AND SK266<3 AND SK267<3 AND SK268<3 AND SK269<3 AND SK270<3 AND SK271<3 AND SK272<3 AND SK273<3 AND SK274<3 AND SK275<3 AND SK276<3 AND SK277<3 AND SK278<3 AND SK279<3 AND SK280<3 AND SK366<3)]:{%NAME%%NL%%RED% catchall.default.filter:86}////
+ItemDisplay[CLVL>59 hp4]:{%NAME%%NL%%RED% catchall.default.filter:91}////
+ItemDisplay[CLVL>59 mp4]:{%NAME%%NL%%RED% catchall.default.filter:92}////
+ItemDisplay[INF NMAG (EQ1 OR EQ2 OR EQ3 OR EQ7)]:{%NAME%%NL%%RED% catchall.default.filter:97}//// Helms Armors Shields
+ItemDisplay[INF NMAG (WP1 OR WP3 OR WP4 OR WP5 OR WP6 OR WP7 OR WP8 OR WP9 OR WP10)]:{%NAME%%NL%%RED% catchall.default.filter:98}////
+ItemDisplay[INF NMAG (WP2 AND !clb AND !spc AND !9cl AND !9sp AND !7cl AND !7sp)]:{%NAME%%NL%%RED% catchall.default.filter:99}////
+ItemDisplay[INF NMAG (EQ4 OR EQ5 OR EQ6)]:{%NAME%%NL%%RED% catchall.default.filter:100}//// 
+ItemDisplay[!RW !UNI !SET !RARE NMAG CL6 (SK36<1 AND SK37<1 AND SK38<1 AND SK39<1 AND SK40<1 AND SK41<1 AND SK42<1 AND SK43<1 AND SK44<1 AND SK45<1 AND SK46<1 AND SK47<1 AND SK48<1 AND SK49<1 AND SK50<1 AND SK51<1 AND SK52<1 AND SK53<1 AND SK54<1 AND SK55<1 AND SK56<1 AND SK57<1 AND SK58<1 AND SK59<1 AND SK60<1 AND SK61<1 AND SK62<1 AND SK63<1 AND SK64<1 AND SK65<1 AND SK369<1 AND SK376<1 AND SK383<1)]:{%NAME%%NL%%RED% catchall.default.filter:102}////
+ItemDisplay[!RW !UNI !SET !RARE NMAG WP11 (SK36<1 AND SK37<1 AND SK38<1 AND SK39<1 AND SK40<1 AND SK41<1 AND SK42<1 AND SK43<1 AND SK44<1 AND SK45<1 AND SK46<1 AND SK47<1 AND SK48<1 AND SK49<1 AND SK50<1 AND SK51<1 AND SK52<1 AND SK53<1 AND SK54<1 AND SK55<1 AND SK56<1 AND SK57<1 AND SK58<1 AND SK59<1 AND SK60<1 AND SK61<1 AND SK62<1 AND SK63<1 AND SK64<1 AND SK65<1 AND SK369<1 AND SK376<1 AND SK383<1)]:{%NAME%%NL%%RED% catchall.default.filter:103}////
+ItemDisplay[!RW !UNI !SET !RARE NMAG CL4 (SK66<1 AND SK67<1 AND SK68<1 AND SK69<1 AND SK70<1 AND SK71<1 AND SK72<1 AND SK73<1 AND SK74<1 AND SK75<1 AND SK76<1 AND SK77<1 AND SK78<1 AND SK79<1 AND SK80<1 AND SK81<1 AND SK82<1 AND SK83<1 AND SK84<1 AND SK85<1 AND SK86<1 AND SK87<1 AND SK88<1 AND SK89<1 AND SK90<1 AND SK91<1 AND SK92<1 AND SK93<1 AND SK94<1 AND SK95<1 AND SK367<1 AND SK374<1 AND SK381<1)]:{%NAME%%NL%%RED% catchall.default.filter:104}////
+ItemDisplay[!RW !UNI !SET !RARE NMAG WP12 (SK66<1 AND SK67<1 AND SK68<1 AND SK69<1 AND SK70<1 AND SK71<1 AND SK72<1 AND SK73<1 AND SK74<1 AND SK75<1 AND SK76<1 AND SK77<1 AND SK78<1 AND SK79<1 AND SK80<1 AND SK81<1 AND SK82<1 AND SK83<1 AND SK84<1 AND SK85<1 AND SK86<1 AND SK87<1 AND SK88<1 AND SK89<1 AND SK90<1 AND SK91<1 AND SK92<1 AND SK93<1 AND SK94<1 AND SK95<1 AND SK367<1 AND SK374<1 AND SK381<1)]:{%NAME%%NL%%RED% catchall.default.filter:105}////
+ItemDisplay[!RW !UNI !SET !RARE NMAG WP13 (SK96<1 AND SK97<1 AND SK98<1 AND SK99<1 AND SK100<1 AND SK101<1 AND SK102<1 AND SK103<1 AND SK104<1 AND SK105<1 AND SK106<1 AND SK107<1 AND SK108<1 AND SK109<1 AND SK110<1 AND SK111<1 AND SK112<1 AND SK113<1 AND SK114<1 AND SK115<1 AND SK116<1 AND SK117<1 AND SK118<1 AND SK119<1 AND SK120<1 AND SK121<1 AND SK122<1 AND SK123<1 AND SK124<1 AND SK125<1 AND SK364<1 AND SK371<1 AND SK378<1)]:{%NAME%%NL%%RED% catchall.default.filter:106}////
+ItemDisplay[!RW !UNI !SET !RARE NMAG CL2 (SK126<1 AND SK127<1 AND SK128<1 AND SK129<1 AND SK130<1 AND SK131<1 AND SK132<1 AND SK133<1 AND SK134<1 AND SK135<1 AND SK136<1 AND SK137<1 AND SK138<1 AND SK139<1 AND SK140<1 AND SK141<1 AND SK142<1 AND SK143<1 AND SK144<1 AND SK145<1 AND SK146<1 AND SK147<1 AND SK148<1 AND SK149<1 AND SK150<1 AND SK151<1 AND SK152<1 AND SK153<1 AND SK154<1 AND SK155<1)]:{%NAME%%NL%%RED% catchall.default.filter:107}////
+ItemDisplay[!RW !UNI !SET !RARE NMAG CL1 (SK221<1 AND SK222<1 AND SK223<1 AND SK224<1 AND SK225<1 AND SK226<1 AND SK227<1 AND SK228<1 AND SK229<1 AND SK230<1 AND SK231<1 AND SK232<1 AND SK233<1 AND SK234<1 AND SK235<1 AND SK236<1 AND SK237<1 AND SK238<1 AND SK239<1 AND SK240<1 AND SK241<1 AND SK242<1 AND SK243<1 AND SK244<1 AND SK245<1 AND SK246<1 AND SK247<1 AND SK248<1 AND SK249<1 AND SK250<1 AND SK370<1)]:{%NAME%%NL%%RED% catchall.default.filter:108}////
+ItemDisplay[!RW !UNI !SET !RARE NMAG (clb OR spc OR 9cl OR 9sp OR 7cl OR 7sp) (SK221<1 AND SK222<1 AND SK223<1 AND SK224<1 AND SK225<1 AND SK226<1 AND SK227<1 AND SK228<1 AND SK229<1 AND SK230<1 AND SK231<1 AND SK232<1 AND SK233<1 AND SK234<1 AND SK235<1 AND SK236<1 AND SK237<1 AND SK238<1 AND SK239<1 AND SK240<1 AND SK241<1 AND SK242<1 AND SK243<1 AND SK244<1 AND SK245<1 AND SK246<1 AND SK247<1 AND SK248<1 AND SK249<1 AND SK250<1 AND SK370<1)]:{%NAME%%NL%%RED% catchall.default.filter:109}////
+ItemDisplay[!RW !UNI !SET !RARE NMAG CL5 (SK251<1 AND SK252<1 AND SK253<1 AND SK254<1 AND SK255<1 AND SK256<1 AND SK257<1 AND SK258<1 AND SK259<1 AND SK260<1 AND SK261<1 AND SK262<1 AND SK263<1 AND SK264<1 AND SK265<1 AND SK266<1 AND SK267<1 AND SK268<1 AND SK269<1 AND SK270<1 AND SK271<1 AND SK272<1 AND SK273<1 AND SK274<1 AND SK275<1 AND SK276<1 AND SK277<1 AND SK278<1 AND SK279<1 AND SK280<1 AND SK366<1)]:{%NAME%%NL%%RED% catchall.default.filter:110}////
+ItemDisplay[CLVL>89 GOLD<4000]://
+ItemDisplay[CLVL>79 GOLD<3000]://
+ItemDisplay[CLVL>39 GOLD<2000]://
+ItemDisplay[CLVL>19 GOLD<1000]://
+ItemDisplay[CLVL>9 GOLD<500]://
+ItemDisplay[GOLD<100]://
+//CLVL>94
+//CLVL>89
+//CLVL>80
+//CLVL>79
+//CLVL>69
+//CLVL>49
+//CLVL>29
+//CLVL>19
+//CLVL>14
+//CLVL>9
+//CLVL>4
