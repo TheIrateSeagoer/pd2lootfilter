@@ -68,6 +68,7 @@ ItemDisplay[dcbl]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[dcma]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 ItemDisplay[ubtm]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 ItemDisplay[rtmo]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
+ItemDisplay[rtmv]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 ItemDisplay[rtma]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 ItemDisplay[wss QTY=1]:%RED%ooo %PURPLE%Worldstone Shard %RED%ooo%PURPLE%%CONTINUE%//
 ItemDisplay[wss QTY>1]:%RED%ooo %PURPLE%Worldstone Shard Stack %RED%ooo%PURPLE%%CONTINUE%//
@@ -4986,14 +4987,14 @@ ItemDisplay[dcho]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Black Soulstone%G
 ItemDisplay[dcso]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Prime Evil Soul%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Pure Demonic Essence%GRAY%)%NL%%TAN%Hell Diablo / Hell Baal}%CONTINUE%//
 ItemDisplay[dcbl]:%NAME%{%RED%Vision of Terror%GRAY%: (%ORANGE%Pure Demonic Essence%GRAY%+%ORANGE%Black Soulstone%GRAY%+%ORANGE%Prime Evil Soul%GRAY%)%NL%%TAN%Map Bosses}%CONTINUE%//
 ItemDisplay[lbox]:%NAME%{%TAN%One-Handed: 1-2 Two-Handed: 1-2%NL%Helmet: 1-2 Chest: 1-2 Shield: 1-2}%CONTINUE%//
-ItemDisplay[wss]:%NAME%{%TAN%Item: (Modifier: 50% Sockets: 25% %RED%Brick: 25%%TAN%)%NL%Socketed Item: (Modifier: 75% %RED%Brick: 25%%TAN%)%NL%Maps: (Modifier: 70% %RED%Brick: 30%%TAN%)}%CONTINUE%//
+ItemDisplay[wss]:%NAME%{%TAN%Item: (Modifier: 50% Sockets: 25% %RED%Brick: 25%%TAN%)%NL%Socketed Item: (Modifier: 75% %RED%Brick: 25%%TAN%)%NL%Maps: (Modifier: 100%)}%CONTINUE%//
 ItemDisplay[imra]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Zakarum Orb%GRAY%+%BLUE%Jewel%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%WHITE%Map%GRAY%)}%CONTINUE%//
 ItemDisplay[imma]:%NAME%{%BLUE%Map%GRAY%: (%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%+%WHITE%Map%GRAY%)}%CONTINUE%//
 ItemDisplay[upma]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Angelic Orb%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%ORANGE%Perfect Skull%GRAY%+%BLUE%Map%GRAY%)}%CONTINUE%//
 ItemDisplay[rera]:%NAME%{%YELLOW%Map%GRAY%: (%GOLD%Horadrim Orb%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%YELLOW%Map%GRAY%)}%CONTINUE%//
 ItemDisplay[scou]:%NAME%{%WHITE%Map%GRAY%: (%GOLD%Orb of Destruction%GRAY%+%ORANGE%Hel%GRAY%+%BLUE%MAP%GRAY%)%NL%%WHITE%Map%GRAY%: %GRAY%(%GOLD%Orb of Destruction%GRAY%+%ORANGE%Hel%GRAY%+%YELLOW%MAP%GRAY%)}%CONTINUE%//
 ItemDisplay[upmp]:%NAME%{%WHITE%Map%GRAY%: (%GOLD%Cartographer's Orb%GRAY%+%WHITE%Map%GRAY%+%WHITE%Map%GRAY%+%WHITE%Map%GRAY%)%NL%%TAN%Use 3 maps of the same tier to get a higher tier}%CONTINUE%//
-ItemDisplay[scrb]:%NAME%{Use near the blood fountain in Harrogath}%CONTINUE%//
+ItemDisplay[scrb]:%NAME%{%WHITE%[T4] Map%GRAY%: (%GOLD%Horadrim Scarab%GRAY%+%WHITE%[T3] Map%GRAY%)}%CONTINUE%//
 ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41) NMAG]:%NAME%{%BLUE%Map%GRAY%: (%WHITE%Map%GRAY%+%GOLD%Arcane Orb%GRAY%+%BLUE%Jewel%GRAY%)}%CONTINUE%//
 ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41) MAG]:%NAME%{%BLUE%Map%WHITE%%GRAY%: (%BLUE%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Perfect Gem%GRAY%)}%CONTINUE%//
 ItemDisplay[(t11 OR t12 OR t13 OR t21 OR t22 OR t23 OR t24 OR t31 OR t32 OR t33 OR t34 OR t35 OR t41) RARE]:%NAME%{%YELLOW%Map%WHITE%%GRAY%: (%YELLOW%Map%GRAY%+%ORANGE%Perfect Gem%GRAY%+%ORANGE%Rune(Thul-Zod)%GRAY%+%GOLD%Horadrim Orb%GRAY%)}%CONTINUE%//
@@ -5847,18 +5848,30 @@ ItemDisplay[ame ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 37-153 Sockets: 3}%CO
 ItemDisplay[ame ILVL>25 ILVL<41]:%NAME%{%NAME%%TAN%Damage: 37-153 Sockets: 4}%CONTINUE%//
 ItemDisplay[ame ILVL>40        ]:%NAME%{%NAME%%TAN%Damage: 37-153 Sockets: 6}%CONTINUE%//
 ItemDisplay[amf                ]:%NAME%{%NAME%%TAN%Throw: 33-66 One-Hand: 30-54}%CONTINUE%//
-ItemDisplay[7ar ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 39-52 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7ar ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 39-52 Sockets: 3 Skills: Yes}%CONTINUE%//
-ItemDisplay[7wb ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 34-45 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7wb ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 34-45 Sockets: 3 Skills: Yes}%CONTINUE%//
-ItemDisplay[7xf                ]:%NAME%{%NAME%%TAN%Damage: 44-53 Sockets: 2 (3) Skills: Yes}%CONTINUE%//
-ItemDisplay[7cs                ]:%NAME%{%NAME%%TAN%Damage: 36-42 Sockets: 2 (3) Skills: Yes}%CONTINUE%//
-ItemDisplay[7lw ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 22-53 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7lw ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 22-53 Sockets: 3 Skills: Yes}%CONTINUE%//
-ItemDisplay[7tw ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 24-44 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7tw ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 24-44 Sockets: 3 Skills: Yes}%CONTINUE%//
-ItemDisplay[7qr ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 40-51 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7qr ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 40-51 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7ar ILVL<26   ]:%NAME%{%NAME%%TAN%Damage: 39-52 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7ar ILVL>25   ]:%NAME%{%NAME%%TAN%Damage: 39-52 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7ar ILVL<26]:%NAME%{%NAME%%TAN%Damage: 39-52 Sockets: 2}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7ar ILVL>25]:%NAME%{%NAME%%TAN%Damage: 39-52 Sockets: 3}%CONTINUE%//
+ItemDisplay[!UNI !SET 7wb ILVL<26   ]:%NAME%{%NAME%%TAN%Damage: 34-45 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7wb ILVL>25   ]:%NAME%{%NAME%%TAN%Damage: 34-45 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7wb ILVL<26]:%NAME%{%NAME%%TAN%Damage: 34-45 Sockets: 2}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7wb ILVL>25]:%NAME%{%NAME%%TAN%Damage: 34-45 Sockets: 3}%CONTINUE%//
+ItemDisplay[!UNI !SET 7xf           ]:%NAME%{%NAME%%TAN%Damage: 44-53 Sockets: 2 (3) Skills: Yes}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7xf        ]:%NAME%{%NAME%%TAN%Damage: 44-53 Sockets: 2 (3)}%CONTINUE%//
+ItemDisplay[!UNI !SET 7cs           ]:%NAME%{%NAME%%TAN%Damage: 36-42 Sockets: 2 (3) Skills: Yes}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7cs        ]:%NAME%{%NAME%%TAN%Damage: 36-42 Sockets: 2 (3)}%CONTINUE%//
+ItemDisplay[!UNI !SET 7lw ILVL<26   ]:%NAME%{%NAME%%TAN%Damage: 22-53 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7lw ILVL>25   ]:%NAME%{%NAME%%TAN%Damage: 22-53 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7lw ILVL<26]:%NAME%{%NAME%%TAN%Damage: 22-53 Sockets: 2}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7lw ILVL>25]:%NAME%{%NAME%%TAN%Damage: 22-53 Sockets: 3}%CONTINUE%//
+ItemDisplay[!UNI !SET 7tw ILVL<26   ]:%NAME%{%NAME%%TAN%Damage: 24-44 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7tw ILVL>25   ]:%NAME%{%NAME%%TAN%Damage: 24-44 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7tw ILVL<26]:%NAME%{%NAME%%TAN%Damage: 24-44 Sockets: 2}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7tw ILVL>25]:%NAME%{%NAME%%TAN%Damage: 24-44 Sockets: 3}%CONTINUE%//
+ItemDisplay[!UNI !SET 7qr ILVL<26   ]:%NAME%{%NAME%%TAN%Damage: 40-51 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7qr ILVL>25   ]:%NAME%{%NAME%%TAN%Damage: 40-51 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7qr ILVL<26]:%NAME%{%NAME%%TAN%Damage: 40-51 Sockets: 2}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7qr ILVL>25]:%NAME%{%NAME%%TAN%Damage: 40-51 Sockets: 3}%CONTINUE%//
 ItemDisplay[obb                ]:%NAME%{%NAME%%TAN%Damage: 21-46 Sockets: 2}%CONTINUE%//
 ItemDisplay[obc                ]:%NAME%{%NAME%%TAN%Damage: 18-50 Sockets: 2}%CONTINUE%//
 ItemDisplay[obd                ]:%NAME%{%NAME%%TAN%Damage: 23-55 Sockets: 2}%CONTINUE%//
@@ -5903,6 +5916,7 @@ ItemDisplay[dcso]:%BORDER-60%%NAME%{%NAME%}//
 ItemDisplay[dcbl]:%BORDER-60%%NAME%{%NAME%}//
 ItemDisplay[dcma]:%BORDER-0A%%NAME%{%NAME%}//
 ItemDisplay[rtmo]:%BORDER-0A%%NAME%{%NAME%}//
+ItemDisplay[rtmv]:%BORDER-0A%%NAME%{%NAME%}//
 ItemDisplay[rtma]:%BORDER-0A%%NAME%{%NAME%}//
 ItemDisplay[lbox]:%BORDER-0D%%NAME%{%NAME%}//
 ItemDisplay[wss]:%BORDER-9B%%NAME%{%NAME%}//

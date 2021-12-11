@@ -490,24 +490,36 @@ ItemDisplay[amf                ]:%NAME%{%NAME%%TAN%Throw: 33-66 One-Hand: 30-54}
 
 ///// Assassin Katars
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[7ar ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 39-52 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7ar ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 39-52 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7ar ILVL<26   ]:%NAME%{%NAME%%TAN%Damage: 39-52 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7ar ILVL>25   ]:%NAME%{%NAME%%TAN%Damage: 39-52 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7ar ILVL<26]:%NAME%{%NAME%%TAN%Damage: 39-52 Sockets: 2}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7ar ILVL>25]:%NAME%{%NAME%%TAN%Damage: 39-52 Sockets: 3}%CONTINUE%//
 
-ItemDisplay[7wb ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 34-45 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7wb ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 34-45 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7wb ILVL<26   ]:%NAME%{%NAME%%TAN%Damage: 34-45 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7wb ILVL>25   ]:%NAME%{%NAME%%TAN%Damage: 34-45 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7wb ILVL<26]:%NAME%{%NAME%%TAN%Damage: 34-45 Sockets: 2}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7wb ILVL>25]:%NAME%{%NAME%%TAN%Damage: 34-45 Sockets: 3}%CONTINUE%//
 
-ItemDisplay[7xf                ]:%NAME%{%NAME%%TAN%Damage: 44-53 Sockets: 2 (3) Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7xf           ]:%NAME%{%NAME%%TAN%Damage: 44-53 Sockets: 2 (3) Skills: Yes}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7xf        ]:%NAME%{%NAME%%TAN%Damage: 44-53 Sockets: 2 (3)}%CONTINUE%//
 
-ItemDisplay[7cs                ]:%NAME%{%NAME%%TAN%Damage: 36-42 Sockets: 2 (3) Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7cs           ]:%NAME%{%NAME%%TAN%Damage: 36-42 Sockets: 2 (3) Skills: Yes}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7cs        ]:%NAME%{%NAME%%TAN%Damage: 36-42 Sockets: 2 (3)}%CONTINUE%//
 
-ItemDisplay[7lw ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 22-53 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7lw ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 22-53 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7lw ILVL<26   ]:%NAME%{%NAME%%TAN%Damage: 22-53 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7lw ILVL>25   ]:%NAME%{%NAME%%TAN%Damage: 22-53 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7lw ILVL<26]:%NAME%{%NAME%%TAN%Damage: 22-53 Sockets: 2}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7lw ILVL>25]:%NAME%{%NAME%%TAN%Damage: 22-53 Sockets: 3}%CONTINUE%//
 
-ItemDisplay[7tw ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 24-44 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7tw ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 24-44 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7tw ILVL<26   ]:%NAME%{%NAME%%TAN%Damage: 24-44 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7tw ILVL>25   ]:%NAME%{%NAME%%TAN%Damage: 24-44 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7tw ILVL<26]:%NAME%{%NAME%%TAN%Damage: 24-44 Sockets: 2}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7tw ILVL>25]:%NAME%{%NAME%%TAN%Damage: 24-44 Sockets: 3}%CONTINUE%//
 
-ItemDisplay[7qr ILVL<26        ]:%NAME%{%NAME%%TAN%Damage: 40-51 Sockets: 2 Skills: Yes}%CONTINUE%//
-ItemDisplay[7qr ILVL>25        ]:%NAME%{%NAME%%TAN%Damage: 40-51 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7qr ILVL<26   ]:%NAME%{%NAME%%TAN%Damage: 40-51 Sockets: 2 Skills: Yes}%CONTINUE%//
+ItemDisplay[!UNI !SET 7qr ILVL>25   ]:%NAME%{%NAME%%TAN%Damage: 40-51 Sockets: 3 Skills: Yes}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7qr ILVL<26]:%NAME%{%NAME%%TAN%Damage: 40-51 Sockets: 2}%CONTINUE%//
+ItemDisplay[(UNI OR SET) 7qr ILVL>25]:%NAME%{%NAME%%TAN%Damage: 40-51 Sockets: 3}%CONTINUE%//
 
 
 ///// Sorceress Orbs

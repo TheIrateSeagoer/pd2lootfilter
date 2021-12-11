@@ -219,9 +219,7 @@ Socketed Item: (Modifier: 75% \
 %RED%Brick: 25%\
 %TAN%)\
 %NL%\
-Maps: (Modifier: 70% \
-%RED%Brick: 30%\
-%TAN%)\
+Maps: (Modifier: 100%)\
 }%CONTINUE%//
 
 
@@ -306,7 +304,13 @@ ItemDisplay[upmp]:%NAME%{\
 %TAN%Use 3 maps of the same tier to get a higher tier\
 }%CONTINUE%//
 
-ItemDisplay[scrb]:%NAME%{Use near the blood fountain in Harrogath\
+ItemDisplay[scrb]:%NAME%{\
+%WHITE%[T4] Map\
+%GRAY%: (\
+%GOLD%Horadrim Scarab\
+%GRAY%+\
+%WHITE%[T3] Map\
+%GRAY%)\
 }%CONTINUE%//
 
 
