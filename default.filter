@@ -6263,6 +6263,7 @@ ItemDisplay[SET !ID (sml OR skp                                                 
 //TC3   cap OR qui OR buc OR lea OR lgl OR lbt OR lbl
 //ItemDisplay[SET !ID (                                                                      )]:%DOT-81%%ORANGE%o %NAME% %ORANGE%o%GREEN%{%NAME%}//
 ItemDisplay[SET !ID (lea OR lgl OR lbl OR lbt OR buc OR qui OR cap                            )]:%NAME%{%NAME%}//
+ItemDisplay[ulc STAT73=36 RARE]:%PX-20%%RED%Failed %YELLOW%Arachnid Mesh{%NAME%}//
 ItemDisplay[SET !ID (amu OR rin)]:%BORDER-81%%RED%ooooo %NAME% %RED%ooooo%GREEN%{%NAME%}//
 ItemDisplay[UNI !ID (amu OR rin OR jew OR cm1 OR cm2 OR cm3)]:%BORDER-0D%%RED%ooooo %NAME% %RED%ooooo%GOLD%{%NAME%}//
 ItemDisplay[SET !ID]:[%CODE%] %NAME%{%NAME%}//
@@ -6313,7 +6314,25 @@ ItemDisplay[ETH SUP NMAG ((fla) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME
 ItemDisplay[ETH NMAG ((fla) AND (SOCK=0 OR SOCK>2))]:%MAP-20%%NAME%{%NAME%}//
 ItemDisplay[ETH SUP NMAG ((7gm OR 7wa OR 7gd OR 7bt) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ETH NMAG ((7gm OR 7wa OR 7gd OR 7bt) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
-ItemDisplay[ulc STAT73=36 RARE]:%PX-20%%RED%Failed %YELLOW%Arachnid Mesh{%NAME%}//
+ItemDisplay[!RW !UNI !SET !RARE NMAG ((am1 OR am2 OR am3 OR am4 OR am5) OR (am6 OR am7 OR am8 OR am9 OR ama) OR (amb OR amc OR amd OR ame OR amf)) (TABSK0=3 OR TABSK1=3 OR TABSK2=3)]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[ETH MAG (7wa OR wax OR 9wa)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (7gi OR gix OR 9gi)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (7bt OR btx OR 9bt)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (9ja OR jav OR 7ja)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (pil OR 9pi OR 7pi)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (ssp OR 9s9 OR 7s7)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (glv OR 9gl OR 7gl)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (tsp OR 9ts OR 7ts)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (gma OR 9gm OR 7gm)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (mau OR 9m9 OR 7m7)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (whm OR 9wh OR 7wh)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (spr OR 9sr OR 7sr)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (pik OR 9p9 OR 7p7)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (7gd OR flb OR 9fb)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (7fb OR gsd OR 9gd)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (7gs OR bsw OR 9b9)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (7b7 OR gis OR 9gs)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (9ta OR tax OR 7ta)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
 ItemDisplay[NMAG uui ED=0 DEF<444 SOCK=0]:{%NAME%%NL%%RED% catchall.season3.filter:3}////
 ItemDisplay[NMAG uea ED=0 DEF<447 SOCK=0]:{%NAME%%NL%%RED% catchall.season3.filter:4}////
 ItemDisplay[NMAG ula ED=0 DEF<451 SOCK=0]:{%NAME%%NL%%RED% catchall.season3.filter:5}////

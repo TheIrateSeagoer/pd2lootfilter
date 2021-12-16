@@ -1,47 +1,15 @@
-// ItemDisplay[hp1]:%RED%@%WHITE%Minor{%NAME%}%CONTINUE%//
-// ItemDisplay[hp2]:%RED%@%WHITE%Light{%NAME%}%CONTINUE%//
-// ItemDisplay[hp3]:%RED%@%WHITE%Healing{%NAME%}%CONTINUE%//
-// ItemDisplay[hp4]:%RED%@%WHITE%270//
 ItemDisplay[hp5]:%RED%@%WHITE%480//
-
-// ItemDisplay[mp1]:%BLUE%@%WHITE%Minor{%NAME%}%CONTINUE%//
-// ItemDisplay[mp2]:%BLUE%@%WHITE%Light{%NAME%}%CONTINUE%//
-// ItemDisplay[mp3]:%BLUE%@%WHITE%Mana{%NAME%}%CONTINUE%//
-// ItemDisplay[mp4]:%BLUE%@%WHITE%225//
 ItemDisplay[mp5]:%BLUE%@%WHITE%375//
 
-ItemDisplay[!ETH MAG !ID CRAFTALVL<72 !(cm1 OR cm2 OR cm3 OR jew)]:#HIDE//
+ItemDisplay[NORM]:%NAME% %LIGHT_GRAY%norm{%NAME%}%CONTINUE%//
+ItemDisplay[EXC]:%NAME% %LIGHT_GRAY%nite{%NAME%}%CONTINUE%//
+ItemDisplay[ELT]:%NAME% %LIGHT_GRAY%hell{%NAME%}%CONTINUE%//
+
+ItemDisplay[!ETH MAG !ID CRAFTALVL<80 (ARMOR OR WEAPON)]:#HIDE//
+
+// // ItemDisplay[!ETH MAG !ID CRAFTALVL<72 !(cm1 OR cm2 OR cm3 OR jew or rin or amu)]:#HIDE//
 
 
-// ItemDisplay[GEMMED]:GEMMED %NAME% {%NAME%}%CONTINUE%
-// ItemDisplay[!GEMMED]:NOT GEMMED %NAME% {%NAME%}%CONTINUE%
-
-// ItemDisplay[1H]:1G %NAME% {%NAME%}%CONTINUE%
-// ItemDisplay[!1H]:NOT 1H %NAME% {%NAME%}%CONTINUE%
-
-// ItemDisplay[hp4 CLVL>49]:#HIDE//
-// ItemDisplay[mp4 CLVL>49]:#HIDE//
-// ItemDisplay[cqv MAG CLVL>49]:#HIDE//
-// ItemDisplay[aqv MAG CLVL>49]:#HIDE//
-
-// ItemDisplay[NMAG cqv]:#HIDE//
-// ItemDisplay[NMAG ]:#HIDE//
-// ItemDisplay[NMAG ARMOR SOCK=1]:#HIDE//
-// ItemDisplay[NMAG ARMOR SOCK=0]:#HIDE//
-// ItemDisplay[NMAG WEAPON SOCK=1]:#HIDE//
-// ItemDisplay[NMAG WEAPON SOCK=0]:#HIDE//
-
-// ///// Gold
-// ////////////////////////////////////////////////////////////////////////////////
-// ItemDisplay[CLVL>89 GOLD<4000]://
-// ItemDisplay[CLVL>79 GOLD<3000]://
-// ItemDisplay[CLVL>39 GOLD<2000]://
-// ItemDisplay[CLVL>19 GOLD<1000]://
-// ItemDisplay[CLVL>9 GOLD<500]://
-// ItemDisplay[GOLD<100]://
-
-
-//ItemDisplay[SUFFIX=1]:%NAME% S1 {%NAME%}%CONTINUE%
 ItemDisplay[SUFFIX=2]:%NAME% S2 {%NAME%}%CONTINUE%
 ItemDisplay[SUFFIX=3]:%NAME% S3 {%NAME%}%CONTINUE%
 ItemDisplay[SUFFIX=4]:%NAME% S4 {%NAME%}%CONTINUE%

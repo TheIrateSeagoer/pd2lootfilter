@@ -53,7 +53,6 @@ ItemDisplay[rtmv]:%BORDER-0A%%NAME%{%NAME%}//
 ItemDisplay[rtma]:%BORDER-0A%%NAME%{%NAME%}//
 
 
-
 ItemDisplay[lbox]:%BORDER-0D%%NAME%{%NAME%}//
 ItemDisplay[wss]:%BORDER-9B%%NAME%{%NAME%}//
 
@@ -433,6 +432,11 @@ ItemDisplay[SET !ID (sml OR skp                                                 
 ItemDisplay[SET !ID (lea OR lgl OR lbl OR lbt OR buc OR qui OR cap                            )]:%NAME%{%NAME%}//
 
 
+///// Failed Elites
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[ulc STAT73=36 RARE]:%PX-20%%RED%Failed %YELLOW%Arachnid Mesh{%NAME%}//
+
+
 ///// Gear
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[SET !ID (amu OR rin)]:%BORDER-81%%RED%ooooo %NAME% %RED%ooooo%GREEN%{%NAME%}//
@@ -527,7 +531,36 @@ ItemDisplay[ETH SUP NMAG ((7gm OR 7wa OR 7gd OR 7bt) AND (SOCK=0 OR SOCK>2))]:%B
 ItemDisplay[ETH NMAG ((7gm OR 7wa OR 7gd OR 7bt) AND (SOCK=0 OR SOCK>2))]:%BORDER-20%%NAME%{%NAME%}//
 
 
-///// Failed Elites
+///// Amazon Bases
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[ulc STAT73=36 RARE]:%PX-20%%RED%Failed %YELLOW%Arachnid Mesh{%NAME%}//
+ItemDisplay[!RW !UNI !SET !RARE NMAG #WEP16# (TABSK0=3 OR TABSK1=3 OR TABSK2=3)]:%BORDER-20%%NAME%{%NAME%}//
 
+
+
+
+
+///// Crafting
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[ETH MAG (7wa OR wax OR 9wa)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (7gi OR gix OR 9gi)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (7bt OR btx OR 9bt)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+
+ItemDisplay[ETH MAG (9ja OR jav OR 7ja)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (pil OR 9pi OR 7pi)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (ssp OR 9s9 OR 7s7)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (glv OR 9gl OR 7gl)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (tsp OR 9ts OR 7ts)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+
+ItemDisplay[ETH MAG (gma OR 9gm OR 7gm)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (mau OR 9m9 OR 7m7)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (whm OR 9wh OR 7wh)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+
+ItemDisplay[ETH MAG (spr OR 9sr OR 7sr)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (pik OR 9p9 OR 7p7)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+
+ItemDisplay[ETH MAG (7gd OR flb OR 9fb)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (7fb OR gsd OR 9gd)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (7gs OR bsw OR 9b9)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+ItemDisplay[ETH MAG (7b7 OR gis OR 9gs)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
+
+ItemDisplay[ETH MAG (9ta OR tax OR 7ta)]:%DOT-81%%ORANGE%[craft] %NAME%{%NAME%}//
