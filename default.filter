@@ -6280,6 +6280,7 @@ ItemDisplay[RARE !ID rin]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID amu]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[RARE !ID CIRC]:%MAP-6F%%RED%oooo %YELLOW%%NAME% %RED%oooo%YELLOW%//
 ItemDisplay[xtp SOCK=3]:%BORDER-20%%NAME%{%NAME%}//
+ItemDisplay[utp SUP SOCK=2]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[uui (SOCK=3 OR SOCK=4)]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[uea (SOCK=3 OR SOCK=4)]:%BORDER-20%%NAME%{%NAME%}//
 ItemDisplay[ula (SOCK=3 OR SOCK=4)]:%BORDER-20%%NAME%{%NAME%}//
