@@ -37,11 +37,14 @@ ItemDisplay[toa]:%RED%ooooo %ORANGE%%NAME% %RED%ooooo%ORANGE%%CONTINUE%//
 ItemDisplay[t11]:[T1] %NAME%%CONTINUE%//
 ItemDisplay[t12]:[T1] %NAME%%CONTINUE%//
 ItemDisplay[t13]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t14]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t15]:[T1] %NAME%%CONTINUE%//
 ItemDisplay[t21]:[T2] %NAME%%CONTINUE%//
 ItemDisplay[t22]:[T2] %NAME%%CONTINUE%//
 ItemDisplay[t23]:[T2] %NAME%%CONTINUE%//
 ItemDisplay[t24]:[T2] %NAME%%CONTINUE%//
 ItemDisplay[t25]:[T2] %NAME%%CONTINUE%//
+ItemDisplay[t26]:[T2] %NAME%%CONTINUE%//
 ItemDisplay[t31]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t32]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t33]:[T3] %NAME%%CONTINUE%//
@@ -53,6 +56,7 @@ ItemDisplay[t38]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t39]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t41]:[T4] %NAME%%CONTINUE%//
 ItemDisplay[t42]:[T4] %NAME%%CONTINUE%//
+ItemDisplay[t43]:[T4] %NAME%%CONTINUE%//
 ItemDisplay[t61]:[PvP] %NAME%%CONTINUE%//
 ItemDisplay[t62]:[PvP] %NAME%%CONTINUE%//
 ItemDisplay[imra]:%NAME%%CONTINUE%//
@@ -71,6 +75,16 @@ ItemDisplay[rtmo]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 ItemDisplay[rtmv]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 ItemDisplay[rtma]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 ItemDisplay[rtmf]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
+ItemDisplay[lpp]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[rkey]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[lsvl]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[llmr]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[ubaa]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[ubab]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[ubac]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[uba]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[rtp]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[rid]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
 ItemDisplay[wss QTY=1]:%RED%ooo %PURPLE%Worldstone Shard %RED%ooo%PURPLE%%CONTINUE%//
 ItemDisplay[wss QTY>1]:%RED%ooo %PURPLE%Worldstone Shard Stack %RED%ooo%PURPLE%%CONTINUE%//
 ItemDisplay[lbox QTY=1]:%PURPLE%ooooo %GOLD%Larzuk's Puzzlebox %PURPLE%ooooo%GOLD%%CONTINUE%//

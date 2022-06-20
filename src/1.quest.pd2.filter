@@ -3,6 +3,8 @@
 ItemDisplay[t11]:[T1] %NAME%%CONTINUE%//
 ItemDisplay[t12]:[T1] %NAME%%CONTINUE%//
 ItemDisplay[t13]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t14]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t15]:[T1] %NAME%%CONTINUE%//
 
 
 ///// Tier 2 Maps
@@ -12,6 +14,7 @@ ItemDisplay[t22]:[T2] %NAME%%CONTINUE%//
 ItemDisplay[t23]:[T2] %NAME%%CONTINUE%//
 ItemDisplay[t24]:[T2] %NAME%%CONTINUE%//
 ItemDisplay[t25]:[T2] %NAME%%CONTINUE%//
+ItemDisplay[t26]:[T2] %NAME%%CONTINUE%//
 
 
 ///// Tier 3 Maps
@@ -31,6 +34,7 @@ ItemDisplay[t39]:[T3] %NAME%%CONTINUE%//
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[t41]:[T4] %NAME%%CONTINUE%//
 ItemDisplay[t42]:[T4] %NAME%%CONTINUE%//
+ItemDisplay[t43]:[T4] %NAME%%CONTINUE%//
 
 
 ///// PvP Maps
@@ -63,6 +67,22 @@ ItemDisplay[rtmv]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 ItemDisplay[rtma]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 ItemDisplay[rtmf]:%RED%oooo %ORANGE%%NAME% %RED%oooo%CONTINUE%//
 
+
+///// Season 5
+////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[lpp]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[rkey]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[lsvl]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[llmr]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+
+ItemDisplay[ubaa]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[ubab]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[ubac]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+
+ItemDisplay[uba]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+
+ItemDisplay[rtp]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
+ItemDisplay[rid]:%PURPLE%ooooo %ORANGE%%NAME% %PURPLE%ooooo%CONTINUE%//
 
 ///// Item Enhancements
 ////////////////////////////////////////////////////////////////////////////////
