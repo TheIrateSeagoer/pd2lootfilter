@@ -9,6 +9,8 @@ ItemDisplay[!ETH MAG !ID CRAFTALVL<80 (ARMOR OR WEAPON)]:#HIDE//
 
 // // ItemDisplay[!ETH MAG !ID CRAFTALVL<72 !(cm1 OR cm2 OR cm3 OR jew or rin or amu)]:#HIDE//
 
+// ItemDisplay[SHOP]:Shop! %NAME% %CONTINUE%//
+// ItemDisplay[EQUIPPED]:Equipped! %NAME% %CONTINUE%//
 
 ItemDisplay[SUFFIX=2]:%NAME% S2 {%NAME%}%CONTINUE%
 ItemDisplay[SUFFIX=3]:%NAME% S3 {%NAME%}%CONTINUE%
