@@ -200,11 +200,11 @@ ItemDisplay[!RW !UNI !SET !RARE NMAG #WEP14# (SK251<1 AND SK252<1 AND SK253<1 AN
 
 ///// Gold
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[CLVL>89 GOLD<4000]://
-ItemDisplay[CLVL>79 GOLD<3000]://
-ItemDisplay[CLVL>39 GOLD<2000]://
-ItemDisplay[CLVL>19 GOLD<1000]://
-ItemDisplay[CLVL>9 GOLD<500]://
+ItemDisplay[CLVL>89 GOLD<3000]://
+ItemDisplay[CLVL>79 GOLD<2000]://
+ItemDisplay[CLVL>39 GOLD<1000]://
+ItemDisplay[CLVL>19 GOLD<500]://
+ItemDisplay[CLVL>9 GOLD<250]://
 ItemDisplay[GOLD<100]://
 
 
