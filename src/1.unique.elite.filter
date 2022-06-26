@@ -17,6 +17,7 @@ ItemDisplay[uld !ID UNI]:%GOLD%Leviathan %GRAY%h%CONTINUE%//
 ItemDisplay[uul !ID UNI]:%GOLD%Steel Carapace %GRAY%h%CONTINUE%//
 ItemDisplay[uar !ID UNI]:%GOLD%Templar's Might %GRAY%h / %GOLD%Tyrael's Might %GRAY%h+%CONTINUE%//
 ItemDisplay[uhn !ID UNI]:%GOLD%Cage of the Unsullied %GRAY%h%CONTINUE%//
+ItemDisplay[utp !ID UNI]:%GOLD%Purgatory %GRAY%s5%CONTINUE%//
 
 ///// Shields
 ////////////////////////////////////////////////////////////////////////////////
@@ -32,11 +33,13 @@ ItemDisplay[uts !ID UNI]:%GOLD%Spirit Ward %GRAY%h%CONTINUE%//
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[uvg !ID UNI]:%GOLD%Dracul's Grasp %GRAY%h%CONTINUE%//
 ItemDisplay[umg !ID UNI]:%GOLD%Soul Drainer %GRAY%h%CONTINUE%//
+ItemDisplay[utg !ID UNI]:%GOLD%Occultist %GRAY%s5%CONTINUE%//
 ItemDisplay[uhg !ID UNI]:%GOLD%Steelrend %GRAY%h%CONTINUE%//
 
 
 ///// Boots
 ////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[ulb !ID UNI]:%GOLD%Merman's Sprocket %GRAY%s5%CONTINUE%//
 ItemDisplay[uvb !ID UNI]:%GOLD%Sandstorm Trek %GRAY%h%CONTINUE%//
 ItemDisplay[umb !ID UNI]:%GOLD%Marrowwalk %GRAY%h%CONTINUE%//
 ItemDisplay[uhb !ID UNI]:%GOLD%Shadow Dancer %GRAY%h%CONTINUE%//
@@ -112,6 +115,7 @@ ItemDisplay[7wc !ID UNI]:%GOLD%Stormspire %GRAY%h%CONTINUE%//
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[7sc !ID UNI]:%GOLD%Heaven's Light %GRAY%h / %GOLD%The Redeemer %GRAY%h%CONTINUE%//
 ItemDisplay[7ws !ID UNI]:%GOLD%Astreon's Iron Ward %GRAY%h%CONTINUE%//
+ItemDisplay[7qs !ID UNI]:%GOLD%Akarat's Devotion %GRAY%s5%CONTINUE%//
 
 
 ///// Spears
@@ -124,6 +128,7 @@ ItemDisplay[7p7 !ID UNI]:%GOLD%Steel Pillar %GRAY%h%CONTINUE%//
 ///// Staves
 ////////////////////////////////////////////////////////////////////////////////
 ItemDisplay[6cs !ID UNI]:%GOLD%Ondal's Wisdom %GRAY%h%CONTINUE%//
+ItemDisplay[6bs !ID UNI]:%GOLD%Brimstone Rain %GRAY%s5%CONTINUE%//
 ItemDisplay[6ws !ID UNI]:%GOLD%Mang Song's Lesson %GRAY%h+%CONTINUE%//
 
 
@@ -135,6 +140,7 @@ ItemDisplay[7cr !ID UNI]:%GOLD%Lightsabre %GRAY%h / %GOLD%Azurewrath %GRAY%h+%CO
 ItemDisplay[7ls !ID UNI]:%GOLD%Frostwind %GRAY%h%CONTINUE%//
 ItemDisplay[7gs !ID UNI]:%GOLD%Flamebellow %GRAY%h%CONTINUE%//
 ItemDisplay[7b7 !ID UNI]:%GOLD%Doombringer %GRAY%h%CONTINUE%//
+ItemDisplay[7fb !ID UNI]:%GOLD%Odium %GRAY%s5%CONTINUE%//
 ItemDisplay[7gd !ID UNI]:%GOLD%The Grandfather %GRAY%h%CONTINUE%//
 
 

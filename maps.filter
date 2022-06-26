@@ -876,20 +876,24 @@ ItemDisplay[ama !ID UNI]:%GOLD%Titan's Revenge %GRAY%nm%CONTINUE%//
 ItemDisplay[amf !ID UNI]:%GOLD%Thunderstroke %GRAY%h%CONTINUE%//
 ItemDisplay[amb !ID UNI]:%GOLD%Blood Raven's Charge %GRAY%h%CONTINUE%//
 ItemDisplay[am5 !ID UNI]:%GOLD%True Silver %GRAY%s3%CONTINUE%//
+ItemDisplay[ame !ID UNI]:%GOLD%Zerae's Resolve %GRAY%s5%CONTINUE%//
 ItemDisplay[7cs !ID UNI]:%GOLD%Shadow Killer %GRAY%h%CONTINUE%//
 ItemDisplay[9tw !ID UNI]:%GOLD%Bartuc's Cut-Throat %GRAY%nm%CONTINUE%//
 ItemDisplay[7wb !ID UNI]:%GOLD%Jade Talon %GRAY%h%CONTINUE%//
 ItemDisplay[7lw !ID UNI]:%GOLD%Firelizard's Talons %GRAY%h%CONTINUE%//
+ItemDisplay[7tw !ID UNI]:%GOLD%Stalker's Cull %GRAY%s5%CONTINUE%//
 ItemDisplay[9ar !ID UNI]:%GOLD%Mage Slayer %GRAY%s3%CONTINUE%//
 ItemDisplay[nea !ID UNI]:%GOLD%Homunculus %GRAY%nm%CONTINUE%//
 ItemDisplay[nef !ID UNI]:%GOLD%Darkforce Spawn %GRAY%h%CONTINUE%//
 ItemDisplay[nee !ID UNI]:%GOLD%Boneflame %GRAY%h%CONTINUE%//
 ItemDisplay[ne6 !ID UNI]:%GOLD%Kalan's Legacy %GRAY%s3%CONTINUE%//
+ItemDisplay[ned !ID UNI]:%GOLD%Martyrdom %GRAY%s5%CONTINUE%//
 ItemDisplay[baa !ID UNI]:%GOLD%Arreat's Face %GRAY%nm%CONTINUE%//
 ItemDisplay[bac !ID UNI]:%GOLD%Wolfhowl %GRAY%h%CONTINUE%//
 ItemDisplay[bad !ID UNI]:%GOLD%Demonhorn's Edge %GRAY%h%CONTINUE%//
 ItemDisplay[bae !ID UNI]:%GOLD%Halaberd's Reign %GRAY%h%CONTINUE%//
 ItemDisplay[ba6 !ID UNI]:%GOLD%Cyclopean Roar %GRAY%s3%CONTINUE%//
+ItemDisplay[baf !ID UNI]:%GOLD%Raekor's Virtue %GRAY%s5%CONTINUE%//
 ItemDisplay[oba !ID UNI]:%GOLD%The Oculus %GRAY%nm%CONTINUE%//
 ItemDisplay[obc !ID UNI]:%GOLD%Eschuta's Temper %GRAY%h%CONTINUE%//
 ItemDisplay[obf !ID UNI]:%GOLD%Death's Fathom %GRAY%h%CONTINUE%//
@@ -899,6 +903,7 @@ ItemDisplay[drb !ID UNI]:%GOLD%Cerebus' Bite %GRAY%h%CONTINUE%//
 ItemDisplay[dre !ID UNI]:%GOLD%Ravenlore %GRAY%h%CONTINUE%//
 ItemDisplay[drd !ID UNI]:%GOLD%Spirit Keeper %GRAY%h%CONTINUE%//
 ItemDisplay[dr2 !ID UNI]:%GOLD%Quetzalcoatl %GRAY%s3%CONTINUE%//
+ItemDisplay[drf !ID UNI]:%GOLD%Ursa's Nightmare %GRAY%s5%CONTINUE%//
 ItemDisplay[pac !ID UNI]:%GOLD%Alma Negra %GRAY%h%CONTINUE%//
 ItemDisplay[pa9 !ID UNI]:%GOLD%Herald of Zakarum %GRAY%nm%CONTINUE%//
 ItemDisplay[pae !ID UNI]:%GOLD%Dragonscale %GRAY%h%CONTINUE%//
@@ -1152,6 +1157,7 @@ ItemDisplay[uld !ID UNI]:%GOLD%Leviathan %GRAY%h%CONTINUE%//
 ItemDisplay[uul !ID UNI]:%GOLD%Steel Carapace %GRAY%h%CONTINUE%//
 ItemDisplay[uar !ID UNI]:%GOLD%Templar's Might %GRAY%h / %GOLD%Tyrael's Might %GRAY%h+%CONTINUE%//
 ItemDisplay[uhn !ID UNI]:%GOLD%Cage of the Unsullied %GRAY%h%CONTINUE%//
+ItemDisplay[utp !ID UNI]:%GOLD%Purgatory %GRAY%s5%CONTINUE%//
 ItemDisplay[uml !ID UNI]:%GOLD%Blackoak Shield %GRAY%h%CONTINUE%//
 ItemDisplay[uit !ID UNI]:%GOLD%Stormshield %GRAY%h%CONTINUE%//
 ItemDisplay[upk !ID UNI]:%GOLD%Spike Thorn %GRAY%h%CONTINUE%//
@@ -1160,7 +1166,9 @@ ItemDisplay[ush !ID UNI]:%GOLD%Head Hunter's Glory %GRAY%h%CONTINUE%//
 ItemDisplay[uts !ID UNI]:%GOLD%Spirit Ward %GRAY%h%CONTINUE%//
 ItemDisplay[uvg !ID UNI]:%GOLD%Dracul's Grasp %GRAY%h%CONTINUE%//
 ItemDisplay[umg !ID UNI]:%GOLD%Soul Drainer %GRAY%h%CONTINUE%//
+ItemDisplay[utg !ID UNI]:%GOLD%Occultist %GRAY%s5%CONTINUE%//
 ItemDisplay[uhg !ID UNI]:%GOLD%Steelrend %GRAY%h%CONTINUE%//
+ItemDisplay[ulb !ID UNI]:%GOLD%Merman's Sprocket %GRAY%s5%CONTINUE%//
 ItemDisplay[uvb !ID UNI]:%GOLD%Sandstorm Trek %GRAY%h%CONTINUE%//
 ItemDisplay[umb !ID UNI]:%GOLD%Marrowwalk %GRAY%h%CONTINUE%//
 ItemDisplay[uhb !ID UNI]:%GOLD%Shadow Dancer %GRAY%h%CONTINUE%//
@@ -1200,10 +1208,12 @@ ItemDisplay[7pa !ID UNI]:%GOLD%Tomb Reaver %GRAY%h+%CONTINUE%//
 ItemDisplay[7wc !ID UNI]:%GOLD%Stormspire %GRAY%h%CONTINUE%//
 ItemDisplay[7sc !ID UNI]:%GOLD%Heaven's Light %GRAY%h / %GOLD%The Redeemer %GRAY%h%CONTINUE%//
 ItemDisplay[7ws !ID UNI]:%GOLD%Astreon's Iron Ward %GRAY%h%CONTINUE%//
+ItemDisplay[7qs !ID UNI]:%GOLD%Akarat's Devotion %GRAY%s5%CONTINUE%//
 ItemDisplay[7sr !ID UNI]:%GOLD%Arioc's Needle %GRAY%h%CONTINUE%//
 ItemDisplay[7br !ID UNI]:%GOLD%Viperfork %GRAY%h%CONTINUE%//
 ItemDisplay[7p7 !ID UNI]:%GOLD%Steel Pillar %GRAY%h%CONTINUE%//
 ItemDisplay[6cs !ID UNI]:%GOLD%Ondal's Wisdom %GRAY%h%CONTINUE%//
+ItemDisplay[6bs !ID UNI]:%GOLD%Brimstone Rain %GRAY%s5%CONTINUE%//
 ItemDisplay[6ws !ID UNI]:%GOLD%Mang Song's Lesson %GRAY%h+%CONTINUE%//
 ItemDisplay[7sm !ID UNI]:%GOLD%Djinn Slayer %GRAY%h%CONTINUE%//
 ItemDisplay[7sb !ID UNI]:%GOLD%Bloodmoon %GRAY%h%CONTINUE%//
@@ -1211,6 +1221,7 @@ ItemDisplay[7cr !ID UNI]:%GOLD%Lightsabre %GRAY%h / %GOLD%Azurewrath %GRAY%h+%CO
 ItemDisplay[7ls !ID UNI]:%GOLD%Frostwind %GRAY%h%CONTINUE%//
 ItemDisplay[7gs !ID UNI]:%GOLD%Flamebellow %GRAY%h%CONTINUE%//
 ItemDisplay[7b7 !ID UNI]:%GOLD%Doombringer %GRAY%h%CONTINUE%//
+ItemDisplay[7fb !ID UNI]:%GOLD%Odium %GRAY%s5%CONTINUE%//
 ItemDisplay[7gd !ID UNI]:%GOLD%The Grandfather %GRAY%h%CONTINUE%//
 ItemDisplay[7bk !ID UNI]:%GOLD%Warshrike %GRAY%h%CONTINUE%//
 ItemDisplay[7ta !ID UNI]:%GOLD%Gimmershred %GRAY%h%CONTINUE%//

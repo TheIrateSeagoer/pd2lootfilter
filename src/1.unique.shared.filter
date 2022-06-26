@@ -35,6 +35,7 @@ ItemDisplay[ama !ID UNI]:%GOLD%Titan's Revenge %GRAY%nm%CONTINUE%//
 ItemDisplay[amf !ID UNI]:%GOLD%Thunderstroke %GRAY%h%CONTINUE%//
 ItemDisplay[amb !ID UNI]:%GOLD%Blood Raven's Charge %GRAY%h%CONTINUE%//
 ItemDisplay[am5 !ID UNI]:%GOLD%True Silver %GRAY%s3%CONTINUE%//
+ItemDisplay[ame !ID UNI]:%GOLD%Zerae's Resolve %GRAY%s5%CONTINUE%//
 
 
 ///// Assassin
@@ -43,6 +44,7 @@ ItemDisplay[7cs !ID UNI]:%GOLD%Shadow Killer %GRAY%h%CONTINUE%//
 ItemDisplay[9tw !ID UNI]:%GOLD%Bartuc's Cut-Throat %GRAY%nm%CONTINUE%//
 ItemDisplay[7wb !ID UNI]:%GOLD%Jade Talon %GRAY%h%CONTINUE%//
 ItemDisplay[7lw !ID UNI]:%GOLD%Firelizard's Talons %GRAY%h%CONTINUE%//
+ItemDisplay[7tw !ID UNI]:%GOLD%Stalker's Cull %GRAY%s5%CONTINUE%//
 ItemDisplay[9ar !ID UNI]:%GOLD%Mage Slayer %GRAY%s3%CONTINUE%//
 
 
@@ -52,6 +54,7 @@ ItemDisplay[nea !ID UNI]:%GOLD%Homunculus %GRAY%nm%CONTINUE%//
 ItemDisplay[nef !ID UNI]:%GOLD%Darkforce Spawn %GRAY%h%CONTINUE%//
 ItemDisplay[nee !ID UNI]:%GOLD%Boneflame %GRAY%h%CONTINUE%//
 ItemDisplay[ne6 !ID UNI]:%GOLD%Kalan's Legacy %GRAY%s3%CONTINUE%//
+ItemDisplay[ned !ID UNI]:%GOLD%Martyrdom %GRAY%s5%CONTINUE%//
 
 
 ///// Barbarian
@@ -61,6 +64,7 @@ ItemDisplay[bac !ID UNI]:%GOLD%Wolfhowl %GRAY%h%CONTINUE%//
 ItemDisplay[bad !ID UNI]:%GOLD%Demonhorn's Edge %GRAY%h%CONTINUE%//
 ItemDisplay[bae !ID UNI]:%GOLD%Halaberd's Reign %GRAY%h%CONTINUE%//
 ItemDisplay[ba6 !ID UNI]:%GOLD%Cyclopean Roar %GRAY%s3%CONTINUE%//
+ItemDisplay[baf !ID UNI]:%GOLD%Raekor's Virtue %GRAY%s5%CONTINUE%//
 
 
 ///// Sorceress
@@ -78,6 +82,7 @@ ItemDisplay[drb !ID UNI]:%GOLD%Cerebus' Bite %GRAY%h%CONTINUE%//
 ItemDisplay[dre !ID UNI]:%GOLD%Ravenlore %GRAY%h%CONTINUE%//
 ItemDisplay[drd !ID UNI]:%GOLD%Spirit Keeper %GRAY%h%CONTINUE%//
 ItemDisplay[dr2 !ID UNI]:%GOLD%Quetzalcoatl %GRAY%s3%CONTINUE%//
+ItemDisplay[drf !ID UNI]:%GOLD%Ursa's Nightmare %GRAY%s5%CONTINUE%//
 
 
 ///// Paladin
