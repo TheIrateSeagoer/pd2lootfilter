@@ -16,7 +16,6 @@ ItemDisplay[upl !ID UNI]:%GOLD%Arkaine's Valor %GRAY%h%CONTINUE%//
 ItemDisplay[uld !ID UNI]:%GOLD%Leviathan %GRAY%h%CONTINUE%//
 ItemDisplay[uul !ID UNI]:%GOLD%Steel Carapace %GRAY%h%CONTINUE%//
 ItemDisplay[uar !ID UNI]:%GOLD%Templar's Might %GRAY%h / %GOLD%Tyrael's Might %GRAY%h+%CONTINUE%//
-ItemDisplay[uhn !ID UNI]:%GOLD%Cage of the Unsullied %GRAY%h%CONTINUE%//
 ItemDisplay[utp !ID UNI]:%GOLD%Purgatory %GRAY%s5%CONTINUE%//
 
 ///// Shields
@@ -50,7 +49,6 @@ ItemDisplay[uhb !ID UNI]:%GOLD%Shadow Dancer %GRAY%h%CONTINUE%//
 ItemDisplay[ulc !ID UNI]:%GOLD%Arachnid Mesh %GRAY%h+%CONTINUE%//
 ItemDisplay[uvc !ID UNI]:%GOLD%Nosferatu's Coil %GRAY%h%CONTINUE%//
 ItemDisplay[umc !ID UNI]:%GOLD%Verdungo's Hearty Cord %GRAY%h%CONTINUE%//
-ItemDisplay[utc !ID UNI]:%GOLD%Band of Skulls %GRAY%h%CONTINUE%//
 
 
 ///// Axes

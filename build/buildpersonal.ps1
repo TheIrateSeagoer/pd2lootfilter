@@ -282,6 +282,7 @@ Get-Content '.\obj\1.quest.lod.filter', '.\obj\1.quest.pd2.filter',
 
 if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2 - Debug\ProjectD2') { Copy-Item '.\bin\personal.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2 - Debug\ProjectD2\loot.filter' }
 if (Test-Path -Path 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2') { Copy-Item '.\bin\personal.filter' -Destination 'C:\Program Files (x86)\Diablo II - PD2\ProjectD2\loot.filter' }
+if (Test-Path -Path 'C:\Program Files (x86)\Diablo II\ProjectD2') { Copy-Item '.\bin\personal.filter' -Destination 'C:\Program Files (x86)\Diablo II\ProjectD2\default.filter' }
 if (Test-Path -LiteralPath 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg') { Copy-Item '.\bin\personal.filter' -Destination 'C:\Program Files (x86)\Diablo II - Cactus\BH.cfg' }
 
 

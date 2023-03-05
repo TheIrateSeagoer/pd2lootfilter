@@ -1,33 +1,35 @@
 ///// Tier 1 Maps
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[t11]:[T1] %NAME%%CONTINUE%//
 ItemDisplay[t12]:[T1] %NAME%%CONTINUE%//
 ItemDisplay[t13]:[T1] %NAME%%CONTINUE%//
-ItemDisplay[t14]:[T1] %NAME%%CONTINUE%//
-ItemDisplay[t15]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t16]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t21]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t22]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t23]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t33]:[T1] %NAME%%CONTINUE%//
 
 
 ///// Tier 2 Maps
 ////////////////////////////////////////////////////////////////////////////////
-ItemDisplay[t21]:[T2] %NAME%%CONTINUE%//
-ItemDisplay[t22]:[T2] %NAME%%CONTINUE%//
-ItemDisplay[t23]:[T2] %NAME%%CONTINUE%//
-ItemDisplay[t24]:[T2] %NAME%%CONTINUE%//
-ItemDisplay[t25]:[T2] %NAME%%CONTINUE%//
+ItemDisplay[t11]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t14]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t15]:[T1] %NAME%%CONTINUE%//
 ItemDisplay[t26]:[T2] %NAME%%CONTINUE%//
+ItemDisplay[t34]:[T2] %NAME%%CONTINUE%//
+ItemDisplay[t36]:[T2] %NAME%%CONTINUE%//
 
 
 ///// Tier 3 Maps
 ////////////////////////////////////////////////////////////////////////////////
+ItemDisplay[t24]:[T3] %NAME%%CONTINUE%//
+ItemDisplay[t25]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t31]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t32]:[T3] %NAME%%CONTINUE%//
-ItemDisplay[t33]:[T3] %NAME%%CONTINUE%//
-ItemDisplay[t34]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t35]:[T3] %NAME%%CONTINUE%//
-ItemDisplay[t36]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t37]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t38]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t39]:[T3] %NAME%%CONTINUE%//
+ItemDisplay[t3a]:[T3] %NAME%%CONTINUE%//
 
 
 ///// Tier 4 Maps
@@ -52,6 +54,7 @@ ItemDisplay[rera]:%NAME%%CONTINUE%//
 ItemDisplay[scou]:%NAME%%CONTINUE%//
 ItemDisplay[upmp]:%NAME%%CONTINUE%//
 ItemDisplay[scrb]:%NAME%%CONTINUE%//
+ItemDisplay[fort]:%NAME%%CONTINUE%//
 
 
 ///// Diablo Clone
@@ -98,3 +101,4 @@ ItemDisplay[jewf QTY>1]:%ORANGE%Jewel Fragment Stack %WHITE%%CONTINUE%//
 ItemDisplay[cwss QTY=1]:%RED%ooo %PURPLE%Tainted Worldstone Shard %RED%ooo%PURPLE%%CONTINUE%//
 ItemDisplay[cwss QTY>1]:%RED%ooo %PURPLE%Tainted Worldstone Shard Stack %RED%ooo%PURPLE%%CONTINUE%//
 
+ItemDisplay[lmal]:%NAME%%CONTINUE%//
