@@ -34,26 +34,28 @@ ItemDisplay[ceh]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[bet]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[fed]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[toa]:%RED%ooooo %ORANGE%%NAME% %RED%ooooo%ORANGE%%CONTINUE%//
-ItemDisplay[t11]:[T1] %NAME%%CONTINUE%//
 ItemDisplay[t12]:[T1] %NAME%%CONTINUE%//
 ItemDisplay[t13]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t16]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t21]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t22]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t23]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t33]:[T1] %NAME%%CONTINUE%//
+ItemDisplay[t11]:[T1] %NAME%%CONTINUE%//
 ItemDisplay[t14]:[T1] %NAME%%CONTINUE%//
 ItemDisplay[t15]:[T1] %NAME%%CONTINUE%//
-ItemDisplay[t21]:[T2] %NAME%%CONTINUE%//
-ItemDisplay[t22]:[T2] %NAME%%CONTINUE%//
-ItemDisplay[t23]:[T2] %NAME%%CONTINUE%//
-ItemDisplay[t24]:[T2] %NAME%%CONTINUE%//
-ItemDisplay[t25]:[T2] %NAME%%CONTINUE%//
 ItemDisplay[t26]:[T2] %NAME%%CONTINUE%//
+ItemDisplay[t34]:[T2] %NAME%%CONTINUE%//
+ItemDisplay[t36]:[T2] %NAME%%CONTINUE%//
+ItemDisplay[t24]:[T3] %NAME%%CONTINUE%//
+ItemDisplay[t25]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t31]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t32]:[T3] %NAME%%CONTINUE%//
-ItemDisplay[t33]:[T3] %NAME%%CONTINUE%//
-ItemDisplay[t34]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t35]:[T3] %NAME%%CONTINUE%//
-ItemDisplay[t36]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t37]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t38]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t39]:[T3] %NAME%%CONTINUE%//
+ItemDisplay[t3a]:[T3] %NAME%%CONTINUE%//
 ItemDisplay[t41]:[T4] %NAME%%CONTINUE%//
 ItemDisplay[t42]:[T4] %NAME%%CONTINUE%//
 ItemDisplay[t43]:[T4] %NAME%%CONTINUE%//
@@ -66,6 +68,7 @@ ItemDisplay[rera]:%NAME%%CONTINUE%//
 ItemDisplay[scou]:%NAME%%CONTINUE%//
 ItemDisplay[upmp]:%NAME%%CONTINUE%//
 ItemDisplay[scrb]:%NAME%%CONTINUE%//
+ItemDisplay[fort]:%NAME%%CONTINUE%//
 ItemDisplay[dcho]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[dcso]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
 ItemDisplay[dcbl]:%RED%oooo %ORANGE%%NAME% %RED%oooo%ORANGE%%CONTINUE%//
@@ -93,6 +96,7 @@ ItemDisplay[jewf QTY=1]:%ORANGE%Jewel Fragment %WHITE%%CONTINUE%//
 ItemDisplay[jewf QTY>1]:%ORANGE%Jewel Fragment Stack %WHITE%%CONTINUE%//
 ItemDisplay[cwss QTY=1]:%RED%ooo %PURPLE%Tainted Worldstone Shard %RED%ooo%PURPLE%%CONTINUE%//
 ItemDisplay[cwss QTY>1]:%RED%ooo %PURPLE%Tainted Worldstone Shard Stack %RED%ooo%PURPLE%%CONTINUE%//
+ItemDisplay[lmal]:%NAME%%CONTINUE%//
 ItemDisplay[aqv]:%NAME%%CONTINUE%//
 ItemDisplay[cqv]:%NAME%%CONTINUE%//
 ItemDisplay[hp1]:%RED%@%WHITE%Minor%CONTINUE%//
@@ -1156,7 +1160,6 @@ ItemDisplay[upl !ID UNI]:%GOLD%Arkaine's Valor %GRAY%h%CONTINUE%//
 ItemDisplay[uld !ID UNI]:%GOLD%Leviathan %GRAY%h%CONTINUE%//
 ItemDisplay[uul !ID UNI]:%GOLD%Steel Carapace %GRAY%h%CONTINUE%//
 ItemDisplay[uar !ID UNI]:%GOLD%Templar's Might %GRAY%h / %GOLD%Tyrael's Might %GRAY%h+%CONTINUE%//
-ItemDisplay[uhn !ID UNI]:%GOLD%Cage of the Unsullied %GRAY%h%CONTINUE%//
 ItemDisplay[utp !ID UNI]:%GOLD%Purgatory %GRAY%s5%CONTINUE%//
 ItemDisplay[uml !ID UNI]:%GOLD%Blackoak Shield %GRAY%h%CONTINUE%//
 ItemDisplay[uit !ID UNI]:%GOLD%Stormshield %GRAY%h%CONTINUE%//
@@ -1175,7 +1178,6 @@ ItemDisplay[uhb !ID UNI]:%GOLD%Shadow Dancer %GRAY%h%CONTINUE%//
 ItemDisplay[ulc !ID UNI]:%GOLD%Arachnid Mesh %GRAY%h+%CONTINUE%//
 ItemDisplay[uvc !ID UNI]:%GOLD%Nosferatu's Coil %GRAY%h%CONTINUE%//
 ItemDisplay[umc !ID UNI]:%GOLD%Verdungo's Hearty Cord %GRAY%h%CONTINUE%//
-ItemDisplay[utc !ID UNI]:%GOLD%Band of Skulls %GRAY%h%CONTINUE%//
 ItemDisplay[7ha !ID UNI]:%GOLD%Razor's Edge %GRAY%h%CONTINUE%//
 ItemDisplay[72a !ID UNI]:%GOLD%Rune Master %GRAY%h%CONTINUE%//
 ItemDisplay[7mp !ID UNI]:%GOLD%Cranebeak %GRAY%h%CONTINUE%//
